@@ -1,0 +1,698 @@
+{
+  "query_id": "1027",
+  "title_query": "1027",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What demographic trends are changing gender roles in construction?": {
+      "question": "What demographic trends are changing gender roles in construction?",
+      "answers": {
+        "low birth rates and aging population": {
+          "answer": "low birth rates and aging population",
+          "references": [
+            {
+              "doc_id": "4c0ee3ad-3947-4c32-9bdc-e1ea45fa3dd9_966556193"
+            }
+          ]
+        },
+        "women are increasingly entering traditionally male-dominated construction work": {
+          "answer": "women are increasingly entering traditionally male-dominated construction work",
+          "references": [
+            {
+              "doc_id": "ebf98dbe-7a57-4e48-9377-833df20d8931_618145196"
+            }
+          ]
+        }
+      },
+      "question_id": "b3406e277fbd4dbfade27d815b6cf142",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What demographic trends are changing gender roles in construction?",
+          "What trend is occurring in construction industry gender demographics?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4c0ee3ad-3947-4c32-9bdc-e1ea45fa3dd9_966556193"
+            }
+          ],
+          [
+            {
+              "doc_id": "ebf98dbe-7a57-4e48-9377-833df20d8931_618145196"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request because it directly addresses the shift in gender roles in the construction industry, which is the core of the user's inquiry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What percentage of Saudi Arabia's workforce are women currently?": {
+      "question": "What percentage of Saudi Arabia's workforce are women currently?",
+      "answers": {
+        "33%": {
+          "answer": "33%",
+          "references": [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            }
+          ]
+        },
+        "33 percent": {
+          "answer": "33 percent",
+          "references": [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        }
+      },
+      "question_id": "0c1155de0b45e5ce19aac65c060daafa",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of Saudi Arabia's workforce are women currently?",
+          "What percentage of Saudi Arabia's workforce consists of women currently?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            }
+          ],
+          [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is directly relevant to the user request, but both questions are near-duplicates, making one a suitable canonical choice over the other due to slight rewording.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What percentage of construction industry workers are women?": {
+      "question": "What percentage of construction industry workers are women?",
+      "answers": {
+        "14.1% in May, highest historical level": {
+          "answer": "14.1% in May, highest historical level",
+          "references": [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ]
+        },
+        "10 percent of construction industry workers": {
+          "answer": "10 percent of construction industry workers",
+          "references": [
+            {
+              "doc_id": "c6691d00-dfb0-4b34-8d9d-a1453a0429a1_717856038"
+            }
+          ]
+        }
+      },
+      "question_id": "249829e606c925235763866bb9e4939c",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of US construction workers are women currently?",
+          "What percentage of construction industry workers are women?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ],
+          [
+            {
+              "doc_id": "c6691d00-dfb0-4b34-8d9d-a1453a0429a1_717856038"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more representative because it is broader and more general, making it more likely to provide a comprehensive understanding of the current state of women in the construction industry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How much has women's workforce participation increased in Saudi Arabia recently?": {
+      "question": "How much has women's workforce participation increased in Saudi Arabia recently?",
+      "answers": {
+        "doubled in the past five years": {
+          "answer": "doubled in the past five years",
+          "references": [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            },
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        }
+      },
+      "question_id": "20dec347fd1dc02b8160b598af269fc8",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How much has female workforce participation increased in Saudi Arabia?",
+          "How much has women's workforce participation increased in Saudi Arabia recently?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            }
+          ],
+          [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is directly relevant to the user request, but question 2 is slightly more representative due to its use of the word 'recently', implying a focus on current trends.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "What benefits does gender diversity bring to traditionally male-dominated industries?": {
+      "question": "What benefits does gender diversity bring to traditionally male-dominated industries?",
+      "answers": {
+        "diverse perspectives and addressing labor shortages": {
+          "answer": "diverse perspectives and addressing labor shortages",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "9a25160efedf661ae265e4f192b84760",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What benefits does gender diversity bring to traditionally male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What business outcomes result from companies promoting gender equality?": {
+      "question": "What business outcomes result from companies promoting gender equality?",
+      "answers": {
+        "increased competitiveness, profitability, and environmental responsibility": {
+          "answer": "increased competitiveness, profitability, and environmental responsibility",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "67ece04f7f098278407f09fd3f4865cd",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What business outcomes result from companies promoting gender equality?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How can companies make hiring practices more inclusive for women?": {
+      "question": "How can companies make hiring practices more inclusive for women?",
+      "answers": {
+        "rewriting job descriptions to emphasize skills over gender": {
+          "answer": "rewriting job descriptions to emphasize skills over gender",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "14c1975903a30c86c86c854ce04822b3",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How can companies make hiring practices more inclusive for women?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What recruitment strategies help companies attract more women workers?": {
+      "question": "What recruitment strategies help companies attract more women workers?",
+      "answers": {
+        "partnering with vocational schools and seeking diverse talent pools": {
+          "answer": "partnering with vocational schools and seeking diverse talent pools",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "71994615a92ebe1d67ec79019d887f52",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What recruitment strategies help companies attract more women workers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What advantages do companies gain from implementing inclusive hiring strategies?": {
+      "question": "What advantages do companies gain from implementing inclusive hiring strategies?",
+      "answers": {
+        "improved internal culture and positive public image": {
+          "answer": "improved internal culture and positive public image",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "47e6ed8b8e896e89438d7cda33bc919d",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What advantages do companies gain from implementing inclusive hiring strategies?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage do women represent in traditionally male-dominated industries?": {
+      "question": "What percentage do women represent in traditionally male-dominated industries?",
+      "answers": {
+        "24% of the workforce in the United States": {
+          "answer": "24% of the workforce in the United States",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "2c629499366a29798518fcef6de3d52c",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What percentage do women represent in traditionally male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What milestone did Jewel Everett achieve at LUS Fiber?": {
+      "question": "What milestone did Jewel Everett achieve at LUS Fiber?",
+      "answers": {
+        "Jewel Everett became LUS Fiber's first female lineworker": {
+          "answer": "Jewel Everett became LUS Fiber's first female lineworker",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "b38e25292c22e2ca4e370c7a6c4e8ebd",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What milestone did Jewel Everett achieve at LUS Fiber?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which program did Jewel Everett graduate from?": {
+      "question": "Which program did Jewel Everett graduate from?",
+      "answers": {
+        "South Louisiana Community College's Power Lineman program": {
+          "answer": "South Louisiana Community College's Power Lineman program",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "c2813503b795843d404648ec03121e11",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "Which program did Jewel Everett graduate from?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What physical challenge does Jewel Everett face in her role?": {
+      "question": "What physical challenge does Jewel Everett face in her role?",
+      "answers": {
+        "lifting and balancing large equipment exceeding 20 feet": {
+          "answer": "lifting and balancing large equipment exceeding 20 feet",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "815339698a9e11f12b65f883b6bbd035",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What physical challenge does Jewel Everett face in her role?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What valuable assets does Ryan Meche cite about Jewel Everett?": {
+      "question": "What valuable assets does Ryan Meche cite about Jewel Everett?",
+      "answers": {
+        "fresh perspective and high motivation": {
+          "answer": "fresh perspective and high motivation",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "babacc0fc9736502d91eb56c3f2f58f6",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What valuable assets does Ryan Meche cite about Jewel Everett?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the job placement success rate for the program?": {
+      "question": "What was the job placement success rate for the program?",
+      "answers": {
+        "all 16 graduates secured employment before graduation": {
+          "answer": "all 16 graduates secured employment before graduation",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "dfa7be3d62f0a5145f116776310c6169",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What was the job placement success rate for the program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What aspects of the job does Jewel Everett find satisfying?": {
+      "question": "What aspects of the job does Jewel Everett find satisfying?",
+      "answers": {
+        "demanding work, good compensation, and community service": {
+          "answer": "demanding work, good compensation, and community service",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "f88dd7c93fde563b650bb975dc9f5345",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What aspects of the job does Jewel Everett find satisfying?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How does Meralco promote gender equality in electrical linework?": {
+      "question": "How does Meralco promote gender equality in electrical linework?",
+      "answers": {
+        "Meralco Linecrew Training Program provides equal training opportunities for women": {
+          "answer": "Meralco Linecrew Training Program provides equal training opportunities for women",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "001bba3e362b87b8e5617b6cc66d17d6",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How does Meralco promote gender equality in electrical linework?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When did Meralco first include women in its linecrew training program?": {
+      "question": "When did Meralco first include women in its linecrew training program?",
+      "answers": {
+        "2013": {
+          "answer": "2013",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "a7bce8aedddb694c8fa470ded0a5b6b8",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "When did Meralco first include women in its linecrew training program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is the duration and structure of Meralco's training program?": {
+      "question": "What is the duration and structure of Meralco's training program?",
+      "answers": {
+        "six months with camp instruction and on-the-job training": {
+          "answer": "six months with camp instruction and on-the-job training",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "6d0271d668af9b60cbdb420f49b84bef",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What is the duration and structure of Meralco's training program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What career advancement example shows women's success in technical roles?": {
+      "question": "What career advancement example shows women's success in technical roles?",
+      "answers": {
+        "Karen Cañizares advanced from trainee to Quality Inspector": {
+          "answer": "Karen Cañizares advanced from trainee to Quality Inspector",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "70020a8df13e58f78691afe266819c65",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What career advancement example shows women's success in technical roles?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

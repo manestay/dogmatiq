@@ -1,0 +1,714 @@
+{
+  "query_id": "1007",
+  "title_query": "I work for Australian Defence Magazine and I am writing an article about the sales of fighter jets in the world. I plan to cover the sales of China’s J-10 fighter jet and need specific information about the sales of the jet. The readers, after reading this article, shall have a good sense of which countries are buying the jets, the the general evaluations of it from the buyers and what  commentators were saying about the jet.\nI need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 9
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "The J-10 fighter aircraft carries PL-10 and PL-15 missiles, with Pakistan purchasing 36 J-10CE variants and China replacing Russian engines with domestic WS-10B engines.": {
+          "answer": "The J-10 fighter aircraft carries PL-10 and PL-15 missiles, with Pakistan purchasing 36 J-10CE variants and China replacing Russian engines with domestic WS-10B engines.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "Pakistan Air Force formally inducted Chinese-made J-10C \"vigorous dragon\" multi-role combat aircraft at Kamra Airbase, with the fighter gaining international market recognition.": {
+          "answer": "Pakistan Air Force formally inducted Chinese-made J-10C \"vigorous dragon\" multi-role combat aircraft at Kamra Airbase, with the fighter gaining international market recognition.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "The J-10C is a multi-purpose fighter jet modified from the J-10 series developed by AVIC, with improved combat efficiency that will significantly enhance Pakistan Air Force's capabilities.": {
+          "answer": "The J-10C is a multi-purpose fighter jet modified from the J-10 series developed by AVIC, with improved combat efficiency that will significantly enhance Pakistan Air Force's capabilities.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "The J-10 is a Chinese 4.5-generation fighter jet based on Israeli Lavi designs, comprising 22% of China's combat aircraft with advanced electronics and lower maintenance costs.": {
+          "answer": "The J-10 is a Chinese 4.5-generation fighter jet based on Israeli Lavi designs, comprising 22% of China's combat aircraft with advanced electronics and lower maintenance costs.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "Foreign military analysts believe that after continuous upgrades to radar, fire control, avionics, canopy, and engines, China's J-10 fighter will remain operational until the 2040s, becoming a strong competitor to the US F-15 in international markets.": {
+          "answer": "Foreign military analysts believe that after continuous upgrades to radar, fire control, avionics, canopy, and engines, China's J-10 fighter will remain operational until the 2040s, becoming a strong competitor to the US F-15 in international markets.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "China will deliver 25 J-10C fighter jets to Pakistan, strengthening Pakistani military capabilities and promoting regional security cooperation between the two countries.": {
+          "answer": "China will deliver 25 J-10C fighter jets to Pakistan, strengthening Pakistani military capabilities and promoting regional security cooperation between the two countries.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "Pakistan's purchase of Chinese J-10 fighter jets marks the first export of the J-10 series, creating benefits for Pakistan and significant implications for China's defense industry international market prospects.": {
+          "answer": "Pakistan's purchase of Chinese J-10 fighter jets marks the first export of the J-10 series, creating benefits for Pakistan and significant implications for China's defense industry international market prospects.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "Turkey may acquire China's J-10C fighter jets as a replacement for American F-16s, with Turkish officials suggesting they could abandon F-16s due to better alternatives available.": {
+          "answer": "Turkey may acquire China's J-10C fighter jets as a replacement for American F-16s, with Turkish officials suggesting they could abandon F-16s due to better alternatives available.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1007",
+      "importance": "vital",
+      "answers": {
+        "The aircraft belongs to Pakistan's Air Force, has a single-person crew, and is used by both China and Pakistan.": {
+          "answer": "The aircraft belongs to Pakistan's Air Force, has a single-person crew, and is used by both China and Pakistan.",
+          "references": [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            },
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            },
+            {
+              "doc_id": "3e945ab6-3a90-49b4-a584-faa7b598737a_769586939"
+            },
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "82c7d54c-fbec-441a-91f2-7aca1b82742c_1008363996"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "3d328988-627e-4b76-928f-f0dfc39d752b_690718323"
+            },
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            },
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            },
+            {
+              "doc_id": "feb8d4e5-7180-44df-9c57-49fa49791a54_430125517"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "query_id": "1065",
+  "title_query": "I am a parent of two teenage daughters, and they both keep asking me to purchase a Labubu. I don’t understand their crush on the toy, and I am willing to do some research and find out more information about “The Labubu Phenomenon” to be on the same wave with my kids.\nLabubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 5
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1065",
+      "importance": "vital",
+      "answers": {
+        "LABUBU made a major debut in Bangkok, Thailand, receiving the honorary title of \"Amazing Thailand Experience Officer\" with enthusiastic fans and an official welcome ceremony.": {
+          "answer": "LABUBU made a major debut in Bangkok, Thailand, receiving the honorary title of \"Amazing Thailand Experience Officer\" with enthusiastic fans and an official welcome ceremony.",
+          "references": [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            },
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            },
+            {
+              "doc_id": "4439e590-c34a-43da-8231-bac806e2921a_797916345"
+            },
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "da2390ca-d3f6-42f4-93f4-454d0ee00888_656642319"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1065",
+      "importance": "vital",
+      "answers": {
+        "Pop Mart, a Chinese toy company specializing in \"kidult\" products, has created a global blind box trend with nearly 200,000 annual consumers generating significant revenue.": {
+          "answer": "Pop Mart, a Chinese toy company specializing in \"kidult\" products, has created a global blind box trend with nearly 200,000 annual consumers generating significant revenue.",
+          "references": [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            },
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            },
+            {
+              "doc_id": "4439e590-c34a-43da-8231-bac806e2921a_797916345"
+            },
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "da2390ca-d3f6-42f4-93f4-454d0ee00888_656642319"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1065",
+      "importance": "vital",
+      "answers": {
+        "The hidden edition Labubu constellation series sold for up to 3,996 yuan online and ranked top five in sales upon its August release featuring classic smiles and distinctive colorways.": {
+          "answer": "The hidden edition Labubu constellation series sold for up to 3,996 yuan online and ranked top five in sales upon its August release featuring classic smiles and distinctive colorways.",
+          "references": [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            },
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            },
+            {
+              "doc_id": "4439e590-c34a-43da-8231-bac806e2921a_797916345"
+            },
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "da2390ca-d3f6-42f4-93f4-454d0ee00888_656642319"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1065",
+      "importance": "vital",
+      "answers": {
+        "I cannot provide a summary as the provided information appears to contain only fragmented text with \"and\" connectors and the word \"Labubu\" without sufficient context or complete sentences.": {
+          "answer": "I cannot provide a summary as the provided information appears to contain only fragmented text with \"and\" connectors and the word \"Labubu\" without sufficient context or complete sentences.",
+          "references": [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            },
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            },
+            {
+              "doc_id": "4439e590-c34a-43da-8231-bac806e2921a_797916345"
+            },
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "da2390ca-d3f6-42f4-93f4-454d0ee00888_656642319"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1065",
+      "importance": "vital",
+      "answers": {
+        "Pop Mart International Group's Vice President Chen Xiaoyun announced Thailand's first official high-level title for a toy IP, while SKULLPANDA's Weekday Wonderland series remains popular in Taiwan four months after its June launch.": {
+          "answer": "Pop Mart International Group's Vice President Chen Xiaoyun announced Thailand's first official high-level title for a toy IP, while SKULLPANDA's Weekday Wonderland series remains popular in Taiwan four months after its June launch.",
+          "references": [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            },
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            },
+            {
+              "doc_id": "4439e590-c34a-43da-8231-bac806e2921a_797916345"
+            },
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "da2390ca-d3f6-42f4-93f4-454d0ee00888_656642319"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    }
+  }
+}

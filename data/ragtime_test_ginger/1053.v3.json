@@ -1,0 +1,1182 @@
+{
+  "query_id": "1053",
+  "title_query": "I’m vegan and eat avocados almost every day—they’re a staple in my diet. But I’ve started to worry about the environmental impact, like deforestation, high water use, and harm to local communities in countries that grow them. I want to make sure my food choices align with my values and do less harm to the planet.\nI would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 15
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Rising global avocado demand driven by health trends and Latino population growth has boosted U.S.-Mexico trade to $6.1B annually, despite environmental concerns from intensive farming in Mexico.": {
+          "answer": "Rising global avocado demand driven by health trends and Latino population growth has boosted U.S.-Mexico trade to $6.1B annually, despite environmental concerns from intensive farming in Mexico.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Avocado cultivation causes severe water shortages as producing one kilogram requires approximately 1,000 liters of water, leading to aquifer depletion in water-scarce regions.": {
+          "answer": "Avocado cultivation causes severe water shortages as producing one kilogram requires approximately 1,000 liters of water, leading to aquifer depletion in water-scarce regions.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "China experiences halved Peruvian arrivals while Mexico faces potential 59% avocado land loss, with global production declining 14-41% by 2050 due to climate volatility.": {
+          "answer": "China experiences halved Peruvian arrivals while Mexico faces potential 59% avocado land loss, with global production declining 14-41% by 2050 due to climate volatility.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "The avocado industry is a billion-dollar market experiencing consistent international growth, with increased production in Australia and Kenya driven by global demand.": {
+          "answer": "The avocado industry is a billion-dollar market experiencing consistent international growth, with increased production in Australia and Kenya driven by global demand.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "The avocado industry has grown globally as this healthy superfruit became essential in diets worldwide, with Mexico supplying 40%, California 28%, and Peru 24% of the market.": {
+          "answer": "The avocado industry has grown globally as this healthy superfruit became essential in diets worldwide, with Mexico supplying 40%, California 28%, and Peru 24% of the market.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "A 2023 webinar reviewed a three-year study showing Internet, Walmart, and Club channels generated $123.2 million in incremental avocado purchases, with Internet sales growing 334 percent since 2017.": {
+          "answer": "A 2023 webinar reviewed a three-year study showing Internet, Walmart, and Club channels generated $123.2 million in incremental avocado purchases, with Internet sales growing 334 percent since 2017.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Mexico supplies approximately 80 percent of avocados consumed in the United States, making it the world's largest producer and the U.S. its biggest customer.": {
+          "answer": "Mexico supplies approximately 80 percent of avocados consumed in the United States, making it the world's largest producer and the U.S. its biggest customer.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Avocado transportation from Latin America to the UK produces 5.4kg CO2 emissions per kilogram, while US consumption reached 4.2kg per person in 2022, four times higher than 20 years ago.": {
+          "answer": "Avocado transportation from Latin America to the UK produces 5.4kg CO2 emissions per kilogram, while US consumption reached 4.2kg per person in 2022, four times higher than 20 years ago.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Avocado demand has exponentially increased over the past decade due to globalization, causing prices to double while long-distance transportation from developing countries contributes to greenhouse gas emissions.": {
+          "answer": "Avocado demand has exponentially increased over the past decade due to globalization, causing prices to double while long-distance transportation from developing countries contributes to greenhouse gas emissions.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Studies show that gangs in Mexico's Michoacan state are responsible for deforestation, land seizures, violence against indigenous communities, worker exploitation, and threatening U.S. agricultural inspectors through cartel extortion schemes.": {
+          "answer": "Studies show that gangs in Mexico's Michoacan state are responsible for deforestation, land seizures, violence against indigenous communities, worker exploitation, and threatening U.S. agricultural inspectors through cartel extortion schemes.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Mexican avocado farmers benefit from 50% higher profit margins when exporting to the U.S. compared to domestic sales, with production doubling over the past decade.": {
+          "answer": "Mexican avocado farmers benefit from 50% higher profit margins when exporting to the U.S. compared to domestic sales, with production doubling over the past decade.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "In 1995, the U.S. had limited avocado consumption with most from California, but Mexico now supplies 80% of U.S. avocados, dramatically expanding the market.": {
+          "answer": "In 1995, the U.S. had limited avocado consumption with most from California, but Mexico now supplies 80% of U.S. avocados, dramatically expanding the market.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "The US-Mexico agricultural trade reached $65 billion last year, with Michoacán's avocado industry employing 300,000 workers and exporting $3 billion worth of avocados annually to America.": {
+          "answer": "The US-Mexico agricultural trade reached $65 billion last year, with Michoacán's avocado industry employing 300,000 workers and exporting $3 billion worth of avocados annually to America.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "The nation's growers produced 90,000 tonnes last year with 120,000 tonnes expected next year, while avocado cultivation expanded nationwide since the 1970s and illegal deforestation converted 300 square kilometers of forest into avocado plantations between 2018-2023.": {
+          "answer": "The nation's growers produced 90,000 tonnes last year with 120,000 tonnes expected next year, while avocado cultivation expanded nationwide since the 1970s and illegal deforestation converted 300 square kilometers of forest into avocado plantations between 2018-2023.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    },
+    "cluster_summary_15": {
+      "question": "cluster_summary_15",
+      "query_id": "1053",
+      "importance": "vital",
+      "answers": {
+        "Mexico's Michoacán state is the world's largest avocado producer, while Peru exports avocados to the U.S. from May through October via the Peruvian Avocado Commission established in 2011.": {
+          "answer": "Mexico's Michoacán state is the world's largest avocado producer, while Peru exports avocados to the U.S. from May through October via the Peruvian Avocado Commission established in 2011.",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            },
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            },
+            {
+              "doc_id": "fd214626-2761-443a-aee5-3562ee536d85_342391363"
+            },
+            {
+              "doc_id": "32dc5e16-5eb0-4bcd-ab27-cd487196d63a_354951167"
+            },
+            {
+              "doc_id": "8ca9c8e9-43b5-47a1-b8c7-47fcb66e4530_31759721"
+            },
+            {
+              "doc_id": "49294516-8781-4816-902e-aed083d255fe_712225785"
+            },
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            },
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            },
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            },
+            {
+              "doc_id": "18b0c150-d33b-4cb5-9835-b64b393fa50f_34495004"
+            },
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            },
+            {
+              "doc_id": "d4cf71aa-8523-4555-bbbd-50f6ad116aa8_793168503"
+            },
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            },
+            {
+              "doc_id": "c0a6998e-f6dc-4da7-9421-f8e7e575bd75_992753141"
+            },
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            },
+            {
+              "doc_id": "65e3998a-3ab7-4bb2-b022-ca181d90e86f_222072541"
+            },
+            {
+              "doc_id": "a7f4f074-8551-4e2d-b84b-2fa1588ea418_168101927"
+            },
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            },
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            },
+            {
+              "doc_id": "8e0f97c5-48f7-4229-bcbb-68237075e78b_180091580"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 15
+      }
+    }
+  }
+}

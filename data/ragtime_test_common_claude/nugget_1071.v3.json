@@ -1,0 +1,913 @@
+{
+  "query_id": "1071",
+  "title_query": "1071",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What types of medications experienced shortages in Taiwan recently?": {
+      "question": "What types of medications experienced shortages in Taiwan recently?",
+      "answers": {
+        "magnesium oxide tablets, Amoxicillin antibiotics, imported drugs": {
+          "answer": "magnesium oxide tablets, Amoxicillin antibiotics, imported drugs",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        },
+        "special prescription drugs remained lacking despite government platform": {
+          "answer": "special prescription drugs remained lacking despite government platform",
+          "references": [
+            {
+              "doc_id": "031c5062-a13c-4088-8edc-3179746fcc66_145350223"
+            }
+          ]
+        },
+        "antibiotics, fever reducers, anti-diarrheal medications": {
+          "answer": "antibiotics, fever reducers, anti-diarrheal medications",
+          "references": [
+            {
+              "doc_id": "5230b024-d542-4332-9db3-cf7a3e1038e5_267036679"
+            }
+          ]
+        },
+        "Chinese herbal medicines face shortages in Taiwan": {
+          "answer": "Chinese herbal medicines face shortages in Taiwan",
+          "references": [
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        },
+        "over 100 common medications including antibiotics, painkillers, fever reducers": {
+          "answer": "over 100 common medications including antibiotics, painkillers, fever reducers",
+          "references": [
+            {
+              "doc_id": "fcd6fea9-f215-4a69-a909-f13b278e48e6_538238986"
+            }
+          ]
+        },
+        "Taiwan faces severe drug shortages affecting both Western and Chinese medicines": {
+          "answer": "Taiwan faces severe drug shortages affecting both Western and Chinese medicines",
+          "references": [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        }
+      },
+      "question_id": "def24dba3cde23bb4d9038e8a6baa447",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Which specific medications are experiencing shortages in Taiwan?",
+          "Which types of medications continued to be in short supply in Taiwan?",
+          "What types of medications are included in Taiwan's shortage list?",
+          "What type of medications are experiencing shortages in Taiwan?",
+          "What types of medications experienced shortages in Taiwan recently?",
+          "What medication shortage situation is Taiwan currently experiencing?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ],
+          [
+            {
+              "doc_id": "031c5062-a13c-4088-8edc-3179746fcc66_145350223"
+            }
+          ],
+          [
+            {
+              "doc_id": "5230b024-d542-4332-9db3-cf7a3e1038e5_267036679"
+            }
+          ],
+          [
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ],
+          [
+            {
+              "doc_id": "fcd6fea9-f215-4a69-a909-f13b278e48e6_538238986"
+            }
+          ],
+          [
+            {
+              "doc_id": "2ccd07db-9afa-49f3-b98c-08c4f2d89b73_1055629842"
+            },
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it is the most general and inclusive, allowing for a comprehensive answer that could encompass various types of medications and their shortage status in Taiwan.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 7,
+        "num_answers": 6
+      }
+    },
+    "What are the main causes of drug shortages in Taiwan?": {
+      "question": "What are the main causes of drug shortages in Taiwan?",
+      "answers": {
+        "supply manufacturing issues, clinical demand, uneven drug distribution": {
+          "answer": "supply manufacturing issues, clinical demand, uneven drug distribution",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        },
+        "government suppression of health insurance drug prices reducing profits": {
+          "answer": "government suppression of health insurance drug prices reducing profits",
+          "references": [
+            {
+              "doc_id": "fcd6fea9-f215-4a69-a909-f13b278e48e6_538238986"
+            }
+          ]
+        },
+        "increased demand causing supply shortage and production problems": {
+          "answer": "increased demand causing supply shortage and production problems",
+          "references": [
+            {
+              "doc_id": "97061923-c538-4181-bde8-d8d57f17f776_70296941"
+            }
+          ]
+        },
+        "insufficient supply from manufacturers or distributors to meet demand": {
+          "answer": "insufficient supply from manufacturers or distributors to meet demand",
+          "references": [
+            {
+              "doc_id": "5230b024-d542-4332-9db3-cf7a3e1038e5_267036679"
+            }
+          ]
+        },
+        "health insurance drastically reducing drug prices": {
+          "answer": "health insurance drastically reducing drug prices",
+          "references": [
+            {
+              "doc_id": "e46ecccd-fed2-4d87-b426-e8abb60748cc_816458924"
+            }
+          ]
+        }
+      },
+      "question_id": "1b6b3257fbc7eb9ea7f8de1ca9dad13a",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What are the main causes of drug shortages in Taiwan?",
+          "What is the root cause of Taiwan's medication shortages?",
+          "What are the main reasons for domestic drug shortages in Taiwan?",
+          "What is the main cause of medication shortages in Taiwan?",
+          "What is the main structural reason behind Taiwan's medication shortage problem?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ],
+          [
+            {
+              "doc_id": "fcd6fea9-f215-4a69-a909-f13b278e48e6_538238986"
+            }
+          ],
+          [
+            {
+              "doc_id": "97061923-c538-4181-bde8-d8d57f17f776_70296941"
+            }
+          ],
+          [
+            {
+              "doc_id": "5230b024-d542-4332-9db3-cf7a3e1038e5_267036679"
+            }
+          ],
+          [
+            {
+              "doc_id": "e46ecccd-fed2-4d87-b426-e8abb60748cc_816458924"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it is the most comprehensive and open-ended, allowing for a detailed explanation of the various reasons behind medication shortages in Taiwan.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 5
+      }
+    },
+    "What are the main causes of global medication shortages?": {
+      "question": "What are the main causes of global medication shortages?",
+      "answers": {
+        "extremely low negotiated prices making production unprofitable": {
+          "answer": "extremely low negotiated prices making production unprofitable",
+          "references": [
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            }
+          ]
+        },
+        "Asian pharmaceutical manufacturers' problems and supply chain difficulties": {
+          "answer": "Asian pharmaceutical manufacturers' problems and supply chain difficulties",
+          "references": [
+            {
+              "doc_id": "d0e3194b-6a9f-4723-8cf6-083d4504a149_304534580"
+            }
+          ]
+        },
+        "supply chain disruptions": {
+          "answer": "supply chain disruptions",
+          "references": [
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ]
+        },
+        "decades of systemic challenges": {
+          "answer": "decades of systemic challenges",
+          "references": [
+            {
+              "doc_id": "a6f9722d-c8d3-4890-bed5-4d14909c5266_360902270"
+            }
+          ]
+        }
+      },
+      "question_id": "9a42e24dd31e57a2ce25ab3d38aa1f52",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What is the main reason behind these medication shortages?",
+          "What are the main causes of global medication shortages?",
+          "What is the main cause of drug shortages according to experts?",
+          "What underlying cause was cited for the ongoing medication shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0e3194b-6a9f-4723-8cf6-083d4504a149_304534580"
+            }
+          ],
+          [
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ],
+          [
+            {
+              "doc_id": "a6f9722d-c8d3-4890-bed5-4d14909c5266_360902270"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it broadly inquires about the main causes of global medication shortages, which aligns with the user's goal of understanding the reasons behind the problem.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "How is Taiwan's healthcare system responding to medication shortages?": {
+      "question": "How is Taiwan's healthcare system responding to medication shortages?",
+      "answers": {
+        "clinics and pharmacists turned to alternative pharmaceutical company products": {
+          "answer": "clinics and pharmacists turned to alternative pharmaceutical company products",
+          "references": [
+            {
+              "doc_id": "031c5062-a13c-4088-8edc-3179746fcc66_145350223"
+            }
+          ]
+        },
+        "establishing a Drug Shortage Center to strengthen coordination functions": {
+          "answer": "establishing a Drug Shortage Center to strengthen coordination functions",
+          "references": [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        }
+      },
+      "question_id": "a03a405015f9509d97ff58dde50554f8",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "How did Taiwan healthcare providers cope with medication shortages?",
+          "How is Taiwan's healthcare system responding to medication shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "031c5062-a13c-4088-8edc-3179746fcc66_145350223"
+            }
+          ],
+          [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        ],
+        "canonical_explanation": "The second question is more comprehensive as it inquires about the overall response of Taiwan's healthcare system to medication shortages, which could encompass coping mechanisms and other strategies.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How is Taiwan managing drug distribution during shortages?": {
+      "question": "How is Taiwan managing drug distribution during shortages?",
+      "answers": {
+        "coordination with hospitals and clinics for medication distribution": {
+          "answer": "coordination with hospitals and clinics for medication distribution",
+          "references": [
+            {
+              "doc_id": "7255972a-69d4-48bc-b745-687932f3fc98_298110998"
+            }
+          ]
+        },
+        "coordinating appropriate distribution between hospitals, clinics, and pharmacies": {
+          "answer": "coordinating appropriate distribution between hospitals, clinics, and pharmacies",
+          "references": [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        }
+      },
+      "question_id": "82b494563c0933439543d3d89dcdcd5e",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What distribution strategy did Taiwan use during medication shortages?",
+          "How is Taiwan managing drug distribution during shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7255972a-69d4-48bc-b745-687932f3fc98_298110998"
+            }
+          ],
+          [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question is chosen because it is more concise and directly asks about the management of drug distribution, which is a key aspect of coping with medication shortages.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What are the main reasons behind the US medication shortages?": {
+      "question": "What are the main reasons behind the US medication shortages?",
+      "answers": {
+        "manufacturing problems, quality issues, supply chain gaps, work stoppages": {
+          "answer": "manufacturing problems, quality issues, supply chain gaps, work stoppages",
+          "references": [
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            }
+          ]
+        },
+        "increased demand, supply chain tensions, and panic hoarding": {
+          "answer": "increased demand, supply chain tensions, and panic hoarding",
+          "references": [
+            {
+              "doc_id": "6328656c-f952-4035-9975-476be655b66e_128103539"
+            }
+          ]
+        }
+      },
+      "question_id": "c75820ff8be1971891589ecce4dcdcc9",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What are the main causes of medication shortages in America?",
+          "What are the main reasons behind the US medication shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            }
+          ],
+          [
+            {
+              "doc_id": "6328656c-f952-4035-9975-476be655b66e_128103539"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address the same aspect of the problem, but question 2 is slightly more concise and directly asks for the reasons behind the shortages.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What factors are worsening the global healthcare worker shortage?": {
+      "question": "What factors are worsening the global healthcare worker shortage?",
+      "answers": {
+        "aging populations, access disparities, and pandemic impacts": {
+          "answer": "aging populations, access disparities, and pandemic impacts",
+          "references": [
+            {
+              "doc_id": "75769df8-bee0-4158-aab3-c908742c4c65_209383847"
+            }
+          ]
+        },
+        "COVID-19 pandemic burnout and aging medical workforce": {
+          "answer": "COVID-19 pandemic burnout and aging medical workforce",
+          "references": [
+            {
+              "doc_id": "8243c44d-4034-4961-a030-25f232f29beb_871911918"
+            }
+          ]
+        }
+      },
+      "question_id": "8ffe051c18058da6b0b3d8a87a8ab3a7",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What factors are worsening the global healthcare worker shortage?",
+          "What factors are exacerbating the global healthcare worker shortage?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "75769df8-bee0-4158-aab3-c908742c4c65_209383847"
+            }
+          ],
+          [
+            {
+              "doc_id": "8243c44d-4034-4961-a030-25f232f29beb_871911918"
+            }
+          ]
+        ],
+        "canonical_explanation": "The provided questions do not directly address the user's request regarding medication shortages, but both questions are essentially identical in meaning, making either one equally representative of the non-relevant inquiry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What long-term solutions is Taiwan implementing for drug shortages?": {
+      "question": "What long-term solutions is Taiwan implementing for drug shortages?",
+      "answers": {
+        "cultivating Chinese herbs in Taiwan or Southeast Asia": {
+          "answer": "cultivating Chinese herbs in Taiwan or Southeast Asia",
+          "references": [
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        },
+        "price adjustments and monitoring imported pharmaceutical raw material supplies": {
+          "answer": "price adjustments and monitoring imported pharmaceutical raw material supplies",
+          "references": [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        }
+      },
+      "question_id": "028c73d23c72f0365c122d18eb9b4f5b",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What long-term solution does Taiwan consider for medicine shortages?",
+          "What long-term solutions is Taiwan implementing for drug shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ],
+          [
+            {
+              "doc_id": "b7839e8a-09da-448a-88b5-b81c0cc2a8b9_941312949"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more comprehensive and directly inquires about the implementation of solutions, which is more informative and relevant to the user's goal of finding alternative solutions.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Which medications are experiencing shortages in the United States?": {
+      "question": "Which medications are experiencing shortages in the United States?",
+      "answers": {
+        "Ozempic, Mounjaro, epinephrine, amoxicillin, chemotherapy drugs, ICU injectables": {
+          "answer": "Ozempic, Mounjaro, epinephrine, amoxicillin, chemotherapy drugs, ICU injectables",
+          "references": [
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ]
+        },
+        "over 135 medications including ADHD and cancer chemotherapy drugs": {
+          "answer": "over 135 medications including ADHD and cancer chemotherapy drugs",
+          "references": [
+            {
+              "doc_id": "4ac4ea70-f757-47f2-9a69-a9247cbec976_288665394"
+            }
+          ]
+        }
+      },
+      "question_id": "4c952f303620922293cb35de157456b4",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Which specific medications were affected by shortages in the United States?",
+          "Which medications are experiencing shortages in the United States?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ],
+          [
+            {
+              "doc_id": "4ac4ea70-f757-47f2-9a69-a9247cbec976_288665394"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about the medications affected by shortages, which aligns with the user's goal of identifying impacted drugs and preparing for future shortages.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How did healthcare systems cope with chemotherapy drug shortages?": {
+      "question": "How did healthcare systems cope with chemotherapy drug shortages?",
+      "answers": {
+        "extended wait times between cancer treatment sessions": {
+          "answer": "extended wait times between cancer treatment sessions",
+          "references": [
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            }
+          ]
+        },
+        "patient rationing systems in hospitals": {
+          "answer": "patient rationing systems in hospitals",
+          "references": [
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ]
+        }
+      },
+      "question_id": "76b68e608899fcc02e97a0b9a54b6da3",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "How did healthcare systems cope with chemotherapy drug shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "5ce83679-158d-4b58-b20f-9f406ab7e58b_193716476"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Which organization documented the global antibiotic shortage?": {
+      "question": "Which organization documented the global antibiotic shortage?",
+      "answers": {
+        "World Health Organization documented global antibiotic shortage": {
+          "answer": "World Health Organization documented global antibiotic shortage",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "d392569b91d1a3bada59d4fb1b04a9e7",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Which organization documented the global antibiotic shortage?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many countries faced penicillin-type drug shortages according to WHO?": {
+      "question": "How many countries faced penicillin-type drug shortages according to WHO?",
+      "answers": {
+        "28 out of 35 countries monitored by WHO": {
+          "answer": "28 out of 35 countries monitored by WHO",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "717635dc33930aabb32d5401e81613bf",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "How many countries faced penicillin-type drug shortages according to WHO?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which countries are experiencing acute amoxicillin shortages?": {
+      "question": "Which countries are experiencing acute amoxicillin shortages?",
+      "answers": {
+        "United States and Canada experiencing acute amoxicillin shortage": {
+          "answer": "United States and Canada experiencing acute amoxicillin shortage",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "3780ad6af762a3ca15a2813fe1ce94ef",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Which countries are experiencing acute amoxicillin shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are the main causes of current medication shortages?": {
+      "question": "What are the main causes of current medication shortages?",
+      "answers": {
+        "COVID-19 pandemic aftermath and high energy prices": {
+          "answer": "COVID-19 pandemic aftermath and high energy prices",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "f5c73d0ee3cbcbb100318d1335b12e3a",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What are the main causes of current medication shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Besides antibiotics, what other medication types face shortages?": {
+      "question": "Besides antibiotics, what other medication types face shortages?",
+      "answers": {
+        "painkillers, anti-tuberculosis drugs, and skin infection treatments": {
+          "answer": "painkillers, anti-tuberculosis drugs, and skin infection treatments",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "dfcfd0275c0941cb4f3163ec184f533e",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Besides antibiotics, what other medication types face shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who reported the critical medication situation to Financial Times?": {
+      "question": "Who reported the critical medication situation to Financial Times?",
+      "answers": {
+        "Lisa Hedman from WHO supply group": {
+          "answer": "Lisa Hedman from WHO supply group",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        }
+      },
+      "question_id": "48d5e98ca2001beacf1a345b527b679c",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "Who reported the critical medication situation to Financial Times?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What mechanisms does Taiwan's health insurance system use for shortages?": {
+      "question": "What mechanisms does Taiwan's health insurance system use for shortages?",
+      "answers": {
+        "single processing window, real-time shortage information, cross-unit cooperation": {
+          "answer": "single processing window, real-time shortage information, cross-unit cooperation",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        }
+      },
+      "question_id": "2fe1c9dbea05736d0dea3e2acab2c63b",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What mechanisms does Taiwan's health insurance system use for shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What global challenges contribute to Taiwan's medication shortage problems?": {
+      "question": "What global challenges contribute to Taiwan's medication shortage problems?",
+      "answers": {
+        "international pandemic, Russia-Ukraine war, labor shortages": {
+          "answer": "international pandemic, Russia-Ukraine war, labor shortages",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        }
+      },
+      "question_id": "69aa29696b0668251546d5feec028f8d",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What global challenges contribute to Taiwan's medication shortage problems?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is Taiwan's medium-term strategy for preventing drug shortages?": {
+      "question": "What is Taiwan's medium-term strategy for preventing drug shortages?",
+      "answers": {
+        "establish permanent drug shortage prevention center": {
+          "answer": "establish permanent drug shortage prevention center",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        }
+      },
+      "question_id": "33f6f654f70ae72fc39216d45165ce61",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "What is Taiwan's medium-term strategy for preventing drug shortages?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many drug types are covered by Taiwan's health insurance?": {
+      "question": "How many drug types are covered by Taiwan's health insurance?",
+      "answers": {
+        "14,000 types of drugs": {
+          "answer": "14,000 types of drugs",
+          "references": [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        }
+      },
+      "question_id": "af71933dfc3445c0a9f1d06f629c65d2",
+      "aggregator_type": "OR",
+      "query_id": "1071",
+      "metadata": {
+        "paraphrases": [
+          "How many drug types are covered by Taiwan's health insurance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

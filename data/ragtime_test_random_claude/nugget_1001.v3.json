@@ -1,0 +1,911 @@
+{
+  "query_id": "1001",
+  "title_query": "1001",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What realistic AI risks does Gary Marcus warn about?": {
+      "question": "What realistic AI risks does Gary Marcus warn about?",
+      "answers": {
+        "market manipulation, accidental wars, democracy threats through misinformation": {
+          "answer": "market manipulation, accidental wars, democracy threats through misinformation",
+          "references": [
+            {
+              "doc_id": "e8c31155-7148-48ce-a544-cf698c72ed72_119799671"
+            }
+          ]
+        }
+      },
+      "question_id": "32dfe5a63a8341b693a72913dd34fee7",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What realistic AI risks does Gary Marcus warn about?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e8c31155-7148-48ce-a544-cf698c72ed72_119799671"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who developed GANs and when were they first created?": {
+      "question": "Who developed GANs and when were they first created?",
+      "answers": {
+        "Ian Goodfellow created Generative Adversarial Networks in 2013": {
+          "answer": "Ian Goodfellow created Generative Adversarial Networks in 2013",
+          "references": [
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            }
+          ]
+        }
+      },
+      "question_id": "ad69350ca23d9b6da57d86da3dc35d0e",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Who developed GANs and when were they first created?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Why did Geoffrey Hinton leave Google?": {
+      "question": "Why did Geoffrey Hinton leave Google?",
+      "answers": {
+        "Geoffrey Hinton left Google in 2023 to freely discuss AI risks": {
+          "answer": "Geoffrey Hinton left Google in 2023 to freely discuss AI risks",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google to warn about AI dangers": {
+          "answer": "Geoffrey Hinton left Google to warn about AI dangers",
+          "references": [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            }
+          ]
+        },
+        "to freely discuss AI risks and dangers": {
+          "answer": "to freely discuss AI risks and dangers",
+          "references": [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ]
+        },
+        "to freely discuss artificial intelligence risks": {
+          "answer": "to freely discuss artificial intelligence risks",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            }
+          ]
+        },
+        "to speak freely about AI risks without constraints": {
+          "answer": "to speak freely about AI risks without constraints",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ]
+        },
+        "to speak freely about AI risks without affecting Google": {
+          "answer": "to speak freely about AI risks without affecting Google",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        },
+        "to speak more freely about artificial intelligence dangers": {
+          "answer": "to speak more freely about artificial intelligence dangers",
+          "references": [
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google in 2023 to discuss AI dangers": {
+          "answer": "Geoffrey Hinton left Google in 2023 to discuss AI dangers",
+          "references": [
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ]
+        },
+        "to warn about AI's potential dangers": {
+          "answer": "to warn about AI's potential dangers",
+          "references": [
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            }
+          ]
+        },
+        "to speak freely about potential AI risks": {
+          "answer": "to speak freely about potential AI risks",
+          "references": [
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            }
+          ]
+        },
+        "to warn about AI threats": {
+          "answer": "to warn about AI threats",
+          "references": [
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            }
+          ]
+        },
+        "to discuss AI risks with greater freedom": {
+          "answer": "to discuss AI risks with greater freedom",
+          "references": [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ]
+        },
+        "to publicly discuss AI development threats": {
+          "answer": "to publicly discuss AI development threats",
+          "references": [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            }
+          ]
+        },
+        "to speak freely about AI risks and dangers": {
+          "answer": "to speak freely about AI risks and dangers",
+          "references": [
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            }
+          ]
+        },
+        "to publicly discuss potential threats of AI technologies": {
+          "answer": "to publicly discuss potential threats of AI technologies",
+          "references": [
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            }
+          ]
+        }
+      },
+      "question_id": "deb99e0bb7b0c826bf8f37c8a408edb0",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Why did Geoffrey Hinton leave Google in 2023?",
+          "Why did Geoffrey Hinton resign from Google?",
+          "Why did Geoffrey Hinton leave his position at Google?",
+          "Why did Geoffrey Hinton leave Google?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ],
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            },
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            },
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            },
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            },
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            },
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            },
+            {
+              "doc_id": "73578dea-46ff-4ea8-bef0-411024d49f39_27873992"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            }
+          ],
+          [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            },
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the reason behind Geoffrey Hinton's departure from Google, which is a central part of the user's request for understanding the context of his warnings.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 20,
+        "num_answers": 15
+      }
+    },
+    "What is Geoffrey Hinton's ranking in research citations?": {
+      "question": "What is Geoffrey Hinton's ranking in research citations?",
+      "answers": {
+        "second most cited researcher among psychologists": {
+          "answer": "second most cited researcher among psychologists",
+          "references": [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        }
+      },
+      "question_id": "08fa2217e8ae01b861e7db528a01e80e",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What is Geoffrey Hinton's ranking in research citations?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How much water will AI development consume according to predictions?": {
+      "question": "How much water will AI development consume according to predictions?",
+      "answers": {
+        "42 to 66 billion cubic meters by 2027": {
+          "answer": "42 to 66 billion cubic meters by 2027",
+          "references": [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ]
+        }
+      },
+      "question_id": "8aef4533ca582b6aece0a0cfa3331ee8",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How much water will AI development consume according to predictions?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who is known as the 'Godfather of Artificial Intelligence'?": {
+      "question": "Who is known as the 'Godfather of Artificial Intelligence'?",
+      "answers": {
+        "Geoffrey Hinton": {
+          "answer": "Geoffrey Hinton",
+          "references": [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            },
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            },
+            {
+              "doc_id": "eb6d0167-f0ad-40a6-b89e-9f4bea29ee66_1086942"
+            }
+          ]
+        }
+      },
+      "question_id": "8638243c6d7aa181af0923cbe0fde98b",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Who is known as the 'godfather' of artificial intelligence?",
+          "Who is known as the 'Godfather of Artificial Intelligence'?",
+          "Who is referred to as the 'spiritual father' of artificial intelligence?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb6d0167-f0ad-40a6-b89e-9f4bea29ee66_1086942"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly references a well-known title associated with Geoffrey Hinton, a key figure in the user's request.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 1
+      }
+    },
+    "What was Geoffrey Hinton's foundational contribution to neural networks?": {
+      "question": "What was Geoffrey Hinton's foundational contribution to neural networks?",
+      "answers": {
+        "1986 paper on learning representations through backpropagation of errors": {
+          "answer": "1986 paper on learning representations through backpropagation of errors",
+          "references": [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            }
+          ]
+        }
+      },
+      "question_id": "46ea3e9bd29bf7a6f08af9ab33a629a1",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What was Geoffrey Hinton's foundational contribution to neural networks?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Why didn't Geoffrey Hinton sign the AI pause petition?": {
+      "question": "Why didn't Geoffrey Hinton sign the AI pause petition?",
+      "answers": {
+        "he believes the technology cannot be stopped globally": {
+          "answer": "he believes the technology cannot be stopped globally",
+          "references": [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            }
+          ]
+        }
+      },
+      "question_id": "809553db95741cfa18edb66cb904efaf",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Why didn't Geoffrey Hinton sign the AI pause petition?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many jobs does Goldman Sachs warn could be automated?": {
+      "question": "How many jobs does Goldman Sachs warn could be automated?",
+      "answers": {
+        "300 million jobs worldwide could face automation": {
+          "answer": "300 million jobs worldwide could face automation",
+          "references": [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ]
+        }
+      },
+      "question_id": "24e0932b6ca06d5fc0be698e0b492df9",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How many jobs does Goldman Sachs warn could be automated?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What future scenario does Geoffrey Hinton warn about?": {
+      "question": "What future scenario does Geoffrey Hinton warn about?",
+      "answers": {
+        "AI systems may become smarter than humans soon": {
+          "answer": "AI systems may become smarter than humans soon",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        }
+      },
+      "question_id": "f8af8aee621c21ccb0c21759b64c5ac8",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What future scenario does Geoffrey Hinton warn about?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which AI pioneers have warned about artificial intelligence dangers?": {
+      "question": "Which AI pioneers have warned about artificial intelligence dangers?",
+      "answers": {
+        "Geoffrey Hinton and Yoshua Bengio expressed concerns about AI technology": {
+          "answer": "Geoffrey Hinton and Yoshua Bengio expressed concerns about AI technology",
+          "references": [
+            {
+              "doc_id": "16928c84-8ff1-4e7d-b095-8a1e3650e3d6_507234292"
+            }
+          ]
+        },
+        "Joe Biden, Bill Gates, and Elon Musk": {
+          "answer": "Joe Biden, Bill Gates, and Elon Musk",
+          "references": [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ]
+        },
+        "Stephen Hawking, Bill Gates, and Elon Musk": {
+          "answer": "Stephen Hawking, Bill Gates, and Elon Musk",
+          "references": [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ]
+        },
+        "Elon Musk and Lina Khan": {
+          "answer": "Elon Musk and Lina Khan",
+          "references": [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        }
+      },
+      "question_id": "b857e31d6b35005fde15e9ff3b4f2159",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which AI pioneers have warned about artificial intelligence dangers?",
+          "Which prominent figures have warned about artificial intelligence dangers?",
+          "Which prominent figures have warned about AI's potential dangers?",
+          "Which other prominent figures have warned about AI risks?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "16928c84-8ff1-4e7d-b095-8a1e3650e3d6_507234292"
+            }
+          ],
+          [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ],
+          [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most specific and relevant to the user's request, focusing on AI pioneers like Geoffrey Hinton who have warned about AI dangers.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "Which other AI leaders signed the extinction risk statement with Hinton?": {
+      "question": "Which other AI leaders signed the extinction risk statement with Hinton?",
+      "answers": {
+        "Sam Altman, Demis Hassabis, and Dario Amodei": {
+          "answer": "Sam Altman, Demis Hassabis, and Dario Amodei",
+          "references": [
+            {
+              "doc_id": "6bb26296-3377-480a-9014-24e0e4eadfbc_798750000"
+            }
+          ]
+        },
+        "Sam Altman, Demis Hassabis, Dario Amodei, Yoshua Bengio": {
+          "answer": "Sam Altman, Demis Hassabis, Dario Amodei, Yoshua Bengio",
+          "references": [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        }
+      },
+      "question_id": "ef6d03b3d041fedca45ca0a519c5fda3",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which major AI business leaders signed the extinction risk declaration?",
+          "Which major AI company CEOs signed the extinction risk warning?",
+          "Which other AI leaders signed the extinction risk statement with Hinton?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e8c31155-7148-48ce-a544-cf698c72ed72_119799671"
+            }
+          ],
+          [
+            {
+              "doc_id": "6bb26296-3377-480a-9014-24e0e4eadfbc_798750000"
+            }
+          ],
+          [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most relevant to the user's request because it directly relates to Geoffrey Hinton's warnings and the context of other AI leaders' responses to the issue of AI safety and potential risks.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "What does the Senate hearing demonstrate about AI policy?": {
+      "question": "What does the Senate hearing demonstrate about AI policy?",
+      "answers": {
+        "growing governmental interest in AI regulation and safety considerations": {
+          "answer": "growing governmental interest in AI regulation and safety considerations",
+          "references": [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ]
+        }
+      },
+      "question_id": "92cd4d3a72f07934d122a69378cf6ec3",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What does the Senate hearing demonstrate about AI policy?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which AI pioneers does Yann LeCun disagree with about AI risks?": {
+      "question": "Which AI pioneers does Yann LeCun disagree with about AI risks?",
+      "answers": {
+        "Geoffrey Hinton and Yoshua Bengio": {
+          "answer": "Geoffrey Hinton and Yoshua Bengio",
+          "references": [
+            {
+              "doc_id": "65005a56-ada1-4f79-9212-99c97e8cc6ba_874039040"
+            }
+          ]
+        }
+      },
+      "question_id": "6f2c32a4f599c69f699ad12caf7847d8",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which AI pioneers does Yann LeCun disagree with about AI risks?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "65005a56-ada1-4f79-9212-99c97e8cc6ba_874039040"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What level of priority should AI risk prevention have?": {
+      "question": "What level of priority should AI risk prevention have?",
+      "answers": {
+        "preventing AI extinction should be global priority like pandemics": {
+          "answer": "preventing AI extinction should be global priority like pandemics",
+          "references": [
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            }
+          ]
+        }
+      },
+      "question_id": "b8e625d5babb8ec96222ca1cf9c53f5a",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What level of priority should AI risk prevention have?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which podcast featured an interview with Geoffrey Hinton?": {
+      "question": "Which podcast featured an interview with Geoffrey Hinton?",
+      "answers": {
+        "Robot Brains podcast featuring Pieter Abbeel interviewing Geoffrey Hinton": {
+          "answer": "Robot Brains podcast featuring Pieter Abbeel interviewing Geoffrey Hinton",
+          "references": [
+            {
+              "doc_id": "e840aff6-d355-47f2-b0f2-a3e1c63dacdc_797330768"
+            }
+          ]
+        }
+      },
+      "question_id": "a67c230d57d90476523eb3591eddab55",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which podcast featured an interview with Geoffrey Hinton?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e840aff6-d355-47f2-b0f2-a3e1c63dacdc_797330768"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What AI safety company did Ilya Sutskever recently establish?": {
+      "question": "What AI safety company did Ilya Sutskever recently establish?",
+      "answers": {
+        "Safe Superintelligence": {
+          "answer": "Safe Superintelligence",
+          "references": [
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_795050511"
+            }
+          ]
+        }
+      },
+      "question_id": "557ea20a6ca9219751d674415ce58e44",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What AI safety company did Ilya Sutskever recently establish?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_795050511"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which major organizations has Yoshua Bengio advised on AI safety?": {
+      "question": "Which major organizations has Yoshua Bengio advised on AI safety?",
+      "answers": {
+        "United Nations Secretary-General and United Kingdom AI Safety Institute": {
+          "answer": "United Nations Secretary-General and United Kingdom AI Safety Institute",
+          "references": [
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            }
+          ]
+        }
+      },
+      "question_id": "881ce87e840e15229caf077acb8e97c4",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which major organizations has Yoshua Bengio advised on AI safety?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What did Geoffrey Hinton do after leaving his Google position?": {
+      "question": "What did Geoffrey Hinton do after leaving his Google position?",
+      "answers": {
+        "Geoffrey Hinton left Google in 2023 to warn publicly": {
+          "answer": "Geoffrey Hinton left Google in 2023 to warn publicly",
+          "references": [
+            {
+              "doc_id": "cd27c1e4-ec00-41c0-81bf-3176233cae5a_691980698"
+            }
+          ]
+        }
+      },
+      "question_id": "d09e91211e9a69c4d7bc2588ee5f75e2",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What did Geoffrey Hinton do after leaving his Google position?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cd27c1e4-ec00-41c0-81bf-3176233cae5a_691980698"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Geoffrey Hinton describe humanity's potential future?": {
+      "question": "How did Geoffrey Hinton describe humanity's potential future?",
+      "answers": {
+        "passing phase in the evolution of intelligence": {
+          "answer": "passing phase in the evolution of intelligence",
+          "references": [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            }
+          ]
+        }
+      },
+      "question_id": "a073bbb7a5a8cf7cdf9c6884f89d18ef",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How did Geoffrey Hinton describe humanity's potential future?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

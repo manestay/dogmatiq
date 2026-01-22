@@ -1,0 +1,2590 @@
+{
+  "query_id": "1001",
+  "title_query": "1001",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Who is Geoffrey Hinton in the field of artificial intelligence?": {
+      "question": "Who is Geoffrey Hinton in the field of artificial intelligence?",
+      "answers": {
+        "AI Godfather": {
+          "answer": "AI Godfather",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            },
+            {
+              "doc_id": "782fcc44-b481-42de-8e91-e730d7c09d41_246463085"
+            },
+            {
+              "doc_id": "3f642ac3-60a8-4868-b7c8-714ed5d0a6c2_891796391"
+            },
+            {
+              "doc_id": "5e0af719-4e6d-457d-9365-10e856e87d07_635864243"
+            }
+          ]
+        },
+        "godfather of artificial intelligence": {
+          "answer": "godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "cd27c1e4-ec00-41c0-81bf-3176233cae5a_691980698"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            },
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            },
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "e840aff6-d355-47f2-b0f2-a3e1c63dacdc_797330768"
+            }
+          ]
+        },
+        "the AI Godfather": {
+          "answer": "the AI Godfather",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            }
+          ]
+        },
+        "godfather of AI": {
+          "answer": "godfather of AI",
+          "references": [
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            }
+          ]
+        },
+        "known as the godfather of artificial intelligence": {
+          "answer": "known as the godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            },
+            {
+              "doc_id": "eb2b1c5a-6402-4fc8-98d3-a91481c6902d_20427601"
+            }
+          ]
+        },
+        "father of artificial intelligence": {
+          "answer": "father of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "47120e3f-95ae-4a83-9c70-69d4b9024a90_677032321"
+            },
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            }
+          ]
+        },
+        "Geoffrey Hinton is known as the godfather of artificial intelligence": {
+          "answer": "Geoffrey Hinton is known as the godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            },
+            {
+              "doc_id": "c8d39ea5-a01c-4b67-9ce7-d821a918ed21_385620303"
+            },
+            {
+              "doc_id": "ee1953df-2cca-4349-b2aa-7687c38d2071_135782380"
+            }
+          ]
+        },
+        "Geoffrey Hinton is known as the godfather of AI": {
+          "answer": "Geoffrey Hinton is known as the godfather of AI",
+          "references": [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            },
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            }
+          ]
+        },
+        "Geoffrey Hinton is called the godfather of AI": {
+          "answer": "Geoffrey Hinton is called the godfather of AI",
+          "references": [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ]
+        },
+        "Geoffrey Hinton is called the father of deep learning": {
+          "answer": "Geoffrey Hinton is called the father of deep learning",
+          "references": [
+            {
+              "doc_id": "2bde6845-9373-481b-9c5d-8a5442f391d5_28900296"
+            }
+          ]
+        },
+        "Geoffrey Hinton is called the godfather of artificial intelligence": {
+          "answer": "Geoffrey Hinton is called the godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "5441001d-5c90-459e-ba13-63792d01320e_204256954"
+            },
+            {
+              "doc_id": "dee2587e-1488-404d-9198-44342f661236_351594840"
+            }
+          ]
+        },
+        "artificial intelligence godfather": {
+          "answer": "artificial intelligence godfather",
+          "references": [
+            {
+              "doc_id": "c6dfda5c-f407-45bf-ae89-58bbfbba7eb6_211581226"
+            },
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            }
+          ]
+        },
+        "the godfather of artificial intelligence": {
+          "answer": "the godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "bb1a9fb9-2f66-454e-87ba-646f0a99009f_201675833"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "567e2718-412f-4ccb-a372-9a77168046c0_30964999"
+            },
+            {
+              "doc_id": "8e8e000f-1ef2-47b4-9b36-54a9ccb55975_427345332"
+            },
+            {
+              "doc_id": "cca91ea0-9066-42cd-b7ff-19cce9475a3e_214057636"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            },
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        },
+        "AI Father or godfather of artificial intelligence": {
+          "answer": "AI Father or godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            }
+          ]
+        },
+        "AI pioneer known as the 'Godfather of AI'": {
+          "answer": "AI pioneer known as the 'Godfather of AI'",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            }
+          ]
+        },
+        "Geoffrey Hinton is an artificial intelligence pioneer": {
+          "answer": "Geoffrey Hinton is an artificial intelligence pioneer",
+          "references": [
+            {
+              "doc_id": "2d4acdeb-647a-43b3-ad4b-4ecc164b358c_675923665"
+            }
+          ]
+        },
+        "former Google AI researcher known as Godfather of Deep Learning": {
+          "answer": "former Google AI researcher known as Godfather of Deep Learning",
+          "references": [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ]
+        },
+        "neural network concept pioneer": {
+          "answer": "neural network concept pioneer",
+          "references": [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            }
+          ]
+        },
+        "the spiritual father of artificial intelligence": {
+          "answer": "the spiritual father of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "a6ed9ce3-3cb2-40dd-ac99-0b4a39fcef62_449541887"
+            },
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            }
+          ]
+        },
+        "considered the godfather of artificial intelligence": {
+          "answer": "considered the godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_768294425"
+            }
+          ]
+        },
+        "artificial intelligence pioneer": {
+          "answer": "artificial intelligence pioneer",
+          "references": [
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            }
+          ]
+        },
+        "pioneer of artificial intelligence programs": {
+          "answer": "pioneer of artificial intelligence programs",
+          "references": [
+            {
+              "doc_id": "92f84bb9-aad8-4be3-8286-f9543e8cf1d1_962593052"
+            }
+          ]
+        },
+        "pioneer of modern artificial intelligence": {
+          "answer": "pioneer of modern artificial intelligence",
+          "references": [
+            {
+              "doc_id": "3b921c55-187c-4426-9d07-a66c0c3b6d88_371395457"
+            }
+          ]
+        }
+      },
+      "question_id": "dc6c0f32145f16fd03a114cc9aa8ad08",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What title is Geoffrey Hinton commonly known by?",
+          "What title is Geoffrey Hinton known by in AI?",
+          "What is Geoffrey Hinton known as in the field?",
+          "What title is Geoffrey Hinton known by?",
+          "What is Geoffrey Hinton commonly known as?",
+          "What is Geoffrey Hinton commonly called?",
+          "Who is Geoffrey Hinton in the field of artificial intelligence?",
+          "Who is Geoffrey Hinton in the AI field?",
+          "What title is Geoffrey Hinton known by in the AI field?",
+          "What is Geoffrey Hinton commonly called in AI?",
+          "What is Geoffrey Hinton known as in AI?",
+          "What title is Geoffrey Hinton commonly known by in AI?",
+          "How is Geoffrey Hinton referred to in AI research?",
+          "What title is Geoffrey Hinton known by in AI field?",
+          "How is Geoffrey Hinton regarded in the AI field?",
+          "How is Geoffrey Hinton described in terms of his AI contributions?",
+          "How is Geoffrey Hinton described in relation to AI?",
+          "How is Geoffrey Hinton described in terms of AI?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            },
+            {
+              "doc_id": "cd27c1e4-ec00-41c0-81bf-3176233cae5a_691980698"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            },
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            },
+            {
+              "doc_id": "47120e3f-95ae-4a83-9c70-69d4b9024a90_677032321"
+            },
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            },
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            },
+            {
+              "doc_id": "c8d39ea5-a01c-4b67-9ce7-d821a918ed21_385620303"
+            },
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            },
+            {
+              "doc_id": "e840aff6-d355-47f2-b0f2-a3e1c63dacdc_797330768"
+            }
+          ],
+          [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "2bde6845-9373-481b-9c5d-8a5442f391d5_28900296"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            },
+            {
+              "doc_id": "5441001d-5c90-459e-ba13-63792d01320e_204256954"
+            },
+            {
+              "doc_id": "dee2587e-1488-404d-9198-44342f661236_351594840"
+            },
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            },
+            {
+              "doc_id": "c6dfda5c-f407-45bf-ae89-58bbfbba7eb6_211581226"
+            },
+            {
+              "doc_id": "bb1a9fb9-2f66-454e-87ba-646f0a99009f_201675833"
+            }
+          ],
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            }
+          ],
+          [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            },
+            {
+              "doc_id": "782fcc44-b481-42de-8e91-e730d7c09d41_246463085"
+            },
+            {
+              "doc_id": "567e2718-412f-4ccb-a372-9a77168046c0_30964999"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            },
+            {
+              "doc_id": "3f642ac3-60a8-4868-b7c8-714ed5d0a6c2_891796391"
+            }
+          ],
+          [
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            },
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            },
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            },
+            {
+              "doc_id": "8e8e000f-1ef2-47b4-9b36-54a9ccb55975_427345332"
+            },
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ],
+          [
+            {
+              "doc_id": "cca91ea0-9066-42cd-b7ff-19cce9475a3e_214057636"
+            }
+          ],
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "2d4acdeb-647a-43b3-ad4b-4ecc164b358c_675923665"
+            }
+          ],
+          [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ],
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            }
+          ],
+          [
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            }
+          ],
+          [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb2b1c5a-6402-4fc8-98d3-a91481c6902d_20427601"
+            },
+            {
+              "doc_id": "ee1953df-2cca-4349-b2aa-7687c38d2071_135782380"
+            }
+          ],
+          [
+            {
+              "doc_id": "a6ed9ce3-3cb2-40dd-ac99-0b4a39fcef62_449541887"
+            }
+          ],
+          [
+            {
+              "doc_id": "5e0af719-4e6d-457d-9365-10e856e87d07_635864243"
+            }
+          ],
+          [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_768294425"
+            }
+          ],
+          [
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            },
+            {
+              "doc_id": "92f84bb9-aad8-4be3-8286-f9543e8cf1d1_962593052"
+            }
+          ],
+          [
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            }
+          ],
+          [
+            {
+              "doc_id": "3b921c55-187c-4426-9d07-a66c0c3b6d88_371395457"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the user's need to understand who Geoffrey Hinton is in the context of AI, providing a foundation for further exploration of his contributions and warnings.",
+        "num_paraphrases_unique": 18,
+        "num_paraphrases_total": 53,
+        "num_answers": 23
+      }
+    },
+    "What specific dangers does Geoffrey Hinton fear from advanced AI systems?": {
+      "question": "What specific dangers does Geoffrey Hinton fear from advanced AI systems?",
+      "answers": {
+        "AI systems developing intelligence beyond human levels": {
+          "answer": "AI systems developing intelligence beyond human levels",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            }
+          ]
+        },
+        "AI systems might surpass human intelligence levels soon": {
+          "answer": "AI systems might surpass human intelligence levels soon",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            }
+          ]
+        },
+        "AI chatbots may soon exceed human cognitive abilities": {
+          "answer": "AI chatbots may soon exceed human cognitive abilities",
+          "references": [
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            }
+          ]
+        },
+        "no historical examples of less intelligent controlling more intelligent": {
+          "answer": "no historical examples of less intelligent controlling more intelligent",
+          "references": [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ]
+        },
+        "warned against scaling AI systems without understanding control mechanisms": {
+          "answer": "warned against scaling AI systems without understanding control mechanisms",
+          "references": [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ]
+        },
+        "Geoffrey Hinton warned AI could become smarter than humans": {
+          "answer": "Geoffrey Hinton warned AI could become smarter than humans",
+          "references": [
+            {
+              "doc_id": "db419655-110a-410b-a655-c60ae9472850_400514686"
+            }
+          ]
+        },
+        "Geoffrey Hinton signed statement warning about AI extinction risks": {
+          "answer": "Geoffrey Hinton signed statement warning about AI extinction risks",
+          "references": [
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            }
+          ]
+        },
+        "Geoffrey Hinton warned artificial intelligence could pose extinction risks": {
+          "answer": "Geoffrey Hinton warned artificial intelligence could pose extinction risks",
+          "references": [
+            {
+              "doc_id": "42cb114e-6d84-4d8b-aaf9-b893050aefbb_557931004"
+            }
+          ]
+        },
+        "Geoffrey Hinton warned about AI potentially causing human extinction": {
+          "answer": "Geoffrey Hinton warned about AI potentially causing human extinction",
+          "references": [
+            {
+              "doc_id": "c6dfda5c-f407-45bf-ae89-58bbfbba7eb6_211581226"
+            }
+          ]
+        },
+        "10% chance of human extinction within three decades": {
+          "answer": "10% chance of human extinction within three decades",
+          "references": [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        },
+        "Geoffrey Hinton signed open letter warning AI extinction risks": {
+          "answer": "Geoffrey Hinton signed open letter warning AI extinction risks",
+          "references": [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ]
+        },
+        "election manipulation and warfare": {
+          "answer": "election manipulation and warfare",
+          "references": [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            }
+          ]
+        },
+        "AI learning unexpected behaviors and potentially generating autonomous weapons": {
+          "answer": "AI learning unexpected behaviors and potentially generating autonomous weapons",
+          "references": [
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            }
+          ]
+        },
+        "mass unemployment, misinformation spread, and human manipulation potential": {
+          "answer": "mass unemployment, misinformation spread, and human manipulation potential",
+          "references": [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            }
+          ]
+        },
+        "disrupting job markets and machines potentially surpassing their creators": {
+          "answer": "disrupting job markets and machines potentially surpassing their creators",
+          "references": [
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            }
+          ]
+        },
+        "artificial intelligence might attempt to destroy human civilization": {
+          "answer": "artificial intelligence might attempt to destroy human civilization",
+          "references": [
+            {
+              "doc_id": "7aaf3d3c-e64b-4611-b8e8-93c6d88622b5_362908194"
+            }
+          ]
+        },
+        "artificial intelligence might become smarter than humans": {
+          "answer": "artificial intelligence might become smarter than humans",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            }
+          ]
+        },
+        "AI could replace human jobs and create indistinguishable reality": {
+          "answer": "AI could replace human jobs and create indistinguishable reality",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            }
+          ]
+        },
+        "AI development speed exceeded expectations and threatens job displacement": {
+          "answer": "AI development speed exceeded expectations and threatens job displacement",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ]
+        },
+        "Geoffrey Hinton expressed concerns about unregulated AI development": {
+          "answer": "Geoffrey Hinton expressed concerns about unregulated AI development",
+          "references": [
+            {
+              "doc_id": "782fcc44-b481-42de-8e91-e730d7c09d41_246463085"
+            }
+          ]
+        },
+        "AI systems may surpass human intelligence and be exploited": {
+          "answer": "AI systems may surpass human intelligence and be exploited",
+          "references": [
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            }
+          ]
+        },
+        "AI technology falling into malicious users' hands": {
+          "answer": "AI technology falling into malicious users' hands",
+          "references": [
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_76481654"
+            }
+          ]
+        },
+        "machines potentially taking control": {
+          "answer": "machines potentially taking control",
+          "references": [
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            }
+          ]
+        },
+        "machines taking control over society": {
+          "answer": "machines taking control over society",
+          "references": [
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            }
+          ]
+        },
+        "Vladimir Putin or other bad actors using AI for power": {
+          "answer": "Vladimir Putin or other bad actors using AI for power",
+          "references": [
+            {
+              "doc_id": "0307d215-8853-482c-b377-d9200f6e962a_543190127"
+            }
+          ]
+        },
+        "chatbots may soon exceed human intelligence levels": {
+          "answer": "chatbots may soon exceed human intelligence levels",
+          "references": [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            }
+          ]
+        },
+        "job losses, battle robots, fake news, echo chambers": {
+          "answer": "job losses, battle robots, fake news, echo chambers",
+          "references": [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ]
+        },
+        "Geoffrey Hinton warned open source AI enables dangerous misuse": {
+          "answer": "Geoffrey Hinton warned open source AI enables dangerous misuse",
+          "references": [
+            {
+              "doc_id": "3b921c55-187c-4426-9d07-a66c0c3b6d88_371395457"
+            }
+          ]
+        },
+        "artificial intelligence is becoming smarter than humans": {
+          "answer": "artificial intelligence is becoming smarter than humans",
+          "references": [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            }
+          ]
+        },
+        "artificial intelligence could potentially lead to human extinction": {
+          "answer": "artificial intelligence could potentially lead to human extinction",
+          "references": [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            }
+          ]
+        },
+        "widespread unemployment as AI replaces human workers": {
+          "answer": "widespread unemployment as AI replaces human workers",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ]
+        },
+        "AI will replace many ordinary jobs": {
+          "answer": "AI will replace many ordinary jobs",
+          "references": [
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ]
+        },
+        "artificial intelligence threatens human jobs and widens economic gaps": {
+          "answer": "artificial intelligence threatens human jobs and widens economic gaps",
+          "references": [
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            }
+          ]
+        },
+        "job market disruption and killer robots evolution": {
+          "answer": "job market disruption and killer robots evolution",
+          "references": [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ]
+        },
+        "misinformation spread, job replacement, educational system threats, robotic armies": {
+          "answer": "misinformation spread, job replacement, educational system threats, robotic armies",
+          "references": [
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            }
+          ]
+        },
+        "AI threatens jobs and spreads misinformation": {
+          "answer": "AI threatens jobs and spreads misinformation",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            }
+          ]
+        },
+        "bad actors like Vladimir Putin using AI harmfully": {
+          "answer": "bad actors like Vladimir Putin using AI harmfully",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        },
+        "Geoffrey Hinton signed statement warning AI could cause human extinction": {
+          "answer": "Geoffrey Hinton signed statement warning AI could cause human extinction",
+          "references": [
+            {
+              "doc_id": "a2940351-61e9-4f55-9118-295514128d46_641158369"
+            }
+          ]
+        },
+        "AI will deepen inequality benefiting wealthy over workers": {
+          "answer": "AI will deepen inequality benefiting wealthy over workers",
+          "references": [
+            {
+              "doc_id": "eb2b1c5a-6402-4fc8-98d3-a91481c6902d_20427601"
+            }
+          ]
+        },
+        "Geoffrey Hinton signed statement warning AI extinction risks": {
+          "answer": "Geoffrey Hinton signed statement warning AI extinction risks",
+          "references": [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        }
+      },
+      "question_id": "87650a75cc170c2d8ef8b54a83e5c26a",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What does Geoffrey Hinton warn about AI intelligence capabilities?",
+          "What did Geoffrey Hinton warn about AI development?",
+          "What did Geoffrey Hinton warn about regarding artificial intelligence?",
+          "What is Geoffrey Hinton's main warning about AI?",
+          "What fundamental concern did Geoffrey Hinton raise about AI intelligence?",
+          "What specific warning did Geoffrey Hinton give about AI development?",
+          "What key warning did Geoffrey Hinton give about artificial intelligence?",
+          "What recent warning did Geoffrey Hinton make about artificial intelligence?",
+          "What warning did Geoffrey Hinton give about artificial intelligence?",
+          "What specific warning did Geoffrey Hinton give about AI risks?",
+          "What warning did Geoffrey Hinton make about artificial intelligence?",
+          "What specific dangers does Geoffrey Hinton fear from advanced AI systems?",
+          "What specific AI dangers does Geoffrey Hinton warn about?",
+          "What specific AI dangers did Geoffrey Hinton warn about?",
+          "What major threat did Geoffrey Hinton warn AI could pose?",
+          "What main concern did Geoffrey Hinton express about AI development?",
+          "What are Geoffrey Hinton's two main concerns about AI?",
+          "What main concerns did Geoffrey Hinton express about AI?",
+          "What concerns did Geoffrey Hinton express about artificial intelligence?",
+          "What main danger does Geoffrey Hinton warn about regarding AI?",
+          "What major risk does Geoffrey Hinton warn about regarding AI?",
+          "What specific AI danger did Geoffrey Hinton warn about?",
+          "What main AI risk did Geoffrey Hinton warn governments about?",
+          "What nightmare scenario did Geoffrey Hinton warn about regarding AI?",
+          "What specifically increased Geoffrey Hinton's concerns about AI dangers?",
+          "What concern did Geoffrey Hinton express about artificial intelligence?",
+          "What specific AI warning did Geoffrey Hinton give?",
+          "What AI threats did Geoffrey Hinton warn about?",
+          "What specific AI warning did Geoffrey Hinton make?",
+          "What is Geoffrey Hinton's main concern about AI?",
+          "What extreme concern did Geoffrey Hinton express about AI?",
+          "What job-related concern does Geoffrey Hinton have about AI?",
+          "What main concern did Geoffrey Hinton express about AI?",
+          "What specific AI risks did Geoffrey Hinton warn about?",
+          "What specific AI risks does Geoffrey Hinton warn about?",
+          "What warning did Geoffrey Hinton give about artificial intelligence technology?",
+          "What main dangers does Geoffrey Hinton warn AI poses?",
+          "What nightmare scenario does Geoffrey Hinton describe regarding AI misuse?",
+          "What major AI warning did Geoffrey Hinton recently support?",
+          "What economic concern did Geoffrey Hinton express about AI?",
+          "What warning did Geoffrey Hinton support regarding artificial intelligence?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            }
+          ],
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            }
+          ],
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "bb1a9fb9-2f66-454e-87ba-646f0a99009f_201675833"
+            }
+          ],
+          [
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ],
+          [
+            {
+              "doc_id": "d649a9e9-daeb-4d4f-8f18-80cdba38e1c3_314532663"
+            }
+          ],
+          [
+            {
+              "doc_id": "db419655-110a-410b-a655-c60ae9472850_400514686"
+            }
+          ],
+          [
+            {
+              "doc_id": "f3ffe707-a5a1-4970-8a47-aa27ee5bc1ed_652611386"
+            }
+          ],
+          [
+            {
+              "doc_id": "42cb114e-6d84-4d8b-aaf9-b893050aefbb_557931004"
+            },
+            {
+              "doc_id": "c6dfda5c-f407-45bf-ae89-58bbfbba7eb6_211581226"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ],
+          [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ],
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            }
+          ],
+          [
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            }
+          ],
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            },
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            }
+          ],
+          [
+            {
+              "doc_id": "7aaf3d3c-e64b-4611-b8e8-93c6d88622b5_362908194"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            }
+          ],
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            }
+          ],
+          [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ],
+          [
+            {
+              "doc_id": "782fcc44-b481-42de-8e91-e730d7c09d41_246463085"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_76481654"
+            }
+          ],
+          [
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            },
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            }
+          ],
+          [
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            }
+          ],
+          [
+            {
+              "doc_id": "0307d215-8853-482c-b377-d9200f6e962a_543190127"
+            }
+          ],
+          [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ],
+          [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ],
+          [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ],
+          [
+            {
+              "doc_id": "3b921c55-187c-4426-9d07-a66c0c3b6d88_371395457"
+            }
+          ],
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            }
+          ],
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            }
+          ],
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            },
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ],
+          [
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            }
+          ],
+          [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ],
+          [
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            }
+          ],
+          [
+            {
+              "doc_id": "92f84bb9-aad8-4be3-8286-f9543e8cf1d1_962593052"
+            }
+          ],
+          [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ],
+          [
+            {
+              "doc_id": "a2940351-61e9-4f55-9118-295514128d46_641158369"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb2b1c5a-6402-4fc8-98d3-a91481c6902d_20427601"
+            }
+          ],
+          [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the core of Geoffrey Hinton's concerns about AI, implying a comprehensive understanding of the risks he warned about, which aligns with the user's request for clarity on the context of these warnings.",
+        "num_paraphrases_unique": 41,
+        "num_paraphrases_total": 47,
+        "num_answers": 40
+      }
+    },
+    "When did Geoffrey Hinton leave Google?": {
+      "question": "When did Geoffrey Hinton leave Google?",
+      "answers": {
+        "Geoffrey Hinton left Google in 2023": {
+          "answer": "Geoffrey Hinton left Google in 2023",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            },
+            {
+              "doc_id": "3f642ac3-60a8-4868-b7c8-714ed5d0a6c2_891796391"
+            }
+          ]
+        },
+        "May 3, 2023": {
+          "answer": "May 3, 2023",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            }
+          ]
+        },
+        "Geoffrey Hinton resigned from Google in 2023": {
+          "answer": "Geoffrey Hinton resigned from Google in 2023",
+          "references": [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_76481654"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            },
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            },
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            },
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            },
+            {
+              "doc_id": "8e8e000f-1ef2-47b4-9b36-54a9ccb55975_427345332"
+            },
+            {
+              "doc_id": "73578dea-46ff-4ea8-bef0-411024d49f39_27873992"
+            },
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        },
+        "Geoffrey Hinton resigned from Google in April 2023": {
+          "answer": "Geoffrey Hinton resigned from Google in April 2023",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ]
+        },
+        "Geoffrey Hinton resigned from Google in May 2023": {
+          "answer": "Geoffrey Hinton resigned from Google in May 2023",
+          "references": [
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            },
+            {
+              "doc_id": "a6ed9ce3-3cb2-40dd-ac99-0b4a39fcef62_449541887"
+            },
+            {
+              "doc_id": "567e2718-412f-4ccb-a372-9a77168046c0_30964999"
+            },
+            {
+              "doc_id": "cca91ea0-9066-42cd-b7ff-19cce9475a3e_214057636"
+            }
+          ]
+        },
+        "April 2023": {
+          "answer": "April 2023",
+          "references": [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google in May 2023": {
+          "answer": "Geoffrey Hinton left Google in May 2023",
+          "references": [
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google's AI research team in 2023": {
+          "answer": "Geoffrey Hinton left Google's AI research team in 2023",
+          "references": [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_768294425"
+            }
+          ]
+        }
+      },
+      "question_id": "d075df6789fada789db03d452695a872",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "When did Geoffrey Hinton resign from his position at Google?",
+          "On what date was Geoffrey Hinton's departure from Google reported?",
+          "When did Geoffrey Hinton leave his position at Google?",
+          "When did Geoffrey Hinton leave Google?",
+          "When did Geoffrey Hinton resign from Google?",
+          "When did Geoffrey Hinton leave Google's artificial intelligence research team?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            }
+          ],
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            }
+          ],
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_76481654"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            },
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            },
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            }
+          ],
+          [
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            },
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            },
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            },
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            },
+            {
+              "doc_id": "a6ed9ce3-3cb2-40dd-ac99-0b4a39fcef62_449541887"
+            },
+            {
+              "doc_id": "567e2718-412f-4ccb-a372-9a77168046c0_30964999"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            },
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            },
+            {
+              "doc_id": "8e8e000f-1ef2-47b4-9b36-54a9ccb55975_427345332"
+            },
+            {
+              "doc_id": "cca91ea0-9066-42cd-b7ff-19cce9475a3e_214057636"
+            },
+            {
+              "doc_id": "73578dea-46ff-4ea8-bef0-411024d49f39_27873992"
+            },
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ],
+          [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            },
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            },
+            {
+              "doc_id": "3f642ac3-60a8-4868-b7c8-714ed5d0a6c2_891796391"
+            }
+          ],
+          [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_768294425"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the event of Geoffrey Hinton leaving Google, which is a key part of the user's request for context and understanding of his warnings.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 35,
+        "num_answers": 8
+      }
+    },
+    "Why did Geoffrey Hinton leave Google?": {
+      "question": "Why did Geoffrey Hinton leave Google?",
+      "answers": {
+        "Geoffrey Hinton left Google in 2023 to freely discuss AI risks": {
+          "answer": "Geoffrey Hinton left Google in 2023 to freely discuss AI risks",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google to warn about AI dangers": {
+          "answer": "Geoffrey Hinton left Google to warn about AI dangers",
+          "references": [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            }
+          ]
+        },
+        "to freely discuss AI risks and dangers": {
+          "answer": "to freely discuss AI risks and dangers",
+          "references": [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ]
+        },
+        "to freely discuss artificial intelligence risks": {
+          "answer": "to freely discuss artificial intelligence risks",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            }
+          ]
+        },
+        "to speak freely about AI risks without constraints": {
+          "answer": "to speak freely about AI risks without constraints",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ]
+        },
+        "to speak freely about AI risks without affecting Google": {
+          "answer": "to speak freely about AI risks without affecting Google",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        },
+        "to speak more freely about artificial intelligence dangers": {
+          "answer": "to speak more freely about artificial intelligence dangers",
+          "references": [
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            }
+          ]
+        },
+        "Geoffrey Hinton left Google in 2023 to discuss AI dangers": {
+          "answer": "Geoffrey Hinton left Google in 2023 to discuss AI dangers",
+          "references": [
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ]
+        },
+        "to warn about AI's potential dangers": {
+          "answer": "to warn about AI's potential dangers",
+          "references": [
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            }
+          ]
+        },
+        "to speak freely about potential AI risks": {
+          "answer": "to speak freely about potential AI risks",
+          "references": [
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            }
+          ]
+        },
+        "to warn about AI threats": {
+          "answer": "to warn about AI threats",
+          "references": [
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            }
+          ]
+        },
+        "to discuss AI risks with greater freedom": {
+          "answer": "to discuss AI risks with greater freedom",
+          "references": [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ]
+        },
+        "to publicly discuss AI development threats": {
+          "answer": "to publicly discuss AI development threats",
+          "references": [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            }
+          ]
+        },
+        "to speak freely about AI risks and dangers": {
+          "answer": "to speak freely about AI risks and dangers",
+          "references": [
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            }
+          ]
+        },
+        "to publicly discuss potential threats of AI technologies": {
+          "answer": "to publicly discuss potential threats of AI technologies",
+          "references": [
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            }
+          ]
+        }
+      },
+      "question_id": "deb99e0bb7b0c826bf8f37c8a408edb0",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Why did Geoffrey Hinton leave Google in 2023?",
+          "Why did Geoffrey Hinton resign from Google?",
+          "Why did Geoffrey Hinton leave his position at Google?",
+          "Why did Geoffrey Hinton leave Google?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ],
+          [
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_177108948"
+            },
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            },
+            {
+              "doc_id": "beaaba1c-d058-4db5-bac2-c02fb4c0de39_677251007"
+            },
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            },
+            {
+              "doc_id": "9f2305a4-5741-4eef-9e53-fd05af571cdf_241409653"
+            },
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            },
+            {
+              "doc_id": "09082f02-7a24-4a22-9ef0-bc4007066fa5_15344495"
+            },
+            {
+              "doc_id": "728ce358-930c-446d-af8b-e0de44a5b83f_839067254"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            },
+            {
+              "doc_id": "73578dea-46ff-4ea8-bef0-411024d49f39_27873992"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            },
+            {
+              "doc_id": "c5cef6d0-53f1-4994-b0d5-98541532d068_394921676"
+            }
+          ],
+          [
+            {
+              "doc_id": "2a361b21-0ac0-4705-b80e-8d3bb196d4e5_6249034"
+            },
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            },
+            {
+              "doc_id": "35481bf2-4a24-4244-8e44-aa5765ce15f7_674948774"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the reason behind Geoffrey Hinton's departure from Google, which is a central part of the user's request for understanding the context of his warnings.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 20,
+        "num_answers": 15
+      }
+    },
+    "What does Geoffrey Hinton now feel about his AI work?": {
+      "question": "What does Geoffrey Hinton now feel about his AI work?",
+      "answers": {
+        "he regrets his contributions to artificial intelligence development": {
+          "answer": "he regrets his contributions to artificial intelligence development",
+          "references": [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            }
+          ]
+        },
+        "feels some regret about his life's work": {
+          "answer": "feels some regret about his life's work",
+          "references": [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ]
+        },
+        "expressed regret about his work in artificial intelligence": {
+          "answer": "expressed regret about his work in artificial intelligence",
+          "references": [
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            }
+          ]
+        },
+        "regrets his work in artificial intelligence development": {
+          "answer": "regrets his work in artificial intelligence development",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ]
+        },
+        "expressed regret for developing these AI technologies": {
+          "answer": "expressed regret for developing these AI technologies",
+          "references": [
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            }
+          ]
+        }
+      },
+      "question_id": "f1349ec390966ae6f3c0e34f22b18d57",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How does Geoffrey Hinton feel about his past AI work?",
+          "How does Geoffrey Hinton feel about his AI contributions?",
+          "How did Geoffrey Hinton feel about his AI contributions?",
+          "What does Geoffrey Hinton now feel about his AI work?",
+          "How does Geoffrey Hinton feel about his AI work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            }
+          ],
+          [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ],
+          [
+            {
+              "doc_id": "630f9c97-9b1d-40d6-9947-cf019ab54406_226520860"
+            }
+          ],
+          [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ],
+          [
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about Hinton's current feelings towards his AI work, which is relevant to understanding his warnings and resignation from Google.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 5
+      }
+    },
+    "What is Geoffrey Hinton's nickname in the AI field?": {
+      "question": "What is Geoffrey Hinton's nickname in the AI field?",
+      "answers": {
+        "Geoffrey Hinton is known as the godfather of AI": {
+          "answer": "Geoffrey Hinton is known as the godfather of AI",
+          "references": [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        },
+        "AI godfather or father of artificial intelligence": {
+          "answer": "AI godfather or father of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ]
+        },
+        "godfather of artificial intelligence": {
+          "answer": "godfather of artificial intelligence",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            },
+            {
+              "doc_id": "7aaf3d3c-e64b-4611-b8e8-93c6d88622b5_362908194"
+            }
+          ]
+        },
+        "known as the AI Godfather": {
+          "answer": "known as the AI Godfather",
+          "references": [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ]
+        }
+      },
+      "question_id": "a3698e137f8da50817c0f890f82d4346",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What nickname is Geoffrey Hinton commonly known by?",
+          "What nickname has Geoffrey Hinton earned in the AI field?",
+          "What is Geoffrey Hinton's nickname in the AI field?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_704363760"
+            }
+          ],
+          [
+            {
+              "doc_id": "7aaf3d3c-e64b-4611-b8e8-93c6d88622b5_362908194"
+            }
+          ],
+          [
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks for Geoffrey Hinton's nickname in the AI field, making it a clear and representative inquiry.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 5,
+        "num_answers": 4
+      }
+    },
+    "What are Geoffrey Hinton's main contributions to AI?": {
+      "question": "What are Geoffrey Hinton's main contributions to AI?",
+      "answers": {
+        "pioneered neural network research inspired by human brain connections": {
+          "answer": "pioneered neural network research inspired by human brain connections",
+          "references": [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        },
+        "deep learning and neural networks research": {
+          "answer": "deep learning and neural networks research",
+          "references": [
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            }
+          ]
+        },
+        "pioneer of neural networks underlying current AI technology": {
+          "answer": "pioneer of neural networks underlying current AI technology",
+          "references": [
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ]
+        },
+        "neural networks and deep learning breakthroughs": {
+          "answer": "neural networks and deep learning breakthroughs",
+          "references": [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            }
+          ]
+        }
+      },
+      "question_id": "1dc56c2ac490b221b839ed16700fa2d7",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What was Geoffrey Hinton's main contribution to artificial intelligence?",
+          "What were Geoffrey Hinton's main contributions to AI?",
+          "What is Geoffrey Hinton's main contribution to artificial intelligence?",
+          "What are Geoffrey Hinton's main contributions to AI?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ],
+          [
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            }
+          ],
+          [
+            {
+              "doc_id": "f0da4bbc-76dc-4140-81fd-b5d410d87cfb_78780199"
+            }
+          ],
+          [
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it uses the plural form 'contributions' which aligns with the request's emphasis on understanding Hinton's work and impact in a broader sense.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "Which AI pioneers have warned about artificial intelligence dangers?": {
+      "question": "Which AI pioneers have warned about artificial intelligence dangers?",
+      "answers": {
+        "Geoffrey Hinton and Yoshua Bengio expressed concerns about AI technology": {
+          "answer": "Geoffrey Hinton and Yoshua Bengio expressed concerns about AI technology",
+          "references": [
+            {
+              "doc_id": "16928c84-8ff1-4e7d-b095-8a1e3650e3d6_507234292"
+            }
+          ]
+        },
+        "Joe Biden, Bill Gates, and Elon Musk": {
+          "answer": "Joe Biden, Bill Gates, and Elon Musk",
+          "references": [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ]
+        },
+        "Stephen Hawking, Bill Gates, and Elon Musk": {
+          "answer": "Stephen Hawking, Bill Gates, and Elon Musk",
+          "references": [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ]
+        },
+        "Elon Musk and Lina Khan": {
+          "answer": "Elon Musk and Lina Khan",
+          "references": [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        }
+      },
+      "question_id": "b857e31d6b35005fde15e9ff3b4f2159",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which AI pioneers have warned about artificial intelligence dangers?",
+          "Which prominent figures have warned about artificial intelligence dangers?",
+          "Which prominent figures have warned about AI's potential dangers?",
+          "Which other prominent figures have warned about AI risks?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "16928c84-8ff1-4e7d-b095-8a1e3650e3d6_507234292"
+            }
+          ],
+          [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ],
+          [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb6e9680-5cc8-46b5-a0c2-2e06e3f96f72_294478874"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most specific and relevant to the user's request, focusing on AI pioneers like Geoffrey Hinton who have warned about AI dangers.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "What major AI technology is Geoffrey Hinton known for developing?": {
+      "question": "What major AI technology is Geoffrey Hinton known for developing?",
+      "answers": {
+        "neural networks and deep learning technologies": {
+          "answer": "neural networks and deep learning technologies",
+          "references": [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ]
+        },
+        "deep learning technology based on artificial neural networks": {
+          "answer": "deep learning technology based on artificial neural networks",
+          "references": [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ]
+        },
+        "neural networks powering modern tech products": {
+          "answer": "neural networks powering modern tech products",
+          "references": [
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            }
+          ]
+        }
+      },
+      "question_id": "3ccc42fb7fa4b2c75d5872ebad2138bb",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What AI technologies did Geoffrey Hinton help pioneer?",
+          "What AI technology did Geoffrey Hinton help develop?",
+          "What major AI technology did Geoffrey Hinton develop?",
+          "What major AI technology is Geoffrey Hinton known for developing?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            }
+          ],
+          [
+            {
+              "doc_id": "30070463-ba5d-447b-a50e-14b45dd94dbc_209315059"
+            }
+          ],
+          [
+            {
+              "doc_id": "042ce256-aaa2-4944-8725-7deb68b8b43f_125182681"
+            }
+          ],
+          [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it specifically asks about the major AI technology Geoffrey Hinton is known for developing, which directly addresses his contributions to the field.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 3
+      }
+    },
+    "How old is Geoffrey Hinton?": {
+      "question": "How old is Geoffrey Hinton?",
+      "answers": {
+        "75 years old": {
+          "answer": "75 years old",
+          "references": [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            }
+          ]
+        }
+      },
+      "question_id": "f25ffa25a1e05481e80c255f44bfe480",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How old is Geoffrey Hinton?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "a8c7f219-9432-4551-9378-a113dfbbae07_297203134"
+            },
+            {
+              "doc_id": "2d20d0d6-d778-4b1c-ab4f-c62bdb817886_639097887"
+            },
+            {
+              "doc_id": "c8c2554b-88e0-4c10-9e4e-6f1ff6fe565f_458865132"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 4,
+        "num_answers": 1
+      }
+    },
+    "How does Geoffrey Hinton compare AI risks to climate change?": {
+      "question": "How does Geoffrey Hinton compare AI risks to climate change?",
+      "answers": {
+        "AI threats may be more urgent than climate change": {
+          "answer": "AI threats may be more urgent than climate change",
+          "references": [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            }
+          ]
+        },
+        "more urgent than climate change": {
+          "answer": "more urgent than climate change",
+          "references": [
+            {
+              "doc_id": "3eae0c05-8f8c-4efa-8151-4c2d3822ee65_657991677"
+            }
+          ]
+        },
+        "AI presents unclear remediation paths unlike climate change": {
+          "answer": "AI presents unclear remediation paths unlike climate change",
+          "references": [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        }
+      },
+      "question_id": "dd9ec0a6f7041d6bbddcc6c77cc6ae6a",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How does Geoffrey Hinton compare AI threats to climate change?",
+          "How does Geoffrey Hinton compare AI risks to climate change?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "3eae0c05-8f8c-4efa-8151-4c2d3822ee65_657991677"
+            }
+          ],
+          [
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it uses the term 'risks' which is more encompassing and relevant to the discussion of AI's potential negative impacts on jobs and safety.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "How many jobs could AI potentially eliminate globally?": {
+      "question": "How many jobs could AI potentially eliminate globally?",
+      "answers": {
+        "300 million full-time jobs according to Goldman Sachs report": {
+          "answer": "300 million full-time jobs according to Goldman Sachs report",
+          "references": [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ]
+        },
+        "83 million jobs will disappear by 2027": {
+          "answer": "83 million jobs will disappear by 2027",
+          "references": [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_633609416"
+            }
+          ]
+        },
+        "300 million jobs according to Goldman Sachs estimates": {
+          "answer": "300 million jobs according to Goldman Sachs estimates",
+          "references": [
+            {
+              "doc_id": "5441001d-5c90-459e-ba13-63792d01320e_204256954"
+            }
+          ]
+        }
+      },
+      "question_id": "2603e2e30f743686d3264d2d8b8d3ead",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How many jobs could artificial intelligence potentially replace?",
+          "How many jobs will artificial intelligence eliminate according to predictions?",
+          "How many jobs could AI potentially eliminate globally?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ],
+          [
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_633609416"
+            }
+          ],
+          [
+            {
+              "doc_id": "5441001d-5c90-459e-ba13-63792d01320e_204256954"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's concern about the impact of AI on jobs, which is a key aspect of the requested report.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What major action did Geoffrey Hinton take regarding AI concerns?": {
+      "question": "What major action did Geoffrey Hinton take regarding AI concerns?",
+      "answers": {
+        "Geoffrey Hinton left Google in 2023 warning about AI dangers": {
+          "answer": "Geoffrey Hinton left Google in 2023 warning about AI dangers",
+          "references": [
+            {
+              "doc_id": "47120e3f-95ae-4a83-9c70-69d4b9024a90_677032321"
+            }
+          ]
+        },
+        "Geoffrey Hinton resigned from Google warning of AI dangers": {
+          "answer": "Geoffrey Hinton resigned from Google warning of AI dangers",
+          "references": [
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ]
+        },
+        "joined specialists opposing uncontrolled artificial intelligence development": {
+          "answer": "joined specialists opposing uncontrolled artificial intelligence development",
+          "references": [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ]
+        }
+      },
+      "question_id": "9578dea80a87550beffb1df3dc40eb45",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What major action did Geoffrey Hinton take regarding AI concerns?",
+          "What action did Geoffrey Hinton take regarding AI development concerns?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "47120e3f-95ae-4a83-9c70-69d4b9024a90_677032321"
+            },
+            {
+              "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_825580314"
+            }
+          ],
+          [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly addresses a key aspect of the user's request, which is to understand the context of Geoffrey Hinton's warnings about AI impacts.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What specific AI capability does Geoffrey Hinton warn about?": {
+      "question": "What specific AI capability does Geoffrey Hinton warn about?",
+      "answers": {
+        "AI might learn deception and deceive humans": {
+          "answer": "AI might learn deception and deceive humans",
+          "references": [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ]
+        },
+        "AI's ability to outsmart humans": {
+          "answer": "AI's ability to outsmart humans",
+          "references": [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ]
+        },
+        "chatbots may surpass humans in the near future": {
+          "answer": "chatbots may surpass humans in the near future",
+          "references": [
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            }
+          ]
+        }
+      },
+      "question_id": "8b46262f9f1ed72a3b59b02cfea3a062",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What capability did Geoffrey Hinton warn AI could develop?",
+          "What specific AI capability does Geoffrey Hinton warn about?",
+          "What specific AI technology does Geoffrey Hinton warn about?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ],
+          [
+            {
+              "doc_id": "2dd164a6-0781-4d60-93cd-ed77f5d0419b_204409654"
+            }
+          ],
+          [
+            {
+              "doc_id": "600f80bb-2ba9-4d0f-94d1-4f94171e614e_874545952"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly addresses the nature of Hinton's warnings about AI's potential dangers, which is central to the user's request for understanding the context and implications of his resignation and statements.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What concerned Geoffrey Hinton about artificial intelligence progress?": {
+      "question": "What concerned Geoffrey Hinton about artificial intelligence progress?",
+      "answers": {
+        "ChatGPT and similar AI technologies are extremely scary": {
+          "answer": "ChatGPT and similar AI technologies are extremely scary",
+          "references": [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ]
+        },
+        "AI development speed exceeded expectations": {
+          "answer": "AI development speed exceeded expectations",
+          "references": [
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            }
+          ]
+        },
+        "development speed exceeds current regulatory capabilities": {
+          "answer": "development speed exceeds current regulatory capabilities",
+          "references": [
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            }
+          ]
+        }
+      },
+      "question_id": "dec0dd33afcb0553ab93e8641838c7ba",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "What did Geoffrey Hinton say about current AI technologies?",
+          "What concerned Geoffrey Hinton about artificial intelligence progress?",
+          "What did Geoffrey Hinton say about AI development pace?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d0bcd28d-1ef5-4a5a-9dc4-fc842c33ad73_883812304"
+            }
+          ],
+          [
+            {
+              "doc_id": "c282057c-2421-4d9b-a87e-dd76aa631479_844806234"
+            }
+          ],
+          [
+            {
+              "doc_id": "e51371a3-998b-41a5-b422-776df320f0b4_171512511"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the core of Hinton's warnings and their implications for AI's future, which is central to the user's request for understanding the context and significance of his concerns.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which other AI experts joined Geoffrey Hinton in warning about AI?": {
+      "question": "Which other AI experts joined Geoffrey Hinton in warning about AI?",
+      "answers": {
+        "ChatGPT founder Sam Altman and Google Microsoft experts": {
+          "answer": "ChatGPT founder Sam Altman and Google Microsoft experts",
+          "references": [
+            {
+              "doc_id": "42cb114e-6d84-4d8b-aaf9-b893050aefbb_557931004"
+            }
+          ]
+        },
+        "Sam Altman from OpenAI also signed the statement": {
+          "answer": "Sam Altman from OpenAI also signed the statement",
+          "references": [
+            {
+              "doc_id": "a2940351-61e9-4f55-9118-295514128d46_641158369"
+            }
+          ]
+        },
+        "Yoshua Bengio and Sam Altman also signed letter": {
+          "answer": "Yoshua Bengio and Sam Altman also signed letter",
+          "references": [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ]
+        }
+      },
+      "question_id": "23e1ee8f3d7d4cbdff65a1d20d7452ca",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which other AI experts joined Geoffrey Hinton's warning statement?",
+          "Which other prominent AI leader joined Geoffrey Hinton's warning?",
+          "Which other AI experts joined Geoffrey Hinton in warning about AI?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42cb114e-6d84-4d8b-aaf9-b893050aefbb_557931004"
+            }
+          ],
+          [
+            {
+              "doc_id": "a2940351-61e9-4f55-9118-295514128d46_641158369"
+            }
+          ],
+          [
+            {
+              "doc_id": "d17be95f-b2e5-40d5-b503-60acbef8ff79_700066298"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it broadly inquires about other AI experts who joined Geoffrey Hinton's warning, encompassing both the scope of support and the potential for a comprehensive list of experts.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which other AI leaders signed the extinction risk statement with Hinton?": {
+      "question": "Which other AI leaders signed the extinction risk statement with Hinton?",
+      "answers": {
+        "Sam Altman, Demis Hassabis, and Dario Amodei": {
+          "answer": "Sam Altman, Demis Hassabis, and Dario Amodei",
+          "references": [
+            {
+              "doc_id": "6bb26296-3377-480a-9014-24e0e4eadfbc_798750000"
+            }
+          ]
+        },
+        "Sam Altman, Demis Hassabis, Dario Amodei, Yoshua Bengio": {
+          "answer": "Sam Altman, Demis Hassabis, Dario Amodei, Yoshua Bengio",
+          "references": [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        }
+      },
+      "question_id": "ef6d03b3d041fedca45ca0a519c5fda3",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Which major AI business leaders signed the extinction risk declaration?",
+          "Which major AI company CEOs signed the extinction risk warning?",
+          "Which other AI leaders signed the extinction risk statement with Hinton?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e8c31155-7148-48ce-a544-cf698c72ed72_119799671"
+            }
+          ],
+          [
+            {
+              "doc_id": "6bb26296-3377-480a-9014-24e0e4eadfbc_798750000"
+            }
+          ],
+          [
+            {
+              "doc_id": "ae292450-64e9-4526-be1f-0c7555974775_480705612"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most relevant to the user's request because it directly relates to Geoffrey Hinton's warnings and the context of other AI leaders' responses to the issue of AI safety and potential risks.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "Who is known as the 'Godfather of Artificial Intelligence'?": {
+      "question": "Who is known as the 'Godfather of Artificial Intelligence'?",
+      "answers": {
+        "Geoffrey Hinton": {
+          "answer": "Geoffrey Hinton",
+          "references": [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            },
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            },
+            {
+              "doc_id": "eb6d0167-f0ad-40a6-b89e-9f4bea29ee66_1086942"
+            }
+          ]
+        }
+      },
+      "question_id": "8638243c6d7aa181af0923cbe0fde98b",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "Who is known as the 'godfather' of artificial intelligence?",
+          "Who is known as the 'Godfather of Artificial Intelligence'?",
+          "Who is referred to as the 'spiritual father' of artificial intelligence?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7e98171c-cdcd-46c5-b401-143bfdf11635_1050831259"
+            }
+          ],
+          [
+            {
+              "doc_id": "8cafe9f7-3ae8-4e4a-9f2b-bfa697c5e3e6_335707619"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb6d0167-f0ad-40a6-b89e-9f4bea29ee66_1086942"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly references a well-known title associated with Geoffrey Hinton, a key figure in the user's request.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 1
+      }
+    },
+    "How did other experts respond to AI safety concerns?": {
+      "question": "How did other experts respond to AI safety concerns?",
+      "answers": {
+        "Elon Musk led nearly thousand tech leaders calling for AI pause": {
+          "answer": "Elon Musk led nearly thousand tech leaders calling for AI pause",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ]
+        },
+        "Elon Musk called for six-month AI development pause": {
+          "answer": "Elon Musk called for six-month AI development pause",
+          "references": [
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            }
+          ]
+        }
+      },
+      "question_id": "29473132bc3b3b463b89f634ea3b6eaa",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How did other tech experts respond to AI safety concerns?",
+          "How did other experts respond to AI safety concerns?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            }
+          ],
+          [
+            {
+              "doc_id": "c1abb4c8-1bd2-407c-9c5a-53e31c0be01a_542329479"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly addresses the user's request for information on how other experts responded to Hinton's warnings, without adding unnecessary specificity to the group of experts.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How many experts joined calls to pause AI development?": {
+      "question": "How many experts joined calls to pause AI development?",
+      "answers": {
+        "over one thousand experts including Elon Musk": {
+          "answer": "over one thousand experts including Elon Musk",
+          "references": [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            }
+          ]
+        },
+        "over 1,000 tech experts including Elon Musk and Sam Altman": {
+          "answer": "over 1,000 tech experts including Elon Musk and Sam Altman",
+          "references": [
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            }
+          ]
+        }
+      },
+      "question_id": "2574f1e7e91c506da6f81baf86078e12",
+      "aggregator_type": "OR",
+      "query_id": "1001",
+      "metadata": {
+        "paraphrases": [
+          "How many experts called for pausing AI development?",
+          "How many experts joined calls to pause AI development?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            }
+          ],
+          [
+            {
+              "doc_id": "4ab52a0d-9c44-4951-8fc4-9e354311b019_626405997"
+            }
+          ]
+        ],
+        "canonical_explanation": "The second question is more representative because it implies a broader context of experts joining a movement, which aligns with the request's interest in how other experts responded to Hinton's concerns.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    }
+  }
+}

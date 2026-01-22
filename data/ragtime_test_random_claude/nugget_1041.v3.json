@@ -1,0 +1,658 @@
+{
+  "query_id": "1041",
+  "title_query": "1041",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What is one of Modi's two critical areas for pharmaceutical development?": {
+      "question": "What is one of Modi's two critical areas for pharmaceutical development?",
+      "answers": {
+        "promoting traditional Indian herbal medicines globally": {
+          "answer": "promoting traditional Indian herbal medicines globally",
+          "references": [
+            {
+              "doc_id": "e78b61e7-4349-4729-a311-30b0ae641802_968627817"
+            }
+          ]
+        }
+      },
+      "question_id": "5d08c7d2bbd9d4339f4fa386b68b0bac",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What is one of Modi's two critical areas for pharmaceutical development?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e78b61e7-4349-4729-a311-30b0ae641802_968627817"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which government department oversees traditional medicine in Jammu and Kashmir?": {
+      "question": "Which government department oversees traditional medicine in Jammu and Kashmir?",
+      "answers": {
+        "AYUSH Jammu and Kashmir": {
+          "answer": "AYUSH Jammu and Kashmir",
+          "references": [
+            {
+              "doc_id": "be420094-c530-49bb-b075-cf3dfac249ba_800786615"
+            }
+          ]
+        }
+      },
+      "question_id": "9edb450d79c4ba42f631a545ff98c4fd",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which government department oversees traditional medicine in Jammu and Kashmir?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "be420094-c530-49bb-b075-cf3dfac249ba_800786615"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What specialized healthcare area does the Supraja program address?": {
+      "question": "What specialized healthcare area does the Supraja program address?",
+      "answers": {
+        "maternal and neonatal care through Supraja program": {
+          "answer": "maternal and neonatal care through Supraja program",
+          "references": [
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            }
+          ]
+        }
+      },
+      "question_id": "bd09823b052fae8be10c828b416789f7",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What specialized healthcare area does the Supraja program address?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What type of traditional medicine is discussed in this document?": {
+      "question": "What type of traditional medicine is discussed in this document?",
+      "answers": {
+        "Traditional Chinese Medicine, not Indian medicine": {
+          "answer": "Traditional Chinese Medicine, not Indian medicine",
+          "references": [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            }
+          ]
+        },
+        "Tibetan medicine, not traditional Indian medicine": {
+          "answer": "Tibetan medicine, not traditional Indian medicine",
+          "references": [
+            {
+              "doc_id": "077a6158-6bb9-4ec3-a481-8e8611ce66b2_699708810"
+            }
+          ]
+        }
+      },
+      "question_id": "de2b2befbceaf3eb278941672c23af3e",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What type of traditional medicine is discussed in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            },
+            {
+              "doc_id": "077a6158-6bb9-4ec3-a481-8e8611ce66b2_699708810"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How do Ayurvedic practitioners assess patients for treatment?": {
+      "question": "How do Ayurvedic practitioners assess patients for treatment?",
+      "answers": {
+        "questioning about symptoms, behavior, lifestyle, and examining pulse, urine, stool": {
+          "answer": "questioning about symptoms, behavior, lifestyle, and examining pulse, urine, stool",
+          "references": [
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            }
+          ]
+        }
+      },
+      "question_id": "107b5db499a80e111232df8eb8449f20",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How do Ayurvedic practitioners assess patients for treatment?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What institutional reform was suggested for Traditional Chinese Medicine?": {
+      "question": "What institutional reform was suggested for Traditional Chinese Medicine?",
+      "answers": {
+        "establishing medical insurance payment methods suitable for Traditional Chinese Medicine": {
+          "answer": "establishing medical insurance payment methods suitable for Traditional Chinese Medicine",
+          "references": [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            }
+          ]
+        }
+      },
+      "question_id": "03e6d2d9edea28f19714bbd2681689bc",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What institutional reform was suggested for Traditional Chinese Medicine?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which organization created a new traditional medicine research center in India?": {
+      "question": "Which organization created a new traditional medicine research center in India?",
+      "answers": {
+        "World Health Organization established center in Jamnagar, India": {
+          "answer": "World Health Organization established center in Jamnagar, India",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        }
+      },
+      "question_id": "dedaa797f57188f08f2a6ebb9d1b8bdf",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which organization created a new traditional medicine research center in India?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How does Cannarma integrate traditional Indian medicine with modern approaches?": {
+      "question": "How does Cannarma integrate traditional Indian medicine with modern approaches?",
+      "answers": {
+        "combines traditional Ayurvedic knowledge with modern phytomedicine development": {
+          "answer": "combines traditional Ayurvedic knowledge with modern phytomedicine development",
+          "references": [
+            {
+              "doc_id": "d925f6bf-9f2d-41e6-a9ce-ee28222d7b6a_362832098"
+            }
+          ]
+        }
+      },
+      "question_id": "6218e0e51cfa39e0a2018cc22f59a402",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How does Cannarma integrate traditional Indian medicine with modern approaches?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d925f6bf-9f2d-41e6-a9ce-ee28222d7b6a_362832098"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many treatment centers does Nil Herbal operate?": {
+      "question": "How many treatment centers does Nil Herbal operate?",
+      "answers": {
+        "over 500 centers across India": {
+          "answer": "over 500 centers across India",
+          "references": [
+            {
+              "doc_id": "1d4cba93-b07f-44b0-abdb-784f3b49b8c0_632674668"
+            }
+          ]
+        }
+      },
+      "question_id": "5844a7297d366da94812bebdc2235e2f",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How many treatment centers does Nil Herbal operate?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1d4cba93-b07f-44b0-abdb-784f3b49b8c0_632674668"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which specific diseases has Ayurveda been studied for treating?": {
+      "question": "Which specific diseases has Ayurveda been studied for treating?",
+      "answers": {
+        "allergic rhinitis, mental health disorders, neurological conditions, pain, arthritis, diabetes": {
+          "answer": "allergic rhinitis, mental health disorders, neurological conditions, pain, arthritis, diabetes",
+          "references": [
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            }
+          ]
+        }
+      },
+      "question_id": "ed01e0fe9e59fa2d960b25dc5d6f5bff",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which specific diseases has Ayurveda been studied for treating?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What were homeopathic treatment results during Spanish Flu pandemic?": {
+      "question": "What were homeopathic treatment results during Spanish Flu pandemic?",
+      "answers": {
+        "1% mortality versus 2.5-10% with standard treatment": {
+          "answer": "1% mortality versus 2.5-10% with standard treatment",
+          "references": [
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            }
+          ]
+        }
+      },
+      "question_id": "c037dcd0fcaf34a20eea4a5cae3f92f0",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What were homeopathic treatment results during Spanish Flu pandemic?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What summit focuses on investment in traditional Indian medicine systems?": {
+      "question": "What summit focuses on investment in traditional Indian medicine systems?",
+      "answers": {
+        "Global AYUSH Investment and Innovation Summit": {
+          "answer": "Global AYUSH Investment and Innovation Summit",
+          "references": [
+            {
+              "doc_id": "940df1d7-cdd4-42d2-9b5e-4cd9a04af578_589716763"
+            }
+          ]
+        }
+      },
+      "question_id": "85b825b729ee221223dca0882c8c55bf",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What summit focuses on investment in traditional Indian medicine systems?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "940df1d7-cdd4-42d2-9b5e-4cd9a04af578_589716763"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the main focus of the 25th International Ayurveda Symposium?": {
+      "question": "What was the main focus of the 25th International Ayurveda Symposium?",
+      "answers": {
+        "cancer treatment and prevention through Ayurveda": {
+          "answer": "cancer treatment and prevention through Ayurveda",
+          "references": [
+            {
+              "doc_id": "e0db411f-d7f9-4ebc-8ae7-aeedae92cce3_222050536"
+            }
+          ]
+        }
+      },
+      "question_id": "f5d4007a47bd82f85309aaaf58241b2f",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What was the main focus of the 25th International Ayurveda Symposium?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e0db411f-d7f9-4ebc-8ae7-aeedae92cce3_222050536"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What online platform provides authentic Ayurvedic knowledge for global practitioners?": {
+      "question": "What online platform provides authentic Ayurvedic knowledge for global practitioners?",
+      "answers": {
+        "Easy Ayurveda": {
+          "answer": "Easy Ayurveda",
+          "references": [
+            {
+              "doc_id": "2299dca3-8a4d-481f-b47a-e0a01586e37d_543605367"
+            }
+          ]
+        }
+      },
+      "question_id": "574f5f7e47c3591649cdecb550ea9e7f",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What online platform provides authentic Ayurvedic knowledge for global practitioners?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2299dca3-8a4d-481f-b47a-e0a01586e37d_543605367"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How would ICD-11 inclusion support universal health coverage?": {
+      "question": "How would ICD-11 inclusion support universal health coverage?",
+      "answers": {
+        "insurance and reimbursement systems integration": {
+          "answer": "insurance and reimbursement systems integration",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "d47d1550d51405b518b27bf877680d28",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How would ICD-11 inclusion support universal health coverage?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What complementary treatments does Ayurveda combine with herbal medicine?": {
+      "question": "What complementary treatments does Ayurveda combine with herbal medicine?",
+      "answers": {
+        "dietary therapy, yoga, meditation, and massage lifestyle adjustments": {
+          "answer": "dietary therapy, yoga, meditation, and massage lifestyle adjustments",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "52ac07545d8254db994cf0598aa711c1",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What complementary treatments does Ayurveda combine with herbal medicine?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which traditional Indian practices help activate the pituitary gland?": {
+      "question": "Which traditional Indian practices help activate the pituitary gland?",
+      "answers": {
+        "yoga inversions and prostration rituals": {
+          "answer": "yoga inversions and prostration rituals",
+          "references": [
+            {
+              "doc_id": "5213e040-3e5d-4ac6-b10d-ddc96d4754ab_1010612009"
+            }
+          ]
+        }
+      },
+      "question_id": "9ae648cf7a8bde9eff57e10b396632cb",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which traditional Indian practices help activate the pituitary gland?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5213e040-3e5d-4ac6-b10d-ddc96d4754ab_1010612009"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which regulatory body oversees traditional Indian medicine practitioners in Kerala?": {
+      "question": "Which regulatory body oversees traditional Indian medicine practitioners in Kerala?",
+      "answers": {
+        "Kerala State Medical Council for Indian Systems of Medicine": {
+          "answer": "Kerala State Medical Council for Indian Systems of Medicine",
+          "references": [
+            {
+              "doc_id": "0e728151-f68d-4e8a-ae91-60975a7dbe76_1044959366"
+            }
+          ]
+        }
+      },
+      "question_id": "dd83e46a50d5231efadf686139bcddaa",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which regulatory body oversees traditional Indian medicine practitioners in Kerala?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0e728151-f68d-4e8a-ae91-60975a7dbe76_1044959366"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What specific medical conditions does Dr. Batra's AI Hair Pro system treat?": {
+      "question": "What specific medical conditions does Dr. Batra's AI Hair Pro system treat?",
+      "answers": {
+        "hair loss and scalp disorders treatment": {
+          "answer": "hair loss and scalp disorders treatment",
+          "references": [
+            {
+              "doc_id": "0f2ea652-a65a-4cda-997f-2c8657276dd6_84127860"
+            }
+          ]
+        }
+      },
+      "question_id": "5e816a901fb2a02d233043094452a73b",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What specific medical conditions does Dr. Batra's AI Hair Pro system treat?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0f2ea652-a65a-4cda-997f-2c8657276dd6_84127860"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which Ayurvedic institution successfully treated Rosemary Odinga's vision loss?": {
+      "question": "Which Ayurvedic institution successfully treated Rosemary Odinga's vision loss?",
+      "answers": {
+        "Sreedhareeyam Ayurvedic Eye Hospital and Research Centre": {
+          "answer": "Sreedhareeyam Ayurvedic Eye Hospital and Research Centre",
+          "references": [
+            {
+              "doc_id": "f0653ab9-3cf9-417b-bc0a-b573a39c6c29_651867917"
+            }
+          ]
+        }
+      },
+      "question_id": "e8a4b2cea7a003aaf22169c655588c0c",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which Ayurvedic institution successfully treated Rosemary Odinga's vision loss?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f0653ab9-3cf9-417b-bc0a-b573a39c6c29_651867917"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

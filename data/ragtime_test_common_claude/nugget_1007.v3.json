@@ -1,0 +1,1641 @@
+{
+  "query_id": "1007",
+  "title_query": "1007",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Which countries have purchased China's J-10 fighter jets?": {
+      "question": "Which countries have purchased China's J-10 fighter jets?",
+      "answers": {
+        "Pakistan": {
+          "answer": "Pakistan",
+          "references": [
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            }
+          ]
+        },
+        "Pakistan is purchasing 35 to 40 J-10C fighter jets": {
+          "answer": "Pakistan is purchasing 35 to 40 J-10C fighter jets",
+          "references": [
+            {
+              "doc_id": "558e844a-b52a-4f3a-8553-1ab6b696cb94_230889465"
+            }
+          ]
+        },
+        "Pakistan purchased J-10CE fighter jets from China": {
+          "answer": "Pakistan purchased J-10CE fighter jets from China",
+          "references": [
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            }
+          ]
+        },
+        "Pakistan and Sudan": {
+          "answer": "Pakistan and Sudan",
+          "references": [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        }
+      },
+      "question_id": "8a9ef4d1679a220bec90441b92d4c75b",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which countries have purchased China's J-10 fighter jets?",
+          "What countries have purchased China's J-10 fighter jets?",
+          "Which countries have purchased J-10 fighter jets from China?",
+          "Which countries have purchased China's J-10 fighter jets for export?",
+          "Which countries have successfully purchased China's J-10 fighter jets?",
+          "Which country has purchased China's J-10 fighter jets?",
+          "Which country is buying J-10C fighter jets from China?",
+          "Which country has purchased J-10CE fighter jets from China?",
+          "Which countries have purchased China's J-10C fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            },
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            },
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "78a1a3d0-4587-4f5d-b13b-481f7c171b7e_359556705"
+            },
+            {
+              "doc_id": "d076d361-4769-408c-ba73-6dc8c36241b2_332991478"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            },
+            {
+              "doc_id": "56f57fcc-4aeb-40da-b2d0-30366e597ae3_474217619"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            },
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ],
+          [
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "a65cec15-2a02-4646-8262-05df060141c2_97389221"
+            },
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            },
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            },
+            {
+              "doc_id": "f6d8c3c4-1e2e-402e-b0db-bb67c89b29a0_869203390"
+            },
+            {
+              "doc_id": "f6e7391e-7ced-4256-b3cd-3e249f16c6ce_823739218"
+            },
+            {
+              "doc_id": "267ccb37-983e-4111-8fd6-ed1ebf2500c4_907849411"
+            },
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            },
+            {
+              "doc_id": "ce32c1be-e02a-4d52-bd5f-d35b9737080b_987151109"
+            },
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_885132091"
+            },
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "005e21df-2967-487d-acbd-2be00cda2f1a_207466300"
+            },
+            {
+              "doc_id": "bcb10cf5-a993-47e6-9165-f43f42c766aa_206491725"
+            },
+            {
+              "doc_id": "6891e40e-d301-4e6a-9b74-2dce17b4cd44_621091257"
+            },
+            {
+              "doc_id": "7ffacacc-092e-4386-b433-a775240ceead_491921607"
+            },
+            {
+              "doc_id": "8d202821-55f3-4596-a337-a7b6e800f452_220221421"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "bc3d4162-e9b3-4c2b-a728-484e1904c568_812082752"
+            },
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            },
+            {
+              "doc_id": "3c134f50-6a69-4887-99be-981b74a48a21_30991763"
+            },
+            {
+              "doc_id": "7a0a7aa9-b9cd-4ef2-a834-625d2211d2c1_418897101"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            },
+            {
+              "doc_id": "04066339-a2c7-4229-9fce-5f8ea28c547a_532738930"
+            },
+            {
+              "doc_id": "206d6077-0d70-4595-8126-e950f191be9c_955709835"
+            },
+            {
+              "doc_id": "74c9e498-46b9-4b3e-982c-3e19a8160332_364352056"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ],
+          [
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            }
+          ],
+          [
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            },
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            },
+            {
+              "doc_id": "9112a124-a3ec-4a5d-977e-acc581fd2fb9_749042120"
+            },
+            {
+              "doc_id": "bcff9cfc-75a0-4dd4-9431-7dcedbac8579_21954549"
+            },
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            },
+            {
+              "doc_id": "4bc40faf-e9dc-4a5d-8c3a-0d2f20ba848d_123806756"
+            },
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ],
+          [
+            {
+              "doc_id": "c8cde84f-500f-4678-83b5-7c397ce27397_453527904"
+            }
+          ],
+          [
+            {
+              "doc_id": "e4b92110-9fbd-434c-b539-87860d18695f_699124503"
+            }
+          ],
+          [
+            {
+              "doc_id": "558e844a-b52a-4f3a-8553-1ab6b696cb94_230889465"
+            }
+          ],
+          [
+            {
+              "doc_id": "ca5d5316-4583-45b6-a00a-47c9c47c6d2f_739925080"
+            }
+          ],
+          [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative as it directly inquires about the countries purchasing the J-10 fighter jets without any additional specifics, making it broadly applicable to the user's request for information on the export market.",
+        "num_paraphrases_unique": 9,
+        "num_paraphrases_total": 70,
+        "num_answers": 4
+      }
+    },
+    "What feedback have buyers provided about China's J-10 fighter jets?": {
+      "question": "What feedback have buyers provided about China's J-10 fighter jets?",
+      "answers": {
+        "No buyer feedback on J-10 jets mentioned in document": {
+          "answer": "No buyer feedback on J-10 jets mentioned in document",
+          "references": [
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ]
+        },
+        "No J-10 buyer feedback available in document": {
+          "answer": "No J-10 buyer feedback available in document",
+          "references": [
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 fighter jets mentioned": {
+          "answer": "No buyer feedback on J-10 fighter jets mentioned",
+          "references": [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            }
+          ]
+        },
+        "No buyer feedback on China's J-10 fighter jets mentioned": {
+          "answer": "No buyer feedback on China's J-10 fighter jets mentioned",
+          "references": [
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 jets mentioned": {
+          "answer": "No buyer feedback on J-10 jets mentioned",
+          "references": [
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            }
+          ]
+        },
+        "Document does not mention J-10 fighter jets": {
+          "answer": "Document does not mention J-10 fighter jets",
+          "references": [
+            {
+              "doc_id": "74c9e498-46b9-4b3e-982c-3e19a8160332_364352056"
+            }
+          ]
+        },
+        "Document does not contain J-10 buyer feedback": {
+          "answer": "Document does not contain J-10 buyer feedback",
+          "references": [
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            }
+          ]
+        },
+        "Document does not mention J-10 fighter jet": {
+          "answer": "Document does not mention J-10 fighter jet",
+          "references": [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            }
+          ]
+        }
+      },
+      "question_id": "13ec955fc1d790ef5e9cfb7f306ad24f",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What buyer feedback exists for China's J-10 fighter jet?",
+          "What buyer feedback exists for China's J-10 fighter jets?",
+          "What feedback have buyers provided about China's J-10 fighter jets?",
+          "What feedback have buyers given about China's J-10 fighter jets?",
+          "What feedback have buyers given about China's J-10 fighter jet?",
+          "What buyer feedback exists regarding China's J-10 fighter jet performance?",
+          "What do commentators say about China's J-10 fighter performance?",
+          "What are media commentators saying about China's J-10 fighter performance?",
+          "What are media commentators saying about China's J-10 fighter jets?",
+          "What do commentators say about China's J-10 fighter jet performance?",
+          "What have commentators said about China's J-10 fighter jet performance?",
+          "What have commentators said about China's J-10 fighter jet quality?",
+          "What media commentary exists about China's J-10 fighter jet performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            },
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "78a1a3d0-4587-4f5d-b13b-481f7c171b7e_359556705"
+            },
+            {
+              "doc_id": "d076d361-4769-408c-ba73-6dc8c36241b2_332991478"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "6891e40e-d301-4e6a-9b74-2dce17b4cd44_621091257"
+            },
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            }
+          ],
+          [
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            },
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            },
+            {
+              "doc_id": "ce32c1be-e02a-4d52-bd5f-d35b9737080b_987151109"
+            },
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ],
+          [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            },
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            },
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "56f57fcc-4aeb-40da-b2d0-30366e597ae3_474217619"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            },
+            {
+              "doc_id": "74c9e498-46b9-4b3e-982c-3e19a8160332_364352056"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            }
+          ],
+          [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            },
+            {
+              "doc_id": "f6d8c3c4-1e2e-402e-b0db-bb67c89b29a0_869203390"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ],
+          [
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            }
+          ],
+          [
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            },
+            {
+              "doc_id": "56f57fcc-4aeb-40da-b2d0-30366e597ae3_474217619"
+            }
+          ],
+          [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ],
+          [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            },
+            {
+              "doc_id": "78a1a3d0-4587-4f5d-b13b-481f7c171b7e_359556705"
+            }
+          ],
+          [
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            }
+          ],
+          [
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            }
+          ],
+          [
+            {
+              "doc_id": "4bc40faf-e9dc-4a5d-8c3a-0d2f20ba848d_123806756"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request as it directly inquires about the feedback from buyers, which is a crucial aspect of understanding the sales and evaluations of the J-10 fighter jet.",
+        "num_paraphrases_unique": 13,
+        "num_paraphrases_total": 57,
+        "num_answers": 8
+      }
+    },
+    "What do media commentators say about J-10 fighter jet quality?": {
+      "question": "What do media commentators say about J-10 fighter jet quality?",
+      "answers": {
+        "No media commentary on J-10 jets in document": {
+          "answer": "No media commentary on J-10 jets in document",
+          "references": [
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance available": {
+          "answer": "No media commentary on J-10 performance available",
+          "references": [
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance included": {
+          "answer": "No media commentary on J-10 performance included",
+          "references": [
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            },
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        },
+        "No media commentary on J-10 fighter jets available": {
+          "answer": "No media commentary on J-10 fighter jets available",
+          "references": [
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            }
+          ]
+        },
+        "no media commentary on J-10 quality provided": {
+          "answer": "no media commentary on J-10 quality provided",
+          "references": [
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance mentioned": {
+          "answer": "No media commentary on J-10 performance mentioned",
+          "references": [
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance provided": {
+          "answer": "No media commentary on J-10 performance provided",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance included in document": {
+          "answer": "No media commentary on J-10 performance included in document",
+          "references": [
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ]
+        },
+        "No media commentary on J-10 jets available": {
+          "answer": "No media commentary on J-10 jets available",
+          "references": [
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            }
+          ]
+        },
+        "No media commentary on J-10 quality mentioned": {
+          "answer": "No media commentary on J-10 quality mentioned",
+          "references": [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ]
+        },
+        "primary frontline combat aircraft of Chinese Air Force": {
+          "answer": "primary frontline combat aircraft of Chinese Air Force",
+          "references": [
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            }
+          ]
+        }
+      },
+      "question_id": "d0704c281a7fa15fe41f719278c7044d",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What do commentators say about J-10 fighter jet quality?",
+          "What have commentators said about J-10 fighter jet quality?",
+          "What are media commentators saying about J-10 fighter jet quality?",
+          "What media comments exist about J-10 fighter jet quality?",
+          "What do media commentators say about J-10 fighter jet quality?",
+          "How is the J-10 fighter jet characterized by analysts?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ],
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ],
+          [
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            }
+          ],
+          [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ],
+          [
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative as it directly addresses the user's request for information on the evaluations of the J-10 fighter jet from commentators, which is a key aspect of the article.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 20,
+        "num_answers": 11
+      }
+    },
+    "What do media commentators say about J-10 fighter jet performance?": {
+      "question": "What do media commentators say about J-10 fighter jet performance?",
+      "answers": {
+        "No media commentary on J-10 jets available": {
+          "answer": "No media commentary on J-10 jets available",
+          "references": [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            }
+          ]
+        },
+        "No media commentary on J-10 in document": {
+          "answer": "No media commentary on J-10 in document",
+          "references": [
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            }
+          ]
+        },
+        "No media commentary on J-10 jets in document": {
+          "answer": "No media commentary on J-10 jets in document",
+          "references": [
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            }
+          ]
+        },
+        "No media commentary on J-10 quality provided": {
+          "answer": "No media commentary on J-10 quality provided",
+          "references": [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        }
+      },
+      "question_id": "f52568732459870322f544b7d5b4d40b",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What do commentators say about J-10 fighter jet performance?",
+          "What do media commentators say about J-10 fighter jet performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            },
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            }
+          ],
+          [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more representative because it specifically mentions 'media commentators', which aligns with the user's request for information from commentators and media.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 7,
+        "num_answers": 4
+      }
+    },
+    "Does this document contain information about J-10 fighter jet exports?": {
+      "question": "Does this document contain information about J-10 fighter jet exports?",
+      "answers": {
+        "Document focuses on C919 commercial aircraft, not J-10": {
+          "answer": "Document focuses on C919 commercial aircraft, not J-10",
+          "references": [
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            }
+          ]
+        },
+        "Document discusses Y-10 passenger aircraft, not J-10 fighter": {
+          "answer": "Document discusses Y-10 passenger aircraft, not J-10 fighter",
+          "references": [
+            {
+              "doc_id": "7ffacacc-092e-4386-b433-a775240ceead_491921607"
+            }
+          ]
+        },
+        "Document discusses C919 civilian aircraft, not J-10 fighter": {
+          "answer": "Document discusses C919 civilian aircraft, not J-10 fighter",
+          "references": [
+            {
+              "doc_id": "8d202821-55f3-4596-a337-a7b6e800f452_220221421"
+            }
+          ]
+        },
+        "Document focuses on AG600 amphibious aircraft, not J-10": {
+          "answer": "Document focuses on AG600 amphibious aircraft, not J-10",
+          "references": [
+            {
+              "doc_id": "bc3d4162-e9b3-4c2b-a728-484e1904c568_812082752"
+            }
+          ]
+        },
+        "Document focuses on Z-20 helicopter, not J-10 fighter": {
+          "answer": "Document focuses on Z-20 helicopter, not J-10 fighter",
+          "references": [
+            {
+              "doc_id": "7a0a7aa9-b9cd-4ef2-a834-625d2211d2c1_418897101"
+            }
+          ]
+        },
+        "Document discusses J-20 Black Eagle, not J-10 fighter": {
+          "answer": "Document discusses J-20 Black Eagle, not J-10 fighter",
+          "references": [
+            {
+              "doc_id": "005e21df-2967-487d-acbd-2be00cda2f1a_207466300"
+            }
+          ]
+        }
+      },
+      "question_id": "3f7a35390d5ed8bde4ab46999fd6fe89",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Does this document contain information about J-10 fighter jet exports?",
+          "Does this document contain information about J-10 fighter exports?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9e59c306-dbe0-406c-98d5-aee9b942d75d_581766998"
+            },
+            {
+              "doc_id": "7ffacacc-092e-4386-b433-a775240ceead_491921607"
+            },
+            {
+              "doc_id": "8d202821-55f3-4596-a337-a7b6e800f452_220221421"
+            },
+            {
+              "doc_id": "bc3d4162-e9b3-4c2b-a728-484e1904c568_812082752"
+            },
+            {
+              "doc_id": "7a0a7aa9-b9cd-4ef2-a834-625d2211d2c1_418897101"
+            }
+          ],
+          [
+            {
+              "doc_id": "005e21df-2967-487d-acbd-2be00cda2f1a_207466300"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it uses the full name of the jet, 'J-10 fighter jet', which matches the user's request for information about the 'J-10 fighter jet'",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 6,
+        "num_answers": 6
+      }
+    },
+    "Does this document contain information about J-10 export sales?": {
+      "question": "Does this document contain information about J-10 export sales?",
+      "answers": {
+        "Document focuses on J-20 stealth fighter instead": {
+          "answer": "Document focuses on J-20 stealth fighter instead",
+          "references": [
+            {
+              "doc_id": "a65cec15-2a02-4646-8262-05df060141c2_97389221"
+            },
+            {
+              "doc_id": "3c134f50-6a69-4887-99be-981b74a48a21_30991763"
+            }
+          ]
+        },
+        "Document focuses on J-20 stealth fighter, not J-10": {
+          "answer": "Document focuses on J-20 stealth fighter, not J-10",
+          "references": [
+            {
+              "doc_id": "267ccb37-983e-4111-8fd6-ed1ebf2500c4_907849411"
+            }
+          ]
+        },
+        "Document focuses on J-15 carrier-based fighter, not J-10": {
+          "answer": "Document focuses on J-15 carrier-based fighter, not J-10",
+          "references": [
+            {
+              "doc_id": "206d6077-0d70-4595-8126-e950f191be9c_955709835"
+            }
+          ]
+        },
+        "Document focuses on J-11 fighter jets, not J-10": {
+          "answer": "Document focuses on J-11 fighter jets, not J-10",
+          "references": [
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_885132091"
+            }
+          ]
+        }
+      },
+      "question_id": "90b9b99968dcd6d5858233eea1f3d852",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Does the document contain information about J-10 export markets?",
+          "Does this document contain information about J-10 export markets?",
+          "Does this document contain information about J-10 export sales?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a65cec15-2a02-4646-8262-05df060141c2_97389221"
+            }
+          ],
+          [
+            {
+              "doc_id": "267ccb37-983e-4111-8fd6-ed1ebf2500c4_907849411"
+            },
+            {
+              "doc_id": "3c134f50-6a69-4887-99be-981b74a48a21_30991763"
+            },
+            {
+              "doc_id": "206d6077-0d70-4595-8126-e950f191be9c_955709835"
+            }
+          ],
+          [
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_885132091"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly inquires about the export sales of the J-10 fighter jet, which aligns with the user's need for information on the jet's sales and export market.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 5,
+        "num_answers": 4
+      }
+    },
+    "Which Chinese fighter jet is discussed in the document?": {
+      "question": "Which Chinese fighter jet is discussed in the document?",
+      "answers": {
+        "J-20 stealth fighter developed by Chengdu Aircraft Corporation": {
+          "answer": "J-20 stealth fighter developed by Chengdu Aircraft Corporation",
+          "references": [
+            {
+              "doc_id": "a65cec15-2a02-4646-8262-05df060141c2_97389221"
+            }
+          ]
+        },
+        "J-20 stealth fighter with new Xian WS-15 engines": {
+          "answer": "J-20 stealth fighter with new Xian WS-15 engines",
+          "references": [
+            {
+              "doc_id": "267ccb37-983e-4111-8fd6-ed1ebf2500c4_907849411"
+            }
+          ]
+        },
+        "J-20 stealth fighter with domestic WS-10C engines": {
+          "answer": "J-20 stealth fighter with domestic WS-10C engines",
+          "references": [
+            {
+              "doc_id": "3c134f50-6a69-4887-99be-981b74a48a21_30991763"
+            }
+          ]
+        }
+      },
+      "question_id": "11772561fa9375b395f154c1edfc0f6b",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which Chinese fighter jet is discussed in the document?",
+          "Which Chinese fighter aircraft is discussed in this document?",
+          "Which Chinese fighter jet is featured in this document?",
+          "What Chinese fighter jet is featured in this document?",
+          "Which Chinese fighter jet is discussed in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a65cec15-2a02-4646-8262-05df060141c2_97389221"
+            }
+          ],
+          [
+            {
+              "doc_id": "267ccb37-983e-4111-8fd6-ed1ebf2500c4_907849411"
+            }
+          ],
+          [
+            {
+              "doc_id": "3c134f50-6a69-4887-99be-981b74a48a21_30991763"
+            }
+          ],
+          [
+            {
+              "doc_id": "04066339-a2c7-4229-9fce-5f8ea28c547a_532738930"
+            }
+          ],
+          [
+            {
+              "doc_id": "206d6077-0d70-4595-8126-e950f191be9c_955709835"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question that is most representative of the user request is the one that directly inquires about the specific Chinese fighter jet being discussed, which is a fundamental aspect of the report on the export market of China's J-10 fighter jets.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 3
+      }
+    },
+    "What feedback have international buyers given about J-10 fighter jets?": {
+      "question": "What feedback have international buyers given about J-10 fighter jets?",
+      "answers": {
+        "No buyer feedback information available in document": {
+          "answer": "No buyer feedback information available in document",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            },
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 jets mentioned": {
+          "answer": "No buyer feedback on J-10 jets mentioned",
+          "references": [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        }
+      },
+      "question_id": "5037c1ea2fd6090842399a5feb5e0b3c",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What feedback have international buyers given about J-10 fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            },
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            },
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 4,
+        "num_answers": 2
+      }
+    },
+    "Does this document contain buyer feedback on J-10 jets?": {
+      "question": "Does this document contain buyer feedback on J-10 jets?",
+      "answers": {
+        "Document focuses on J-20 stealth fighter, not J-10": {
+          "answer": "Document focuses on J-20 stealth fighter, not J-10",
+          "references": [
+            {
+              "doc_id": "bcb10cf5-a993-47e6-9165-f43f42c766aa_206491725"
+            }
+          ]
+        },
+        "Document focuses on J-20A stealth fighters, not J-10": {
+          "answer": "Document focuses on J-20A stealth fighters, not J-10",
+          "references": [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        }
+      },
+      "question_id": "d294a71c28ee7d047bbd96aec5b53e1d",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Does this document contain buyer feedback on J-10 jets?",
+          "Does the document contain buyer feedback on J-10 jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bcb10cf5-a993-47e6-9165-f43f42c766aa_206491725"
+            }
+          ],
+          [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        ],
+        "canonical_explanation": "The two questions are identical and address the same aspect of the user request, so either can be considered canonical.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How far has the J-10 fighter jet series progressed?": {
+      "question": "How far has the J-10 fighter jet series progressed?",
+      "answers": {
+        "J-10 improved variants are part of China's 20 era": {
+          "answer": "J-10 improved variants are part of China's 20 era",
+          "references": [
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_16550499"
+            }
+          ]
+        },
+        "J-10 series has developed through to J-10C variant": {
+          "answer": "J-10 series has developed through to J-10C variant",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_133830351"
+            }
+          ]
+        }
+      },
+      "question_id": "bd0fd9ab3c3be6a6ffd656e941fbffc1",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What is the status of J-10 fighter jet development?",
+          "How far has the J-10 fighter jet series progressed?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_16550499"
+            }
+          ],
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_133830351"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question directly addresses the user's request for information on the export market, buyer feedback, and media comments, but question 2 is slightly more relevant as it implies a broader scope that could encompass sales and deployment.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Which Chinese fighter jets are discussed in this document?": {
+      "question": "Which Chinese fighter jets are discussed in this document?",
+      "answers": {
+        "Document focuses on J-31 stealth fighter development": {
+          "answer": "Document focuses on J-31 stealth fighter development",
+          "references": [
+            {
+              "doc_id": "f6e7391e-7ced-4256-b3cd-3e249f16c6ce_823739218"
+            }
+          ]
+        },
+        "J-11, J-15, J-16, and J-35 fighter aircraft": {
+          "answer": "J-11, J-15, J-16, and J-35 fighter aircraft",
+          "references": [
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_885132091"
+            }
+          ]
+        }
+      },
+      "question_id": "b517503d6cd035e6dfa9489694645e23",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What Chinese fighter jet information is covered in this document?",
+          "Which Chinese fighter jets are discussed in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f6e7391e-7ced-4256-b3cd-3e249f16c6ce_823739218"
+            }
+          ],
+          [
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_885132091"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more relevant because it specifically asks about the discussion of Chinese fighter jets in the document, which aligns with the user's request for information about the J-10 fighter jet.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What role did J-10 fighter jets play in recent military operations?": {
+      "question": "What role did J-10 fighter jets play in recent military operations?",
+      "answers": {
+        "accompanied 10 J-16 fighter jets in Taiwan airspace mission": {
+          "answer": "accompanied 10 J-16 fighter jets in Taiwan airspace mission",
+          "references": [
+            {
+              "doc_id": "b1304cf0-a121-4d7b-bf38-cfdeefdfae80_649441724"
+            }
+          ]
+        },
+        "J-10 fighter jets have appeared in Taiwan airspace incursions": {
+          "answer": "J-10 fighter jets have appeared in Taiwan airspace incursions",
+          "references": [
+            {
+              "doc_id": "c94a8c69-ae98-4c06-8052-3b29ce59149c_727726856"
+            }
+          ]
+        }
+      },
+      "question_id": "01e441436a2435b8075fdd399065e74e",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What role did J-10 fighter jets play in recent military operations?",
+          "What operational activity involving J-10 fighter jets is mentioned?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b1304cf0-a121-4d7b-bf38-cfdeefdfae80_649441724"
+            }
+          ],
+          [
+            {
+              "doc_id": "c94a8c69-ae98-4c06-8052-3b29ce59149c_727726856"
+            }
+          ]
+        ],
+        "canonical_explanation": "The provided questions do not directly address the user's request for information on the sales, export market, buyer feedback, and media comments on the J-10 fighter jet.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What percentage of China's combat aircraft fleet consists of J-10 fighters?": {
+      "question": "What percentage of China's combat aircraft fleet consists of J-10 fighters?",
+      "answers": {
+        "22% of China's 2500 combat aircraft": {
+          "answer": "22% of China's 2500 combat aircraft",
+          "references": [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        }
+      },
+      "question_id": "60239856fd62987ac6e0ee4f87d67dd0",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of China's combat aircraft fleet consists of J-10 fighters?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What aircraft design is the Chinese J-10 fighter jet based on?": {
+      "question": "What aircraft design is the Chinese J-10 fighter jet based on?",
+      "answers": {
+        "Israeli Lavi designs": {
+          "answer": "Israeli Lavi designs",
+          "references": [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        }
+      },
+      "question_id": "7ebc7564c352a9ccd55ae819b802fdce",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What aircraft design is the Chinese J-10 fighter jet based on?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What safety issues have been reported with the J-10 fighter jet?": {
+      "question": "What safety issues have been reported with the J-10 fighter jet?",
+      "answers": {
+        "deadly accidents": {
+          "answer": "deadly accidents",
+          "references": [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        }
+      },
+      "question_id": "902e3ba80a51baff81af41107d4972cc",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What safety issues have been reported with the J-10 fighter jet?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a84c2df3-abc5-42e2-888f-a3be0506538d_982792363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What enhanced version of the J-10 fighter was presented by PLAAF?": {
+      "question": "What enhanced version of the J-10 fighter was presented by PLAAF?",
+      "answers": {
+        "J-10C multi-purpose fighter": {
+          "answer": "J-10C multi-purpose fighter",
+          "references": [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        }
+      },
+      "question_id": "1ff0140379a220ebe683c14e6d824e78",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What enhanced version of the J-10 fighter was presented by PLAAF?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What enhancement does the J-10C offer over the original J-10?": {
+      "question": "What enhancement does the J-10C offer over the original J-10?",
+      "answers": {
+        "improved combat efficiency": {
+          "answer": "improved combat efficiency",
+          "references": [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        }
+      },
+      "question_id": "de0769aaec91cd8b118bd947409fb2a0",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What enhancement does the J-10C offer over the original J-10?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where was the J-10C multi-purpose fighter showcased in 2021?": {
+      "question": "Where was the J-10C multi-purpose fighter showcased in 2021?",
+      "answers": {
+        "13th China International Aviation & Aerospace Exhibition in Zhuhai": {
+          "answer": "13th China International Aviation & Aerospace Exhibition in Zhuhai",
+          "references": [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        }
+      },
+      "question_id": "251a8d16b4fe2a8b8ab445269bc0c838",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Where was the J-10C multi-purpose fighter showcased in 2021?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f465b25a-5915-40e3-a3b0-21f1f3f941fa_622910988"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which country has formally inducted the Chinese J-10C fighter jets?": {
+      "question": "Which country has formally inducted the Chinese J-10C fighter jets?",
+      "answers": {
+        "Pakistan": {
+          "answer": "Pakistan",
+          "references": [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        }
+      },
+      "question_id": "48ccd50ba8a906160bac07c5dbf5fbe9",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which country has formally inducted the Chinese J-10C fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many J-10C aircraft is China delivering to Pakistan?": {
+      "question": "How many J-10C aircraft is China delivering to Pakistan?",
+      "answers": {
+        "25 J-10C fighter jets": {
+          "answer": "25 J-10C fighter jets",
+          "references": [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        }
+      },
+      "question_id": "162a527842df7d7cc976baeee88f4c74",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "How many J-10C aircraft is China delivering to Pakistan?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

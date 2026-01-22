@@ -1,0 +1,738 @@
+{
+  "query_id": "1013",
+  "title_query": "1013",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What classic dish did Zhao Zhengyu learn to make?": {
+      "question": "What classic dish did Zhao Zhengyu learn to make?",
+      "answers": {
+        "Buddha Jumps Over the Wall": {
+          "answer": "Buddha Jumps Over the Wall",
+          "references": [
+            {
+              "doc_id": "8588d3f8-9c77-43db-8b2b-6bfca9fcb1fa_844851156"
+            }
+          ]
+        }
+      },
+      "question_id": "b398ab15947ef55f0e19c9d3c8b92245",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What classic dish did Zhao Zhengyu learn to make?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "8588d3f8-9c77-43db-8b2b-6bfca9fcb1fa_844851156"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who are the representatives from Italy's international Slow Food headquarters?": {
+      "question": "Who are the representatives from Italy's international Slow Food headquarters?",
+      "answers": {
+        "Andrea Amato and Daniel Cruse": {
+          "answer": "Andrea Amato and Daniel Cruse",
+          "references": [
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            }
+          ]
+        }
+      },
+      "question_id": "68194e24581a1125f34e2eee2fd6d7dd",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Who are the representatives from Italy's international Slow Food headquarters?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where is the Slow Food organization's headquarters located?": {
+      "question": "Where is the Slow Food organization's headquarters located?",
+      "answers": {
+        "Italy": {
+          "answer": "Italy",
+          "references": [
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            }
+          ]
+        },
+        "Italy international slow food organization headquarters": {
+          "answer": "Italy international slow food organization headquarters",
+          "references": [
+            {
+              "doc_id": "e67a5795-5982-45ea-b316-ae40e65f5aa4_478826959"
+            }
+          ]
+        }
+      },
+      "question_id": "99570e4204ceb9d0599bafcafaf6c557",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Which country is home to the international Slow Food organization headquarters?",
+          "Which country is home to the international Slow Food headquarters?",
+          "Where is the international slow food organization headquarters located?",
+          "Where is the Slow Food organization's headquarters located?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            }
+          ],
+          [
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            }
+          ],
+          [
+            {
+              "doc_id": "e67a5795-5982-45ea-b316-ae40e65f5aa4_478826959"
+            }
+          ],
+          [
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks for the location of the Slow Food organization's headquarters, which is a key aspect of understanding the movement's history and background.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 2
+      }
+    },
+    "Which country is the origin of the slow city movement?": {
+      "question": "Which country is the origin of the slow city movement?",
+      "answers": {
+        "Italy": {
+          "answer": "Italy",
+          "references": [
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            }
+          ]
+        }
+      },
+      "question_id": "33e681b671b50675bb4f1b0b9c1d871f",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Which country is the origin of the slow city movement?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who founded the slow food movement and when?": {
+      "question": "Who founded the slow food movement and when?",
+      "answers": {
+        "Carlo Petrini in Italy during the 1980s": {
+          "answer": "Carlo Petrini in Italy during the 1980s",
+          "references": [
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            }
+          ]
+        },
+        "Carlo Petrini in 1986 in Rome": {
+          "answer": "Carlo Petrini in 1986 in Rome",
+          "references": [
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            }
+          ]
+        }
+      },
+      "question_id": "40ab100f603bc0d50e0e98ad25354497",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Who founded the slow food movement and when?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What festival promotes local food culture in Taitung County?": {
+      "question": "What festival promotes local food culture in Taitung County?",
+      "answers": {
+        "Taitung Slow Food Festival": {
+          "answer": "Taitung Slow Food Festival",
+          "references": [
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            }
+          ]
+        }
+      },
+      "question_id": "9d8f82aaef965d425de20992ab0af848",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What festival promotes local food culture in Taitung County?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many Taitung Slow Food Festivals have been held?": {
+      "question": "How many Taitung Slow Food Festivals have been held?",
+      "answers": {
+        "12 festivals with nearly 38,000 participants": {
+          "answer": "12 festivals with nearly 38,000 participants",
+          "references": [
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            }
+          ]
+        }
+      },
+      "question_id": "786a5a24c0e212e069f3ed26bdce4963",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "How many Taitung Slow Food Festivals have been held?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What farming methods do Taitung slow agriculture operators practice?": {
+      "question": "What farming methods do Taitung slow agriculture operators practice?",
+      "answers": {
+        "organic cultivation and sustainable farming practices": {
+          "answer": "organic cultivation and sustainable farming practices",
+          "references": [
+            {
+              "doc_id": "b41c6310-cd3f-4380-ba2f-c06439e563fa_852237843"
+            }
+          ]
+        }
+      },
+      "question_id": "d6b7871726efcb1214d8d2d95bf0c647",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What farming methods do Taitung slow agriculture operators practice?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b41c6310-cd3f-4380-ba2f-c06439e563fa_852237843"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When did soul food originate as a distinct cuisine?": {
+      "question": "When did soul food originate as a distinct cuisine?",
+      "answers": {
+        "eighteenth to nineteenth century slavery period in America": {
+          "answer": "eighteenth to nineteenth century slavery period in America",
+          "references": [
+            {
+              "doc_id": "c5eebcc7-8fbe-4ce6-ab16-cd7e78c61c30_693829964"
+            }
+          ]
+        }
+      },
+      "question_id": "bdcdda2c605425a07734bb5152c5c375",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "When did soul food originate as a distinct cuisine?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c5eebcc7-8fbe-4ce6-ab16-cd7e78c61c30_693829964"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How long has the slow food movement been popular worldwide?": {
+      "question": "How long has the slow food movement been popular worldwide?",
+      "answers": {
+        "over 30 years globally": {
+          "answer": "over 30 years globally",
+          "references": [
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            }
+          ]
+        },
+        "over thirty years globally": {
+          "answer": "over thirty years globally",
+          "references": [
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            }
+          ]
+        }
+      },
+      "question_id": "46265b68e14c6ec18cf93273d9588607",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "How long has the slow food movement been popular worldwide?",
+          "How long has the slow food movement been promoted worldwide?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            }
+          ],
+          [
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more representative because it uses the word 'popular', which implies a broader cultural acceptance and awareness of the movement, providing a more nuanced understanding of its global presence.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Which country hosts the global slow food annual conference?": {
+      "question": "Which country hosts the global slow food annual conference?",
+      "answers": {
+        "Italy": {
+          "answer": "Italy",
+          "references": [
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "cea47617-cd0d-4159-a55a-dc59c199bbc6_410618954"
+            }
+          ]
+        }
+      },
+      "question_id": "df2edb9d7900db69bb18825830d83be7",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Which country hosts the global slow food annual conference?",
+          "Which country hosts the international slow food conference mentioned?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            }
+          ],
+          [
+            {
+              "doc_id": "cea47617-cd0d-4159-a55a-dc59c199bbc6_410618954"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question is too narrow and does not encompass the user's broader request for information on the history, background, and cultural manifestations of the slow food movement.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "Which traditional Russian foods were considered vulgar by 18th-century aristocrats?": {
+      "question": "Which traditional Russian foods were considered vulgar by 18th-century aristocrats?",
+      "answers": {
+        "sauerkraut soup, porridge, kvass, rye bread, nuts, seeds": {
+          "answer": "sauerkraut soup, porridge, kvass, rye bread, nuts, seeds",
+          "references": [
+            {
+              "doc_id": "7fcc37c4-3620-4f92-b885-09a749fce8a6_1052481529"
+            }
+          ]
+        }
+      },
+      "question_id": "9bfe8d25dd176ad3d0c5a70d5d02fb88",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Which traditional Russian foods were considered vulgar by 18th-century aristocrats?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7fcc37c4-3620-4f92-b885-09a749fce8a6_1052481529"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which four coastal townships participate in Miaoli's slow fish project?": {
+      "question": "Which four coastal townships participate in Miaoli's slow fish project?",
+      "answers": {
+        "Zhunan, Houlong, Tongxiao, and Yuanli townships": {
+          "answer": "Zhunan, Houlong, Tongxiao, and Yuanli townships",
+          "references": [
+            {
+              "doc_id": "cea47617-cd0d-4159-a55a-dc59c199bbc6_410618954"
+            }
+          ]
+        }
+      },
+      "question_id": "321ee7c3fb112a615cc6ea1bb47b7840",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Which four coastal townships participate in Miaoli's slow fish project?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cea47617-cd0d-4159-a55a-dc59c199bbc6_410618954"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What traditional foods were featured at the tribal market?": {
+      "question": "What traditional foods were featured at the tribal market?",
+      "answers": {
+        "smoked fish, grilled marinated siraw rice balls, roasted pork": {
+          "answer": "smoked fish, grilled marinated siraw rice balls, roasted pork",
+          "references": [
+            {
+              "doc_id": "f4288950-45f0-4a58-8d12-d6d40897abf0_705872774"
+            }
+          ]
+        }
+      },
+      "question_id": "49fc75b78260fcfc610eff9f60bd7fa0",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What traditional foods were featured at the tribal market?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f4288950-45f0-4a58-8d12-d6d40897abf0_705872774"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where can travelers experience slow food cooking in East Africa?": {
+      "question": "Where can travelers experience slow food cooking in East Africa?",
+      "answers": {
+        "Lamu Island, Kenya": {
+          "answer": "Lamu Island, Kenya",
+          "references": [
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "question_id": "f5f5d101514d5c249c957e9b97b46229",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "Where can travelers experience slow food cooking in East Africa?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When and where was the 2022 Taitung Slow Food Festival held?": {
+      "question": "When and where was the 2022 Taitung Slow Food Festival held?",
+      "answers": {
+        "April 9-10, 2022 at Chenggong Township Seaside Park": {
+          "answer": "April 9-10, 2022 at Chenggong Township Seaside Park",
+          "references": [
+            {
+              "doc_id": "ceff1569-8569-4274-b28c-d353482f1edb_384120809"
+            }
+          ]
+        }
+      },
+      "question_id": "ccd660853317131a528cfbad8ddc694d",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "When and where was the 2022 Taitung Slow Food Festival held?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ceff1569-8569-4274-b28c-d353482f1edb_384120809"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What theme did the 2023 Taitung Slow Food Festival focus on?": {
+      "question": "What theme did the 2023 Taitung Slow Food Festival focus on?",
+      "answers": {
+        "morning dining table culture": {
+          "answer": "morning dining table culture",
+          "references": [
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            }
+          ]
+        }
+      },
+      "question_id": "61655df8b7ff1c4c75c181ba3558259b",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What theme did the 2023 Taitung Slow Food Festival focus on?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What types of food are featured at Taitung Slow Food Festival?": {
+      "question": "What types of food are featured at Taitung Slow Food Festival?",
+      "answers": {
+        "local diverse fish species and traditional East Coast cuisine": {
+          "answer": "local diverse fish species and traditional East Coast cuisine",
+          "references": [
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            }
+          ]
+        },
+        "innovative cuisine and tribal dishes using local ingredients": {
+          "answer": "innovative cuisine and tribal dishes using local ingredients",
+          "references": [
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            }
+          ]
+        },
+        "East Coast seasonal fish, seaweed, and shellfish from sustainable sources": {
+          "answer": "East Coast seasonal fish, seaweed, and shellfish from sustainable sources",
+          "references": [
+            {
+              "doc_id": "ceff1569-8569-4274-b28c-d353482f1edb_384120809"
+            }
+          ]
+        }
+      },
+      "question_id": "0b4578196a2b297c683ba51ca68049fb",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What type of ingredients does the Taitung Slow Food Festival emphasize?",
+          "What types of food are featured at Taitung Slow Food Festival?",
+          "What ingredients do Taitung slow food chefs use?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            }
+          ],
+          [
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            }
+          ],
+          [
+            {
+              "doc_id": "ceff1569-8569-4274-b28c-d353482f1edb_384120809"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request because it directly relates to the slow food movement and its manifestation in a specific cultural context, which is a key aspect of the user's inquiry.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What type of ingredients does the Hong Kong slow food dinner feature?": {
+      "question": "What type of ingredients does the Hong Kong slow food dinner feature?",
+      "answers": {
+        "seasonal ingredients from local farmers and fishermen": {
+          "answer": "seasonal ingredients from local farmers and fishermen",
+          "references": [
+            {
+              "doc_id": "0a491b7f-ace7-429d-9a1d-31be071e9966_616438814"
+            }
+          ]
+        }
+      },
+      "question_id": "8cffaa64d08ca6ac3ae2339020757a5b",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What type of ingredients does the Hong Kong slow food dinner feature?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0a491b7f-ace7-429d-9a1d-31be071e9966_616438814"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What role does food play in Japanese drama narratives?": {
+      "question": "What role does food play in Japanese drama narratives?",
+      "answers": {
+        "food serves as emotional expression and storytelling vehicle": {
+          "answer": "food serves as emotional expression and storytelling vehicle",
+          "references": [
+            {
+              "doc_id": "0f673786-2f41-4ee5-bc85-388791939c54_984572122"
+            }
+          ]
+        }
+      },
+      "question_id": "1fd1c51568c0f30e7b8b086e0fa6ed33",
+      "aggregator_type": "OR",
+      "query_id": "1013",
+      "metadata": {
+        "paraphrases": [
+          "What role does food play in Japanese drama narratives?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0f673786-2f41-4ee5-bc85-388791939c54_984572122"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

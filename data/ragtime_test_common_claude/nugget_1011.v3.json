@@ -1,0 +1,1754 @@
+{
+  "query_id": "1011",
+  "title_query": "1011",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What economic transformation plan did Mohammed bin Salman launch for Saudi Arabia?": {
+      "question": "What economic transformation plan did Mohammed bin Salman launch for Saudi Arabia?",
+      "answers": {
+        "Saudi Arabia Vision 2030": {
+          "answer": "Saudi Arabia Vision 2030",
+          "references": [
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "a1ef125b-5c86-41ef-8d6e-8448cb5fdb22_290448859"
+            }
+          ]
+        },
+        "Saudi Vision 2030": {
+          "answer": "Saudi Vision 2030",
+          "references": [
+            {
+              "doc_id": "5cf37d1f-131f-4c86-bfc6-8d1f308d39be_266345765"
+            },
+            {
+              "doc_id": "f8ac333a-df70-4537-8689-122137e47402_654120225"
+            }
+          ]
+        },
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "af02d0e0-8d4c-4797-8cf4-3178374dc161_15123452"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            },
+            {
+              "doc_id": "58a2c69e-ca60-4527-a3ae-ce73ce5f19b3_220585756"
+            },
+            {
+              "doc_id": "78791118-f9c5-4ecd-b7a2-e57dcecfb197_532531040"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            },
+            {
+              "doc_id": "532d4cf9-2ed3-435e-9c5e-76bb3fb4981c_72730554"
+            },
+            {
+              "doc_id": "8d9e78ed-f484-406d-8778-c733be2554ab_670261581"
+            },
+            {
+              "doc_id": "ace098f0-7402-42bb-a927-552659c552a8_614717274"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "bef84ad1-798c-42f0-a3ab-d856d4a3d74a_112196354"
+            }
+          ]
+        },
+        "Vision 2030 developmental transformation program": {
+          "answer": "Vision 2030 developmental transformation program",
+          "references": [
+            {
+              "doc_id": "2bba158f-9658-4b31-80f0-b91171fba07a_356300910"
+            }
+          ]
+        },
+        "Vision 2030 Saudi Arabia": {
+          "answer": "Vision 2030 Saudi Arabia",
+          "references": [
+            {
+              "doc_id": "6f50c485-aa1a-47d8-993a-aa56e031b0f9_1033732011"
+            }
+          ]
+        },
+        "Vision 2030 launched in 2016": {
+          "answer": "Vision 2030 launched in 2016",
+          "references": [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            }
+          ]
+        },
+        "Vision 2030 to diversify income sources away from oil dependency": {
+          "answer": "Vision 2030 to diversify income sources away from oil dependency",
+          "references": [
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            }
+          ]
+        },
+        "Vision 2030 initiative": {
+          "answer": "Vision 2030 initiative",
+          "references": [
+            {
+              "doc_id": "72fc1da6-5cba-4a49-ab3a-b305274e11f9_241486159"
+            }
+          ]
+        }
+      },
+      "question_id": "114afe5af790be094df58c79f3d74b53",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Mohammed bin Salman's strategic development plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's transformative plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's strategic plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's comprehensive development plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's strategic plan for Saudi Arabia's transformation?",
+          "What is Mohammed bin Salman's development plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's ambitious plan for Saudi Arabia?",
+          "What is Mohammed bin Salman Al Saud's transformational plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's transformational plan for Saudi Arabia?",
+          "What economic transformation plan did Mohammed bin Salman launch for Saudi Arabia?",
+          "What is Mohammed bin Salman's economic transformation plan for Saudi Arabia?",
+          "What is the name of Mohammed bin Salman's transformational plan for Saudi Arabia?",
+          "What is Mohammed bin Salman's transformative plan for Saudi Arabia called?",
+          "What is the name of Mohammed bin Salman's development plan for Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "5cf37d1f-131f-4c86-bfc6-8d1f308d39be_266345765"
+            },
+            {
+              "doc_id": "af02d0e0-8d4c-4797-8cf4-3178374dc161_15123452"
+            }
+          ],
+          [
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "f8ac333a-df70-4537-8689-122137e47402_654120225"
+            },
+            {
+              "doc_id": "a1ef125b-5c86-41ef-8d6e-8448cb5fdb22_290448859"
+            }
+          ],
+          [
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            },
+            {
+              "doc_id": "2bba158f-9658-4b31-80f0-b91171fba07a_356300910"
+            },
+            {
+              "doc_id": "58a2c69e-ca60-4527-a3ae-ce73ce5f19b3_220585756"
+            },
+            {
+              "doc_id": "78791118-f9c5-4ecd-b7a2-e57dcecfb197_532531040"
+            }
+          ],
+          [
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            }
+          ],
+          [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ],
+          [
+            {
+              "doc_id": "532d4cf9-2ed3-435e-9c5e-76bb3fb4981c_72730554"
+            },
+            {
+              "doc_id": "6f50c485-aa1a-47d8-993a-aa56e031b0f9_1033732011"
+            }
+          ],
+          [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            }
+          ],
+          [
+            {
+              "doc_id": "8d9e78ed-f484-406d-8778-c733be2554ab_670261581"
+            }
+          ],
+          [
+            {
+              "doc_id": "ace098f0-7402-42bb-a927-552659c552a8_614717274"
+            }
+          ],
+          [
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            }
+          ],
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            }
+          ],
+          [
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            }
+          ],
+          [
+            {
+              "doc_id": "72fc1da6-5cba-4a49-ab3a-b305274e11f9_241486159"
+            }
+          ],
+          [
+            {
+              "doc_id": "bef84ad1-798c-42f0-a3ab-d856d4a3d74a_112196354"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it specifically mentions the economic aspect of the plan, which is a key part of the 2030 vision and the user's request to inform the American audience about the changes in Saudi Arabia.",
+        "num_paraphrases_unique": 14,
+        "num_paraphrases_total": 23,
+        "num_answers": 8
+      }
+    },
+    "What are key components of Saudi Vision 2030?": {
+      "question": "What are key components of Saudi Vision 2030?",
+      "answers": {
+        "vibrant society, thriving economy, and ambitious nation": {
+          "answer": "vibrant society, thriving economy, and ambitious nation",
+          "references": [
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "37684de4-1047-4f84-91e3-cfb07289f11f_471662196"
+            }
+          ]
+        },
+        "vibrant society, thriving economy, ambitious nation": {
+          "answer": "vibrant society, thriving economy, ambitious nation",
+          "references": [
+            {
+              "doc_id": "b13f56b9-bc35-4594-9d2d-69eaf0ac87fa_104811013"
+            }
+          ]
+        },
+        "technology focus and encouraging new investments": {
+          "answer": "technology focus and encouraging new investments",
+          "references": [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            }
+          ]
+        },
+        "reduce dependence on oil and achieve comprehensive development": {
+          "answer": "reduce dependence on oil and achieve comprehensive development",
+          "references": [
+            {
+              "doc_id": "cbda1669-f39c-4ab8-9dac-c23403569141_45867703"
+            }
+          ]
+        },
+        "transition to green technologies and reducing oil dependence": {
+          "answer": "transition to green technologies and reducing oil dependence",
+          "references": [
+            {
+              "doc_id": "168786f5-073c-4652-87ef-fedd4ae255d3_1068734430"
+            }
+          ]
+        },
+        "diversifying income sources and building strong economy": {
+          "answer": "diversifying income sources and building strong economy",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            }
+          ]
+        },
+        "vibrant society, ambitious nation, and thriving economy": {
+          "answer": "vibrant society, ambitious nation, and thriving economy",
+          "references": [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        },
+        "improving quality of life and enhancing global competitiveness": {
+          "answer": "improving quality of life and enhancing global competitiveness",
+          "references": [
+            {
+              "doc_id": "c182c505-0548-4872-aff7-786584bdc378_44903384"
+            }
+          ]
+        },
+        "prosperous and sustainable future aligned with UN goals": {
+          "answer": "prosperous and sustainable future aligned with UN goals",
+          "references": [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ]
+        },
+        "Vision 2030 aims to build a vibrant and safe society": {
+          "answer": "Vision 2030 aims to build a vibrant and safe society",
+          "references": [
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_129629279"
+            }
+          ]
+        },
+        "making Saudi Arabia a successful and globally leading model": {
+          "answer": "making Saudi Arabia a successful and globally leading model",
+          "references": [
+            {
+              "doc_id": "d5cfca4d-1f22-4ed7-9692-1b12bc638a57_821927739"
+            }
+          ]
+        },
+        "transition to post-oil economy with sustainable development focus": {
+          "answer": "transition to post-oil economy with sustainable development focus",
+          "references": [
+            {
+              "doc_id": "a657422c-6b5d-43c2-962d-346ef3b07a70_1003974169"
+            }
+          ]
+        },
+        "investing human and natural resources without oil dependence": {
+          "answer": "investing human and natural resources without oil dependence",
+          "references": [
+            {
+              "doc_id": "04f4db17-88d0-411d-a6e8-62935194f976_538343315"
+            }
+          ]
+        },
+        "make Saudi Arabia a regional and international power": {
+          "answer": "make Saudi Arabia a regional and international power",
+          "references": [
+            {
+              "doc_id": "1667adcf-faae-489b-bf72-3f48e6d83d3a_158370430"
+            }
+          ]
+        },
+        "diversify Saudi economy away from oil dependency": {
+          "answer": "diversify Saudi economy away from oil dependency",
+          "references": [
+            {
+              "doc_id": "9bc0daaf-0a55-4dda-8d42-0ab9b451c445_413143893"
+            }
+          ]
+        }
+      },
+      "question_id": "dc15f15e965d913f3c2313a0deb41ad4",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What are the three main pillars of Saudi Vision 2030?",
+          "What are key components of Saudi Vision 2030?",
+          "What are the main goals of Saudi Arabia's Vision 2030?",
+          "What are the three main goals of Saudi Arabia's Vision 2030?",
+          "What are the main goals of Saudi Vision 2030?",
+          "What does Saudi Arabia's Vision 2030 aim to achieve?",
+          "What is the main goal of Saudi Arabia's Vision 2030?",
+          "What is the main goal of Saudi Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "b13f56b9-bc35-4594-9d2d-69eaf0ac87fa_104811013"
+            },
+            {
+              "doc_id": "37684de4-1047-4f84-91e3-cfb07289f11f_471662196"
+            }
+          ],
+          [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            }
+          ],
+          [
+            {
+              "doc_id": "cbda1669-f39c-4ab8-9dac-c23403569141_45867703"
+            },
+            {
+              "doc_id": "168786f5-073c-4652-87ef-fedd4ae255d3_1068734430"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            }
+          ],
+          [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ],
+          [
+            {
+              "doc_id": "c182c505-0548-4872-aff7-786584bdc378_44903384"
+            }
+          ],
+          [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ],
+          [
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_129629279"
+            },
+            {
+              "doc_id": "d5cfca4d-1f22-4ed7-9692-1b12bc638a57_821927739"
+            },
+            {
+              "doc_id": "a657422c-6b5d-43c2-962d-346ef3b07a70_1003974169"
+            },
+            {
+              "doc_id": "04f4db17-88d0-411d-a6e8-62935194f976_538343315"
+            }
+          ],
+          [
+            {
+              "doc_id": "1667adcf-faae-489b-bf72-3f48e6d83d3a_158370430"
+            },
+            {
+              "doc_id": "9bc0daaf-0a55-4dda-8d42-0ab9b451c445_413143893"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it is the most encompassing and directly addresses the core of MBS's 2030 vision, which is a central part of the user's request.",
+        "num_paraphrases_unique": 8,
+        "num_paraphrases_total": 16,
+        "num_answers": 15
+      }
+    },
+    "When did Mohammed bin Salman launch Saudi Arabia's Vision 2030?": {
+      "question": "When did Mohammed bin Salman launch Saudi Arabia's Vision 2030?",
+      "answers": {
+        "April 25, 2016": {
+          "answer": "April 25, 2016",
+          "references": [
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            }
+          ]
+        },
+        "2016": {
+          "answer": "2016",
+          "references": [
+            {
+              "doc_id": "418b3e41-7722-4ebf-8685-e87ad46ba68f_53332937"
+            },
+            {
+              "doc_id": "79c746e0-a41a-45d4-88c6-ea5b9cf77a73_225667170"
+            },
+            {
+              "doc_id": "8bf4b324-0fa4-4953-b361-028af7597974_481978147"
+            }
+          ]
+        },
+        "April 2016": {
+          "answer": "April 2016",
+          "references": [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            },
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ]
+        },
+        "Vision 2030 launched on April 25, 2016": {
+          "answer": "Vision 2030 launched on April 25, 2016",
+          "references": [
+            {
+              "doc_id": "9381ba79-dc61-4901-a265-9536dc184ee9_676486309"
+            }
+          ]
+        },
+        "Vision 2030 launched in 2016": {
+          "answer": "Vision 2030 launched in 2016",
+          "references": [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        },
+        "Vision 2030 launched in April 2016": {
+          "answer": "Vision 2030 launched in April 2016",
+          "references": [
+            {
+              "doc_id": "cbda1669-f39c-4ab8-9dac-c23403569141_45867703"
+            }
+          ]
+        }
+      },
+      "question_id": "6aa94264fa80fcebc241c2aadd140110",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "When did Crown Prince Mohammed bin Salman launch Saudi Vision 2030?",
+          "In which year did Mohammed bin Salman launch Vision 2030?",
+          "When was Mohammed bin Salman's Saudi Vision 2030 announced?",
+          "When did Mohammed bin Salman launch Saudi Arabia's Vision 2030?",
+          "When did Mohammed bin Salman launch Saudi Vision 2030?",
+          "When was Saudi Arabia's Vision 2030 officially launched?",
+          "When did King Salman launch Saudi Arabia's Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            }
+          ],
+          [
+            {
+              "doc_id": "418b3e41-7722-4ebf-8685-e87ad46ba68f_53332937"
+            },
+            {
+              "doc_id": "79c746e0-a41a-45d4-88c6-ea5b9cf77a73_225667170"
+            }
+          ],
+          [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            }
+          ],
+          [
+            {
+              "doc_id": "9381ba79-dc61-4901-a265-9536dc184ee9_676486309"
+            },
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ],
+          [
+            {
+              "doc_id": "8bf4b324-0fa4-4953-b361-028af7597974_481978147"
+            }
+          ],
+          [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ],
+          [
+            {
+              "doc_id": "cbda1669-f39c-4ab8-9dac-c23403569141_45867703"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it directly inquires about the launch of MBS's Vision 2030, which is a central aspect of the user's request for information on MBS's reforms and vision for Saudi Arabia.",
+        "num_paraphrases_unique": 7,
+        "num_paraphrases_total": 9,
+        "num_answers": 6
+      }
+    },
+    "What are the main goals of Mohammed bin Salman's Vision 2030?": {
+      "question": "What are the main goals of Mohammed bin Salman's Vision 2030?",
+      "answers": {
+        "modernize economy and transform Saudi Arabia into tourism destination": {
+          "answer": "modernize economy and transform Saudi Arabia into tourism destination",
+          "references": [
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            }
+          ]
+        },
+        "diversify national economy and reduce oil dependence": {
+          "answer": "diversify national economy and reduce oil dependence",
+          "references": [
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            }
+          ]
+        },
+        "diversify economy, modernize infrastructure, expand social freedoms": {
+          "answer": "diversify economy, modernize infrastructure, expand social freedoms",
+          "references": [
+            {
+              "doc_id": "e6aa347f-8849-47a0-9a31-c7458eb1a237_71661160"
+            }
+          ]
+        },
+        "diversifying Saudi Arabia's oil-dependent economy and global reputation": {
+          "answer": "diversifying Saudi Arabia's oil-dependent economy and global reputation",
+          "references": [
+            {
+              "doc_id": "67f6380e-70fa-47d7-b17c-ee7b25663f2f_895793388"
+            }
+          ]
+        },
+        "comprehensive development plan to diversify economy and attract foreign investment": {
+          "answer": "comprehensive development plan to diversify economy and attract foreign investment",
+          "references": [
+            {
+              "doc_id": "418b3e41-7722-4ebf-8685-e87ad46ba68f_53332937"
+            }
+          ]
+        },
+        "economic diversification away from oil dependency": {
+          "answer": "economic diversification away from oil dependency",
+          "references": [
+            {
+              "doc_id": "13b92953-9d61-4f72-a995-bb05c75c4e66_1029199260"
+            }
+          ]
+        },
+        "diversify Saudi Arabia's economy away from oil dependency": {
+          "answer": "diversify Saudi Arabia's economy away from oil dependency",
+          "references": [
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        }
+      },
+      "question_id": "ce6885ecfac89592fa949774a65f2dff",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What are the main goals of Mohammed bin Salman's Vision 2030?",
+          "What are the main goals of Crown Prince Mohammed bin Salman's Vision 2030?",
+          "What is the main purpose of Mohammed bin Salman's Vision 2030?",
+          "What is the main goal of Mohammed bin Salman's Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            },
+            {
+              "doc_id": "e6aa347f-8849-47a0-9a31-c7458eb1a237_71661160"
+            }
+          ],
+          [
+            {
+              "doc_id": "67f6380e-70fa-47d7-b17c-ee7b25663f2f_895793388"
+            }
+          ],
+          [
+            {
+              "doc_id": "418b3e41-7722-4ebf-8685-e87ad46ba68f_53332937"
+            }
+          ],
+          [
+            {
+              "doc_id": "13b92953-9d61-4f72-a995-bb05c75c4e66_1029199260"
+            },
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it directly inquires about the main goals of MBS's Vision 2030, which aligns with the user's request for a report on the 2030 vision and its associated reforms.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 7,
+        "num_answers": 7
+      }
+    },
+    "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?": {
+      "question": "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
+      "answers": {
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ]
+        },
+        "diversifying income sources and combating corruption and extremism": {
+          "answer": "diversifying income sources and combating corruption and extremism",
+          "references": [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ]
+        },
+        "Vision 2030 modernization plan": {
+          "answer": "Vision 2030 modernization plan",
+          "references": [
+            {
+              "doc_id": "f14b5c9e-084a-4291-8dc9-a631b84e6c4c_107673090"
+            }
+          ]
+        },
+        "institutional restructuring and fighting corruption within the royal family": {
+          "answer": "institutional restructuring and fighting corruption within the royal family",
+          "references": [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ]
+        },
+        "Vision 2030 transformational projects": {
+          "answer": "Vision 2030 transformational projects",
+          "references": [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ]
+        },
+        "Vision 2030 economic modernization program": {
+          "answer": "Vision 2030 economic modernization program",
+          "references": [
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            }
+          ]
+        }
+      },
+      "question_id": "29e942e062c22d410f09708aa3c865bb",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
+          "What are Mohammed bin Salman's key reform objectives for Saudi Arabia?",
+          "What is Mohammed bin Salman's reform initiative for Saudi Arabia?",
+          "What major internal reforms has Mohammed bin Salman implemented in Saudi Arabia?",
+          "What major reform initiative is Mohammed bin Salman leading in Saudi Arabia?",
+          "What major reform initiative has Mohammed bin Salman Al Saud launched?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ],
+          [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ],
+          [
+            {
+              "doc_id": "f14b5c9e-084a-4291-8dc9-a631b84e6c4c_107673090"
+            }
+          ],
+          [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ],
+          [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ],
+          [
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it specifically asks for a comprehensive reform plan, which aligns with the user's request for a report on MBS's 2030 vision and its associated social and economic reforms.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 7,
+        "num_answers": 6
+      }
+    },
+    "What major women's rights reforms did Mohammed bin Salman introduce?": {
+      "question": "What major women's rights reforms did Mohammed bin Salman introduce?",
+      "answers": {
+        "allowing women to drive cars and attend events": {
+          "answer": "allowing women to drive cars and attend events",
+          "references": [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ]
+        },
+        "allowing women to drive cars and attend sporting events": {
+          "answer": "allowing women to drive cars and attend sporting events",
+          "references": [
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            }
+          ]
+        },
+        "allowing women to drive cars and enter stadiums": {
+          "answer": "allowing women to drive cars and enter stadiums",
+          "references": [
+            {
+              "doc_id": "dff411ea-6bad-4590-960c-2eaa0786f406_721279838"
+            }
+          ]
+        },
+        "significant empowerment of Saudi women and life quality improvements": {
+          "answer": "significant empowerment of Saudi women and life quality improvements",
+          "references": [
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            }
+          ]
+        },
+        "women's empowerment across various fields and activities": {
+          "answer": "women's empowerment across various fields and activities",
+          "references": [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            }
+          ]
+        },
+        "allowing women to drive cars and enter sports stadiums": {
+          "answer": "allowing women to drive cars and enter sports stadiums",
+          "references": [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ]
+        }
+      },
+      "question_id": "abc4be810f9f0c3373708eb09d6f2605",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What women's rights reforms did Mohammed bin Salman introduce?",
+          "What social reforms has Mohammed bin Salman implemented regarding women's rights?",
+          "What women's rights improvements has Mohammed bin Salman implemented?",
+          "What major women's rights reforms did Mohammed bin Salman introduce?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "dff411ea-6bad-4590-960c-2eaa0786f406_721279838"
+            }
+          ],
+          [
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            }
+          ],
+          [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            }
+          ],
+          [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most comprehensive and specific, using the phrase 'major women's rights reforms' which implies a broader scope of changes introduced by MBS.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 6,
+        "num_answers": 6
+      }
+    },
+    "When was Mohammed bin Salman Al Saud appointed as Crown Prince?": {
+      "question": "When was Mohammed bin Salman Al Saud appointed as Crown Prince?",
+      "answers": {
+        "June 2017": {
+          "answer": "June 2017",
+          "references": [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ]
+        },
+        "seven years ago": {
+          "answer": "seven years ago",
+          "references": [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ]
+        },
+        "June 21, 2017": {
+          "answer": "June 21, 2017",
+          "references": [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ]
+        },
+        "2017": {
+          "answer": "2017",
+          "references": [
+            {
+              "doc_id": "dff411ea-6bad-4590-960c-2eaa0786f406_721279838"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            }
+          ]
+        }
+      },
+      "question_id": "849c40833a3d567a8c019c450bdf60d6",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "When was Mohammed bin Salman appointed as Crown Prince?",
+          "When did Mohammed bin Salman become Crown Prince of Saudi Arabia?",
+          "When was Mohammed bin Salman Al Saud appointed as Crown Prince?",
+          "In which year did Mohammed bin Salman become Crown Prince?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ],
+          [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            },
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            },
+            {
+              "doc_id": "dff411ea-6bad-4590-960c-2eaa0786f406_721279838"
+            }
+          ],
+          [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ],
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_320318346"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most detailed and specific, including MBS's full name, making it the most representative of the user's request for information about him.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 6,
+        "num_answers": 4
+      }
+    },
+    "What economic transformation does Saudi Vision 2030 aim for?": {
+      "question": "What economic transformation does Saudi Vision 2030 aim for?",
+      "answers": {
+        "reducing dependence on oil toward developing local economy": {
+          "answer": "reducing dependence on oil toward developing local economy",
+          "references": [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            }
+          ]
+        },
+        "comprehensive developmental renaissance": {
+          "answer": "comprehensive developmental renaissance",
+          "references": [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ]
+        },
+        "economic diversification and growth continuation": {
+          "answer": "economic diversification and growth continuation",
+          "references": [
+            {
+              "doc_id": "c2ea8378-284e-41e4-83c2-5e65e89c6096_470502412"
+            }
+          ]
+        },
+        "diversify economy and reduce oil dependence": {
+          "answer": "diversify economy and reduce oil dependence",
+          "references": [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            }
+          ]
+        },
+        "sustainable economic growth and reduced oil dependency": {
+          "answer": "sustainable economic growth and reduced oil dependency",
+          "references": [
+            {
+              "doc_id": "9ae1438b-aed6-4206-9bd9-af4ff5d9a5e6_55869906"
+            }
+          ]
+        }
+      },
+      "question_id": "472a0f50d0eef5603fa60b72b3972d5d",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What economic transformation does Saudi Vision 2030 aim for?",
+          "What type of transformation is Saudi Arabia experiencing under Vision 2030?",
+          "What economic goals does Saudi Vision 2030 focus on?",
+          "What are the main economic goals of Saudi Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "726b60f3-8510-415e-9387-ad31b8cd8cba_358229779"
+            }
+          ],
+          [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ],
+          [
+            {
+              "doc_id": "c2ea8378-284e-41e4-83c2-5e65e89c6096_470502412"
+            }
+          ],
+          [
+            {
+              "doc_id": "776d6523-b2ce-4640-8969-33bc9666c8d7_71692390"
+            },
+            {
+              "doc_id": "9ae1438b-aed6-4206-9bd9-af4ff5d9a5e6_55869906"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about the economic transformation, which is a key aspect of MBS' 2030 vision and relevant to the user's request for information on social and economic reforms.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 5,
+        "num_answers": 5
+      }
+    },
+    "Who leads Saudi Arabia's Vision 2030 initiative?": {
+      "question": "Who leads Saudi Arabia's Vision 2030 initiative?",
+      "answers": {
+        "Crown Prince Mohammed bin Salman": {
+          "answer": "Crown Prince Mohammed bin Salman",
+          "references": [
+            {
+              "doc_id": "9ff833e1-c1d4-4658-9be0-5861973fea8f_72248479"
+            },
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        },
+        "Mohammed bin Salman bin Abdulaziz Al Saud": {
+          "answer": "Mohammed bin Salman bin Abdulaziz Al Saud",
+          "references": [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ]
+        },
+        "Mohammed bin Salman": {
+          "answer": "Mohammed bin Salman",
+          "references": [
+            {
+              "doc_id": "a24f177b-e40a-4466-a8ca-27ce2859e6d1_716889618"
+            }
+          ]
+        },
+        "Crown Prince Mohammed bin Salman Al Saud": {
+          "answer": "Crown Prince Mohammed bin Salman Al Saud",
+          "references": [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ]
+        }
+      },
+      "question_id": "7824bd3137c5e0c7e1b66dfd10ed0f87",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Who is implementing Saudi Arabia's Vision 2030 development plan?",
+          "Who is leading Saudi Arabia's Vision 2030 development initiative?",
+          "Who leads Saudi Vision 2030's comprehensive development initiative?",
+          "Who leads Saudi Arabia's Vision 2030 initiative?",
+          "Who leads Saudi Arabia's Vision 2030 transformation program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9ff833e1-c1d4-4658-9be0-5861973fea8f_72248479"
+            }
+          ],
+          [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ],
+          [
+            {
+              "doc_id": "a24f177b-e40a-4466-a8ca-27ce2859e6d1_716889618"
+            }
+          ],
+          [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ],
+          [
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the leader of Saudi Arabia's Vision 2030 initiative, which is the central figure of the user's request.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 4
+      }
+    },
+    "What major project is part of Mohammed bin Salman's Vision 2030?": {
+      "question": "What major project is part of Mohammed bin Salman's Vision 2030?",
+      "answers": {
+        "The Line megacity project within NEOM development": {
+          "answer": "The Line megacity project within NEOM development",
+          "references": [
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            }
+          ]
+        },
+        "NEOM megacity project worth 500 billion dollars": {
+          "answer": "NEOM megacity project worth 500 billion dollars",
+          "references": [
+            {
+              "doc_id": "9bc0daaf-0a55-4dda-8d42-0ab9b451c445_413143893"
+            }
+          ]
+        },
+        "futuristic megacity Neom project within Vision 2030 program": {
+          "answer": "futuristic megacity Neom project within Vision 2030 program",
+          "references": [
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        },
+        "NEOM city costing 500 billion dollars": {
+          "answer": "NEOM city costing 500 billion dollars",
+          "references": [
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        }
+      },
+      "question_id": "2a445ef8368d9e20c708893074c1bc50",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What major project is part of Mohammed bin Salman's Vision 2030?",
+          "What ambitious project is Mohammed bin Salman developing under Vision 2030?",
+          "What ambitious project exemplifies Mohammed bin Salman's Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9bc0daaf-0a55-4dda-8d42-0ab9b451c445_413143893"
+            }
+          ],
+          [
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ],
+          [
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about a major project under Vision 2030, which is a key aspect of MBS's reforms.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "What economic achievement has Mohammed bin Salman delivered for Saudi Arabia?": {
+      "question": "What economic achievement has Mohammed bin Salman delivered for Saudi Arabia?",
+      "answers": {
+        "13% growth rate among G20 nations": {
+          "answer": "13% growth rate among G20 nations",
+          "references": [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ]
+        },
+        "8.7% GDP growth, fastest among G20 nations in 2022": {
+          "answer": "8.7% GDP growth, fastest among G20 nations in 2022",
+          "references": [
+            {
+              "doc_id": "532d4cf9-2ed3-435e-9c5e-76bb3fb4981c_72730554"
+            },
+            {
+              "doc_id": "2bba158f-9658-4b31-80f0-b91171fba07a_356300910"
+            }
+          ]
+        },
+        "sustainable prosperity independent of oil price fluctuations": {
+          "answer": "sustainable prosperity independent of oil price fluctuations",
+          "references": [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        }
+      },
+      "question_id": "2d9880b1355b497bad3083d5b422c00d",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What economic achievement has Saudi Arabia reached under Mohammed bin Salman?",
+          "What economic achievement did Saudi Arabia reach under Mohammed bin Salman?",
+          "What economic achievement did Saudi Arabia accomplish under Mohammed bin Salman?",
+          "What economic achievement has Mohammed bin Salman delivered for Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ],
+          [
+            {
+              "doc_id": "532d4cf9-2ed3-435e-9c5e-76bb3fb4981c_72730554"
+            }
+          ],
+          [
+            {
+              "doc_id": "2bba158f-9658-4b31-80f0-b91171fba07a_356300910"
+            }
+          ],
+          [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it uses the most active and direct verb phrase, implying a sense of agency and accomplishment by Mohammed bin Salman.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 3
+      }
+    },
+    "What is Mohammed bin Salman's economic development plan called?": {
+      "question": "What is Mohammed bin Salman's economic development plan called?",
+      "answers": {
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "0d18d055-94f8-4760-b364-88c20fa49a0e_488238643"
+            },
+            {
+              "doc_id": "a74bc9ad-9bc0-4177-b8e8-82bed42b64af_1013426139"
+            },
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            },
+            {
+              "doc_id": "168786f5-073c-4652-87ef-fedd4ae255d3_1068734430"
+            }
+          ]
+        }
+      },
+      "question_id": "760fb18a1555fb39e073491ee217ab95",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Mohammed bin Salman's economic development plan called?",
+          "What is Mohammed bin Salman's economic transformation plan called?",
+          "What is Mohammed bin Salman's economic transformation program called?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0d18d055-94f8-4760-b364-88c20fa49a0e_488238643"
+            },
+            {
+              "doc_id": "a74bc9ad-9bc0-4177-b8e8-82bed42b64af_1013426139"
+            }
+          ],
+          [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ],
+          [
+            {
+              "doc_id": "168786f5-073c-4652-87ef-fedd4ae255d3_1068734430"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request because it directly inquires about MBS's economic plan, which is a key aspect of his 2030 vision for Saudi Arabia.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 4,
+        "num_answers": 1
+      }
+    },
+    "What is the main economic goal of Crown Prince Mohammed bin Salman's Vision 2030?": {
+      "question": "What is the main economic goal of Crown Prince Mohammed bin Salman's Vision 2030?",
+      "answers": {
+        "diversify Saudi Arabia's economy beyond oil revenue": {
+          "answer": "diversify Saudi Arabia's economy beyond oil revenue",
+          "references": [
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            }
+          ]
+        },
+        "transforming Saudi Arabia from consumer to technology and industry producer": {
+          "answer": "transforming Saudi Arabia from consumer to technology and industry producer",
+          "references": [
+            {
+              "doc_id": "fe461897-dad5-4734-9f9a-b0ad682d8f8f_160058893"
+            }
+          ]
+        },
+        "transforming Saudi economy away from oil dependency": {
+          "answer": "transforming Saudi economy away from oil dependency",
+          "references": [
+            {
+              "doc_id": "2850b41b-32a7-47ec-9052-8e372c44c7bf_258759677"
+            }
+          ]
+        }
+      },
+      "question_id": "b98222a8450d7f3980f09c6493b60c68",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is the main economic goal of Crown Prince Mohammed bin Salman's Vision 2030?",
+          "What is Mohammed bin Salman's Vision 2030 economic transformation goal?",
+          "What is the main economic goal of Mohammed bin Salman's Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            }
+          ],
+          [
+            {
+              "doc_id": "fe461897-dad5-4734-9f9a-b0ad682d8f8f_160058893"
+            }
+          ],
+          [
+            {
+              "doc_id": "2850b41b-32a7-47ec-9052-8e372c44c7bf_258759677"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the main economic goal of MBS's Vision 2030, which is a key aspect of the user's request.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What is Mohammed bin Salman's comprehensive reform strategy called?": {
+      "question": "What is Mohammed bin Salman's comprehensive reform strategy called?",
+      "answers": {
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ]
+        },
+        "Saudi Vision 2030": {
+          "answer": "Saudi Vision 2030",
+          "references": [
+            {
+              "doc_id": "c2ea8378-284e-41e4-83c2-5e65e89c6096_470502412"
+            }
+          ]
+        },
+        "Vision 2030 modernization plan": {
+          "answer": "Vision 2030 modernization plan",
+          "references": [
+            {
+              "doc_id": "f4d7459f-4925-45e8-ab17-726127e1a398_157742883"
+            }
+          ]
+        }
+      },
+      "question_id": "7f174dcc39a19ffc7290e251fb6316c5",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is the name of Mohammed bin Salman's reform plan?",
+          "What is Mohammed bin Salman's comprehensive reform strategy called?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "c2ea8378-284e-41e4-83c2-5e65e89c6096_470502412"
+            }
+          ],
+          [
+            {
+              "doc_id": "f4d7459f-4925-45e8-ab17-726127e1a398_157742883"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about the name of MBS's reform plan, which is a key aspect of the user's request for information about the 2030 vision of Saudi Arabia.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What new rights have Saudi women gained under Mohammed bin Salman?": {
+      "question": "What new rights have Saudi women gained under Mohammed bin Salman?",
+      "answers": {
+        "driving cars and holding ministerial and ambassadorial positions": {
+          "answer": "driving cars and holding ministerial and ambassadorial positions",
+          "references": [
+            {
+              "doc_id": "f8ac333a-df70-4537-8689-122137e47402_654120225"
+            }
+          ]
+        },
+        "driving cars and participating in municipal elections": {
+          "answer": "driving cars and participating in municipal elections",
+          "references": [
+            {
+              "doc_id": "04f4db17-88d0-411d-a6e8-62935194f976_538343315"
+            }
+          ]
+        },
+        "allowing women to drive cars": {
+          "answer": "allowing women to drive cars",
+          "references": [
+            {
+              "doc_id": "a1ef125b-5c86-41ef-8d6e-8448cb5fdb22_290448859"
+            }
+          ]
+        }
+      },
+      "question_id": "253018f27552ba134f4256228d362a84",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What new rights have Saudi women gained under Mohammed bin Salman?",
+          "What new rights did Saudi women gain under recent reforms?",
+          "What major women's rights reform did Saudi Arabia implement recently?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f8ac333a-df70-4537-8689-122137e47402_654120225"
+            }
+          ],
+          [
+            {
+              "doc_id": "04f4db17-88d0-411d-a6e8-62935194f976_538343315"
+            }
+          ],
+          [
+            {
+              "doc_id": "a1ef125b-5c86-41ef-8d6e-8448cb5fdb22_290448859"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it directly mentions Mohammed bin Salman, providing context for the reforms and their initiator.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What are the main economic goals of Vision 2030?": {
+      "question": "What are the main economic goals of Vision 2030?",
+      "answers": {
+        "reduce dependence on oil and attract tourists": {
+          "answer": "reduce dependence on oil and attract tourists",
+          "references": [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ]
+        },
+        "reduce dependence on oil and increase non-oil revenues": {
+          "answer": "reduce dependence on oil and increase non-oil revenues",
+          "references": [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ]
+        },
+        "diversify income sources and reduce oil dependence": {
+          "answer": "diversify income sources and reduce oil dependence",
+          "references": [
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            }
+          ]
+        }
+      },
+      "question_id": "32804077638ce02ef722e026e376697d",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What are the main economic goals of Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            },
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "How has Vision 2030 changed Saudi Arabia's global position?": {
+      "question": "How has Vision 2030 changed Saudi Arabia's global position?",
+      "answers": {
+        "enhanced Saudi Arabia's international standing and global political roles": {
+          "answer": "enhanced Saudi Arabia's international standing and global political roles",
+          "references": [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ]
+        },
+        "made Saudi Arabia the focus of the world": {
+          "answer": "made Saudi Arabia the focus of the world",
+          "references": [
+            {
+              "doc_id": "ace098f0-7402-42bb-a927-552659c552a8_614717274"
+            }
+          ]
+        }
+      },
+      "question_id": "48ac52cc9ca7c780a9a906d55aca5b16",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What international impact has Vision 2030 had on Saudi Arabia?",
+          "How has Vision 2030 changed Saudi Arabia's global position?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ],
+          [
+            {
+              "doc_id": "ace098f0-7402-42bb-a927-552659c552a8_614717274"
+            }
+          ]
+        ],
+        "canonical_explanation": "The second question is chosen because it directly addresses the change in Saudi Arabia's global standing, which is more relevant to changing the West's view of the country.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How has Vision 2030 improved social conditions in Saudi Arabia?": {
+      "question": "How has Vision 2030 improved social conditions in Saudi Arabia?",
+      "answers": {
+        "enhancing citizenship rights and gender equality": {
+          "answer": "enhancing citizenship rights and gender equality",
+          "references": [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ]
+        },
+        "improving quality of life for citizens and residents": {
+          "answer": "improving quality of life for citizens and residents",
+          "references": [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ]
+        }
+      },
+      "question_id": "c60b159b191b8ca031c2ad90acc763ad",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "How has Vision 2030 improved social conditions in Saudi Arabia?",
+          "How has Vision 2030 enhanced social conditions in Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ],
+          [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical, but the first one is slightly more concise and directly asks about improvement, making it a more representative query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What financial milestone did Saudi Arabia achieve under Mohammed bin Salman?": {
+      "question": "What financial milestone did Saudi Arabia achieve under Mohammed bin Salman?",
+      "answers": {
+        "first budget surplus in seven years in 2022": {
+          "answer": "first budget surplus in seven years in 2022",
+          "references": [
+            {
+              "doc_id": "5cf37d1f-131f-4c86-bfc6-8d1f308d39be_266345765"
+            }
+          ]
+        },
+        "first budget surplus achieved in years": {
+          "answer": "first budget surplus achieved in years",
+          "references": [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        }
+      },
+      "question_id": "6aa5ff1cef1b47c4098f3690e170636a",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What financial milestone did Saudi Arabia achieve under Mohammed bin Salman's reforms?",
+          "What financial milestone did Saudi Arabia achieve under Mohammed bin Salman?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5cf37d1f-131f-4c86-bfc6-8d1f308d39be_266345765"
+            }
+          ],
+          [
+            {
+              "doc_id": "17686725-e6b2-42b7-ad90-e1d73dd68a8b_845745419"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly references the reforms implemented by Mohammed bin Salman, which is a key aspect of the user's request for information on MBS's 2030 vision and social and economic reforms.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What is the total cost of the Neom megaproject?": {
+      "question": "What is the total cost of the Neom megaproject?",
+      "answers": {
+        "$1.5 trillion estimated cost": {
+          "answer": "$1.5 trillion estimated cost",
+          "references": [
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            }
+          ]
+        },
+        "$500 billion": {
+          "answer": "$500 billion",
+          "references": [
+            {
+              "doc_id": "43ab9c90-7c36-4b2a-94cd-117c9dfa55c8_33332921"
+            }
+          ]
+        }
+      },
+      "question_id": "63fefd78baa4858bb8dbb3cbcbf9eba8",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is the estimated cost of the NEOM project?",
+          "What is the total cost of the Neom megaproject?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            }
+          ],
+          [
+            {
+              "doc_id": "43ab9c90-7c36-4b2a-94cd-117c9dfa55c8_33332921"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question 'What is the total cost of the Neom megaproject?' is selected as it is a more comprehensive and clear inquiry about the NEOM project, which is a key part of MBS' 2030 vision.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    }
+  }
+}

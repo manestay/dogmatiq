@@ -1,0 +1,650 @@
+{
+  "query_id": "1025",
+  "title_query": "1025",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How did Keiko Wong challenge gender stereotypes in motorsports?": {
+      "question": "How did Keiko Wong challenge gender stereotypes in motorsports?",
+      "answers": {
+        "Keiko Wong broke traditional male-dominated racing sport barriers": {
+          "answer": "Keiko Wong broke traditional male-dominated racing sport barriers",
+          "references": [
+            {
+              "doc_id": "184485a7-25df-4efa-b2f3-f28ae72d25e3_181878983"
+            }
+          ]
+        }
+      },
+      "question_id": "26d69cf29ca8d8d5c39f996b52719b62",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How did Keiko Wong challenge gender stereotypes in motorsports?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "184485a7-25df-4efa-b2f3-f28ae72d25e3_181878983"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What training does GFL Environmental offer for new commercial drivers?": {
+      "question": "What training does GFL Environmental offer for new commercial drivers?",
+      "answers": {
+        "paid 10-week training program for inexperienced A/Z drivers": {
+          "answer": "paid 10-week training program for inexperienced A/Z drivers",
+          "references": [
+            {
+              "doc_id": "abfeec46-c2fd-4a5a-b844-dc2b344057aa_471093079"
+            }
+          ]
+        }
+      },
+      "question_id": "165965833e870c42c828e7aef494efc5",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What training does GFL Environmental offer for new commercial drivers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "abfeec46-c2fd-4a5a-b844-dc2b344057aa_471093079"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How successful has the Sisters in Mining program been?": {
+      "question": "How successful has the Sisters in Mining program been?",
+      "answers": {
+        "75 women completed with 90 percent employment rate": {
+          "answer": "75 women completed with 90 percent employment rate",
+          "references": [
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            }
+          ]
+        }
+      },
+      "question_id": "2bd1b76e6cf0b9724e2d4f6226240e69",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How successful has the Sisters in Mining program been?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What does this document say about women crane operators?": {
+      "question": "What does this document say about women crane operators?",
+      "answers": {
+        "No relevant information about women in construction available": {
+          "answer": "No relevant information about women in construction available",
+          "references": [
+            {
+              "doc_id": "bcc647a6-994c-4a29-9e73-94dd1fe985c3_465506412"
+            }
+          ]
+        }
+      },
+      "question_id": "5f0671e56f15d8d56bb567d1d8adf65a",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What does this document say about women crane operators?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "be3e06a5-ef04-4205-9a03-3294e6081db7_321277915"
+            },
+            {
+              "doc_id": "bcc647a6-994c-4a29-9e73-94dd1fe985c3_465506412"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "What physical challenges did the female trainee overcome?": {
+      "question": "What physical challenges did the female trainee overcome?",
+      "answers": {
+        "carrying 10+ kg equipment for land and sea operations": {
+          "answer": "carrying 10+ kg equipment for land and sea operations",
+          "references": [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        }
+      },
+      "question_id": "242913204654a0064f9f30acdc702409",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What physical challenges did the female trainee overcome?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How does Egypt's National Council support women's technical skills?": {
+      "question": "How does Egypt's National Council support women's technical skills?",
+      "answers": {
+        "training women and girls in crafts and industries": {
+          "answer": "training women and girls in crafts and industries",
+          "references": [
+            {
+              "doc_id": "207175f2-ab1f-491c-b9ca-1d49daf32d72_913741610"
+            }
+          ]
+        }
+      },
+      "question_id": "c9fdb3077892919aac6480ff00c21025",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How does Egypt's National Council support women's technical skills?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "207175f2-ab1f-491c-b9ca-1d49daf32d72_913741610"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Karen Cañizares advance her construction career at Meralco?": {
+      "question": "How did Karen Cañizares advance her construction career at Meralco?",
+      "answers": {
+        "Karen Cañizares progressed from trainee to Quality Inspector": {
+          "answer": "Karen Cañizares progressed from trainee to Quality Inspector",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "d8c94f0f8086f4fe0d9cde9a61001181",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How did Karen Cañizares advance her construction career at Meralco?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What career transition did Caitlin Gent make?": {
+      "question": "What career transition did Caitlin Gent make?",
+      "answers": {
+        "Royal Navy to TransPennine Express assistant commercial engineer role": {
+          "answer": "Royal Navy to TransPennine Express assistant commercial engineer role",
+          "references": [
+            {
+              "doc_id": "81a9ef56-c341-4ec4-9c48-dccc8e0a0888_1071056663"
+            }
+          ]
+        }
+      },
+      "question_id": "21de0c0d0d20cc33894504db4a13f1ea",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What career transition did Caitlin Gent make?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "81a9ef56-c341-4ec4-9c48-dccc8e0a0888_1071056663"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Latifa Ahmad challenge traditional gender roles in Lebanon?": {
+      "question": "How did Latifa Ahmad challenge traditional gender roles in Lebanon?",
+      "answers": {
+        "Latifa Ahmad broke gender barriers in vegetable vending profession": {
+          "answer": "Latifa Ahmad broke gender barriers in vegetable vending profession",
+          "references": [
+            {
+              "doc_id": "ce448834-76a3-45fc-9e21-d339e03b2bee_749844094"
+            }
+          ]
+        }
+      },
+      "question_id": "c76710f7fbf914cba55cab413319e93a",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How did Latifa Ahmad challenge traditional gender roles in Lebanon?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ce448834-76a3-45fc-9e21-d339e03b2bee_749844094"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What inspiring case study shows women succeeding in construction-related fields?": {
+      "question": "What inspiring case study shows women succeeding in construction-related fields?",
+      "answers": {
+        "29-year-old female student became offshore wind technician": {
+          "answer": "29-year-old female student became offshore wind technician",
+          "references": [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        }
+      },
+      "question_id": "03f29401710ae45c42d65e70f70f9d18",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What inspiring case study shows women succeeding in construction-related fields?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where are female operators breaking barriers in male-dominated industries?": {
+      "question": "Where are female operators breaking barriers in male-dominated industries?",
+      "answers": {
+        "Savannah River Site in Aiken, South Carolina": {
+          "answer": "Savannah River Site in Aiken, South Carolina",
+          "references": [
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            }
+          ]
+        }
+      },
+      "question_id": "50382b4c8f85aee6e2f34e74bcd830ef",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Where are female operators breaking barriers in male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When were Saudi women first allowed to drive cars?": {
+      "question": "When were Saudi women first allowed to drive cars?",
+      "answers": {
+        "2018": {
+          "answer": "2018",
+          "references": [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        }
+      },
+      "question_id": "95d781860b1978e2976a521775c57185",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "When were Saudi women first allowed to drive cars?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What proportion of Hong Kong construction workers are women?": {
+      "question": "What proportion of Hong Kong construction workers are women?",
+      "answers": {
+        "one-third of construction site workers in Hong Kong": {
+          "answer": "one-third of construction site workers in Hong Kong",
+          "references": [
+            {
+              "doc_id": "d6b57792-4e8a-4a06-9eb4-9684a032d0e2_988354764"
+            }
+          ]
+        }
+      },
+      "question_id": "5a0bb7de43ce41493bdd7164709c501a",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What proportion of Hong Kong construction workers are women?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d6b57792-4e8a-4a06-9eb4-9684a032d0e2_988354764"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where is electric transport experiencing revival and development currently?": {
+      "question": "Where is electric transport experiencing revival and development currently?",
+      "answers": {
+        "western countries": {
+          "answer": "western countries",
+          "references": [
+            {
+              "doc_id": "431649e8-82b2-47c7-865f-0bd81c03432d_783227880"
+            }
+          ]
+        }
+      },
+      "question_id": "7124db7d1007389d4c4ab2c4de50deb5",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Where is electric transport experiencing revival and development currently?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "431649e8-82b2-47c7-865f-0bd81c03432d_783227880"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who are notable female leaders in traditionally male-dominated industries?": {
+      "question": "Who are notable female leaders in traditionally male-dominated industries?",
+      "answers": {
+        "Nathalie van de Poel, Maria Willshee, Heather Gould, Hilary Hart": {
+          "answer": "Nathalie van de Poel, Maria Willshee, Heather Gould, Hilary Hart",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "52805053298d534682b67f92aee446be",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Who are notable female leaders in traditionally male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What pioneering program demonstrates women's inclusion in electrical construction work?": {
+      "question": "What pioneering program demonstrates women's inclusion in electrical construction work?",
+      "answers": {
+        "Meralco Linecrew Training Program includes women since 2013": {
+          "answer": "Meralco Linecrew Training Program includes women since 2013",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "6831ce471498d207c09db83b118431ac",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What pioneering program demonstrates women's inclusion in electrical construction work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How long does it take to qualify as a harbor pilot?": {
+      "question": "How long does it take to qualify as a harbor pilot?",
+      "answers": {
+        "8 to 10 years minimum experience required": {
+          "answer": "8 to 10 years minimum experience required",
+          "references": [
+            {
+              "doc_id": "9953b3e0-e59f-4cbe-8af8-f620cd8e672d_650369487"
+            }
+          ]
+        }
+      },
+      "question_id": "d4ce3e3fbc4653590cd3a190c2fd45a9",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How long does it take to qualify as a harbor pilot?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9953b3e0-e59f-4cbe-8af8-f620cd8e672d_650369487"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How long does the ATDS truck driving training program take?": {
+      "question": "How long does the ATDS truck driving training program take?",
+      "answers": {
+        "five weeks": {
+          "answer": "five weeks",
+          "references": [
+            {
+              "doc_id": "e3d3443d-4f65-421c-bd9b-426fb9726814_196968886"
+            }
+          ]
+        }
+      },
+      "question_id": "137e18e6efd27d79200b33cb6fa64c5a",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How long does the ATDS truck driving training program take?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e3d3443d-4f65-421c-bd9b-426fb9726814_196968886"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What career paths does the Lifting Equipment Technician apprenticeship provide?": {
+      "question": "What career paths does the Lifting Equipment Technician apprenticeship provide?",
+      "answers": {
+        "crane design, equipment sales, and management skillsets": {
+          "answer": "crane design, equipment sales, and management skillsets",
+          "references": [
+            {
+              "doc_id": "2981dfca-63c3-4bc6-b366-5c1273311ff2_550477292"
+            }
+          ]
+        }
+      },
+      "question_id": "47eee708eda1113b231ec51ff4f33a52",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What career paths does the Lifting Equipment Technician apprenticeship provide?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2981dfca-63c3-4bc6-b366-5c1273311ff2_550477292"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How does technology advancement benefit women in maritime careers?": {
+      "question": "How does technology advancement benefit women in maritime careers?",
+      "answers": {
+        "digitalization creates opportunities leveling playing field for women": {
+          "answer": "digitalization creates opportunities leveling playing field for women",
+          "references": [
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_682674291"
+            }
+          ]
+        }
+      },
+      "question_id": "6d7181e2a027d6d7a86032efd13f95dc",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How does technology advancement benefit women in maritime careers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_682674291"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

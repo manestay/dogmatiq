@@ -1,0 +1,647 @@
+{
+  "query_id": "1029",
+  "title_query": "1029",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When was Frank Herbert's Dune first published?": {
+      "question": "When was Frank Herbert's Dune first published?",
+      "answers": {
+        "1965": {
+          "answer": "1965",
+          "references": [
+            {
+              "doc_id": "bd9d6fdc-5781-4020-ac1b-7c0dd81d7435_679675529"
+            }
+          ]
+        }
+      },
+      "question_id": "d6e6d090a3038c190abe84429a0db0d9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "When was Frank Herbert's Dune first published?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bd9d6fdc-5781-4020-ac1b-7c0dd81d7435_679675529"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What themes characterize contemporary late twentieth to early twenty-first century science fiction?": {
+      "question": "What themes characterize contemporary late twentieth to early twenty-first century science fiction?",
+      "answers": {
+        "ecological disasters, climate change, demographic challenges, resource scarcity, technological risks": {
+          "answer": "ecological disasters, climate change, demographic challenges, resource scarcity, technological risks",
+          "references": [
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            }
+          ]
+        }
+      },
+      "question_id": "816a8449ec3268e3264e2044e8b78fce",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What themes characterize contemporary late twentieth to early twenty-first century science fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How are contemporary science fiction writers expanding the genre?": {
+      "question": "How are contemporary science fiction writers expanding the genre?",
+      "answers": {
+        "mixing genres to create innovative narratives": {
+          "answer": "mixing genres to create innovative narratives",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "6821b01e8a08a169a23554fa121b4547",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How are contemporary science fiction writers expanding the genre?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which works represent the traditional 'final frontier' science fiction narrative?": {
+      "question": "Which works represent the traditional 'final frontier' science fiction narrative?",
+      "answers": {
+        "Star Trek, 2001: A Space Odyssey, and Starfield": {
+          "answer": "Star Trek, 2001: A Space Odyssey, and Starfield",
+          "references": [
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            }
+          ]
+        }
+      },
+      "question_id": "f2b30342db256bad4e838bce2bf6f9ca",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Which works represent the traditional 'final frontier' science fiction narrative?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What contemporary Arabic science fiction work is highlighted?": {
+      "question": "What contemporary Arabic science fiction work is highlighted?",
+      "answers": {
+        "Frankenstein in Baghdad by Ahmed Saadawi": {
+          "answer": "Frankenstein in Baghdad by Ahmed Saadawi",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "3b1cfc36c4543e7ad42f75307c9525e4",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What contemporary Arabic science fiction work is highlighted?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What impact do digital technologies have on distinguishing reality?": {
+      "question": "What impact do digital technologies have on distinguishing reality?",
+      "answers": {
+        "digital technologies like deepfake technology distort reality": {
+          "answer": "digital technologies like deepfake technology distort reality",
+          "references": [
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            }
+          ]
+        }
+      },
+      "question_id": "6969f19c9e81263dd083c2f5e0443dac",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What impact do digital technologies have on distinguishing reality?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What sales figures show The Three-Body Problem's international success?": {
+      "question": "What sales figures show The Three-Body Problem's international success?",
+      "answers": {
+        "nearly 9 million copies sold globally": {
+          "answer": "nearly 9 million copies sold globally",
+          "references": [
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            }
+          ]
+        }
+      },
+      "question_id": "f220c19c33209c508f6b3dccb6c6ffa9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What sales figures show The Three-Body Problem's international success?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has demographic representation changed in contemporary science fiction?": {
+      "question": "How has demographic representation changed in contemporary science fiction?",
+      "answers": {
+        "Chinese women science fiction writers have surged recently": {
+          "answer": "Chinese women science fiction writers have surged recently",
+          "references": [
+            {
+              "doc_id": "40905120-1cf6-49fc-a73d-e415e5ce057f_387896979"
+            }
+          ]
+        }
+      },
+      "question_id": "dae548d8154afca9875ff5a96a2bd1f5",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How has demographic representation changed in contemporary science fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "40905120-1cf6-49fc-a73d-e415e5ce057f_387896979"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which Chinese science fiction works have gained global popularity?": {
+      "question": "Which Chinese science fiction works have gained global popularity?",
+      "answers": {
+        "The Wandering Earth 2 and The Three-Body Problem": {
+          "answer": "The Wandering Earth 2 and The Three-Body Problem",
+          "references": [
+            {
+              "doc_id": "abaa0015-a46d-424f-9c06-e6df34a0b588_865359249"
+            }
+          ]
+        }
+      },
+      "question_id": "f734a313ea7fdf1489acf1a718fdf8d9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Which Chinese science fiction works have gained global popularity?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "abaa0015-a46d-424f-9c06-e6df34a0b588_865359249"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What recent recognition did Chinese science fiction writer Wang Jinkang receive?": {
+      "question": "What recent recognition did Chinese science fiction writer Wang Jinkang receive?",
+      "answers": {
+        "Wang Jinkang received 2024 Hugo Award nomination": {
+          "answer": "Wang Jinkang received 2024 Hugo Award nomination",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "2ded192270e2f0b0946a145eda422bd9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What recent recognition did Chinese science fiction writer Wang Jinkang receive?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are the main subgenres of science fiction discussed?": {
+      "question": "What are the main subgenres of science fiction discussed?",
+      "answers": {
+        "utopian and dystopian literature branches": {
+          "answer": "utopian and dystopian literature branches",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "f3a16931a1925b9836d6a5c00f9134fc",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What are the main subgenres of science fiction discussed?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has fantasy's audience demographic shifted historically?": {
+      "question": "How has fantasy's audience demographic shifted historically?",
+      "answers": {
+        "from geeky outsiders to accessible mainstream media": {
+          "answer": "from geeky outsiders to accessible mainstream media",
+          "references": [
+            {
+              "doc_id": "f9f01c81-b641-4eed-964a-eae67a9c4e15_618204689"
+            }
+          ]
+        }
+      },
+      "question_id": "d90f77c13c56c1833c7a6038a81d8e01",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How has fantasy's audience demographic shifted historically?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f9f01c81-b641-4eed-964a-eae67a9c4e15_618204689"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did industrialization change social patterns in the 20th century?": {
+      "question": "How did industrialization change social patterns in the 20th century?",
+      "answers": {
+        "industrial society replaced agricultural seasonal patterns with urban lifestyles": {
+          "answer": "industrial society replaced agricultural seasonal patterns with urban lifestyles",
+          "references": [
+            {
+              "doc_id": "c92ffcf6-f633-42aa-8beb-4e79103dc16a_645829759"
+            }
+          ]
+        }
+      },
+      "question_id": "a8a850ca7f885013bfa85a9e5be03f0e",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How did industrialization change social patterns in the 20th century?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c92ffcf6-f633-42aa-8beb-4e79103dc16a_645829759"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where do the genetically privileged faction live in Fadi Zuweil's novel?": {
+      "question": "Where do the genetically privileged faction live in Fadi Zuweil's novel?",
+      "answers": {
+        "Europe and the Americas": {
+          "answer": "Europe and the Americas",
+          "references": [
+            {
+              "doc_id": "87b36910-7875-4f66-b9cf-927ac7ad8171_559419373"
+            }
+          ]
+        }
+      },
+      "question_id": "37882953dd3b1ec24b867029d4fd818c",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Where do the genetically privileged faction live in Fadi Zuweil's novel?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "87b36910-7875-4f66-b9cf-927ac7ad8171_559419373"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What new novel genres appeared in the 19th century?": {
+      "question": "What new novel genres appeared in the 19th century?",
+      "answers": {
+        "detective, science fiction, and adventure genres emerged": {
+          "answer": "detective, science fiction, and adventure genres emerged",
+          "references": [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_752167424"
+            }
+          ]
+        }
+      },
+      "question_id": "e41597f903c4b2fed956317193d61b3a",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What new novel genres appeared in the 19th century?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_752167424"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What ancient philosophical work influenced simulation themes in science fiction?": {
+      "question": "What ancient philosophical work influenced simulation themes in science fiction?",
+      "answers": {
+        "Plato's Allegory of the Cave from The Republic": {
+          "answer": "Plato's Allegory of the Cave from The Republic",
+          "references": [
+            {
+              "doc_id": "ba7e9763-8627-4c90-865e-5ee8c05d3d68_909413729"
+            }
+          ]
+        }
+      },
+      "question_id": "2ab388c8ad96fbadcf3e0bb0aaed6363",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What ancient philosophical work influenced simulation themes in science fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ba7e9763-8627-4c90-865e-5ee8c05d3d68_909413729"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What political themes did twentieth-century science fiction literature address?": {
+      "question": "What political themes did twentieth-century science fiction literature address?",
+      "answers": {
+        "capitalism, communism, nuclear power, racism, minority rights, environmental pollution": {
+          "answer": "capitalism, communism, nuclear power, racism, minority rights, environmental pollution",
+          "references": [
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            }
+          ]
+        }
+      },
+      "question_id": "2f06c0babad1157c66c45536a8e2a41d",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What political themes did twentieth-century science fiction literature address?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What formats feature genre-bending science fiction works?": {
+      "question": "What formats feature genre-bending science fiction works?",
+      "answers": {
+        "novels, novellas, and short stories": {
+          "answer": "novels, novellas, and short stories",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "79a17b5d0824f7441cda81d1122c9afc",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What formats feature genre-bending science fiction works?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What type of society does Metropolis depict?": {
+      "question": "What type of society does Metropolis depict?",
+      "answers": {
+        "futuristic urban dystopia with oppressed workers": {
+          "answer": "futuristic urban dystopia with oppressed workers",
+          "references": [
+            {
+              "doc_id": "bda5cf7c-5463-4c7c-9e1c-c78912ccf788_464374316"
+            }
+          ]
+        }
+      },
+      "question_id": "fa4dc197eab3798487a2f41118123e3c",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What type of society does Metropolis depict?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bda5cf7c-5463-4c7c-9e1c-c78912ccf788_464374316"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "During which period did Chinese science fiction experience significant global growth?": {
+      "question": "During which period did Chinese science fiction experience significant global growth?",
+      "answers": {
+        "2018 to 2023": {
+          "answer": "2018 to 2023",
+          "references": [
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_587592202"
+            }
+          ]
+        }
+      },
+      "question_id": "a5dc996a99d2e8534bf431df10b982e9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "During which period did Chinese science fiction experience significant global growth?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_587592202"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

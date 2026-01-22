@@ -1,0 +1,1104 @@
+{
+  "query_id": "1027",
+  "title_query": "I am an HR specialist at a large construction company. We are trying to incentivize more women to join our ranks operating heavy machinery such as cranes. I want to understand how we can make our company more attractive and welcome to women construction workers.\nWomen are increasingly becoming crane operators, challenging a historically male-dominated industry. I need a report about a shift towards greater gender equality and diversity in the construction and maritime industries. The report should explain how traditional gender barriers have been broken down and how women can excel in these traditionally male-dominated roles.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "The waste management and construction industries have historically excluded women due to physical demands and gender stereotypes, but companies promoting gender diversity show increased profitability while pioneering women are breaking barriers.": {
+          "answer": "The waste management and construction industries have historically excluded women due to physical demands and gender stereotypes, but companies promoting gender diversity show increased profitability while pioneering women are breaking barriers.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Meralco became the first Southeast Asian power distributor to train female lineworkers in 2013, promoting gender equality and career advancement opportunities in electrical technical roles.": {
+          "answer": "Meralco became the first Southeast Asian power distributor to train female lineworkers in 2013, promoting gender equality and career advancement opportunities in electrical technical roles.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "The 2022 Women in Trucking Index shows women are safer, more organized drivers with strong communication skills, though they earn less than male truckers despite industry preference for hiring them.": {
+          "answer": "The 2022 Women in Trucking Index shows women are safer, more organized drivers with strong communication skills, though they earn less than male truckers despite industry preference for hiring them.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Women in logistics and automotive industries initially faced skepticism and pushback from men, but companies now recognize their effectiveness, systematic approach, and adaptability, encouraging more women to enter these traditionally male-dominated fields.": {
+          "answer": "Women in logistics and automotive industries initially faced skepticism and pushback from men, but companies now recognize their effectiveness, systematic approach, and adaptability, encouraging more women to enter these traditionally male-dominated fields.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Women face significant underrepresentation in Africa's construction industry due to systemic barriers, societal stereotypes, limited STEM education access, and work-life balance challenges, depriving the sector of valuable female contributions.": {
+          "answer": "Women face significant underrepresentation in Africa's construction industry due to systemic barriers, societal stereotypes, limited STEM education access, and work-life balance challenges, depriving the sector of valuable female contributions.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Companies are implementing diversity initiatives including increased female hiring for traditionally male roles, veteran support programs, leadership gender targets, and male parental leave to enable women's career advancement.": {
+          "answer": "Companies are implementing diversity initiatives including increased female hiring for traditionally male roles, veteran support programs, leadership gender targets, and male parental leave to enable women's career advancement.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "A crane operator expresses deep love for their work and equipment, while advice emphasizes pursuing career goals in a free world with comfortable working conditions.": {
+          "answer": "A crane operator expresses deep love for their work and equipment, while advice emphasizes pursuing career goals in a free world with comfortable working conditions.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Several women leaders like Nathalie van de Poel, Maria Willshee, and sisters Heather Gould and Hilary Hart exemplify female leadership in waste management, while companies can foster inclusivity through diverse hiring practices and community partnerships.": {
+          "answer": "Several women leaders like Nathalie van de Poel, Maria Willshee, and sisters Heather Gould and Hilary Hart exemplify female leadership in waste management, while companies can foster inclusivity through diverse hiring practices and community partnerships.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Nora became the first woman to complete heavy equipment operator training in her area, demonstrating quick learning abilities, determination, and inspiring other women to pursue similar careers.": {
+          "answer": "Nora became the first woman to complete heavy equipment operator training in her area, demonstrating quick learning abilities, determination, and inspiring other women to pursue similar careers.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Since Ukraine's full-scale war began, labor shortages in traditionally male-dominated professions have led employers to hire women for non-typical positions, with Ukrainian women actively responding to these opportunities.": {
+          "answer": "Since Ukraine's full-scale war began, labor shortages in traditionally male-dominated professions have led employers to hire women for non-typical positions, with Ukrainian women actively responding to these opportunities.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "The company's HR policy focuses on developing talent potential by eliminating gender-based job divisions and encouraging women to pursue leadership roles in traditionally male-dominated industries.": {
+          "answer": "The company's HR policy focuses on developing talent potential by eliminating gender-based job divisions and encouraging women to pursue leadership roles in traditionally male-dominated industries.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "A 29-year-old female student breaks gender barriers in offshore wind energy, while workplace communication and female operators gain recognition across industries.": {
+          "answer": "A 29-year-old female student breaks gender barriers in offshore wind energy, while workplace communication and female operators gain recognition across industries.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "Miss Everatt, who grew up on a farm, transitioned from driving tractors to trucking, emphasizing that anyone can succeed in transportation through proper training and dedication.": {
+          "answer": "Miss Everatt, who grew up on a farm, transitioned from driving tractors to trucking, emphasizing that anyone can succeed in transportation through proper training and dedication.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1027",
+      "importance": "vital",
+      "answers": {
+        "A woman learned to operate a loader despite societal mockery to improve income for her children's medical treatment and dream of buying an apartment, receiving support from her husband while facing community bullying.": {
+          "answer": "A woman learned to operate a loader despite societal mockery to improve income for her children's medical treatment and dream of buying an apartment, receiving support from her husband while facing community bullying.",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            },
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            },
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            },
+            {
+              "doc_id": "f8c8c06e-76b0-48f9-a66b-758fd08d0ac4_246084211"
+            },
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            },
+            {
+              "doc_id": "5a54db3a-0b44-4679-9cca-4285568ae817_488233346"
+            },
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            },
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            },
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            },
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            },
+            {
+              "doc_id": "9b95a346-03b3-49ba-86e4-adf7e644b438_910039464"
+            },
+            {
+              "doc_id": "14193eea-fdc7-4148-bbfe-1de87c1dd491_114152281"
+            },
+            {
+              "doc_id": "642fd5b0-ed80-4d08-8091-c65b63653018_247813657"
+            },
+            {
+              "doc_id": "c40b5c1c-6e7a-45f6-a314-adcf276acb8c_663217418"
+            },
+            {
+              "doc_id": "fa814205-0346-442b-87c5-93059583ffff_953125432"
+            },
+            {
+              "doc_id": "67fbda18-297b-4b52-92d7-bbbebeb2fcdf_400565819"
+            },
+            {
+              "doc_id": "f5dde440-7c4c-4eaf-99cd-8aabd52b7901_186077154"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_17345750"
+            },
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_133703253"
+            },
+            {
+              "doc_id": "1234dde4-1cef-4012-ac46-276d207dacfa_597292471"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

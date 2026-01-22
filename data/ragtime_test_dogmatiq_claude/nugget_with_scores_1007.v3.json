@@ -1,0 +1,4117 @@
+{
+  "query_id": "1007",
+  "title_query": "1007",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What do media commentators say about J-10 fighter jet quality?": {
+      "question": "What do media commentators say about J-10 fighter jet quality?",
+      "answers": {
+        "No media commentary on J-10 jets in document": {
+          "answer": "No media commentary on J-10 jets in document",
+          "references": [
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance available": {
+          "answer": "No media commentary on J-10 performance available",
+          "references": [
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance included": {
+          "answer": "No media commentary on J-10 performance included",
+          "references": [
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            },
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        },
+        "No media commentary on J-10 fighter jets available": {
+          "answer": "No media commentary on J-10 fighter jets available",
+          "references": [
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            }
+          ]
+        },
+        "no media commentary on J-10 quality provided": {
+          "answer": "no media commentary on J-10 quality provided",
+          "references": [
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance mentioned": {
+          "answer": "No media commentary on J-10 performance mentioned",
+          "references": [
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance provided": {
+          "answer": "No media commentary on J-10 performance provided",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            }
+          ]
+        },
+        "No media commentary on J-10 performance included in document": {
+          "answer": "No media commentary on J-10 performance included in document",
+          "references": [
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ]
+        },
+        "No media commentary on J-10 jets available": {
+          "answer": "No media commentary on J-10 jets available",
+          "references": [
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            }
+          ]
+        },
+        "No media commentary on J-10 quality mentioned": {
+          "answer": "No media commentary on J-10 quality mentioned",
+          "references": [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ]
+        },
+        "primary frontline combat aircraft of Chinese Air Force": {
+          "answer": "primary frontline combat aircraft of Chinese Air Force",
+          "references": [
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            }
+          ]
+        }
+      },
+      "question_id": "d0704c281a7fa15fe41f719278c7044d",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What do commentators say about J-10 fighter jet quality?",
+          "What have commentators said about J-10 fighter jet quality?",
+          "What are media commentators saying about J-10 fighter jet quality?",
+          "What media comments exist about J-10 fighter jet quality?",
+          "What do media commentators say about J-10 fighter jet quality?",
+          "How is the J-10 fighter jet characterized by analysts?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ],
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ],
+          [
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            }
+          ],
+          [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ],
+          [
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative as it directly addresses the user's request for information on the evaluations of the J-10 fighter jet from commentators, which is a key aspect of the article.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 20,
+        "num_answers": 11,
+        "quality": {
+          "reading_level": 11.0,
+          "complexity": 2.0169416282897146,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 5.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 5.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 5.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 1.1393058130140417
+      }
+    },
+    "What do media commentators say about J-10 fighter jet performance?": {
+      "question": "What do media commentators say about J-10 fighter jet performance?",
+      "answers": {
+        "No media commentary on J-10 jets available": {
+          "answer": "No media commentary on J-10 jets available",
+          "references": [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            }
+          ]
+        },
+        "No media commentary on J-10 in document": {
+          "answer": "No media commentary on J-10 in document",
+          "references": [
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            }
+          ]
+        },
+        "No media commentary on J-10 jets in document": {
+          "answer": "No media commentary on J-10 jets in document",
+          "references": [
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            }
+          ]
+        },
+        "No media commentary on J-10 quality provided": {
+          "answer": "No media commentary on J-10 quality provided",
+          "references": [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        }
+      },
+      "question_id": "f52568732459870322f544b7d5b4d40b",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What do commentators say about J-10 fighter jet performance?",
+          "What do media commentators say about J-10 fighter jet performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            },
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            }
+          ],
+          [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more representative because it specifically mentions 'media commentators', which aligns with the user's request for information from commentators and media.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 7,
+        "num_answers": 4,
+        "quality": {
+          "reading_level": 13.0,
+          "complexity": 2.010795010529364,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 5.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 5.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 5.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 1.0533576286339312
+      }
+    },
+    "Does this document contain buyer feedback on J-10 jets?": {
+      "question": "Does this document contain buyer feedback on J-10 jets?",
+      "answers": {
+        "Document focuses on J-20 stealth fighter, not J-10": {
+          "answer": "Document focuses on J-20 stealth fighter, not J-10",
+          "references": [
+            {
+              "doc_id": "bcb10cf5-a993-47e6-9165-f43f42c766aa_206491725"
+            }
+          ]
+        },
+        "Document focuses on J-20A stealth fighters, not J-10": {
+          "answer": "Document focuses on J-20A stealth fighters, not J-10",
+          "references": [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        }
+      },
+      "question_id": "d294a71c28ee7d047bbd96aec5b53e1d",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Does this document contain buyer feedback on J-10 jets?",
+          "Does the document contain buyer feedback on J-10 jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bcb10cf5-a993-47e6-9165-f43f42c766aa_206491725"
+            }
+          ],
+          [
+            {
+              "doc_id": "91a47c26-b314-4937-a394-64edf8d786cd_832662481"
+            }
+          ]
+        ],
+        "canonical_explanation": "The two questions are identical and address the same aspect of the user request, so either can be considered canonical.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 1.975531742871226,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 0.5,
+            "communication_match": 0.5,
+            "scope_match": 0.5,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 1.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 2.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 2.0
+          }
+        },
+        "model_score": 1.0345272249001312
+      }
+    },
+    "What feedback have buyers provided about China's J-10 fighter jets?": {
+      "question": "What feedback have buyers provided about China's J-10 fighter jets?",
+      "answers": {
+        "No buyer feedback on J-10 jets mentioned in document": {
+          "answer": "No buyer feedback on J-10 jets mentioned in document",
+          "references": [
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            }
+          ]
+        },
+        "No J-10 buyer feedback available in document": {
+          "answer": "No J-10 buyer feedback available in document",
+          "references": [
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 fighter jets mentioned": {
+          "answer": "No buyer feedback on J-10 fighter jets mentioned",
+          "references": [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            }
+          ]
+        },
+        "No buyer feedback on China's J-10 fighter jets mentioned": {
+          "answer": "No buyer feedback on China's J-10 fighter jets mentioned",
+          "references": [
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 jets mentioned": {
+          "answer": "No buyer feedback on J-10 jets mentioned",
+          "references": [
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            }
+          ]
+        },
+        "Document does not mention J-10 fighter jets": {
+          "answer": "Document does not mention J-10 fighter jets",
+          "references": [
+            {
+              "doc_id": "74c9e498-46b9-4b3e-982c-3e19a8160332_364352056"
+            }
+          ]
+        },
+        "Document does not contain J-10 buyer feedback": {
+          "answer": "Document does not contain J-10 buyer feedback",
+          "references": [
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            }
+          ]
+        },
+        "Document does not mention J-10 fighter jet": {
+          "answer": "Document does not mention J-10 fighter jet",
+          "references": [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            }
+          ]
+        }
+      },
+      "question_id": "13ec955fc1d790ef5e9cfb7f306ad24f",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What buyer feedback exists for China's J-10 fighter jet?",
+          "What buyer feedback exists for China's J-10 fighter jets?",
+          "What feedback have buyers provided about China's J-10 fighter jets?",
+          "What feedback have buyers given about China's J-10 fighter jets?",
+          "What feedback have buyers given about China's J-10 fighter jet?",
+          "What buyer feedback exists regarding China's J-10 fighter jet performance?",
+          "What do commentators say about China's J-10 fighter performance?",
+          "What are media commentators saying about China's J-10 fighter performance?",
+          "What are media commentators saying about China's J-10 fighter jets?",
+          "What do commentators say about China's J-10 fighter jet performance?",
+          "What have commentators said about China's J-10 fighter jet performance?",
+          "What have commentators said about China's J-10 fighter jet quality?",
+          "What media commentary exists about China's J-10 fighter jet performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bbd66630-067c-4256-adc2-97dd5f5878ed_41790305"
+            },
+            {
+              "doc_id": "4133ea76-a638-4651-b0df-8e84c3f49afc_136204308"
+            },
+            {
+              "doc_id": "c66e3428-62ef-404a-b0ba-9bc670319831_531650607"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f4c9e2a-cafb-4baf-b24f-143d8372e124_832014828"
+            },
+            {
+              "doc_id": "3e18652f-2a63-427f-9033-ce0f79495b46_376546319"
+            },
+            {
+              "doc_id": "24341e0d-dc30-41e2-86f6-b9153d23f19e_438552556"
+            },
+            {
+              "doc_id": "26b00684-095b-46f3-99d6-643946c0a5e0_866422233"
+            },
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            },
+            {
+              "doc_id": "52993d67-2885-44c3-93ba-a8208955892d_957875832"
+            },
+            {
+              "doc_id": "cf11f5d9-fca6-4093-bf81-ca064ae09f08_16507722"
+            },
+            {
+              "doc_id": "2b7784d4-705c-4e28-a044-7ec772868d44_584397517"
+            },
+            {
+              "doc_id": "78a1a3d0-4587-4f5d-b13b-481f7c171b7e_359556705"
+            },
+            {
+              "doc_id": "d076d361-4769-408c-ba73-6dc8c36241b2_332991478"
+            },
+            {
+              "doc_id": "7e3795f5-35f2-4c1a-8200-507f35008918_16379139"
+            },
+            {
+              "doc_id": "6891e40e-d301-4e6a-9b74-2dce17b4cd44_621091257"
+            },
+            {
+              "doc_id": "388efd59-4152-4767-89c0-580ffc210cc7_253082277"
+            },
+            {
+              "doc_id": "05c5f496-0c2e-4e56-92e6-f9000f83efd7_340900722"
+            },
+            {
+              "doc_id": "bb40706c-4a03-44f3-a274-dd3b912d7d93_899452751"
+            },
+            {
+              "doc_id": "a902c4c1-53fb-46af-bf9f-e54d3367eaf5_1019616609"
+            }
+          ],
+          [
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            },
+            {
+              "doc_id": "3d3fe639-fc3c-4e18-b007-c82e5cc5b82b_268265404"
+            },
+            {
+              "doc_id": "ce32c1be-e02a-4d52-bd5f-d35b9737080b_987151109"
+            },
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ],
+          [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            },
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            },
+            {
+              "doc_id": "7efb6324-5623-4afe-9ac3-de52e237c9f2_52191629"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "55bee1ab-f8ea-42f9-a775-ac1b05bb537d_488302262"
+            },
+            {
+              "doc_id": "95912b2a-fc3d-44b5-b59c-96487fff62c8_292503572"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "56f57fcc-4aeb-40da-b2d0-30366e597ae3_474217619"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "10d3e4e6-9160-47a3-892c-13df39006a3d_948882656"
+            },
+            {
+              "doc_id": "6e12ec20-e0f8-45cb-b766-c4ce7a767130_308266887"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            },
+            {
+              "doc_id": "74c9e498-46b9-4b3e-982c-3e19a8160332_364352056"
+            },
+            {
+              "doc_id": "8da7883d-d909-4cd1-ad24-c8ac46e7f05d_827453305"
+            }
+          ],
+          [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            },
+            {
+              "doc_id": "f6d8c3c4-1e2e-402e-b0db-bb67c89b29a0_869203390"
+            }
+          ],
+          [
+            {
+              "doc_id": "1f83b715-49f9-4cce-96b2-39d5d02bcb6c_998363221"
+            }
+          ],
+          [
+            {
+              "doc_id": "fee957a2-7b8f-4e09-9957-ba2fde190e7b_159159951"
+            }
+          ],
+          [
+            {
+              "doc_id": "71100976-5a62-4b13-b449-5fcd327a8fcc_221821377"
+            },
+            {
+              "doc_id": "56f57fcc-4aeb-40da-b2d0-30366e597ae3_474217619"
+            }
+          ],
+          [
+            {
+              "doc_id": "1da9252f-f1e0-420a-892d-5e9c908be719_229272014"
+            },
+            {
+              "doc_id": "77e0a197-9059-4a4a-949c-5412891a368e_806940709"
+            }
+          ],
+          [
+            {
+              "doc_id": "6c31e4d8-029e-4df5-b5aa-af958ba5a9d3_1055093036"
+            },
+            {
+              "doc_id": "78a1a3d0-4587-4f5d-b13b-481f7c171b7e_359556705"
+            }
+          ],
+          [
+            {
+              "doc_id": "a6059c64-6d03-40a5-ba23-688695c5e9b8_485724786"
+            }
+          ],
+          [
+            {
+              "doc_id": "f5c2aefa-c142-42c3-a157-1a6c721b1701_858607841"
+            },
+            {
+              "doc_id": "a22ebdc4-5180-4109-b459-1283698c6e93_636571916"
+            },
+            {
+              "doc_id": "285986b3-6ea1-4a57-824f-9a3aa1372c7b_685041937"
+            },
+            {
+              "doc_id": "922e5151-f450-4b63-9d1f-4733c3976969_142359971"
+            },
+            {
+              "doc_id": "acf25553-2ea5-4673-98ce-7426faaac87d_15426699"
+            },
+            {
+              "doc_id": "eb2b988f-dc4e-44dd-95fb-b5664f4cfdc3_88485735"
+            }
+          ],
+          [
+            {
+              "doc_id": "4bc40faf-e9dc-4a5d-8c3a-0d2f20ba848d_123806756"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request as it directly inquires about the feedback from buyers, which is a crucial aspect of understanding the sales and evaluations of the J-10 fighter jet.",
+        "num_paraphrases_unique": 13,
+        "num_paraphrases_total": 57,
+        "num_answers": 8,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 2.000070699808475,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.9,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 1.0287859815460267
+      }
+    },
+    "What feedback have international buyers given about J-10 fighter jets?": {
+      "question": "What feedback have international buyers given about J-10 fighter jets?",
+      "answers": {
+        "No buyer feedback information available in document": {
+          "answer": "No buyer feedback information available in document",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            },
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        },
+        "No buyer feedback on J-10 jets mentioned": {
+          "answer": "No buyer feedback on J-10 jets mentioned",
+          "references": [
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            }
+          ]
+        }
+      },
+      "question_id": "5037c1ea2fd6090842399a5feb5e0b3c",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What feedback have international buyers given about J-10 fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            },
+            {
+              "doc_id": "5336adfa-aca5-450d-8ec4-77071ee40468_983998681"
+            },
+            {
+              "doc_id": "43e5d728-0c85-4784-8b71-2895f540b4fa_918918845"
+            },
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 4,
+        "num_answers": 2,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 2.0060344519256432,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.9940334115382985
+      }
+    },
+    "What operational advantages does the J-10C offer buyers?": {
+      "question": "What operational advantages does the J-10C offer buyers?",
+      "answers": {
+        "lower operating costs and reduced maintenance requirements": {
+          "answer": "lower operating costs and reduced maintenance requirements",
+          "references": [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        }
+      },
+      "question_id": "76802ff850ef24b8396f69234ff9c405",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What operational advantages does the J-10C offer buyers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 12.0,
+          "complexity": 2.2012984607918042,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 0.8,
+            "role_match": 0.5,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.9245771836376084
+      }
+    },
+    "Why is Pakistan purchasing J-10C fighter jets from China?": {
+      "question": "Why is Pakistan purchasing J-10C fighter jets from China?",
+      "answers": {
+        "to counter India's French Rafale fighter jet threat": {
+          "answer": "to counter India's French Rafale fighter jet threat",
+          "references": [
+            {
+              "doc_id": "558e844a-b52a-4f3a-8553-1ab6b696cb94_230889465"
+            }
+          ]
+        }
+      },
+      "question_id": "841860034bcb9be0d6bf156507c2bd65",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Why is Pakistan purchasing J-10C fighter jets from China?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "558e844a-b52a-4f3a-8553-1ab6b696cb94_230889465"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 12.0,
+          "complexity": 2.0102523793420914,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.8699664549226593
+      }
+    },
+    "How do Chinese analysts view the J-10C sale to Pakistan?": {
+      "question": "How do Chinese analysts view the J-10C sale to Pakistan?",
+      "answers": {
+        "mutually beneficial defense cooperation strengthening Pakistani military capabilities": {
+          "answer": "mutually beneficial defense cooperation strengthening Pakistani military capabilities",
+          "references": [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        }
+      },
+      "question_id": "6a8b6bb9ef250352e711df53e979aad7",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "How do Chinese analysts view the J-10C sale to Pakistan?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cd6f7c06-5e22-4103-9de2-9817a9a60efa_121885815"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 6.0,
+          "complexity": 2.226977906999309,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 0.8,
+            "role_match": 0.8,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 4.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.7999483450733571
+      }
+    },
+    "Where did China first demonstrate J-10 jets internationally?": {
+      "question": "Where did China first demonstrate J-10 jets internationally?",
+      "answers": {
+        "MAKS Air Show in 2013": {
+          "answer": "MAKS Air Show in 2013",
+          "references": [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            }
+          ]
+        }
+      },
+      "question_id": "4aad595aa44aa2ed76f25dc3ea6da1e2",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Where did China first demonstrate J-10 jets internationally?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9867d693-e0ff-4ac4-885e-702cc965dfab_949816466"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 11.0,
+          "complexity": 2.003303465735371,
+          "vitality": "OKAY",
+          "personalization": {
+            "goal_match": 0.5,
+            "background_match": 0.5,
+            "role_match": 0.5,
+            "communication_match": 0.5,
+            "scope_match": 0.5,
+            "overall": 2.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 1.0,
+            "relevance": 2.0,
+            "incompleteness": 1.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 1.0,
+            "reasoning_intensiveness": 1.0
+          }
+        },
+        "model_score": 0.7074987712939294
+      }
+    },
+    "How many J-10 fighter jets did Pakistan order from China?": {
+      "question": "How many J-10 fighter jets did Pakistan order from China?",
+      "answers": {
+        "36 J-10CE export variant aircraft": {
+          "answer": "36 J-10CE export variant aircraft",
+          "references": [
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            }
+          ]
+        }
+      },
+      "question_id": "a87ca67e502a5f968401c616e2bbc8ee",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "How many J-10 fighter jets did Pakistan order from China?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a834da70-5664-4631-bba7-dba8ef82cd52_942464069"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 1.9922126545143328,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 1.0,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 1.0,
+            "relevance": 4.0,
+            "incompleteness": 4.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 1.0,
+            "reasoning_intensiveness": 1.0
+          }
+        },
+        "model_score": 0.622718730653637
+      }
+    },
+    "Which other countries have shown interest in J-10C fighter jets?": {
+      "question": "Which other countries have shown interest in J-10C fighter jets?",
+      "answers": {
+        "Thailand and Argentina have expressed interest in J-10C": {
+          "answer": "Thailand and Argentina have expressed interest in J-10C",
+          "references": [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        }
+      },
+      "question_id": "ae06734c65d862c574fc4862e9df0412",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which other countries have shown interest in J-10C fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 4.0,
+          "complexity": 2.041345134130097,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 1.0,
+            "role_match": 0.8,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.5741178652999066
+      }
+    },
+    "How has China adapted the J-10C for foreign customers?": {
+      "question": "How has China adapted the J-10C for foreign customers?",
+      "answers": {
+        "China modified J-10C to operate American weapons systems": {
+          "answer": "China modified J-10C to operate American weapons systems",
+          "references": [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        }
+      },
+      "question_id": "b1b54c57ce5c176e9668991fae66e0cc",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "How has China adapted the J-10C for foreign customers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 11.0,
+          "complexity": 2.3008789158557192,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 0.8,
+            "role_match": 0.8,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.4817055206452894
+      }
+    },
+    "Which country's air force has imported China's J-10CE fighter jets?": {
+      "question": "Which country's air force has imported China's J-10CE fighter jets?",
+      "answers": {
+        "Pakistan Air Force": {
+          "answer": "Pakistan Air Force",
+          "references": [
+            {
+              "doc_id": "ff09c670-9bf8-4f5d-b6c2-1b4699af2744_618195561"
+            }
+          ]
+        }
+      },
+      "question_id": "98853cc8a7cfc6aa5c2ad43ad462f943",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which country's air force has imported China's J-10CE fighter jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ff09c670-9bf8-4f5d-b6c2-1b4699af2744_618195561"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 2.034962250956596,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 1.0,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 1.0,
+            "relevance": 5.0,
+            "incompleteness": 4.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 1.0,
+            "reasoning_intensiveness": 2.0
+          }
+        },
+        "model_score": 0.48132345967193624
+      }
+    },
+    "What feedback have international buyers given about J-10 performance?": {
+      "question": "What feedback have international buyers given about J-10 performance?",
+      "answers": {
+        "no buyer feedback mentioned in document": {
+          "answer": "no buyer feedback mentioned in document",
+          "references": [
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            }
+          ]
+        }
+      },
+      "question_id": "8b49d840d63f9c5cda77392608514133",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What feedback have international buyers given about J-10 performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "26344566-3584-4553-a9f0-a09b668947df_139777721"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 13.0,
+          "complexity": 2.014869315049964,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.4683030823505685
+      }
+    },
+    "Which country started receiving China's J-10C fighter jets and when?": {
+      "question": "Which country started receiving China's J-10C fighter jets and when?",
+      "answers": {
+        "Pakistan began receiving J-10C fighter jets in February 2022": {
+          "answer": "Pakistan began receiving J-10C fighter jets in February 2022",
+          "references": [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        }
+      },
+      "question_id": "fc7a9e6ec756123b3207cf32ea4582e4",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which country started receiving China's J-10C fighter jets and when?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_115461755"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 2.031027503502628,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 1.0,
+            "relevance": 4.0,
+            "incompleteness": 4.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 1.0,
+            "reasoning_intensiveness": 2.0
+          }
+        },
+        "model_score": 0.42930323820568983
+      }
+    },
+    "Which country may acquire the J-10C as F-16 replacement?": {
+      "question": "Which country may acquire the J-10C as F-16 replacement?",
+      "answers": {
+        "Turkey": {
+          "answer": "Turkey",
+          "references": [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            }
+          ]
+        }
+      },
+      "question_id": "72a747d55afe234501aff3f56abf3db4",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which country may acquire the J-10C as F-16 replacement?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 6.0,
+          "complexity": 2.3168412933155196,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 0.5,
+            "role_match": 0.5,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.42202183320799014
+      }
+    },
+    "Which countries currently use the J-10 fighter jet?": {
+      "question": "Which countries currently use the J-10 fighter jet?",
+      "answers": {
+        "China and Pakistan": {
+          "answer": "China and Pakistan",
+          "references": [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            }
+          ]
+        }
+      },
+      "question_id": "48f3f999adc9bcd59cc88c7b0396e45a",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "Which countries currently use the J-10 fighter jet?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7662ae65-98c5-4a3f-9b24-83a5f9fb7a72_1044319203"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 8.0,
+          "complexity": 1.9744106206171637,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 1.0,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 1.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 2.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 1.0,
+            "reasoning_intensiveness": 2.0
+          }
+        },
+        "model_score": 0.39180899502835254
+      }
+    },
+    "What distinction does Pakistan hold regarding J-10CE technology acquisition?": {
+      "question": "What distinction does Pakistan hold regarding J-10CE technology acquisition?",
+      "answers": {
+        "first beneficiary country in the region": {
+          "answer": "first beneficiary country in the region",
+          "references": [
+            {
+              "doc_id": "ff09c670-9bf8-4f5d-b6c2-1b4699af2744_618195561"
+            }
+          ]
+        }
+      },
+      "question_id": "9887a8fb750fb9bc500aa3433c6c0107",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What distinction does Pakistan hold regarding J-10CE technology acquisition?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ff09c670-9bf8-4f5d-b6c2-1b4699af2744_618195561"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 15.0,
+          "complexity": 2.763832330267178,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 0.8,
+            "role_match": 0.8,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 4.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.3561458216263038
+      }
+    },
+    "What factor influenced Sudan's decision to buy Chinese J-10C jets?": {
+      "question": "What factor influenced Sudan's decision to buy Chinese J-10C jets?",
+      "answers": {
+        "poor Russian military performance in Ukraine damaged reputation": {
+          "answer": "poor Russian military performance in Ukraine damaged reputation",
+          "references": [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        }
+      },
+      "question_id": "50ed4987ad661825ef3ce5f554388284",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What factor influenced Sudan's decision to buy Chinese J-10C jets?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9e893a13-a5bb-4822-8f87-187cba831d3d_453477269"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 12.0,
+          "complexity": 2.29024257150013,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 0.8,
+            "background_match": 1.0,
+            "role_match": 0.8,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 4.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.3396512279643771
+      }
+    },
+    "What have commentators said about J-10 fighter jet export performance?": {
+      "question": "What have commentators said about J-10 fighter jet export performance?",
+      "answers": {
+        "No media commentary on exports provided in document": {
+          "answer": "No media commentary on exports provided in document",
+          "references": [
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        }
+      },
+      "question_id": "989a9521b31d59ef45e29ab9310cb361",
+      "aggregator_type": "OR",
+      "query_id": "1007",
+      "metadata": {
+        "paraphrases": [
+          "What have commentators said about J-10 fighter jet export performance?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4b6adb7c-7a19-43aa-a46b-c07f9c22bb81_62818012"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1,
+        "quality": {
+          "reading_level": 12.0,
+          "complexity": 2.1627114670718584,
+          "vitality": "VITAL",
+          "personalization": {
+            "goal_match": 1.0,
+            "background_match": 1.0,
+            "role_match": 1.0,
+            "communication_match": 0.8,
+            "scope_match": 0.8,
+            "overall": 4.0
+          },
+          "general_qualities": {
+            "fluency": 5.0,
+            "clarity": 5.0,
+            "ambiguity": 2.0,
+            "relevance": 4.0,
+            "incompleteness": 2.0,
+            "assumptiveness": 2.0,
+            "multifaceted": 4.0,
+            "knowledge_intensiveness": 4.0,
+            "subjectiveness": 5.0,
+            "reasoning_intensiveness": 4.0
+          }
+        },
+        "model_score": 0.3241630103312938
+      }
+    }
+  },
+  "metadata": {
+    "quality": {
+      "avg_reading_level": 8.973958333333334,
+      "stddev_reading_level": 3.4617476556787357,
+      "avg_complexity": 2.097167318145582,
+      "stddev_complexity": 0.1774563932157075,
+      "avg_personalization_overall": 2.8541666666666665,
+      "stddev_personalization_overall": 1.3028747594795473,
+      "coverage": {
+        "dbscan_coverage_results": {
+          "num_clusters": 135,
+          "num_noise": 0,
+          "noise_ratio": 0.0,
+          "coverage_estimate": 0.703125,
+          "cluster_labels": [
+            0,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            1,
+            5,
+            6,
+            4,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            15,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            4,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            26,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            48,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            1,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            100,
+            63,
+            100,
+            101,
+            102,
+            103,
+            2,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            85,
+            114,
+            115,
+            116,
+            116,
+            81,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            103,
+            70,
+            125,
+            126,
+            127,
+            116,
+            128,
+            129,
+            129,
+            130,
+            128,
+            131,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            132,
+            2,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            133,
+            4,
+            134
+          ],
+          "clusters": {
+            "0": [
+              [
+                0,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries have purchased China's J-10 fighter jets?"
+              ],
+              [
+                155,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What countries have purchased China's J-10 fighter jets?"
+              ],
+              [
+                156,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries have purchased J-10 fighter jets from China?"
+              ],
+              [
+                157,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries have purchased China's J-10 fighter jets for export?"
+              ],
+              [
+                158,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries have successfully purchased China's J-10 fighter jets?"
+              ],
+              [
+                159,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country has purchased China's J-10 fighter jets?"
+              ],
+              [
+                160,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country is buying J-10C fighter jets from China?"
+              ],
+              [
+                161,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country has purchased J-10CE fighter jets from China?"
+              ],
+              [
+                162,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries have purchased China's J-10C fighter jets?"
+              ]
+            ],
+            "1": [
+              [
+                1,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What feedback have buyers provided about China's J-10 fighter jets?"
+              ],
+              [
+                7,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What feedback have international buyers given about J-10 fighter jets?"
+              ],
+              [
+                98,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What feedback have international buyers given about J-10 performance?"
+              ],
+              [
+                163,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What buyer feedback exists for China's J-10 fighter jet?"
+              ],
+              [
+                164,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What buyer feedback exists for China's J-10 fighter jets?"
+              ],
+              [
+                165,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What feedback have buyers given about China's J-10 fighter jets?"
+              ],
+              [
+                166,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What feedback have buyers given about China's J-10 fighter jet?"
+              ],
+              [
+                167,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What buyer feedback exists regarding China's J-10 fighter jet performance?"
+              ]
+            ],
+            "2": [
+              [
+                2,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do media commentators say about J-10 fighter jet quality?"
+              ],
+              [
+                3,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do media commentators say about J-10 fighter jet performance?"
+              ],
+              [
+                117,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What have commentators said about J-10 fighter jet export performance?"
+              ],
+              [
+                168,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do commentators say about China's J-10 fighter performance?"
+              ],
+              [
+                169,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What are media commentators saying about China's J-10 fighter performance?"
+              ],
+              [
+                170,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What are media commentators saying about China's J-10 fighter jets?"
+              ],
+              [
+                171,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do commentators say about China's J-10 fighter jet performance?"
+              ],
+              [
+                172,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What have commentators said about China's J-10 fighter jet performance?"
+              ],
+              [
+                173,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What have commentators said about China's J-10 fighter jet quality?"
+              ],
+              [
+                174,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What media commentary exists about China's J-10 fighter jet performance?"
+              ],
+              [
+                175,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do commentators say about J-10 fighter jet quality?"
+              ],
+              [
+                176,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What have commentators said about J-10 fighter jet quality?"
+              ],
+              [
+                177,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What are media commentators saying about J-10 fighter jet quality?"
+              ],
+              [
+                178,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What media comments exist about J-10 fighter jet quality?"
+              ],
+              [
+                180,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do commentators say about J-10 fighter jet performance?"
+              ]
+            ],
+            "3": [
+              [
+                4,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does this document contain information about J-10 fighter jet exports?"
+              ],
+              [
+                5,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does this document contain information about J-10 export sales?"
+              ],
+              [
+                181,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does this document contain information about J-10 fighter exports?"
+              ],
+              [
+                182,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does the document contain information about J-10 export markets?"
+              ],
+              [
+                183,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does this document contain information about J-10 export markets?"
+              ]
+            ],
+            "4": [
+              [
+                6,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jet is discussed in the document?"
+              ],
+              [
+                10,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jets are discussed in this document?"
+              ],
+              [
+                42,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese aircraft is discussed in this document?"
+              ],
+              [
+                184,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter aircraft is discussed in this document?"
+              ],
+              [
+                185,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jet is featured in this document?"
+              ],
+              [
+                186,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What Chinese fighter jet is featured in this document?"
+              ],
+              [
+                187,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jet is discussed in this document?"
+              ],
+              [
+                190,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What Chinese fighter jet information is covered in this document?"
+              ]
+            ],
+            "5": [
+              [
+                8,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does this document contain buyer feedback on J-10 jets?"
+              ],
+              [
+                188,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Does the document contain buyer feedback on J-10 jets?"
+              ]
+            ],
+            "6": [
+              [
+                9,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How far has the J-10 fighter jet series progressed?"
+              ]
+            ],
+            "7": [
+              [
+                11,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What role did J-10 fighter jets play in recent military operations?"
+              ]
+            ],
+            "8": [
+              [
+                12,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What percentage of China's combat aircraft fleet consists of J-10 fighters?"
+              ]
+            ],
+            "9": [
+              [
+                13,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What aircraft design is the Chinese J-10 fighter jet based on?"
+              ]
+            ],
+            "10": [
+              [
+                14,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What safety issues have been reported with the J-10 fighter jet?"
+              ]
+            ],
+            "11": [
+              [
+                15,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What enhanced version of the J-10 fighter was presented by PLAAF?"
+              ]
+            ],
+            "12": [
+              [
+                16,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What enhancement does the J-10C offer over the original J-10?"
+              ]
+            ],
+            "13": [
+              [
+                17,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Where was the J-10C multi-purpose fighter showcased in 2021?"
+              ]
+            ],
+            "14": [
+              [
+                18,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country has formally inducted the Chinese J-10C fighter jets?"
+              ]
+            ],
+            "15": [
+              [
+                19,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10C aircraft is China delivering to Pakistan?"
+              ],
+              [
+                29,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10 fighter jets did Pakistan order from China?"
+              ]
+            ],
+            "16": [
+              [
+                20,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When did Pakistan formally induct the J-10C fighter jets?"
+              ]
+            ],
+            "17": [
+              [
+                21,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How did Chinese analyst Shi Hong characterize the J-10C?"
+              ]
+            ],
+            "18": [
+              [
+                22,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What impact will J-10C jets have on Pakistan's military?"
+              ]
+            ],
+            "19": [
+              [
+                23,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How do Chinese analysts view the J-10C sale to Pakistan?"
+              ]
+            ],
+            "20": [
+              [
+                24,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10 fighter jets does China's air force currently operate?"
+              ]
+            ],
+            "21": [
+              [
+                25,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How do military analysts view the J-10's market position?"
+              ]
+            ],
+            "22": [
+              [
+                26,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the projected service life of upgraded J-10 fighters?"
+              ]
+            ],
+            "23": [
+              [
+                27,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What alternative comparison do some commentators make for the J-10?"
+              ]
+            ],
+            "24": [
+              [
+                28,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many weapon mounting points does the J-10 fighter have?"
+              ]
+            ],
+            "25": [
+              [
+                30,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What has been the overall export performance of China's J-10 fighter jets?"
+              ]
+            ],
+            "26": [
+              [
+                31,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How does the J-10 fighter jet price compare to F-16 aircraft?"
+              ],
+              [
+                61,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the cost comparison mentioned for the F-16 alternative?"
+              ]
+            ],
+            "27": [
+              [
+                32,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What technical issues have affected J-10 fighter jet export sales?"
+              ]
+            ],
+            "28": [
+              [
+                33,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How was the J-10 fighter jet described after 2009?"
+              ]
+            ],
+            "29": [
+              [
+                34,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Where did China first demonstrate J-10 jets internationally?"
+              ]
+            ],
+            "30": [
+              [
+                35,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What generation fighter jet is China's J-10?"
+              ]
+            ],
+            "31": [
+              [
+                36,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What weapons and systems does the J-10 fighter jet feature?"
+              ]
+            ],
+            "32": [
+              [
+                37,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What cost advantage does the J-10 have over other Chinese fighters?"
+              ]
+            ],
+            "33": [
+              [
+                38,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which publication ranked the J-10 among top threatening fighter jets?"
+              ]
+            ],
+            "34": [
+              [
+                39,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What Russian equipment was installed on Pakistani J-10 fighters?"
+              ]
+            ],
+            "35": [
+              [
+                40,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What engine upgrade was made to J-10C fighters?"
+              ]
+            ],
+            "36": [
+              [
+                41,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What trend is occurring in China's aviation industry?"
+              ]
+            ],
+            "37": [
+              [
+                43,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many orders has the C919 commercial aircraft received?"
+              ]
+            ],
+            "38": [
+              [
+                44,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What role does the J-10 fighter jet play in China's military?"
+              ]
+            ],
+            "39": [
+              [
+                45,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many military aircraft does China produce per year?"
+              ]
+            ],
+            "40": [
+              [
+                46,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which countries currently use the J-10 fighter jet?"
+              ]
+            ],
+            "41": [
+              [
+                47,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country may acquire the J-10C as F-16 replacement?"
+              ]
+            ],
+            "42": [
+              [
+                48,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is the Chinese J-10C fighter jet characterized?"
+              ]
+            ],
+            "43": [
+              [
+                49,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10 fighter jets has China produced?"
+              ]
+            ],
+            "44": [
+              [
+                50,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which J-10 variant is available for international sales?"
+              ]
+            ],
+            "45": [
+              [
+                51,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is Pakistan's Z-10ME helicopter purchase related to J-10CE?"
+              ]
+            ],
+            "46": [
+              [
+                52,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which engines power China's J-10 fighter jets?"
+              ]
+            ],
+            "47": [
+              [
+                53,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the domestic production rate for J-10's WS-10C engines?"
+              ]
+            ],
+            "48": [
+              [
+                54,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country is negotiating Chinese military aircraft purchases in 2023?"
+              ],
+              [
+                81,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country is currently negotiating Chinese military aircraft purchases?"
+              ]
+            ],
+            "49": [
+              [
+                55,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-20 fighters does China plan to deploy?"
+              ]
+            ],
+            "50": [
+              [
+                56,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country started receiving China's J-10C fighter jets and when?"
+              ]
+            ],
+            "51": [
+              [
+                57,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country is considering the J-10C as an alternative purchase?"
+              ]
+            ],
+            "52": [
+              [
+                58,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How does the J-10C's performance compare to the F-16?"
+              ]
+            ],
+            "53": [
+              [
+                59,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What operational advantages does the J-10C offer buyers?"
+              ]
+            ],
+            "54": [
+              [
+                60,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How has China adapted the J-10C for foreign customers?"
+              ]
+            ],
+            "55": [
+              [
+                62,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What new Chinese fighter jet is expected to fly November 2024?"
+              ]
+            ],
+            "56": [
+              [
+                63,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which variant of China's J-10 fighter participated in the airshow?"
+              ]
+            ],
+            "57": [
+              [
+                64,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What type of aircraft is the J-10C fighter jet?"
+              ]
+            ],
+            "58": [
+              [
+                65,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What key systems does the J-10C fighter jet feature?"
+              ]
+            ],
+            "59": [
+              [
+                66,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What combat capabilities does the J-10C fighter jet possess?"
+              ]
+            ],
+            "60": [
+              [
+                67,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How does the J-16 relate to other Chinese fighter aircraft?"
+              ]
+            ],
+            "61": [
+              [
+                68,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What J-10 fighter jet export sales are mentioned in this document?"
+              ]
+            ],
+            "62": [
+              [
+                69,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the official brand name for China's J-10 fighter jet?"
+              ]
+            ],
+            "63": [
+              [
+                70,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese company manufactures the J-10 fighter jet?"
+              ],
+              [
+                112,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which company manufactures the J-10 fighter jet?"
+              ]
+            ],
+            "64": [
+              [
+                71,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese corporation develops military fighter aircraft?"
+              ]
+            ],
+            "65": [
+              [
+                72,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When did China's J-31 fighter jet make its first flight?"
+              ]
+            ],
+            "66": [
+              [
+                73,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What international event featured China's J-10B fighter jets?"
+              ]
+            ],
+            "67": [
+              [
+                74,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is the J-10B fighter jet classified by capabilities?"
+              ]
+            ],
+            "68": [
+              [
+                75,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What primary missions does the J-10B fighter jet perform?"
+              ]
+            ],
+            "69": [
+              [
+                76,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do experts say about Chinese fighter jet effectiveness?"
+              ]
+            ],
+            "70": [
+              [
+                77,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What aviation exhibition showcased China's latest military aircraft developments?"
+              ],
+              [
+                144,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What other Chinese military aircraft will be displayed at the exhibition?"
+              ]
+            ],
+            "71": [
+              [
+                78,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the development timeline of China's J-20 fighter jet?"
+              ]
+            ],
+            "72": [
+              [
+                79,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do American commentators say about China's J-20 fighter capabilities?"
+              ]
+            ],
+            "73": [
+              [
+                80,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How much has China closed the jet engine technology gap?"
+              ]
+            ],
+            "74": [
+              [
+                82,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese company is negotiating aircraft sales with Pakistan?"
+              ]
+            ],
+            "75": [
+              [
+                83,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which variant of the J-10 fighter jet uses PL-15 missiles?"
+              ]
+            ],
+            "76": [
+              [
+                84,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What do analysts say about Chinese weapons pricing and production?"
+              ]
+            ],
+            "77": [
+              [
+                85,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What observation did analyst Miguel Miranda make about Chinese weapons?"
+              ]
+            ],
+            "78": [
+              [
+                86,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What operational scale do J-10 fighter jet formations represent?"
+              ]
+            ],
+            "79": [
+              [
+                87,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is China's ranking in global weapons production?"
+              ]
+            ],
+            "80": [
+              [
+                88,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What was the value of Chinese weapons deals recently?"
+              ]
+            ],
+            "81": [
+              [
+                89,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jets were recently deployed in Taiwan operations?"
+              ],
+              [
+                90,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many Chinese fighter jets were deployed in recent Taiwan missions?"
+              ],
+              [
+                134,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10 fighter jets were involved in recent Taiwan airspace operations?"
+              ]
+            ],
+            "82": [
+              [
+                91,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Who is the chief designer of China's J-20 fighter jet?"
+              ]
+            ],
+            "83": [
+              [
+                92,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the total value of Pakistan's J-10C purchase?"
+              ]
+            ],
+            "84": [
+              [
+                93,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the unit price of J-10C fighter jets?"
+              ]
+            ],
+            "85": [
+              [
+                94,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Why is Pakistan purchasing J-10C fighter jets from China?"
+              ],
+              [
+                129,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Why is Pakistan's J-10CE particularly watched by observers?"
+              ]
+            ],
+            "86": [
+              [
+                95,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is the J-10C described in terms of exports?"
+              ]
+            ],
+            "87": [
+              [
+                96,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When will Pakistan's first J-10 fighter jets be showcased?"
+              ]
+            ],
+            "88": [
+              [
+                97,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which team performed with J-10 fighter jets at the airshow?"
+              ]
+            ],
+            "89": [
+              [
+                99,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What Chinese fighter jet did Yang Wei comment on?"
+              ]
+            ],
+            "90": [
+              [
+                100,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What combat performance have Chinese J-20 fighters shown?"
+              ]
+            ],
+            "91": [
+              [
+                101,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which fighters control Taiwan Strait according to the document?"
+              ]
+            ],
+            "92": [
+              [
+                102,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What role does the J-10C play in China's fighter development?"
+              ]
+            ],
+            "93": [
+              [
+                103,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What production approach does China use for new weapons like J-10?"
+              ]
+            ],
+            "94": [
+              [
+                104,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How does China develop military equipment like the J-10 fighter?"
+              ]
+            ],
+            "95": [
+              [
+                105,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What type of fighter jet does Pakistan Air Force need from China?"
+              ]
+            ],
+            "96": [
+              [
+                106,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the main market focus for the J-10D fighter jet?"
+              ]
+            ],
+            "97": [
+              [
+                107,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What major modification was made to the J-10D prototype?"
+              ]
+            ],
+            "98": [
+              [
+                108,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What long-standing problem does the J-10D modification address?"
+              ]
+            ],
+            "99": [
+              [
+                109,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the assessment of J-10D adoption by China's military?"
+              ]
+            ],
+            "100": [
+              [
+                110,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which fighter jet series has Chengdu Aircraft Industry Group produced?"
+              ],
+              [
+                111,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many fighter jets has Chengdu Aircraft Industry Group manufactured?"
+              ],
+              [
+                113,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is Chengdu Aircraft Industry Group described regarding exports?"
+              ]
+            ],
+            "101": [
+              [
+                114,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What information about J-10 fighter jets is mentioned in the document?"
+              ]
+            ],
+            "102": [
+              [
+                115,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is China's role in the global arms market?"
+              ]
+            ],
+            "103": [
+              [
+                116,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When and where did the 13th China Aerospace Exhibition open?"
+              ],
+              [
+                143,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When and where will the China International Aviation Aerospace Exhibition open?"
+              ]
+            ],
+            "104": [
+              [
+                118,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What recent achievements has the J-10C fighter jet accomplished?"
+              ]
+            ],
+            "105": [
+              [
+                119,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What advanced equipment does the J-10C fighter jet feature?"
+              ]
+            ],
+            "106": [
+              [
+                120,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What tactical advantages does the J-10C demonstrate in combat?"
+              ]
+            ],
+            "107": [
+              [
+                121,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When and where is the China Zhuhai Airshow taking place?"
+              ]
+            ],
+            "108": [
+              [
+                122,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Why was China's J-10 fighter jet not selected by Iran?"
+              ]
+            ],
+            "109": [
+              [
+                123,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is China's J-10 series characterized in terms of capabilities?"
+              ]
+            ],
+            "110": [
+              [
+                124,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What was Iran's assessment of China's J-10 fighter jets?"
+              ]
+            ],
+            "111": [
+              [
+                125,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which country's air force has imported China's J-10CE fighter jets?"
+              ]
+            ],
+            "112": [
+              [
+                126,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What notable feature does the J-10CE have according to foreign media?"
+              ]
+            ],
+            "113": [
+              [
+                127,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What distinction does Pakistan hold regarding J-10CE technology acquisition?"
+              ]
+            ],
+            "114": [
+              [
+                128,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What technology makes the J-10CE's golden cockpit canopy special?"
+              ],
+              [
+                130,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What does the golden cockpit canopy symbolize for J-10CE?"
+              ]
+            ],
+            "115": [
+              [
+                131,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jets made their first public appearance?"
+              ]
+            ],
+            "116": [
+              [
+                132,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Where did the Chinese Air Force hold public airshows?"
+              ],
+              [
+                133,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How long did the Chinese Air Force public airshows last?"
+              ],
+              [
+                148,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> At which international airshow did China display military aircraft?"
+              ]
+            ],
+            "117": [
+              [
+                135,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10 fighter jets were involved in the recent military activity?"
+              ]
+            ],
+            "118": [
+              [
+                136,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which military force operates the J-10 fighter jets mentioned?"
+              ]
+            ],
+            "119": [
+              [
+                137,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What was the first export sale of China's L-15 fighter?"
+              ]
+            ],
+            "120": [
+              [
+                138,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Why is Ethiopia purchasing Chinese L-15 fighter jets?"
+              ]
+            ],
+            "121": [
+              [
+                139,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What are the key performance specifications of China's L-15?"
+              ]
+            ],
+            "122": [
+              [
+                140,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What radar capability does the armed L-15 variant feature?"
+              ]
+            ],
+            "123": [
+              [
+                141,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jets might the J-35 replace according to experts?"
+              ]
+            ],
+            "124": [
+              [
+                142,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Chinese fighter jet models have been involved in airspace activities?"
+              ]
+            ],
+            "125": [
+              [
+                145,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> When did China's J-10A fighter jet enter service and get announced?"
+              ]
+            ],
+            "126": [
+              [
+                146,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which Middle Eastern country has purchased Chinese military aircraft?"
+              ]
+            ],
+            "127": [
+              [
+                147,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What aircraft model does China's Bayi Aerobatic Team use?"
+              ]
+            ],
+            "128": [
+              [
+                149,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is Sudan's significance in J-10C fighter jet sales?"
+              ],
+              [
+                153,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What factor influenced Sudan's decision to buy Chinese J-10C jets?"
+              ]
+            ],
+            "129": [
+              [
+                150,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many J-10C fighter jets is Sudan expected to purchase initially?"
+              ],
+              [
+                151,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the estimated price for Sudan's J-10C fighter jets?"
+              ]
+            ],
+            "130": [
+              [
+                152,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> Which other countries have shown interest in J-10C fighter jets?"
+              ]
+            ],
+            "131": [
+              [
+                154,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How many light fighter jets is Malaysia planning to purchase?"
+              ]
+            ],
+            "132": [
+              [
+                179,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> How is the J-10 fighter jet characterized by analysts?"
+              ]
+            ],
+            "133": [
+              [
+                189,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What is the status of J-10 fighter jet development?"
+              ]
+            ],
+            "134": [
+              [
+                191,
+                "I need a report on the export market of China's J-10 fighter jets. The report should provide information about the countries that have bought or are going to buy the jets from China, the feedback from buyers, and any comments from the media on the quality and performance of the jet. >>> What operational activity involving J-10 fighter jets is mentioned?"
+              ]
+            ]
+          }
+        },
+        "bertopic_coverage_results": {
+          "num_clusters": 65,
+          "num_noise": 0,
+          "noise_ratio": 0.0,
+          "coverage_estimate": 0.6770833333333334,
+          "cluster_labels": [
+            17,
+            8,
+            31,
+            16,
+            32,
+            47,
+            30,
+            8,
+            42,
+            41,
+            21,
+            15,
+            28,
+            29,
+            7,
+            2,
+            22,
+            2,
+            40,
+            46,
+            9,
+            11,
+            9,
+            45,
+            28,
+            6,
+            41,
+            16,
+            0,
+            44,
+            27,
+            18,
+            43,
+            2,
+            3,
+            20,
+            0,
+            11,
+            15,
+            9,
+            0,
+            19,
+            10,
+            46,
+            38,
+            19,
+            39,
+            4,
+            29,
+            19,
+            4,
+            37,
+            20,
+            48,
+            35,
+            28,
+            3,
+            4,
+            18,
+            53,
+            4,
+            18,
+            26,
+            3,
+            29,
+            0,
+            52,
+            38,
+            32,
+            13,
+            13,
+            10,
+            51,
+            3,
+            6,
+            0,
+            30,
+            23,
+            50,
+            5,
+            50,
+            35,
+            35,
+            0,
+            25,
+            25,
+            6,
+            49,
+            25,
+            14,
+            14,
+            13,
+            45,
+            48,
+            24,
+            55,
+            9,
+            7,
+            53,
+            26,
+            5,
+            14,
+            11,
+            56,
+            56,
+            44,
+            12,
+            22,
+            22,
+            11,
+            33,
+            33,
+            13,
+            33,
+            7,
+            49,
+            54,
+            43,
+            2,
+            0,
+            52,
+            34,
+            58,
+            4,
+            58,
+            40,
+            16,
+            37,
+            57,
+            37,
+            57,
+            21,
+            34,
+            34,
+            14,
+            15,
+            15,
+            60,
+            59,
+            27,
+            27,
+            20,
+            21,
+            54,
+            23,
+            51,
+            59,
+            10,
+            23,
+            61,
+            36,
+            36,
+            39,
+            61,
+            36,
+            17,
+            17,
+            60,
+            62,
+            3,
+            24,
+            24,
+            62,
+            12,
+            8,
+            8,
+            12,
+            12,
+            5,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            63,
+            63,
+            31,
+            31,
+            6,
+            16,
+            32,
+            55,
+            47,
+            10,
+            64,
+            64,
+            26,
+            42,
+            2,
+            30,
+            7
+          ],
+          "clusters": {
+            "17": [
+              [
+                0,
+                "Which countries have purchased China's J-10 fighter jets?"
+              ],
+              [
+                155,
+                "What countries have purchased China's J-10 fighter jets?"
+              ],
+              [
+                156,
+                "Which countries have purchased J-10 fighter jets from China?"
+              ]
+            ],
+            "8": [
+              [
+                1,
+                "What feedback have buyers provided about China's J-10 fighter jets?"
+              ],
+              [
+                7,
+                "What feedback have international buyers given about J-10 fighter jets?"
+              ],
+              [
+                164,
+                "What buyer feedback exists for China's J-10 fighter jets?"
+              ],
+              [
+                165,
+                "What feedback have buyers given about China's J-10 fighter jets?"
+              ]
+            ],
+            "31": [
+              [
+                2,
+                "What do media commentators say about J-10 fighter jet quality?"
+              ],
+              [
+                177,
+                "What are media commentators saying about J-10 fighter jet quality?"
+              ],
+              [
+                178,
+                "What media comments exist about J-10 fighter jet quality?"
+              ]
+            ],
+            "16": [
+              [
+                3,
+                "What do media commentators say about J-10 fighter jet performance?"
+              ],
+              [
+                27,
+                "What alternative comparison do some commentators make for the J-10?"
+              ],
+              [
+                126,
+                "What notable feature does the J-10CE have according to foreign media?"
+              ],
+              [
+                180,
+                "What do commentators say about J-10 fighter jet performance?"
+              ]
+            ],
+            "32": [
+              [
+                4,
+                "Does this document contain information about J-10 fighter jet exports?"
+              ],
+              [
+                68,
+                "What J-10 fighter jet export sales are mentioned in this document?"
+              ],
+              [
+                181,
+                "Does this document contain information about J-10 fighter exports?"
+              ]
+            ],
+            "47": [
+              [
+                5,
+                "Does this document contain information about J-10 export sales?"
+              ],
+              [
+                183,
+                "Does this document contain information about J-10 export markets?"
+              ]
+            ],
+            "30": [
+              [
+                6,
+                "Which Chinese fighter jet is discussed in the document?"
+              ],
+              [
+                76,
+                "What do experts say about Chinese fighter jet effectiveness?"
+              ],
+              [
+                190,
+                "What Chinese fighter jet information is covered in this document?"
+              ]
+            ],
+            "42": [
+              [
+                8,
+                "Does this document contain buyer feedback on J-10 jets?"
+              ],
+              [
+                188,
+                "Does the document contain buyer feedback on J-10 jets?"
+              ]
+            ],
+            "41": [
+              [
+                9,
+                "How far has the J-10 fighter jet series progressed?"
+              ],
+              [
+                26,
+                "What is the projected service life of upgraded J-10 fighters?"
+              ]
+            ],
+            "21": [
+              [
+                10,
+                "Which Chinese fighter jets are discussed in this document?"
+              ],
+              [
+                131,
+                "Which Chinese fighter jets made their first public appearance?"
+              ],
+              [
+                142,
+                "Which Chinese fighter jet models have been involved in airspace activities?"
+              ]
+            ],
+            "15": [
+              [
+                11,
+                "What role did J-10 fighter jets play in recent military operations?"
+              ],
+              [
+                38,
+                "Which publication ranked the J-10 among top threatening fighter jets?"
+              ],
+              [
+                135,
+                "How many J-10 fighter jets were involved in the recent military activity?"
+              ],
+              [
+                136,
+                "Which military force operates the J-10 fighter jets mentioned?"
+              ]
+            ],
+            "28": [
+              [
+                12,
+                "What percentage of China's combat aircraft fleet consists of J-10 fighters?"
+              ],
+              [
+                24,
+                "How many J-10 fighter jets does China's air force currently operate?"
+              ],
+              [
+                55,
+                "How many J-20 fighters does China plan to deploy?"
+              ]
+            ],
+            "29": [
+              [
+                13,
+                "What aircraft design is the Chinese J-10 fighter jet based on?"
+              ],
+              [
+                48,
+                "How is the Chinese J-10C fighter jet characterized?"
+              ],
+              [
+                64,
+                "What type of aircraft is the J-10C fighter jet?"
+              ]
+            ],
+            "7": [
+              [
+                14,
+                "What safety issues have been reported with the J-10 fighter jet?"
+              ],
+              [
+                97,
+                "Which team performed with J-10 fighter jets at the airshow?"
+              ],
+              [
+                114,
+                "What information about J-10 fighter jets is mentioned in the document?"
+              ],
+              [
+                191,
+                "What operational activity involving J-10 fighter jets is mentioned?"
+              ]
+            ],
+            "2": [
+              [
+                15,
+                "What enhanced version of the J-10 fighter was presented by PLAAF?"
+              ],
+              [
+                17,
+                "Where was the J-10C multi-purpose fighter showcased in 2021?"
+              ],
+              [
+                33,
+                "How was the J-10 fighter jet described after 2009?"
+              ],
+              [
+                118,
+                "What recent achievements has the J-10C fighter jet accomplished?"
+              ],
+              [
+                189,
+                "What is the status of J-10 fighter jet development?"
+              ]
+            ],
+            "22": [
+              [
+                16,
+                "What enhancement does the J-10C offer over the original J-10?"
+              ],
+              [
+                107,
+                "What major modification was made to the J-10D prototype?"
+              ],
+              [
+                108,
+                "What long-standing problem does the J-10D modification address?"
+              ]
+            ],
+            "40": [
+              [
+                18,
+                "Which country has formally inducted the Chinese J-10C fighter jets?"
+              ],
+              [
+                125,
+                "Which country's air force has imported China's J-10CE fighter jets?"
+              ]
+            ],
+            "46": [
+              [
+                19,
+                "How many J-10C aircraft is China delivering to Pakistan?"
+              ],
+              [
+                43,
+                "How many orders has the C919 commercial aircraft received?"
+              ]
+            ],
+            "9": [
+              [
+                20,
+                "When did Pakistan formally induct the J-10C fighter jets?"
+              ],
+              [
+                22,
+                "What impact will J-10C jets have on Pakistan's military?"
+              ],
+              [
+                39,
+                "What Russian equipment was installed on Pakistani J-10 fighters?"
+              ],
+              [
+                96,
+                "When will Pakistan's first J-10 fighter jets be showcased?"
+              ]
+            ],
+            "11": [
+              [
+                21,
+                "How did Chinese analyst Shi Hong characterize the J-10C?"
+              ],
+              [
+                37,
+                "What cost advantage does the J-10 have over other Chinese fighters?"
+              ],
+              [
+                102,
+                "What role does the J-10C play in China's fighter development?"
+              ],
+              [
+                109,
+                "What is the assessment of J-10D adoption by China's military?"
+              ]
+            ],
+            "45": [
+              [
+                23,
+                "How do Chinese analysts view the J-10C sale to Pakistan?"
+              ],
+              [
+                92,
+                "What is the total value of Pakistan's J-10C purchase?"
+              ]
+            ],
+            "6": [
+              [
+                25,
+                "How do military analysts view the J-10's market position?"
+              ],
+              [
+                74,
+                "How is the J-10B fighter jet classified by capabilities?"
+              ],
+              [
+                86,
+                "What operational scale do J-10 fighter jet formations represent?"
+              ],
+              [
+                179,
+                "How is the J-10 fighter jet characterized by analysts?"
+              ]
+            ],
+            "0": [
+              [
+                28,
+                "How many weapon mounting points does the J-10 fighter have?"
+              ],
+              [
+                36,
+                "What weapons and systems does the J-10 fighter jet feature?"
+              ],
+              [
+                40,
+                "What engine upgrade was made to J-10C fighters?"
+              ],
+              [
+                65,
+                "What key systems does the J-10C fighter jet feature?"
+              ],
+              [
+                75,
+                "What primary missions does the J-10B fighter jet perform?"
+              ],
+              [
+                83,
+                "Which variant of the J-10 fighter jet uses PL-15 missiles?"
+              ],
+              [
+                119,
+                "What advanced equipment does the J-10C fighter jet feature?"
+              ]
+            ],
+            "44": [
+              [
+                29,
+                "How many J-10 fighter jets did Pakistan order from China?"
+              ],
+              [
+                105,
+                "What type of fighter jet does Pakistan Air Force need from China?"
+              ]
+            ],
+            "27": [
+              [
+                30,
+                "What has been the overall export performance of China's J-10 fighter jets?"
+              ],
+              [
+                139,
+                "What are the key performance specifications of China's L-15?"
+              ],
+              [
+                140,
+                "What radar capability does the armed L-15 variant feature?"
+              ]
+            ],
+            "18": [
+              [
+                31,
+                "How does the J-10 fighter jet price compare to F-16 aircraft?"
+              ],
+              [
+                58,
+                "How does the J-10C's performance compare to the F-16?"
+              ],
+              [
+                61,
+                "What is the cost comparison mentioned for the F-16 alternative?"
+              ]
+            ],
+            "43": [
+              [
+                32,
+                "What technical issues have affected J-10 fighter jet export sales?"
+              ],
+              [
+                117,
+                "What have commentators said about J-10 fighter jet export performance?"
+              ]
+            ],
+            "3": [
+              [
+                34,
+                "Where did China first demonstrate J-10 jets internationally?"
+              ],
+              [
+                56,
+                "Which country started receiving China's J-10C fighter jets and when?"
+              ],
+              [
+                63,
+                "Which variant of China's J-10 fighter participated in the airshow?"
+              ],
+              [
+                73,
+                "What international event featured China's J-10B fighter jets?"
+              ],
+              [
+                159,
+                "Which country has purchased China's J-10 fighter jets?"
+              ]
+            ],
+            "20": [
+              [
+                35,
+                "What generation fighter jet is China's J-10?"
+              ],
+              [
+                52,
+                "Which engines power China's J-10 fighter jets?"
+              ],
+              [
+                141,
+                "Which Chinese fighter jets might the J-35 replace according to experts?"
+              ]
+            ],
+            "19": [
+              [
+                41,
+                "What trend is occurring in China's aviation industry?"
+              ],
+              [
+                45,
+                "How many military aircraft does China produce per year?"
+              ],
+              [
+                49,
+                "How many J-10 fighter jets has China produced?"
+              ]
+            ],
+            "10": [
+              [
+                42,
+                "Which Chinese aircraft is discussed in this document?"
+              ],
+              [
+                71,
+                "Which Chinese corporation develops military fighter aircraft?"
+              ],
+              [
+                147,
+                "What aircraft model does China's Bayi Aerobatic Team use?"
+              ],
+              [
+                184,
+                "Which Chinese fighter aircraft is discussed in this document?"
+              ]
+            ],
+            "38": [
+              [
+                44,
+                "What role does the J-10 fighter jet play in China's military?"
+              ],
+              [
+                67,
+                "How does the J-16 relate to other Chinese fighter aircraft?"
+              ]
+            ],
+            "39": [
+              [
+                46,
+                "Which countries currently use the J-10 fighter jet?"
+              ],
+              [
+                152,
+                "Which other countries have shown interest in J-10C fighter jets?"
+              ]
+            ],
+            "4": [
+              [
+                47,
+                "Which country may acquire the J-10C as F-16 replacement?"
+              ],
+              [
+                50,
+                "Which J-10 variant is available for international sales?"
+              ],
+              [
+                57,
+                "Which country is considering the J-10C as an alternative purchase?"
+              ],
+              [
+                60,
+                "How has China adapted the J-10C for foreign customers?"
+              ],
+              [
+                123,
+                "How is China's J-10 series characterized in terms of capabilities?"
+              ]
+            ],
+            "37": [
+              [
+                51,
+                "How is Pakistan's Z-10ME helicopter purchase related to J-10CE?"
+              ],
+              [
+                127,
+                "What distinction does Pakistan hold regarding J-10CE technology acquisition?"
+              ],
+              [
+                129,
+                "Why is Pakistan's J-10CE particularly watched by observers?"
+              ]
+            ],
+            "48": [
+              [
+                53,
+                "What is the domestic production rate for J-10's WS-10C engines?"
+              ],
+              [
+                93,
+                "What is the unit price of J-10C fighter jets?"
+              ]
+            ],
+            "35": [
+              [
+                54,
+                "Which country is negotiating Chinese military aircraft purchases in 2023?"
+              ],
+              [
+                81,
+                "Which country is currently negotiating Chinese military aircraft purchases?"
+              ],
+              [
+                82,
+                "Which Chinese company is negotiating aircraft sales with Pakistan?"
+              ]
+            ],
+            "53": [
+              [
+                59,
+                "What operational advantages does the J-10C offer buyers?"
+              ],
+              [
+                98,
+                "What feedback have international buyers given about J-10 performance?"
+              ]
+            ],
+            "26": [
+              [
+                62,
+                "What new Chinese fighter jet is expected to fly November 2024?"
+              ],
+              [
+                99,
+                "What Chinese fighter jet did Yang Wei comment on?"
+              ],
+              [
+                187,
+                "Which Chinese fighter jet is discussed in this document?"
+              ]
+            ],
+            "52": [
+              [
+                66,
+                "What combat capabilities does the J-10C fighter jet possess?"
+              ],
+              [
+                120,
+                "What tactical advantages does the J-10C demonstrate in combat?"
+              ]
+            ],
+            "13": [
+              [
+                69,
+                "What is the official brand name for China's J-10 fighter jet?"
+              ],
+              [
+                70,
+                "Which Chinese company manufactures the J-10 fighter jet?"
+              ],
+              [
+                91,
+                "Who is the chief designer of China's J-20 fighter jet?"
+              ],
+              [
+                112,
+                "Which company manufactures the J-10 fighter jet?"
+              ]
+            ],
+            "51": [
+              [
+                72,
+                "When did China's J-31 fighter jet make its first flight?"
+              ],
+              [
+                145,
+                "When did China's J-10A fighter jet enter service and get announced?"
+              ]
+            ],
+            "23": [
+              [
+                77,
+                "What aviation exhibition showcased China's latest military aircraft developments?"
+              ],
+              [
+                144,
+                "What other Chinese military aircraft will be displayed at the exhibition?"
+              ],
+              [
+                148,
+                "At which international airshow did China display military aircraft?"
+              ]
+            ],
+            "50": [
+              [
+                78,
+                "What is the development timeline of China's J-20 fighter jet?"
+              ],
+              [
+                80,
+                "How much has China closed the jet engine technology gap?"
+              ]
+            ],
+            "5": [
+              [
+                79,
+                "What do American commentators say about China's J-20 fighter capabilities?"
+              ],
+              [
+                100,
+                "What combat performance have Chinese J-20 fighters shown?"
+              ],
+              [
+                168,
+                "What do commentators say about China's J-10 fighter performance?"
+              ],
+              [
+                169,
+                "What are media commentators saying about China's J-10 fighter performance?"
+              ]
+            ],
+            "25": [
+              [
+                84,
+                "What do analysts say about Chinese weapons pricing and production?"
+              ],
+              [
+                85,
+                "What observation did analyst Miguel Miranda make about Chinese weapons?"
+              ],
+              [
+                88,
+                "What was the value of Chinese weapons deals recently?"
+              ]
+            ],
+            "49": [
+              [
+                87,
+                "What is China's ranking in global weapons production?"
+              ],
+              [
+                115,
+                "What is China's role in the global arms market?"
+              ]
+            ],
+            "14": [
+              [
+                89,
+                "Which Chinese fighter jets were recently deployed in Taiwan operations?"
+              ],
+              [
+                90,
+                "How many Chinese fighter jets were deployed in recent Taiwan missions?"
+              ],
+              [
+                101,
+                "Which fighters control Taiwan Strait according to the document?"
+              ],
+              [
+                134,
+                "How many J-10 fighter jets were involved in recent Taiwan airspace operations?"
+              ]
+            ],
+            "24": [
+              [
+                94,
+                "Why is Pakistan purchasing J-10C fighter jets from China?"
+              ],
+              [
+                160,
+                "Which country is buying J-10C fighter jets from China?"
+              ],
+              [
+                161,
+                "Which country has purchased J-10CE fighter jets from China?"
+              ]
+            ],
+            "55": [
+              [
+                95,
+                "How is the J-10C described in terms of exports?"
+              ],
+              [
+                182,
+                "Does the document contain information about J-10 export markets?"
+              ]
+            ],
+            "56": [
+              [
+                103,
+                "What production approach does China use for new weapons like J-10?"
+              ],
+              [
+                104,
+                "How does China develop military equipment like the J-10 fighter?"
+              ]
+            ],
+            "12": [
+              [
+                106,
+                "What is the main market focus for the J-10D fighter jet?"
+              ],
+              [
+                163,
+                "What buyer feedback exists for China's J-10 fighter jet?"
+              ],
+              [
+                166,
+                "What feedback have buyers given about China's J-10 fighter jet?"
+              ],
+              [
+                167,
+                "What buyer feedback exists regarding China's J-10 fighter jet performance?"
+              ]
+            ],
+            "33": [
+              [
+                110,
+                "Which fighter jet series has Chengdu Aircraft Industry Group produced?"
+              ],
+              [
+                111,
+                "How many fighter jets has Chengdu Aircraft Industry Group manufactured?"
+              ],
+              [
+                113,
+                "How is Chengdu Aircraft Industry Group described regarding exports?"
+              ]
+            ],
+            "54": [
+              [
+                116,
+                "When and where did the 13th China Aerospace Exhibition open?"
+              ],
+              [
+                143,
+                "When and where will the China International Aviation Aerospace Exhibition open?"
+              ]
+            ],
+            "34": [
+              [
+                121,
+                "When and where is the China Zhuhai Airshow taking place?"
+              ],
+              [
+                132,
+                "Where did the Chinese Air Force hold public airshows?"
+              ],
+              [
+                133,
+                "How long did the Chinese Air Force public airshows last?"
+              ]
+            ],
+            "58": [
+              [
+                122,
+                "Why was China's J-10 fighter jet not selected by Iran?"
+              ],
+              [
+                124,
+                "What was Iran's assessment of China's J-10 fighter jets?"
+              ]
+            ],
+            "57": [
+              [
+                128,
+                "What technology makes the J-10CE's golden cockpit canopy special?"
+              ],
+              [
+                130,
+                "What does the golden cockpit canopy symbolize for J-10CE?"
+              ]
+            ],
+            "60": [
+              [
+                137,
+                "What was the first export sale of China's L-15 fighter?"
+              ],
+              [
+                157,
+                "Which countries have purchased China's J-10 fighter jets for export?"
+              ]
+            ],
+            "59": [
+              [
+                138,
+                "Why is Ethiopia purchasing Chinese L-15 fighter jets?"
+              ],
+              [
+                146,
+                "Which Middle Eastern country has purchased Chinese military aircraft?"
+              ]
+            ],
+            "61": [
+              [
+                149,
+                "What is Sudan's significance in J-10C fighter jet sales?"
+              ],
+              [
+                153,
+                "What factor influenced Sudan's decision to buy Chinese J-10C jets?"
+              ]
+            ],
+            "36": [
+              [
+                150,
+                "How many J-10C fighter jets is Sudan expected to purchase initially?"
+              ],
+              [
+                151,
+                "What is the estimated price for Sudan's J-10C fighter jets?"
+              ],
+              [
+                154,
+                "How many light fighter jets is Malaysia planning to purchase?"
+              ]
+            ],
+            "62": [
+              [
+                158,
+                "Which countries have successfully purchased China's J-10 fighter jets?"
+              ],
+              [
+                162,
+                "Which countries have purchased China's J-10C fighter jets?"
+              ]
+            ],
+            "1": [
+              [
+                170,
+                "What are media commentators saying about China's J-10 fighter jets?"
+              ],
+              [
+                171,
+                "What do commentators say about China's J-10 fighter jet performance?"
+              ],
+              [
+                172,
+                "What have commentators said about China's J-10 fighter jet performance?"
+              ],
+              [
+                173,
+                "What have commentators said about China's J-10 fighter jet quality?"
+              ],
+              [
+                174,
+                "What media commentary exists about China's J-10 fighter jet performance?"
+              ]
+            ],
+            "63": [
+              [
+                175,
+                "What do commentators say about J-10 fighter jet quality?"
+              ],
+              [
+                176,
+                "What have commentators said about J-10 fighter jet quality?"
+              ]
+            ],
+            "64": [
+              [
+                185,
+                "Which Chinese fighter jet is featured in this document?"
+              ],
+              [
+                186,
+                "What Chinese fighter jet is featured in this document?"
+              ]
+            ]
+          }
+        }
+      },
+      "lexical_diversity": {
+        "distinct_n": 0.5973864658254129,
+        "inverse_compression": 0.2678093197643278,
+        "ttr": 0.2440901594282573
+      },
+      "semantic_diversity": {
+        "avg_num_words": 9.473958333333334,
+        "num_unique_verbs": 27,
+        "num_unique_verb_noun_pairs": 46,
+        "top_100_verbs": [
+          "purchase",
+          "do",
+          "have",
+          "contain",
+          "make",
+          "negotiate",
+          "use",
+          "develop",
+          "hold",
+          "view",
+          "manufacture",
+          "induct",
+          "feature",
+          "demonstrate",
+          "enter",
+          "buy",
+          "affect",
+          "close",
+          "display",
+          "offer",
+          "influence",
+          "import",
+          "play",
+          "rank",
+          "produce",
+          "showcase",
+          "show"
+        ],
+        "dc_score": 1.5685153007507324
+      },
+      "syntactical_diversity": {
+        "distinct_n_pos": 0.3137650848987191,
+        "inverse_compression_pos": 0.18021265092809513
+      }
+    }
+  }
+}

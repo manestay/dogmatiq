@@ -1,0 +1,723 @@
+{
+  "query_id": "1017",
+  "title_query": "1017",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How many live-action Diary of a Wimpy Kid films were made?": {
+      "question": "How many live-action Diary of a Wimpy Kid films were made?",
+      "answers": {
+        "four live-action films in the 2010s": {
+          "answer": "four live-action films in the 2010s",
+          "references": [
+            {
+              "doc_id": "4526a224-ca27-4a2f-8e20-cdfce60bc0b5_197224044"
+            }
+          ]
+        }
+      },
+      "question_id": "c852ac235a368bf93a71c14412202e75",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How many live-action Diary of a Wimpy Kid films were made?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4526a224-ca27-4a2f-8e20-cdfce60bc0b5_197224044"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many live-action remakes is Disney currently developing?": {
+      "question": "How many live-action remakes is Disney currently developing?",
+      "answers": {
+        "nine live-action remakes currently in development at Disney": {
+          "answer": "nine live-action remakes currently in development at Disney",
+          "references": [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        }
+      },
+      "question_id": "96df3385e62e2dc0c31d3c4fd6829506",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How many live-action remakes is Disney currently developing?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the production budget for The Little Mermaid remake?": {
+      "question": "What was the production budget for The Little Mermaid remake?",
+      "answers": {
+        "$250 million": {
+          "answer": "$250 million",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        },
+        "$250 million production budget for The Little Mermaid remake": {
+          "answer": "$250 million production budget for The Little Mermaid remake",
+          "references": [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ]
+        },
+        "$250 million production budget for The Little Mermaid": {
+          "answer": "$250 million production budget for The Little Mermaid",
+          "references": [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        }
+      },
+      "question_id": "61dcbad1a74c9adcd96ae13a169fd80e",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What was the production budget for The Little Mermaid remake?",
+          "What was the production budget for Disney's The Little Mermaid live-action remake?",
+          "What was the production budget for Disney's The Little Mermaid remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ],
+          [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ],
+          [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks for the production budget of The Little Mermaid remake without redundant information.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What advantage does Jeff Kinney find in animated versus live-action adaptations?": {
+      "question": "What advantage does Jeff Kinney find in animated versus live-action adaptations?",
+      "answers": {
+        "animated productions offer more creative control than live-action films": {
+          "answer": "animated productions offer more creative control than live-action films",
+          "references": [
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            }
+          ]
+        }
+      },
+      "question_id": "16910fb48ae0ea68f69cd48fe779487c",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What advantage does Jeff Kinney find in animated versus live-action adaptations?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What changes were made to Princess Tiger Lily?": {
+      "question": "What changes were made to Princess Tiger Lily?",
+      "answers": {
+        "removed racist stereotypes from Princess Tiger Lily character": {
+          "answer": "removed racist stereotypes from Princess Tiger Lily character",
+          "references": [
+            {
+              "doc_id": "969adcf0-04bc-416c-9dfc-ca191b310654_272702744"
+            }
+          ]
+        }
+      },
+      "question_id": "f0fff3509c981d5105e69f2981009bed",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What changes were made to Princess Tiger Lily?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "969adcf0-04bc-416c-9dfc-ca191b310654_272702744"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What public reaction did Halle Bailey's casting generate?": {
+      "question": "What public reaction did Halle Bailey's casting generate?",
+      "answers": {
+        "initial backlash due to race change from original": {
+          "answer": "initial backlash due to race change from original",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        },
+        "controversy and racist backlash from some critics": {
+          "answer": "controversy and racist backlash from some critics",
+          "references": [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        }
+      },
+      "question_id": "1e91eb0041831300fb9ec56cb217f7a5",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What was the public reaction to Halle Bailey's casting?",
+          "What public reaction did Halle Bailey's casting generate?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ],
+          [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        ],
+        "canonical_explanation": "The two questions are nearly identical, but question 2 is slightly more concise and directly asks about the public reaction generated by Halle Bailey's casting.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How long have Black mermaid folklore traditions existed before Disney adaptations?": {
+      "question": "How long have Black mermaid folklore traditions existed before Disney adaptations?",
+      "answers": {
+        "centuries before Hans Christian Andersen's 19th-century fable": {
+          "answer": "centuries before Hans Christian Andersen's 19th-century fable",
+          "references": [
+            {
+              "doc_id": "852d909d-5e83-4142-884d-0f0496d63452_26771761"
+            }
+          ]
+        }
+      },
+      "question_id": "d59f91bd01feded564c3d48d3ad8c7c9",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How long have Black mermaid folklore traditions existed before Disney adaptations?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "852d909d-5e83-4142-884d-0f0496d63452_26771761"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "In what year was the original animated Pinocchio created?": {
+      "question": "In what year was the original animated Pinocchio created?",
+      "answers": {
+        "1940": {
+          "answer": "1940",
+          "references": [
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ]
+        }
+      },
+      "question_id": "16dfec3fbf4745db05da56a6a0728d93",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "In what year was the original animated Pinocchio created?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did The Little Mermaid remake adapt Ariel's costume design?": {
+      "question": "How did The Little Mermaid remake adapt Ariel's costume design?",
+      "answers": {
+        "more fishlike quality instead of purple shell bra": {
+          "answer": "more fishlike quality instead of purple shell bra",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        }
+      },
+      "question_id": "7680312677311a4857f7f9ccb9189bc8",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How did The Little Mermaid remake adapt Ariel's costume design?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When was The Little Mermaid live-action remake released?": {
+      "question": "When was The Little Mermaid live-action remake released?",
+      "answers": {
+        "May 2023": {
+          "answer": "May 2023",
+          "references": [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        }
+      },
+      "question_id": "b71717e04ff09525cfab2644ec3785ba",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "When was The Little Mermaid live-action remake released?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Disney perform in 2022 box office rankings?": {
+      "question": "How did Disney perform in 2022 box office rankings?",
+      "answers": {
+        "Disney dominated both profitable and loss categories in 2022": {
+          "answer": "Disney dominated both profitable and loss categories in 2022",
+          "references": [
+            {
+              "doc_id": "54881cab-21ef-4605-b23b-734bf021c2e1_978198069"
+            }
+          ]
+        }
+      },
+      "question_id": "d4d8c0e78683ded44ec215c730ac7428",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How did Disney perform in 2022 box office rankings?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "54881cab-21ef-4605-b23b-734bf021c2e1_978198069"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What upcoming Disney live-action remakes are currently planned?": {
+      "question": "What upcoming Disney live-action remakes are currently planned?",
+      "answers": {
+        "Snow White (2024), Moana, Lilo & Stitch, Hercules": {
+          "answer": "Snow White (2024), Moana, Lilo & Stitch, Hercules",
+          "references": [
+            {
+              "doc_id": "b0cdad92-634f-4d6e-b764-f694603e164e_943700962"
+            }
+          ]
+        }
+      },
+      "question_id": "c87949c540c16209fa142e25ec75bcdf",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What upcoming Disney live-action remakes are currently planned?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b0cdad92-634f-4d6e-b764-f694603e164e_943700962"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who are the lead actresses in Disney's Snow White remake?": {
+      "question": "Who are the lead actresses in Disney's Snow White remake?",
+      "answers": {
+        "Rachel Zegler and Gal Gadot starring in Snow White": {
+          "answer": "Rachel Zegler and Gal Gadot starring in Snow White",
+          "references": [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        },
+        "Rachel Zegler and Gal Gadot": {
+          "answer": "Rachel Zegler and Gal Gadot",
+          "references": [
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ]
+        }
+      },
+      "question_id": "2b00f880a7b87faa1589e34abb138851",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who are the lead actresses in Disney's Snow White remake?",
+          "Who are the lead actresses in Snow White remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            }
+          ],
+          [
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question is selected based on its broader relevance to the topic of Disney live action remakes, as it implicitly includes Disney in the query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "What is the current status of the Moana live-action project?": {
+      "question": "What is the current status of the Moana live-action project?",
+      "answers": {
+        "early development stages": {
+          "answer": "early development stages",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ]
+        },
+        "currently in early development stages": {
+          "answer": "currently in early development stages",
+          "references": [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ]
+        }
+      },
+      "question_id": "bf9fde210d6eddfbd23490030059c5a4",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What is the current status of the Moana live-action project?",
+          "What is the current production status of live-action Moana?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ],
+          [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions provided are nearly identical and focus on the status of the Moana live-action project, making either a suitable choice, but for the sake of selection, the first one is chosen for its slightly broader wording.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What was the purpose of Disney's 2023 short film Once Upon a Studio?": {
+      "question": "What was the purpose of Disney's 2023 short film Once Upon a Studio?",
+      "answers": {
+        "celebrating Disney's 100th anniversary with 543 characters": {
+          "answer": "celebrating Disney's 100th anniversary with 543 characters",
+          "references": [
+            {
+              "doc_id": "440ee913-7016-4f8d-b2e0-3fce141e4dac_73458855"
+            }
+          ]
+        }
+      },
+      "question_id": "fd4054fe537e1c3420e245cbccb3e149",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What was the purpose of Disney's 2023 short film Once Upon a Studio?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "440ee913-7016-4f8d-b2e0-3fce141e4dac_73458855"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What recognition did Cinderella (2015) receive for its production values?": {
+      "question": "What recognition did Cinderella (2015) receive for its production values?",
+      "answers": {
+        "Cinderella (2015) received Oscar nomination for costume design": {
+          "answer": "Cinderella (2015) received Oscar nomination for costume design",
+          "references": [
+            {
+              "doc_id": "7f460acf-43fa-4323-886b-7ace4ae531c6_350718074"
+            }
+          ]
+        }
+      },
+      "question_id": "451773c0c81d825eb048e0ca924fca48",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What recognition did Cinderella (2015) receive for its production values?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7f460acf-43fa-4323-886b-7ace4ae531c6_350718074"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which previous Disney remake team worked on Pinocchio 2022?": {
+      "question": "Which previous Disney remake team worked on Pinocchio 2022?",
+      "answers": {
+        "Beauty and the Beast production team": {
+          "answer": "Beauty and the Beast production team",
+          "references": [
+            {
+              "doc_id": "22630d71-6a6a-4e33-9d66-4fedc0ff1c1b_111905303"
+            }
+          ]
+        }
+      },
+      "question_id": "4c4c4705a13656a725963529ad6d231b",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which previous Disney remake team worked on Pinocchio 2022?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "22630d71-6a6a-4e33-9d66-4fedc0ff1c1b_111905303"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which actor publicly criticized Disney's approach to live-action remakes?": {
+      "question": "Which actor publicly criticized Disney's approach to live-action remakes?",
+      "answers": {
+        "Peter Dinklage criticized Disney's Snow White remake casting decisions": {
+          "answer": "Peter Dinklage criticized Disney's Snow White remake casting decisions",
+          "references": [
+            {
+              "doc_id": "7807cece-c991-4f8b-9b52-1dcabc779f33_333067711"
+            }
+          ]
+        }
+      },
+      "question_id": "65e4038ef612c0984b458752b201d9ee",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which actor publicly criticized Disney's approach to live-action remakes?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7807cece-c991-4f8b-9b52-1dcabc779f33_333067711"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Disney maintain 1970s period authenticity in Cruella?": {
+      "question": "How did Disney maintain 1970s period authenticity in Cruella?",
+      "answers": {
+        "computer-generated imagery to remove modern elements from London skyline": {
+          "answer": "computer-generated imagery to remove modern elements from London skyline",
+          "references": [
+            {
+              "doc_id": "d6f2551f-2b9c-4fa5-ac61-94555955ff72_573206082"
+            }
+          ]
+        }
+      },
+      "question_id": "2f08a2f090b35a6e1ea2f01eb6aaf2f9",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How did Disney maintain 1970s period authenticity in Cruella?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d6f2551f-2b9c-4fa5-ac61-94555955ff72_573206082"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What criticism did Peter Dinklage make about Disney's Snow White remake?": {
+      "question": "What criticism did Peter Dinklage make about Disney's Snow White remake?",
+      "answers": {
+        "perpetuating backward portrayal of dwarfs in classic fairy tale": {
+          "answer": "perpetuating backward portrayal of dwarfs in classic fairy tale",
+          "references": [
+            {
+              "doc_id": "ee60b8fb-918b-4c7a-a6cb-41e68152a3f1_792812796"
+            }
+          ]
+        }
+      },
+      "question_id": "2599e6e1d924180fd0aa179e83dfee49",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What criticism did Peter Dinklage make about Disney's Snow White remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ee60b8fb-918b-4c7a-a6cb-41e68152a3f1_792812796"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

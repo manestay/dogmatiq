@@ -1,0 +1,1182 @@
+{
+  "query_id": "1041",
+  "title_query": "I am an enthusiast of traditional oriental medicine. I write articles for popular science magazines to introduce various aspects of the subject. I plan to write an article on traditional Indian medicine. From the article reader shall get a good understanding of traditional Indian medicine (or in another term, the Indian herbal medicine), in the context of the modern system of the Western medicine, e.g. in the treatment of some particular illness.\nI need a report on traditional Indian medicine. The report should focus more on the current research and application of Indian herbal medicine rather than the history of traditional Indian medicine. Cases of treatment of specific diseases using Indian herbal medicine are particularly important for the report. Information about institutions like hospitals and research centers in the fields of traditional Indian medicine are also desirable.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 15
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The Indian government is promoting Ayurveda's inclusion in WHO's International Classification of Diseases while research demonstrates its effectiveness in treating COVID-19, malaria, and wellness applications globally.": {
+          "answer": "The Indian government is promoting Ayurveda's inclusion in WHO's International Classification of Diseases while research demonstrates its effectiveness in treating COVID-19, malaria, and wellness applications globally.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The ministry is operationalizing 12,500 Ayush health and wellness centres by 2023-24 under the National Ayush Mission, having released Rs 719.70 crore to southern states since 2014-15.": {
+          "answer": "The ministry is operationalizing 12,500 Ayush health and wellness centres by 2023-24 under the National Ayush Mission, having released Rs 719.70 crore to southern states since 2014-15.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "ICD-11, effective January 2022, includes a traditional medicine module with 17,000 codes to standardize global health information sharing and facilitate research integration of traditional practices.": {
+          "answer": "ICD-11, effective January 2022, includes a traditional medicine module with 17,000 codes to standardize global health information sharing and facilitate research integration of traditional practices.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "Indian Prime Minister Narendra Modi inaugurated the first WHO global summit on traditional medicine in Jamnagar, India in mid-April, with support from UK parliamentary groups and WHO's traditional medicine unit.": {
+          "answer": "Indian Prime Minister Narendra Modi inaugurated the first WHO global summit on traditional medicine in Jamnagar, India in mid-April, with support from UK parliamentary groups and WHO's traditional medicine unit.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "WHO is working to integrate traditional medicine into global healthcare systems through ICD-11 chapters, evidence collection, policy guidance, and promoting safe, effective use for universal health coverage.": {
+          "answer": "WHO is working to integrate traditional medicine into global healthcare systems through ICD-11 chapters, evidence collection, policy guidance, and promoting safe, effective use for universal health coverage.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The union ministry of tribal affairs conducted a multi-state initiative across Kerala, Rajasthan, Maharashtra, and Uttarakhand, with research findings published in the Indian Journal of Traditional Knowledge.": {
+          "answer": "The union ministry of tribal affairs conducted a multi-state initiative across Kerala, Rajasthan, Maharashtra, and Uttarakhand, with research findings published in the Indian Journal of Traditional Knowledge.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "Homeopathy has gained recognition as a complementary and preventive medicine approach, with India officially recognizing it in 1973 and now having over 200,000 registered practitioners.": {
+          "answer": "Homeopathy has gained recognition as a complementary and preventive medicine approach, with India officially recognizing it in 1973 and now having over 200,000 registered practitioners.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "Ayurvedic medicine includes programs for children, maternal care, and elderly health, while practitioners emphasize the body's natural healing capacity and herbs like Ashwagandha for immunity and stress reduction.": {
+          "answer": "Ayurvedic medicine includes programs for children, maternal care, and elderly health, while practitioners emphasize the body's natural healing capacity and herbs like Ashwagandha for immunity and stress reduction.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The Ministry aims to better regulate traditional medicine by scientifically integrating it with modern healthcare systems and creating a global repository for evidence-based traditional medicine information and resources.": {
+          "answer": "The Ministry aims to better regulate traditional medicine by scientifically integrating it with modern healthcare systems and creating a global repository for evidence-based traditional medicine information and resources.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "High-risk COVID-19 patients received personalized Ayurvedic medicines and yoga therapy via telemedicine, while a separate trial tests Ashwagandha tablets against placebo for long COVID symptoms.": {
+          "answer": "High-risk COVID-19 patients received personalized Ayurvedic medicines and yoga therapy via telemedicine, while a separate trial tests Ashwagandha tablets against placebo for long COVID symptoms.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "Sood highlighted India's rich Ayurveda, Siddha, and Unani traditions for building immunity and treating diseases, with AYUSH promoting these traditional medicine systems nationwide.": {
+          "answer": "Sood highlighted India's rich Ayurveda, Siddha, and Unani traditions for building immunity and treating diseases, with AYUSH promoting these traditional medicine systems nationwide.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The Ayush ministry is working on scientific validation of traditional medicine systems, including Tibetan medicine which focuses on treating disease roots rather than just symptoms.": {
+          "answer": "The Ayush ministry is working on scientific validation of traditional medicine systems, including Tibetan medicine which focuses on treating disease roots rather than just symptoms.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The Centre completed a five-volume documentation of 1,400 medicinal plants and 750 tribal healers from Uttarakhand, while London School collaborates on traditional herbs for long Covid recovery.": {
+          "answer": "The Centre completed a five-volume documentation of 1,400 medicinal plants and 750 tribal healers from Uttarakhand, while London School collaborates on traditional herbs for long Covid recovery.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "Researchers suggest that high-risk COVID-19 patients experience severe anxiety that worsens their condition, and recommend Yoga, Ayurveda, and herbal treatments to reduce anxiety and aid recovery.": {
+          "answer": "Researchers suggest that high-risk COVID-19 patients experience severe anxiety that worsens their condition, and recommend Yoga, Ayurveda, and herbal treatments to reduce anxiety and aid recovery.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    },
+    "cluster_summary_15": {
+      "question": "cluster_summary_15",
+      "query_id": "1041",
+      "importance": "vital",
+      "answers": {
+        "The WHO and India's Ministry of Ayush will jointly host the first global traditional medicine summit in Gujarat, featuring the WHO Global Centre for Traditional Medicine inaugurated in 2022.": {
+          "answer": "The WHO and India's Ministry of Ayush will jointly host the first global traditional medicine summit in Gujarat, featuring the WHO Global Centre for Traditional Medicine inaugurated in 2022.",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            },
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            },
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            },
+            {
+              "doc_id": "8501821e-1ad5-4d6d-a96a-e14dfc17b3a6_139904480"
+            },
+            {
+              "doc_id": "af4623f9-11e4-4872-acf1-82ab58601269_425789638"
+            },
+            {
+              "doc_id": "362c2c86-f85e-4fb2-a284-cd4f44e4aee0_498281295"
+            },
+            {
+              "doc_id": "5d85fada-5103-4ec4-b563-db1461a611e4_958082229"
+            },
+            {
+              "doc_id": "e02c016b-9a11-4d76-93bc-c339103d09ea_364440793"
+            },
+            {
+              "doc_id": "cb522278-52da-4806-9455-74a4d35a2c43_496488571"
+            },
+            {
+              "doc_id": "23e37163-395d-4229-9204-a2637e20c4df_554920899"
+            },
+            {
+              "doc_id": "2a71159d-8419-47be-a5f6-27e2d320f5da_156354955"
+            },
+            {
+              "doc_id": "7470cf16-aad4-473b-a362-34294b590808_577471087"
+            },
+            {
+              "doc_id": "98cb1295-a33e-4e2b-8dc2-ad49132f6a98_528404869"
+            },
+            {
+              "doc_id": "a07ebfd2-0781-472a-af19-69bf35994511_131964660"
+            },
+            {
+              "doc_id": "ce13ec75-5d14-4993-a8f7-c31c1539b04b_1051680076"
+            },
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            },
+            {
+              "doc_id": "2e0ebbe2-4fe9-4eee-8f13-fc565c27187f_572556241"
+            },
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            },
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 15
+      }
+    }
+  }
+}

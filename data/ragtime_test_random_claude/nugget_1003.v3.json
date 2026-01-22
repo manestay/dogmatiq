@@ -1,0 +1,717 @@
+{
+  "query_id": "1003",
+  "title_query": "1003",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What virtual meeting platform did Facebook create for remote work?": {
+      "question": "What virtual meeting platform did Facebook create for remote work?",
+      "answers": {
+        "Facebook launched Horizon Workrooms for virtual meetings using Oculus headsets": {
+          "answer": "Facebook launched Horizon Workrooms for virtual meetings using Oculus headsets",
+          "references": [
+            {
+              "doc_id": "1fc775dc-2141-4589-9133-510fabf35ecb_552126524"
+            }
+          ]
+        }
+      },
+      "question_id": "a997c630e1a511ca18ad9ed1a18ea88d",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What virtual meeting platform did Facebook create for remote work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1fc775dc-2141-4589-9133-510fabf35ecb_552126524"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many workers comprise the global deskless workforce?": {
+      "question": "How many workers comprise the global deskless workforce?",
+      "answers": {
+        "2.7 billion workers or 80% of all employees": {
+          "answer": "2.7 billion workers or 80% of all employees",
+          "references": [
+            {
+              "doc_id": "765f6998-50e6-42d0-b3c8-ed3d39896f44_645217426"
+            }
+          ]
+        }
+      },
+      "question_id": "7f81fdef6edb6a57480a92541b15ee6d",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "How many workers comprise the global deskless workforce?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "765f6998-50e6-42d0-b3c8-ed3d39896f44_645217426"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What laptop is recommended as foundation for digital nomads?": {
+      "question": "What laptop is recommended as foundation for digital nomads?",
+      "answers": {
+        "Microsoft Surface Laptop 4 weighing only 2.79 pounds": {
+          "answer": "Microsoft Surface Laptop 4 weighing only 2.79 pounds",
+          "references": [
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            }
+          ]
+        }
+      },
+      "question_id": "afd96e2570d7398546e4770d9388b0ad",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What laptop is recommended as foundation for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many European countries currently provide digital nomad visa programs?": {
+      "question": "How many European countries currently provide digital nomad visa programs?",
+      "answers": {
+        "dozens of European countries offer one-year remote work visas": {
+          "answer": "dozens of European countries offer one-year remote work visas",
+          "references": [
+            {
+              "doc_id": "620614e1-45b7-4dad-8755-8e83ed16c830_220002243"
+            }
+          ]
+        },
+        "15 European countries offer digital nomad visas with varying requirements": {
+          "answer": "15 European countries offer digital nomad visas with varying requirements",
+          "references": [
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        },
+        "16 European countries offer similar digital nomad programs": {
+          "answer": "16 European countries offer similar digital nomad programs",
+          "references": [
+            {
+              "doc_id": "d687297a-7db2-44f7-aecb-450e2bc50213_217010740"
+            }
+          ]
+        }
+      },
+      "question_id": "ee815904ebd493fd45eefe80d2fba518",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "How many European countries provide digital nomad visas?",
+          "How many European countries currently provide digital nomad visa programs?",
+          "How many European countries have digital nomad visa programs?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "620614e1-45b7-4dad-8755-8e83ed16c830_220002243"
+            }
+          ],
+          [
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ],
+          [
+            {
+              "doc_id": "d687297a-7db2-44f7-aecb-450e2bc50213_217010740"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it is a direct and clear inquiry about the availability of digital nomad visas in European countries, which is a crucial aspect of the digital nomad lifestyle relevant to the user's situation.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What essential tool do digital nomads use for work?": {
+      "question": "What essential tool do digital nomads use for work?",
+      "answers": {
+        "remote desktop software for accessing work computers globally": {
+          "answer": "remote desktop software for accessing work computers globally",
+          "references": [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        }
+      },
+      "question_id": "a22320eb65548372d978df9c4b555b8d",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What essential tool do digital nomads use for work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did remote work change daily work patterns during the pandemic?": {
+      "question": "How did remote work change daily work patterns during the pandemic?",
+      "answers": {
+        "48-minute longer workdays and 148% increase in video meetings": {
+          "answer": "48-minute longer workdays and 148% increase in video meetings",
+          "references": [
+            {
+              "doc_id": "d2f0c68c-20a8-49f4-972c-d61728362950_578943080"
+            }
+          ]
+        }
+      },
+      "question_id": "cbb62e167773a559e9fe9f0c81371be2",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "How did remote work change daily work patterns during the pandemic?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d2f0c68c-20a8-49f4-972c-d61728362950_578943080"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What competitive threat do remote workers face from globalization?": {
+      "question": "What competitive threat do remote workers face from globalization?",
+      "answers": {
+        "companies can more easily outsource jobs to lower-cost locations": {
+          "answer": "companies can more easily outsource jobs to lower-cost locations",
+          "references": [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ]
+        }
+      },
+      "question_id": "ca0e264b5dd606811adf8a9cfc56d2f6",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What competitive threat do remote workers face from globalization?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which types of workers are targeted by Japan's digital nomad program?": {
+      "question": "Which types of workers are targeted by Japan's digital nomad program?",
+      "answers": {
+        "overseas consultants and foreign YouTubers as target workers": {
+          "answer": "overseas consultants and foreign YouTubers as target workers",
+          "references": [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ]
+        },
+        "information technology professionals, highly skilled workers, content creators": {
+          "answer": "information technology professionals, highly skilled workers, content creators",
+          "references": [
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        }
+      },
+      "question_id": "a4a9f0c47142d301ce75e41d55f862b6",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What types of workers does Japan target with its digital nomad visa?",
+          "Which types of workers are targeted by Japan's digital nomad program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ],
+          [
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        ],
+        "canonical_explanation": "The two questions are nearly identical, but question 2 is slightly more concise and directly asks about the target of Japan's digital nomad program.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What percentage of campers take weekday camping trips?": {
+      "question": "What percentage of campers take weekday camping trips?",
+      "answers": {
+        "70% of campers now take weekday trips": {
+          "answer": "70% of campers now take weekday trips",
+          "references": [
+            {
+              "doc_id": "19455407-4698-4362-acc0-09243de656f8_5164616"
+            }
+          ]
+        }
+      },
+      "question_id": "61ca0be0e5e5b6809e7ea6c9c12843c6",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of campers take weekday camping trips?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "19455407-4698-4362-acc0-09243de656f8_5164616"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What technologies enable remote access to corporate workloads through browsers?": {
+      "question": "What technologies enable remote access to corporate workloads through browsers?",
+      "answers": {
+        "Virtual Desktop Infrastructure and Desktop-as-a-Service": {
+          "answer": "Virtual Desktop Infrastructure and Desktop-as-a-Service",
+          "references": [
+            {
+              "doc_id": "bacad29c-a936-42a1-821e-53b798319bfa_564389655"
+            }
+          ]
+        }
+      },
+      "question_id": "5bec4f3b85050fde8d3e5f97ad37fa70",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What technologies enable remote access to corporate workloads through browsers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bacad29c-a936-42a1-821e-53b798319bfa_564389655"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How much less likely are remote workers to receive promotions?": {
+      "question": "How much less likely are remote workers to receive promotions?",
+      "answers": {
+        "31% fewer promotions than in-person colleagues": {
+          "answer": "31% fewer promotions than in-person colleagues",
+          "references": [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ]
+        }
+      },
+      "question_id": "d00e1ccb16d957d1b5959da49488e556",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "How much less likely are remote workers to receive promotions?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What major event transformed the Digital Nomad work model?": {
+      "question": "What major event transformed the Digital Nomad work model?",
+      "answers": {
+        "COVID-19 pandemic changed the Digital Nomad landscape": {
+          "answer": "COVID-19 pandemic changed the Digital Nomad landscape",
+          "references": [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        }
+      },
+      "question_id": "91e3193a368c1ce64cfc1890544cb0f6",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What major event transformed the Digital Nomad work model?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How do DAOs help new remote employees integrate into their organizations?": {
+      "question": "How do DAOs help new remote employees integrate into their organizations?",
+      "answers": {
+        "comprehensive onboarding processes for understanding company culture and frameworks": {
+          "answer": "comprehensive onboarding processes for understanding company culture and frameworks",
+          "references": [
+            {
+              "doc_id": "0fe2b0cd-2cfb-4c4b-9e5a-56432fb5e138_767193087"
+            }
+          ]
+        }
+      },
+      "question_id": "de7e89ab417b92f4c3a2ae4410838e62",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "How do DAOs help new remote employees integrate into their organizations?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0fe2b0cd-2cfb-4c4b-9e5a-56432fb5e138_767193087"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which technology professionals are most sought-after for remote work?": {
+      "question": "Which technology professionals are most sought-after for remote work?",
+      "answers": {
+        "software engineers, product designers, and user interface/user experience designers": {
+          "answer": "software engineers, product designers, and user interface/user experience designers",
+          "references": [
+            {
+              "doc_id": "7a6698fe-19e8-49cb-81b5-e3bf847aa5e9_763641129"
+            }
+          ]
+        }
+      },
+      "question_id": "75340343875ea4bd319ee7fa19ea8d2d",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "Which technology professionals are most sought-after for remote work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7a6698fe-19e8-49cb-81b5-e3bf847aa5e9_763641129"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What do digital nomad workers need according to Dr. Wang Ruini?": {
+      "question": "What do digital nomad workers need according to Dr. Wang Ruini?",
+      "answers": {
+        "strong collaborative interaction space support": {
+          "answer": "strong collaborative interaction space support",
+          "references": [
+            {
+              "doc_id": "77fe7fbf-41e8-4067-9063-0458ea76d448_158447245"
+            }
+          ]
+        }
+      },
+      "question_id": "bed939987f51f92337af29407b1f7008",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What do digital nomad workers need according to Dr. Wang Ruini?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "77fe7fbf-41e8-4067-9063-0458ea76d448_158447245"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are Digital Nomads according to the document?": {
+      "question": "What are Digital Nomads according to the document?",
+      "answers": {
+        "professionals using technology for remote work while traveling": {
+          "answer": "professionals using technology for remote work while traveling",
+          "references": [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        },
+        "travelers who work globally using only a computer": {
+          "answer": "travelers who work globally using only a computer",
+          "references": [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        }
+      },
+      "question_id": "fb6b961c769d31d2080762c64f107eb3",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What are digital nomads according to the document?",
+          "What are Digital Nomads according to the document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it is grammatically correct and properly capitalized, making it a clearer and more formal inquiry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What professional development challenges do remote workers face?": {
+      "question": "What professional development challenges do remote workers face?",
+      "answers": {
+        "reduced mentorship and feedback opportunities": {
+          "answer": "reduced mentorship and feedback opportunities",
+          "references": [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ]
+        },
+        "career progression suffers due to missed mentorship and relationship building": {
+          "answer": "career progression suffers due to missed mentorship and relationship building",
+          "references": [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ]
+        }
+      },
+      "question_id": "6743b1310f28c0ab42663da0b62e7c73",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What professional development challenges do remote workers face?",
+          "What professional development challenge do remote workers experience?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ],
+          [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it is grammatically correct and clear in its inquiry about the challenges remote workers face, which is a crucial aspect of the digital nomad lifestyle.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What workplace trend is enabling the digital nomad lifestyle?": {
+      "question": "What workplace trend is enabling the digital nomad lifestyle?",
+      "answers": {
+        "remote work becoming normalized and mainstream workplace practice": {
+          "answer": "remote work becoming normalized and mainstream workplace practice",
+          "references": [
+            {
+              "doc_id": "920b38df-403d-42e0-b536-b574b0b4b1f1_81218391"
+            }
+          ]
+        }
+      },
+      "question_id": "3c0e8affb2cf6493a2e0a9fefa6ed18c",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What workplace trend is enabling the digital nomad lifestyle?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "920b38df-403d-42e0-b536-b574b0b4b1f1_81218391"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What advantages does Portugal offer for digital nomads?": {
+      "question": "What advantages does Portugal offer for digital nomads?",
+      "answers": {
+        "low living costs, mild climate, coworking spaces, convenient transportation": {
+          "answer": "low living costs, mild climate, coworking spaces, convenient transportation",
+          "references": [
+            {
+              "doc_id": "4096c5e9-28b2-43a4-a983-d4b751c2f437_463535422"
+            }
+          ]
+        }
+      },
+      "question_id": "6b8afd2facf88779b8fc397fcfe8ff79",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What advantages does Portugal offer for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4096c5e9-28b2-43a4-a983-d4b751c2f437_463535422"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of IT specialists compromised security for business continuity?": {
+      "question": "What percentage of IT specialists compromised security for business continuity?",
+      "answers": {
+        "76% prioritized business continuity over security during pandemic": {
+          "answer": "76% prioritized business continuity over security during pandemic",
+          "references": [
+            {
+              "doc_id": "50d4d543-c635-4de6-a625-cc333940b310_842775387"
+            }
+          ]
+        }
+      },
+      "question_id": "4482790e7c520463c985721a5ca66b45",
+      "aggregator_type": "OR",
+      "query_id": "1003",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of IT specialists compromised security for business continuity?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "50d4d543-c635-4de6-a625-cc333940b310_842775387"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "query_id": "1025",
+  "title_query": "1025",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How did Nirwana Selle gain social media attention?": {
+      "question": "How did Nirwana Selle gain social media attention?",
+      "answers": {
+        "shared crane operation work daily life on Instagram": {
+          "answer": "shared crane operation work daily life on Instagram",
+          "references": [
+            {
+              "doc_id": "05eead2a-2a01-469f-8504-17e7c441add7_858308521"
+            }
+          ]
+        },
+        "became well-known influencer through crane operation content": {
+          "answer": "became well-known influencer through crane operation content",
+          "references": [
+            {
+              "doc_id": "05eead2a-2a01-469f-8504-17e7c441add7_858308521"
+            }
+          ]
+        }
+      },
+      "question_id": "877f8ac5332ef3f5cf17865036e602a0",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How did Nirwana Selle gain social media attention?",
+          "What made Nirwana Selle famous on social media?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "05eead2a-2a01-469f-8504-17e7c441add7_858308521"
+            }
+          ],
+          [
+            {
+              "doc_id": "05eead2a-2a01-469f-8504-17e7c441add7_858308521"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is directly relevant to the user's request, but they are not provided with a set of questions that address the topic, so a choice must be made based on the information given.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How has Saudi women's workforce participation changed in recent years?": {
+      "question": "How has Saudi women's workforce participation changed in recent years?",
+      "answers": {
+        "doubled to 33% in five years": {
+          "answer": "doubled to 33% in five years",
+          "references": [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            }
+          ]
+        },
+        "women's workforce participation doubled to 33 percent recently": {
+          "answer": "women's workforce participation doubled to 33 percent recently",
+          "references": [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        }
+      },
+      "question_id": "1b366830d66159cbdfca3201c37a0e02",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How has Saudi female workforce participation changed recently?",
+          "How has Saudi women's workforce participation changed in recent years?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f0dcd03a-146e-4ce8-819d-645a5dd097fb_309873481"
+            }
+          ],
+          [
+            {
+              "doc_id": "3c077853-1944-4f03-b5c7-cee94c451d22_886920287"
+            }
+          ]
+        ],
+        "canonical_explanation": "The provided questions do not address the user's request, but between the two, question 2 is slightly more relevant due to its broader time frame and clearer language.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Who is a successful female crane operator mentioned in the report?": {
+      "question": "Who is a successful female crane operator mentioned in the report?",
+      "answers": {
+        "Farkhana Safargaleeva, crane operator at TOO Edinstvo company": {
+          "answer": "Farkhana Safargaleeva, crane operator at TOO Edinstvo company",
+          "references": [
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            }
+          ]
+        },
+        "Olga Pichugina was recognized as best young employee": {
+          "answer": "Olga Pichugina was recognized as best young employee",
+          "references": [
+            {
+              "doc_id": "ecab6dcb-e837-480d-93de-bd45c3ca82e0_161225094"
+            }
+          ]
+        }
+      },
+      "question_id": "97e2ae4f09ed2d532d00129de46f6163",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Who is a successful female crane operator mentioned in the report?",
+          "Which young woman was recognized for crane operating excellence?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "485cdc95-bbf9-4578-9b0d-47d964d3e7aa_207874500"
+            }
+          ],
+          [
+            {
+              "doc_id": "ecab6dcb-e837-480d-93de-bd45c3ca82e0_161225094"
+            }
+          ]
+        ],
+        "canonical_explanation": "The first question is more representative of the user's request as it directly inquires about a successful female crane operator, which aligns with the user's interest in inspiring case studies of women in construction.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What does this document say about women crane operators?": {
+      "question": "What does this document say about women crane operators?",
+      "answers": {
+        "No relevant information about women in construction available": {
+          "answer": "No relevant information about women in construction available",
+          "references": [
+            {
+              "doc_id": "bcc647a6-994c-4a29-9e73-94dd1fe985c3_465506412"
+            }
+          ]
+        }
+      },
+      "question_id": "5f0671e56f15d8d56bb567d1d8adf65a",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What does this document say about women crane operators?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "be3e06a5-ef04-4205-9a03-3294e6081db7_321277915"
+            },
+            {
+              "doc_id": "bcc647a6-994c-4a29-9e73-94dd1fe985c3_465506412"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "What percentage of waste management workers are women currently?": {
+      "question": "What percentage of waste management workers are women currently?",
+      "answers": {
+        "24% of the workforce in the United States": {
+          "answer": "24% of the workforce in the United States",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "a9e6d98d6650dd40e832d139dec449a5",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of waste management workers are women currently?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What traditional barriers have women faced in male-dominated industries?": {
+      "question": "What traditional barriers have women faced in male-dominated industries?",
+      "answers": {
+        "physical demands and gender stereotypes created barriers historically": {
+          "answer": "physical demands and gender stereotypes created barriers historically",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "56cfcbc3d62ce362382a4dd94dd8eda0",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What traditional barriers have women faced in male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What benefits do companies gain from promoting gender equality?": {
+      "question": "What benefits do companies gain from promoting gender equality?",
+      "answers": {
+        "increased competitiveness, profitability, and environmental responsibility": {
+          "answer": "increased competitiveness, profitability, and environmental responsibility",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "2ecfc71dbf8b1a38ddf9ec444abb85d6",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What benefits do companies gain from promoting gender equality?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How can companies create more inclusive hiring practices?": {
+      "question": "How can companies create more inclusive hiring practices?",
+      "answers": {
+        "rewriting job descriptions to emphasize skills over gender": {
+          "answer": "rewriting job descriptions to emphasize skills over gender",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "dbaed54d5f662dcf186d16222bd53e5c",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How can companies create more inclusive hiring practices?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who are notable female leaders in traditionally male-dominated industries?": {
+      "question": "Who are notable female leaders in traditionally male-dominated industries?",
+      "answers": {
+        "Nathalie van de Poel, Maria Willshee, Heather Gould, Hilary Hart": {
+          "answer": "Nathalie van de Poel, Maria Willshee, Heather Gould, Hilary Hart",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "52805053298d534682b67f92aee446be",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Who are notable female leaders in traditionally male-dominated industries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What milestone did Jewel Everett achieve at LUS Fiber?": {
+      "question": "What milestone did Jewel Everett achieve at LUS Fiber?",
+      "answers": {
+        "Jewel Everett became LUS Fiber's first female lineworker": {
+          "answer": "Jewel Everett became LUS Fiber's first female lineworker",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "b38e25292c22e2ca4e370c7a6c4e8ebd",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What milestone did Jewel Everett achieve at LUS Fiber?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which program did Jewel Everett graduate from?": {
+      "question": "Which program did Jewel Everett graduate from?",
+      "answers": {
+        "South Louisiana Community College's Power Lineman program": {
+          "answer": "South Louisiana Community College's Power Lineman program",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "c2813503b795843d404648ec03121e11",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "Which program did Jewel Everett graduate from?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What physical challenge does Jewel Everett face in her work?": {
+      "question": "What physical challenge does Jewel Everett face in her work?",
+      "answers": {
+        "lifting and balancing large equipment over 20 feet": {
+          "answer": "lifting and balancing large equipment over 20 feet",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "480533cd471d2f84875dcb5c4ce7d954",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What physical challenge does Jewel Everett face in her work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What aspects of her job does Jewel Everett value?": {
+      "question": "What aspects of her job does Jewel Everett value?",
+      "answers": {
+        "demanding work, good compensation, and community service": {
+          "answer": "demanding work, good compensation, and community service",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "2b9bb3c83079db6b9d7126b7c298b2c5",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What aspects of her job does Jewel Everett value?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the job placement rate for the lineworker program?": {
+      "question": "What was the job placement rate for the lineworker program?",
+      "answers": {
+        "all 16 graduates secured employment before graduation": {
+          "answer": "all 16 graduates secured employment before graduation",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "f12621c6fade960ad526210f0c112bcc",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What was the job placement rate for the lineworker program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What qualities does Ryan Meche value in Jewel Everett?": {
+      "question": "What qualities does Ryan Meche value in Jewel Everett?",
+      "answers": {
+        "fresh perspective and high motivation": {
+          "answer": "fresh perspective and high motivation",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "1d97845a4f2502ef1e0974af1d4df8b4",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What qualities does Ryan Meche value in Jewel Everett?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What pioneering program demonstrates women's inclusion in electrical construction work?": {
+      "question": "What pioneering program demonstrates women's inclusion in electrical construction work?",
+      "answers": {
+        "Meralco Linecrew Training Program includes women since 2013": {
+          "answer": "Meralco Linecrew Training Program includes women since 2013",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "6831ce471498d207c09db83b118431ac",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What pioneering program demonstrates women's inclusion in electrical construction work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What career progression did Zuzette Castro achieve in electrical construction?": {
+      "question": "What career progression did Zuzette Castro achieve in electrical construction?",
+      "answers": {
+        "Zuzette Castro advanced from cashier to third-class linecrew": {
+          "answer": "Zuzette Castro advanced from cashier to third-class linecrew",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "71d2a705ded0765909d18959964756a5",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What career progression did Zuzette Castro achieve in electrical construction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Karen Cañizares advance her construction career at Meralco?": {
+      "question": "How did Karen Cañizares advance her construction career at Meralco?",
+      "answers": {
+        "Karen Cañizares progressed from trainee to Quality Inspector": {
+          "answer": "Karen Cañizares progressed from trainee to Quality Inspector",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "d8c94f0f8086f4fe0d9cde9a61001181",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How did Karen Cañizares advance her construction career at Meralco?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How long is the Meralco Linecrew Training Program for women?": {
+      "question": "How long is the Meralco Linecrew Training Program for women?",
+      "answers": {
+        "six months with camp instruction and on-the-job training": {
+          "answer": "six months with camp instruction and on-the-job training",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "675095c0d548c98a33513dde17a9cf5d",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "How long is the Meralco Linecrew Training Program for women?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What gender equality approach does Meralco's training program provide?": {
+      "question": "What gender equality approach does Meralco's training program provide?",
+      "answers": {
+        "equal training opportunities for both men and women": {
+          "answer": "equal training opportunities for both men and women",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "1aa670ceb91c5ca6657ab49b106b8e0d",
+      "aggregator_type": "OR",
+      "query_id": "1025",
+      "metadata": {
+        "paraphrases": [
+          "What gender equality approach does Meralco's training program provide?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

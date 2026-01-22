@@ -1,0 +1,745 @@
+{
+  "query_id": "1033",
+  "title_query": "1033",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How does a 4/10 schedule restructure traditional work arrangements?": {
+      "question": "How does a 4/10 schedule restructure traditional work arrangements?",
+      "answers": {
+        "four ten-hour days instead of five eight-hour days": {
+          "answer": "four ten-hour days instead of five eight-hour days",
+          "references": [
+            {
+              "doc_id": "76fbe260-390e-43ba-9146-eb9e6305d627_126328283"
+            }
+          ]
+        }
+      },
+      "question_id": "9b5906b1913687906f4415c4ebed9e8d",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How does a 4/10 schedule restructure traditional work arrangements?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "76fbe260-390e-43ba-9146-eb9e6305d627_126328283"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Front's headcount change during the experiment?": {
+      "question": "How did Front's headcount change during the experiment?",
+      "answers": {
+        "doubled from 300 to 600 employees": {
+          "answer": "doubled from 300 to 600 employees",
+          "references": [
+            {
+              "doc_id": "3815132f-21a3-4c7f-b126-01f4401b6194_770244439"
+            }
+          ]
+        }
+      },
+      "question_id": "38294119ecd619c5a4fd3a885d257c76",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How did Front's headcount change during the experiment?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3815132f-21a3-4c7f-b126-01f4401b6194_770244439"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What benefits did Unilever experience from the 4-day workweek?": {
+      "question": "What benefits did Unilever experience from the 4-day workweek?",
+      "answers": {
+        "one-third reduction in employee absenteeism and revenue growth": {
+          "answer": "one-third reduction in employee absenteeism and revenue growth",
+          "references": [
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            }
+          ]
+        }
+      },
+      "question_id": "c8799f8abdfa363e3ac71376cbf690e3",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What benefits did Unilever experience from the 4-day workweek?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of UK trial companies adopted the 4-day workweek permanently?": {
+      "question": "What percentage of UK trial companies adopted the 4-day workweek permanently?",
+      "answers": {
+        "89% continued the measure, 51% made it permanent": {
+          "answer": "89% continued the measure, 51% made it permanent",
+          "references": [
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            }
+          ]
+        },
+        "eighteen organizations made reduced hours permanent": {
+          "answer": "eighteen organizations made reduced hours permanent",
+          "references": [
+            {
+              "doc_id": "bd292bc1-1441-495b-9c8e-9732ebaa3d56_155124485"
+            }
+          ]
+        },
+        "over 90% continued or planned to continue implementation": {
+          "answer": "over 90% continued or planned to continue implementation",
+          "references": [
+            {
+              "doc_id": "35b580e6-ba02-4e03-8eb8-12cd488072cb_975295423"
+            }
+          ]
+        },
+        "56 firms continued after six-month period, 18 permanent": {
+          "answer": "56 firms continued after six-month period, 18 permanent",
+          "references": [
+            {
+              "doc_id": "dd58ddf2-2c38-4fa5-91e3-79049b54467c_204182747"
+            }
+          ]
+        }
+      },
+      "question_id": "603ad0338a2f9a398ebdc0e05c5ef9d5",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of UK trial companies adopted 4-day workweek long-term?",
+          "How many UK trial companies permanently adopted 4-day workweeks?",
+          "What percentage of UK trial companies adopted the 4-day workweek permanently?",
+          "How many UK companies adopted four-day workweek after trials?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            }
+          ],
+          [
+            {
+              "doc_id": "bd292bc1-1441-495b-9c8e-9732ebaa3d56_155124485"
+            }
+          ],
+          [
+            {
+              "doc_id": "35b580e6-ba02-4e03-8eb8-12cd488072cb_975295423"
+            }
+          ],
+          [
+            {
+              "doc_id": "dd58ddf2-2c38-4fa5-91e3-79049b54467c_204182747"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about the outcome of the 4-day workweek trials in terms of permanent adoption, which is a key aspect of assessing the trend's viability and potential for broader implementation.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 4
+      }
+    },
+    "What health improvements were observed in American and Irish trials?": {
+      "question": "What health improvements were observed in American and Irish trials?",
+      "answers": {
+        "9% fatigue reduction and 67% burnout decrease": {
+          "answer": "9% fatigue reduction and 67% burnout decrease",
+          "references": [
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            }
+          ]
+        }
+      },
+      "question_id": "1bd485e31afede35b13801b82ba7e24e",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What health improvements were observed in American and Irish trials?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of Iceland's workforce now has 4-day week rights?": {
+      "question": "What percentage of Iceland's workforce now has 4-day week rights?",
+      "answers": {
+        "86% of Icelandic employees": {
+          "answer": "86% of Icelandic employees",
+          "references": [
+            {
+              "doc_id": "3fe3bd1b-0787-43f3-b514-b52b8fee3229_160601404"
+            }
+          ]
+        }
+      },
+      "question_id": "5acd07f6feedeb70a656f1ac58bbf702",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of Iceland's workforce now has 4-day week rights?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3fe3bd1b-0787-43f3-b514-b52b8fee3229_160601404"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which major South Korean company started implementing 4-day workweek?": {
+      "question": "Which major South Korean company started implementing 4-day workweek?",
+      "answers": {
+        "Samsung Electronics implemented monthly 4-day workweek system": {
+          "answer": "Samsung Electronics implemented monthly 4-day workweek system",
+          "references": [
+            {
+              "doc_id": "be9828bf-d51e-4721-8638-f2d1f22306d3_580095177"
+            }
+          ]
+        }
+      },
+      "question_id": "847adfce8c9f56d3f50d734965a74476",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "Which major South Korean company started implementing 4-day workweek?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "be9828bf-d51e-4721-8638-f2d1f22306d3_580095177"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What proportion of UK trial companies plan permanent 4-day workweeks?": {
+      "question": "What proportion of UK trial companies plan permanent 4-day workweeks?",
+      "answers": {
+        "one-third of participating companies plan permanent implementation": {
+          "answer": "one-third of participating companies plan permanent implementation",
+          "references": [
+            {
+              "doc_id": "b9f6de9a-7335-44e8-af7b-e54511ba3f71_112709126"
+            }
+          ]
+        }
+      },
+      "question_id": "dda104405a7c37ad77142448cf37ab85",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What proportion of UK trial companies plan permanent 4-day workweeks?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b9f6de9a-7335-44e8-af7b-e54511ba3f71_112709126"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What were the main benefits of the UK 4-day workweek experiment?": {
+      "question": "What were the main benefits of the UK 4-day workweek experiment?",
+      "answers": {
+        "productivity unaffected, reduced absenteeism and turnover, increased revenue": {
+          "answer": "productivity unaffected, reduced absenteeism and turnover, increased revenue",
+          "references": [
+            {
+              "doc_id": "9aef89be-a1de-42e1-8c46-7b3ceadee58f_560172080"
+            }
+          ]
+        },
+        "increased revenue, reduced turnover and absenteeism, improved health": {
+          "answer": "increased revenue, reduced turnover and absenteeism, improved health",
+          "references": [
+            {
+              "doc_id": "163531f8-08f3-4792-ab37-b621c8b72019_464890342"
+            }
+          ]
+        }
+      },
+      "question_id": "5fb96a69fa3b16f639d24a2197c5bb89",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What were the main benefits of the UK 4-day workweek experiment?",
+          "What benefits did the UK 4-day workweek experiment show?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9aef89be-a1de-42e1-8c46-7b3ceadee58f_560172080"
+            }
+          ],
+          [
+            {
+              "doc_id": "163531f8-08f3-4792-ab37-b621c8b72019_464890342"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more comprehensive and representative of the user's request, as it inquires about the main benefits of the 4-day workweek experiment, which aligns with the user's interest in exploring the trend's potential benefits and challenges.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What meeting time limits did Unity company establish?": {
+      "question": "What meeting time limits did Unity company establish?",
+      "answers": {
+        "5-minute internal meetings, 30-minute maximum client meetings": {
+          "answer": "5-minute internal meetings, 30-minute maximum client meetings",
+          "references": [
+            {
+              "doc_id": "1d2aca84-d690-4e12-a07d-f87ff7a3b4ee_206156476"
+            }
+          ]
+        }
+      },
+      "question_id": "f90ed2b83331a647ca7cf8b27f88cdbb",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What meeting time limits did Unity company establish?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1d2aca84-d690-4e12-a07d-f87ff7a3b4ee_206156476"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are the three key principles for 4-day workweek implementation?": {
+      "question": "What are the three key principles for 4-day workweek implementation?",
+      "answers": {
+        "clear rules, measurable work indicators, effective interdepartmental communication": {
+          "answer": "clear rules, measurable work indicators, effective interdepartmental communication",
+          "references": [
+            {
+              "doc_id": "c93b6c62-4b4e-4dc5-9756-5d7414b60b8b_540351926"
+            }
+          ]
+        }
+      },
+      "question_id": "09de3a94d59816f6f2b7bb6ee548bf9b",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What are the three key principles for 4-day workweek implementation?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c93b6c62-4b4e-4dc5-9756-5d7414b60b8b_540351926"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What equity concerns arise with four-day workweek adoption?": {
+      "question": "What equity concerns arise with four-day workweek adoption?",
+      "answers": {
+        "higher-paid employees typically capture the primary benefits": {
+          "answer": "higher-paid employees typically capture the primary benefits",
+          "references": [
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            }
+          ]
+        }
+      },
+      "question_id": "38af71b589e68b7c10fde40293191b38",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What equity concerns arise with four-day workweek adoption?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many holiday days do Germany, United Kingdom, and United States have?": {
+      "question": "How many holiday days do Germany, United Kingdom, and United States have?",
+      "answers": {
+        "Germany 13, United Kingdom 9, United States 10": {
+          "answer": "Germany 13, United Kingdom 9, United States 10",
+          "references": [
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            }
+          ]
+        }
+      },
+      "question_id": "396e58722cb23cb1f246a8d7ff6ce5d8",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How many holiday days do Germany, United Kingdom, and United States have?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What benefits does Denis Melekhov propose from 4-day workweek implementation?": {
+      "question": "What benefits does Denis Melekhov propose from 4-day workweek implementation?",
+      "answers": {
+        "increased worker satisfaction and positive economic effects": {
+          "answer": "increased worker satisfaction and positive economic effects",
+          "references": [
+            {
+              "doc_id": "91ac007d-d5c6-4e99-9763-b01862dcb93f_93282874"
+            }
+          ]
+        }
+      },
+      "question_id": "3a896a93cbdb43a77e167476bc4ecb1c",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What benefits does Denis Melekhov propose from 4-day workweek implementation?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "91ac007d-d5c6-4e99-9763-b01862dcb93f_93282874"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which day is most preferred as the additional day off?": {
+      "question": "Which day is most preferred as the additional day off?",
+      "answers": {
+        "Friday at 52 percent preference": {
+          "answer": "Friday at 52 percent preference",
+          "references": [
+            {
+              "doc_id": "4caa1e09-fab5-4186-9a73-0e526d939de5_611648540"
+            }
+          ]
+        }
+      },
+      "question_id": "237af090863ad980893f001ee4df2c0a",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "Which day is most preferred as the additional day off?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4caa1e09-fab5-4186-9a73-0e526d939de5_611648540"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many employees view 4-day workweek as most appealing job benefit?": {
+      "question": "How many employees view 4-day workweek as most appealing job benefit?",
+      "answers": {
+        "44% consider it most attractive job description condition": {
+          "answer": "44% consider it most attractive job description condition",
+          "references": [
+            {
+              "doc_id": "6e83e0e0-69b3-4002-9f2c-1a0fb5b1e167_116552855"
+            }
+          ]
+        }
+      },
+      "question_id": "9984dc7a96765e6dd60def29b3faa0a9",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How many employees view 4-day workweek as most appealing job benefit?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "6e83e0e0-69b3-4002-9f2c-1a0fb5b1e167_116552855"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many UK companies and employees participated in the 4-day workweek experiment?": {
+      "question": "How many UK companies and employees participated in the 4-day workweek experiment?",
+      "answers": {
+        "61 companies and approximately 2,900 employees": {
+          "answer": "61 companies and approximately 2,900 employees",
+          "references": [
+            {
+              "doc_id": "e8ef49b5-1aa1-40f8-b1e3-d2d84b1be68d_21367338"
+            }
+          ]
+        },
+        "3300 employees from 70 companies across various industries": {
+          "answer": "3300 employees from 70 companies across various industries",
+          "references": [
+            {
+              "doc_id": "29ee155a-83fc-45c5-a784-cadcc5f8b8cc_70773650"
+            }
+          ]
+        },
+        "over 60 companies with nearly 3,000 employees": {
+          "answer": "over 60 companies with nearly 3,000 employees",
+          "references": [
+            {
+              "doc_id": "9aef89be-a1de-42e1-8c46-7b3ceadee58f_560172080"
+            }
+          ]
+        }
+      },
+      "question_id": "b5a05fa46e993a7ed7e1ac2314012341",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How many companies and employees participated in the UK 4-day workweek experiment?",
+          "How many participants are involved in the United Kingdom 4-day workweek experiment?",
+          "How many UK companies and employees participated in the 4-day workweek experiment?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e8ef49b5-1aa1-40f8-b1e3-d2d84b1be68d_21367338"
+            }
+          ],
+          [
+            {
+              "doc_id": "29ee155a-83fc-45c5-a784-cadcc5f8b8cc_70773650"
+            }
+          ],
+          [
+            {
+              "doc_id": "9aef89be-a1de-42e1-8c46-7b3ceadee58f_560172080"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it clearly and concisely asks about the number of both companies and employees involved in the UK 4-day workweek experiment, providing a comprehensive understanding of the experiment's scope.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What productivity improvement did Microsoft Japan achieve with 4-day workweek?": {
+      "question": "What productivity improvement did Microsoft Japan achieve with 4-day workweek?",
+      "answers": {
+        "40% productivity increase": {
+          "answer": "40% productivity increase",
+          "references": [
+            {
+              "doc_id": "1efbdb0a-13d5-4470-88cb-cd6c9fe2c382_13900136"
+            }
+          ]
+        },
+        "40 percent increase in worker efficiency": {
+          "answer": "40 percent increase in worker efficiency",
+          "references": [
+            {
+              "doc_id": "29ee155a-83fc-45c5-a784-cadcc5f8b8cc_70773650"
+            }
+          ]
+        }
+      },
+      "question_id": "31da35d44a95d2fd7f6acbccc4283240",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "How much did Microsoft Japan's productivity improve with 4-day workweek?",
+          "What productivity improvement did Microsoft Japan achieve with 4-day workweek?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1efbdb0a-13d5-4470-88cb-cd6c9fe2c382_13900136"
+            }
+          ],
+          [
+            {
+              "doc_id": "29ee155a-83fc-45c5-a784-cadcc5f8b8cc_70773650"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address a specific example of the 4-day workweek's impact on productivity, with question 2 being slightly more general and open to a broader range of answers.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What work schedule did neighboring countries implement in their trials?": {
+      "question": "What work schedule did neighboring countries implement in their trials?",
+      "answers": {
+        "four days per week instead of traditional system": {
+          "answer": "four days per week instead of traditional system",
+          "references": [
+            {
+              "doc_id": "a632805c-cd48-4a6b-a181-b023d740f5e4_319656423"
+            }
+          ]
+        }
+      },
+      "question_id": "c5ea15701fadabf5c11c307e6668e338",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What work schedule did neighboring countries implement in their trials?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a632805c-cd48-4a6b-a181-b023d740f5e4_319656423"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What level of employee support exists for four-day workweek in India?": {
+      "question": "What level of employee support exists for four-day workweek in India?",
+      "answers": {
+        "100 percent of workers favoring the approach": {
+          "answer": "100 percent of workers favoring the approach",
+          "references": [
+            {
+              "doc_id": "4caa1e09-fab5-4186-9a73-0e526d939de5_611648540"
+            }
+          ]
+        }
+      },
+      "question_id": "20bd6a8c8c86be7e4067248842ac102a",
+      "aggregator_type": "OR",
+      "query_id": "1033",
+      "metadata": {
+        "paraphrases": [
+          "What level of employee support exists for four-day workweek in India?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4caa1e09-fab5-4186-9a73-0e526d939de5_611648540"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

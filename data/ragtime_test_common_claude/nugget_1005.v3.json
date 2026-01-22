@@ -1,0 +1,1197 @@
+{
+  "query_id": "1005",
+  "title_query": "1005",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What defines the digital nomad lifestyle according to this report?": {
+      "question": "What defines the digital nomad lifestyle according to this report?",
+      "answers": {
+        "professionals using internet technology for remote work worldwide": {
+          "answer": "professionals using internet technology for remote work worldwide",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ]
+        },
+        "travelers who work globally using just a computer": {
+          "answer": "travelers who work globally using just a computer",
+          "references": [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        },
+        "remote workers who travel while employed": {
+          "answer": "remote workers who travel while employed",
+          "references": [
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            }
+          ]
+        },
+        "professionals using technology for remote work while traveling": {
+          "answer": "professionals using technology for remote work while traveling",
+          "references": [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        },
+        "remote workers who travel globally with laptops": {
+          "answer": "remote workers who travel globally with laptops",
+          "references": [
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            }
+          ]
+        },
+        "remote workers who travel freely using internet connectivity": {
+          "answer": "remote workers who travel freely using internet connectivity",
+          "references": [
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            }
+          ]
+        },
+        "remote workers who travel while working from laptops": {
+          "answer": "remote workers who travel while working from laptops",
+          "references": [
+            {
+              "doc_id": "d812d020-b4d6-4b3b-a420-9f195bdf4ac4_35559448"
+            }
+          ]
+        },
+        "internet-based work enabling location and time freedom": {
+          "answer": "internet-based work enabling location and time freedom",
+          "references": [
+            {
+              "doc_id": "60aa4cb5-342f-4247-8498-89094bcd2d2d_720028489"
+            }
+          ]
+        }
+      },
+      "question_id": "d48e987f9925d3d780fc3f8708ee09e8",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What are digital nomads according to the document?",
+          "What are Digital Nomads according to this definition?",
+          "What does the term digital nomad describe?",
+          "What are digital nomads?",
+          "What defines the digital nomad lifestyle according to this report?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ],
+          [
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            }
+          ],
+          [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "d812d020-b4d6-4b3b-a420-9f195bdf4ac4_35559448"
+            }
+          ],
+          [
+            {
+              "doc_id": "60aa4cb5-342f-4247-8498-89094bcd2d2d_720028489"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the definition of digital nomads in the context of the provided report, making it the most relevant and informative for understanding the topic.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 8,
+        "num_answers": 8
+      }
+    },
+    "What is the digital nomad lifestyle?": {
+      "question": "What is the digital nomad lifestyle?",
+      "answers": {
+        "working remotely while traveling to different countries worldwide": {
+          "answer": "working remotely while traveling to different countries worldwide",
+          "references": [
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            }
+          ]
+        },
+        "remote work combined with travel between countries": {
+          "answer": "remote work combined with travel between countries",
+          "references": [
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            }
+          ]
+        },
+        "working remotely while traveling in converted mobile homes": {
+          "answer": "working remotely while traveling in converted mobile homes",
+          "references": [
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            }
+          ]
+        },
+        "remote workers who reject permanent residence and workplace attachment": {
+          "answer": "remote workers who reject permanent residence and workplace attachment",
+          "references": [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ]
+        },
+        "working and traveling worldwide using stable internet and laptops": {
+          "answer": "working and traveling worldwide using stable internet and laptops",
+          "references": [
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            }
+          ]
+        },
+        "lifestyle combining travel and remote work simultaneously": {
+          "answer": "lifestyle combining travel and remote work simultaneously",
+          "references": [
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ]
+        },
+        "working while traveling with proper mobile office setup": {
+          "answer": "working while traveling with proper mobile office setup",
+          "references": [
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            }
+          ]
+        },
+        "working remotely while traveling frequently": {
+          "answer": "working remotely while traveling frequently",
+          "references": [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        }
+      },
+      "question_id": "814844e422a384bffb477bfddab2b26a",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What is the digital nomad lifestyle?",
+          "What lifestyle does the digital nomad community represent?",
+          "What are digital nomads in terms of lifestyle choice?",
+          "What is the digital nomad lifestyle concept?",
+          "What does the digital nomad lifestyle involve?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            }
+          ],
+          [
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            }
+          ],
+          [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ],
+          [
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most canonical because it directly and concisely asks for an explanation of the digital nomad lifestyle, which is a central aspect of the user request.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 8,
+        "num_answers": 8
+      }
+    },
+    "What types of work are commonly suited for digital nomads?": {
+      "question": "What types of work are commonly suited for digital nomads?",
+      "answers": {
+        "bloggers, illustrators, programmers, and translators": {
+          "answer": "bloggers, illustrators, programmers, and translators",
+          "references": [
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            }
+          ]
+        },
+        "programming, writing, and translation": {
+          "answer": "programming, writing, and translation",
+          "references": [
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            }
+          ]
+        },
+        "ICT industry and information technology fields": {
+          "answer": "ICT industry and information technology fields",
+          "references": [
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            }
+          ]
+        },
+        "design, web marketing, programming, content writing": {
+          "answer": "design, web marketing, programming, content writing",
+          "references": [
+            {
+              "doc_id": "b2358f49-b2b6-4f53-8eaa-b4945451baed_525191053"
+            }
+          ]
+        },
+        "hyper-personalized work based on individual proficiencies and true interests": {
+          "answer": "hyper-personalized work based on individual proficiencies and true interests",
+          "references": [
+            {
+              "doc_id": "726b5e8b-ee89-4a6f-9d85-8010e1aaf896_297099692"
+            }
+          ]
+        }
+      },
+      "question_id": "0e9e8a1675ed3e7c8a5dfd3f03278336",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What types of work are commonly suited for digital nomads?",
+          "What types of work are suited for digital nomadism?",
+          "What types of work are suitable for digital nomad lifestyle?",
+          "What type of work suits the digital nomad lifestyle?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            }
+          ],
+          [
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            }
+          ],
+          [
+            {
+              "doc_id": "b2358f49-b2b6-4f53-8eaa-b4945451baed_525191053"
+            }
+          ],
+          [
+            {
+              "doc_id": "726b5e8b-ee89-4a6f-9d85-8010e1aaf896_297099692"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the types of work suited for digital nomads, making it a fundamental inquiry about the lifestyle.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 5,
+        "num_answers": 5
+      }
+    },
+    "How did the pandemic impact remote work adoption?": {
+      "question": "How did the pandemic impact remote work adoption?",
+      "answers": {
+        "COVID-19 pandemic made remote work necessary instead of optional": {
+          "answer": "COVID-19 pandemic made remote work necessary instead of optional",
+          "references": [
+            {
+              "doc_id": "94749fa6-19ca-44c6-aec8-a45a68d08620_222088372"
+            }
+          ]
+        },
+        "pandemic accelerated remote work becoming established norm": {
+          "answer": "pandemic accelerated remote work becoming established norm",
+          "references": [
+            {
+              "doc_id": "efefb6e5-0fde-42b4-b533-23a33f10adc4_747347304"
+            }
+          ]
+        },
+        "pandemic accelerated business digitalization and remote working trends": {
+          "answer": "pandemic accelerated business digitalization and remote working trends",
+          "references": [
+            {
+              "doc_id": "cd14aec9-d684-4ad5-9797-5f0c25a2b5eb_299992812"
+            }
+          ]
+        }
+      },
+      "question_id": "b1652d388e52ebf124ef955c584c8148",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How did the COVID-19 pandemic change remote work adoption?",
+          "How did the pandemic impact remote work adoption?",
+          "How did the pandemic impact remote working adoption?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "94749fa6-19ca-44c6-aec8-a45a68d08620_222088372"
+            }
+          ],
+          [
+            {
+              "doc_id": "efefb6e5-0fde-42b4-b533-23a33f10adc4_747347304"
+            }
+          ],
+          [
+            {
+              "doc_id": "cd14aec9-d684-4ad5-9797-5f0c25a2b5eb_299992812"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly addresses the impact of the pandemic on remote work, a key aspect of the digital nomad lifestyle.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "How long do most digital nomads typically stay in locations?": {
+      "question": "How long do most digital nomads typically stay in locations?",
+      "answers": {
+        "one to three months": {
+          "answer": "one to three months",
+          "references": [
+            {
+              "doc_id": "90884408-0e81-4e82-b05c-6d5e3880f722_235045315"
+            }
+          ]
+        },
+        "three to six months in the same location": {
+          "answer": "three to six months in the same location",
+          "references": [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            }
+          ]
+        },
+        "66% stay in same location for three to six months": {
+          "answer": "66% stay in same location for three to six months",
+          "references": [
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        }
+      },
+      "question_id": "fdbb19db3050e00623a5389307494513",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How long do most digital nomads typically stay in locations?",
+          "How long do most digital nomads typically stay somewhere?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "90884408-0e81-4e82-b05c-6d5e3880f722_235045315"
+            }
+          ],
+          [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            },
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address the same aspect of the digital nomad lifestyle, but question 1 is slightly more formal and polished.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "How many European countries provide digital nomad visa programs?": {
+      "question": "How many European countries provide digital nomad visa programs?",
+      "answers": {
+        "dozens of European countries offer one-year remote work visas": {
+          "answer": "dozens of European countries offer one-year remote work visas",
+          "references": [
+            {
+              "doc_id": "620614e1-45b7-4dad-8755-8e83ed16c830_220002243"
+            }
+          ]
+        },
+        "15 European countries offer digital nomad visas currently": {
+          "answer": "15 European countries offer digital nomad visas currently",
+          "references": [
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        },
+        "16 European countries offer similar digital nomad programs": {
+          "answer": "16 European countries offer similar digital nomad programs",
+          "references": [
+            {
+              "doc_id": "d687297a-7db2-44f7-aecb-450e2bc50213_217010740"
+            }
+          ]
+        }
+      },
+      "question_id": "a3f4fe3c08ecf08183fafa8c2873e6c2",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How many European countries provide digital nomad visa options?",
+          "How many European countries provide digital nomad visa programs?",
+          "How many European countries have digital nomad visa programs?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "620614e1-45b7-4dad-8755-8e83ed16c830_220002243"
+            }
+          ],
+          [
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ],
+          [
+            {
+              "doc_id": "d687297a-7db2-44f7-aecb-450e2bc50213_217010740"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most canonical because it is phrased in a clear and concise manner, using standard terminology, which makes it the most representative of the user's request for information on digital nomad visas.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What advantages can remote work provide workers?": {
+      "question": "What advantages can remote work provide workers?",
+      "answers": {
+        "eliminating commutes and providing flexibility": {
+          "answer": "eliminating commutes and providing flexibility",
+          "references": [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ]
+        },
+        "increased productivity and income potential": {
+          "answer": "increased productivity and income potential",
+          "references": [
+            {
+              "doc_id": "06d5297d-96bd-4b23-9013-644b3d9294eb_840619307"
+            }
+          ]
+        },
+        "flexibility, improved work-life balance, reduced commuting stress, cost-effectiveness": {
+          "answer": "flexibility, improved work-life balance, reduced commuting stress, cost-effectiveness",
+          "references": [
+            {
+              "doc_id": "6785efc1-f73c-43a2-a525-43991bd94920_917813827"
+            }
+          ]
+        }
+      },
+      "question_id": "64c9162df1e320aa654bd38b7eaf7f45",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What immediate benefits does remote work offer to employees?",
+          "What advantages can remote work provide workers?",
+          "What are the main benefits of remote work arrangements?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "96e61646-f521-401d-9484-de4c0d40f4b8_541182140"
+            }
+          ],
+          [
+            {
+              "doc_id": "06d5297d-96bd-4b23-9013-644b3d9294eb_840619307"
+            }
+          ],
+          [
+            {
+              "doc_id": "6785efc1-f73c-43a2-a525-43991bd94920_917813827"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly inquires about the advantages of remote work, which is a central aspect of the digital nomad lifestyle and closely related to the user request.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What is the minimum income requirement for Japan's digital nomad visa?": {
+      "question": "What is the minimum income requirement for Japan's digital nomad visa?",
+      "answers": {
+        "10 million yen annually for Japan visa application": {
+          "answer": "10 million yen annually for Japan visa application",
+          "references": [
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ]
+        },
+        "10 million yen annual income requirement": {
+          "answer": "10 million yen annual income requirement",
+          "references": [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ]
+        },
+        "10 million Japanese Yen annually": {
+          "answer": "10 million Japanese Yen annually",
+          "references": [
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        }
+      },
+      "question_id": "bbfb097c8e18585f59dd4e370bbf2a5d",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What income requirement does Japan set for digital nomad visas?",
+          "What is the minimum income requirement for Japan's digital nomad visa?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ],
+          [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address a specific aspect of digital nomad visas, but question 2 is slightly more concise and directly asks for the minimum income requirement.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which major event accelerated the growth of remote work opportunities?": {
+      "question": "Which major event accelerated the growth of remote work opportunities?",
+      "answers": {
+        "COVID-19 pandemic accelerated transition to online work": {
+          "answer": "COVID-19 pandemic accelerated transition to online work",
+          "references": [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_1029705577"
+            }
+          ]
+        },
+        "COVID-19 pandemic": {
+          "answer": "COVID-19 pandemic",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        },
+        "COVID-19 pandemic accelerated global adoption of remote work": {
+          "answer": "COVID-19 pandemic accelerated global adoption of remote work",
+          "references": [
+            {
+              "doc_id": "7783cd24-525b-406d-96d3-c241be953db5_463137411"
+            }
+          ]
+        }
+      },
+      "question_id": "ab697dc9d3bd0dac86dc096f6ec4cbe4",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What major event accelerated the shift to remote work?",
+          "Which major event accelerated the growth of remote work opportunities?",
+          "What major event drove worldwide acceptance of remote work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_1029705577"
+            }
+          ],
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ],
+          [
+            {
+              "doc_id": "7783cd24-525b-406d-96d3-c241be953db5_463137411"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly addresses the catalyst for the shift to remote work, which is a key context for the digital nomad lifestyle.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What types of professionals typically become digital nomads?": {
+      "question": "What types of professionals typically become digital nomads?",
+      "answers": {
+        "software developers, content creators, digital marketers, and designers": {
+          "answer": "software developers, content creators, digital marketers, and designers",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ]
+        },
+        "programmers, designers, journalists, translators and other remote specialists": {
+          "answer": "programmers, designers, journalists, translators and other remote specialists",
+          "references": [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ]
+        },
+        "user experience designers and computer programmers": {
+          "answer": "user experience designers and computer programmers",
+          "references": [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        }
+      },
+      "question_id": "55cb291d69b67a753c9ddc190a761977",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What types of professionals commonly work as digital nomads?",
+          "What types of professionals typically become digital nomads?",
+          "What types of professionals traditionally worked as Digital Nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ],
+          [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly addresses the types of work suited to the digital nomad lifestyle in a general and inclusive manner.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which countries offer digital nomad visas for remote workers?": {
+      "question": "Which countries offer digital nomad visas for remote workers?",
+      "answers": {
+        "Japan, Finland, and various European countries": {
+          "answer": "Japan, Finland, and various European countries",
+          "references": [
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ]
+        },
+        "Namibia, Ecuador, Belize, Malaysia, Albania": {
+          "answer": "Namibia, Ecuador, Belize, Malaysia, Albania",
+          "references": [
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            }
+          ]
+        },
+        "Dubai, Colombia, Estonia, Bermuda, Portugal, Spain, Croatia, Cayman Islands": {
+          "answer": "Dubai, Colombia, Estonia, Bermuda, Portugal, Spain, Croatia, Cayman Islands",
+          "references": [
+            {
+              "doc_id": "c7b767c9-09fd-43c7-83f7-b07f61e38ae6_818229618"
+            }
+          ]
+        }
+      },
+      "question_id": "e91f207aa9c6d8e58d9fb0837e5e1e34",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "Which countries offer digital nomad visas for remote workers?",
+          "Which countries offer special visas for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            },
+            {
+              "doc_id": "c7b767c9-09fd-43c7-83f7-b07f61e38ae6_818229618"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address the same aspect of the user request, but question 1 is slightly more specific to remote workers.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "How has the digital nomad phenomenon changed since the pandemic?": {
+      "question": "How has the digital nomad phenomenon changed since the pandemic?",
+      "answers": {
+        "expanded beyond technology professionals to executives across various sectors": {
+          "answer": "expanded beyond technology professionals to executives across various sectors",
+          "references": [
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        },
+        "COVID-19 pandemic transformed it from marginal to widespread": {
+          "answer": "COVID-19 pandemic transformed it from marginal to widespread",
+          "references": [
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            }
+          ]
+        }
+      },
+      "question_id": "8a984f506dc2febb04ea39c1624602fd",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How has the digital nomad phenomenon changed since the pandemic?",
+          "How did the pandemic affect digital nomad trends?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd58cfb9-f01b-4078-86a9-871fc3f6410e_322621379"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more comprehensive and directly addresses the evolution of the digital nomad lifestyle, which is crucial for understanding its current state.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How many digital nomads exist worldwide according to statistics?": {
+      "question": "How many digital nomads exist worldwide according to statistics?",
+      "answers": {
+        "approximately 35 million people globally": {
+          "answer": "approximately 35 million people globally",
+          "references": [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ]
+        },
+        "approximately 35 million digital nomads globally": {
+          "answer": "approximately 35 million digital nomads globally",
+          "references": [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            }
+          ]
+        }
+      },
+      "question_id": "6dc23d33ef2acf36dab109e7d4e0bb3b",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How many digital nomads exist worldwide according to travel data?",
+          "How many digital nomads exist worldwide according to statistics?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ],
+          [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are essentially asking the same thing, but question 2 is more general and does not limit the source of the data to travel data.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What advantages does the digital nomad lifestyle offer workers?": {
+      "question": "What advantages does the digital nomad lifestyle offer workers?",
+      "answers": {
+        "high income and freedom from traditional office constraints": {
+          "answer": "high income and freedom from traditional office constraints",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ]
+        },
+        "location independence and flexible working hours": {
+          "answer": "location independence and flexible working hours",
+          "references": [
+            {
+              "doc_id": "b2358f49-b2b6-4f53-8eaa-b4945451baed_525191053"
+            }
+          ]
+        }
+      },
+      "question_id": "c9d010c7028046eaae47510ac5e685bb",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What advantages does the digital nomad lifestyle offer workers?",
+          "What are the main advantages of digital nomad work model?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ],
+          [
+            {
+              "doc_id": "b2358f49-b2b6-4f53-8eaa-b4945451baed_525191053"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about the benefits of the digital nomad lifestyle, which is a central aspect of the user's request for information on this topic.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What are key challenges of the digital nomad lifestyle?": {
+      "question": "What are key challenges of the digital nomad lifestyle?",
+      "answers": {
+        "connectivity issues and secure access to remote resources": {
+          "answer": "connectivity issues and secure access to remote resources",
+          "references": [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        },
+        "maintaining work-life balance and managing travel fatigue": {
+          "answer": "maintaining work-life balance and managing travel fatigue",
+          "references": [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        }
+      },
+      "question_id": "f4202af64fbdec8a5095812641c19444",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What unique challenges do digital nomads face?",
+          "What are key challenges of the digital nomad lifestyle?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ],
+          [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it uses more specific and formal language to inquire about the challenges of the digital nomad lifestyle.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What types of remote work suit digital nomads?": {
+      "question": "What types of remote work suit digital nomads?",
+      "answers": {
+        "tutoring and content writing": {
+          "answer": "tutoring and content writing",
+          "references": [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        },
+        "web design, software development, cybersecurity analysis, and writing": {
+          "answer": "web design, software development, cybersecurity analysis, and writing",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        }
+      },
+      "question_id": "43a453c33cae41f02afdd9eb7ef16619",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What types of remote work suit digital nomads?",
+          "What are the main remote work careers suitable for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ],
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the types of work suited to the digital nomad lifestyle, a key aspect of the user request.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What types of workers does Japan's digital nomad visa target?": {
+      "question": "What types of workers does Japan's digital nomad visa target?",
+      "answers": {
+        "foreign high-tech professionals and engineers working remotely": {
+          "answer": "foreign high-tech professionals and engineers working remotely",
+          "references": [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ]
+        },
+        "information technology professionals, highly skilled workers, and content creators": {
+          "answer": "information technology professionals, highly skilled workers, and content creators",
+          "references": [
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        }
+      },
+      "question_id": "244fee5d3b7c1a3a9c15998dd7328af5",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What type of workers does Japan's new digital nomad visa target?",
+          "What types of workers does Japan's digital nomad visa target?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            }
+          ],
+          [
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it is phrased in a more formal and clear manner, making it a stronger candidate for providing informative responses.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What visa options support digital nomads internationally?": {
+      "question": "What visa options support digital nomads internationally?",
+      "answers": {
+        "special digital nomad visas costing 72 to 1000 dollars": {
+          "answer": "special digital nomad visas costing 72 to 1000 dollars",
+          "references": [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ]
+        },
+        "global remote work visas through streamlined application processes": {
+          "answer": "global remote work visas through streamlined application processes",
+          "references": [
+            {
+              "doc_id": "255cffed-9128-4d3c-aeb9-60ac4940c381_592587899"
+            }
+          ]
+        }
+      },
+      "question_id": "9cdc8f13176c868eb5eb83321f3bc643",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What visa options support digital nomads internationally?",
+          "What visa solutions are available for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ],
+          [
+            {
+              "doc_id": "255cffed-9128-4d3c-aeb9-60ac4940c381_592587899"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it uses the phrase 'visa options' which is more comprehensive than 'visa solutions', implying a broader range of possibilities for digital nomads.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What visa initiative is Japan planning for remote workers?": {
+      "question": "What visa initiative is Japan planning for remote workers?",
+      "answers": {
+        "Japan is considering launching a digital nomad visa program": {
+          "answer": "Japan is considering launching a digital nomad visa program",
+          "references": [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            },
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        }
+      },
+      "question_id": "705a97e0a838f41e59952efa3de37417",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What visa initiative is Japan planning for remote workers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "09cbaa0c-5e42-4814-a1a1-3e28d939b1c4_202321090"
+            },
+            {
+              "doc_id": "c99adb91-64a7-454a-a41a-1cd3415fae92_617034367"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "How many people worked as digital nomads worldwide in 2022?": {
+      "question": "How many people worked as digital nomads worldwide in 2022?",
+      "answers": {
+        "35 million people globally as of 2022": {
+          "answer": "35 million people globally as of 2022",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ]
+        }
+      },
+      "question_id": "eb702fa4c20385afd5169fe60a36d172",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How many people worked as digital nomads worldwide in 2022?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

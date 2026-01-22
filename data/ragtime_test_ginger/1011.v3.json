@@ -1,0 +1,1104 @@
+{
+  "query_id": "1011",
+  "title_query": "I am a Saudi journalist writing about the change in Saudi Arabia since MBS took power. I am writing this piece to the American audience. The aim is to change the West's view of Saudi Arabia and its strict laws.\nI want a report about Mohammed bin Salman Al Saud (MBS) and his 2030 vision of Saudi Arabia. The report should include a series of social and economic reforms that he introduced since his appointment as crown prince in 2017, including curtailing the influence of the Wahhabi religious establishment by restricting the powers of the religious police and improving women's rights.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia under Crown Prince Mohammed bin Salman is transforming from an obscurantist ideology to modernization through sports, entertainment, and economic diversification beyond oil under Vision 2030.": {
+          "answer": "Saudi Arabia under Crown Prince Mohammed bin Salman is transforming from an obscurantist ideology to modernization through sports, entertainment, and economic diversification beyond oil under Vision 2030.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Crown Prince Mohammed bin Salman has shared his vision to transform Saudi Arabia into a global investment power through economic diversification, mega-projects, and reducing oil dependency.": {
+          "answer": "Crown Prince Mohammed bin Salman has shared his vision to transform Saudi Arabia into a global investment power through economic diversification, mega-projects, and reducing oil dependency.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "The kingdom's Vision 2030 aims to transform tourism into a major economic pillar, targeting 150 million visitors and investing $800 billion in tourism development projects.": {
+          "answer": "The kingdom's Vision 2030 aims to transform tourism into a major economic pillar, targeting 150 million visitors and investing $800 billion in tourism development projects.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia has experienced significant social and economic transformation under Crown Prince Mohammed bin Salman's Vision 2030, fostering greater national pride and achieving substantial developments across multiple sectors.": {
+          "answer": "Saudi Arabia has experienced significant social and economic transformation under Crown Prince Mohammed bin Salman's Vision 2030, fostering greater national pride and achieving substantial developments across multiple sectors.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Crown Prince Mohammed bin Salman outlined plans to modernize the economy, develop tourism, reduce oil dependency by 2030, and achieve economic diversification, with non-oil GDP exceeding 50% in 2023.": {
+          "answer": "Saudi Crown Prince Mohammed bin Salman outlined plans to modernize the economy, develop tourism, reduce oil dependency by 2030, and achieve economic diversification, with non-oil GDP exceeding 50% in 2023.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia's Vision 2030 has significantly improved women's workforce participation to 36% (doubling from five years ago), increased Saudi homeownership, created job opportunities, and expanded the Saudi labor market to 2.3 million participants.": {
+          "answer": "Saudi Arabia's Vision 2030 has significantly improved women's workforce participation to 36% (doubling from five years ago), increased Saudi homeownership, created job opportunities, and expanded the Saudi labor market to 2.3 million participants.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "After the vision, oil now constitutes less than half of GDP while non-oil activities have increased to approximately 50% of domestic output.": {
+          "answer": "After the vision, oil now constitutes less than half of GDP while non-oil activities have increased to approximately 50% of domestic output.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia's Vision 2030, led by Crown Prince Mohammed bin Salman, aims to transform the kingdom into a global economic power while improving citizens' security, education, healthcare, and social welfare through strategic geographic positioning connecting Asia, Europe, and Africa.": {
+          "answer": "Saudi Arabia's Vision 2030, led by Crown Prince Mohammed bin Salman, aims to transform the kingdom into a global economic power while improving citizens' security, education, healthcare, and social welfare through strategic geographic positioning connecting Asia, Europe, and Africa.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Prince Mohammed's Vision 2030 aims to reshape Saudi Arabia's oil-dependent economy through transformative investments in emerging sectors, creating international cooperation opportunities while acknowledging current achievements as just the beginning.": {
+          "answer": "Prince Mohammed's Vision 2030 aims to reshape Saudi Arabia's oil-dependent economy through transformative investments in emerging sectors, creating international cooperation opportunities while acknowledging current achievements as just the beginning.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia advanced to 17th place globally among 64 countries in the annual World Competitiveness ranking while pursuing economic diversification through developing all economic sectors.": {
+          "answer": "Saudi Arabia advanced to 17th place globally among 64 countries in the annual World Competitiveness ranking while pursuing economic diversification through developing all economic sectors.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "A virtual pact between clergy and the Royal Family promotes Wahhabi ideology in exchange for royal power, with Crown Prince Mohammed bin Salman prioritizing Saudi national security and development.": {
+          "answer": "A virtual pact between clergy and the Royal Family promotes Wahhabi ideology in exchange for royal power, with Crown Prince Mohammed bin Salman prioritizing Saudi national security and development.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Non-oil activities reached a historic 50% contribution to GDP, non-oil government revenues rose to 457 billion riyals, and sports sector development progressed through club investment and privatization projects.": {
+          "answer": "Non-oil activities reached a historic 50% contribution to GDP, non-oil government revenues rose to 457 billion riyals, and sports sector development progressed through club investment and privatization projects.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "Saudi Arabia is undergoing significant social, cultural, and artistic transformations, moving away from extremist ideologies toward a moderate Islam open to the world and all religions.": {
+          "answer": "Saudi Arabia is undergoing significant social, cultural, and artistic transformations, moving away from extremist ideologies toward a moderate Islam open to the world and all religions.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1011",
+      "importance": "vital",
+      "answers": {
+        "This represents a national turning point with comprehensive reforms benefiting citizens and residents alike, inspiring youth and driving transformational changes toward a promising future of prosperity.": {
+          "answer": "This represents a national turning point with comprehensive reforms benefiting citizens and residents alike, inspiring youth and driving transformational changes toward a promising future of prosperity.",
+          "references": [
+            {
+              "doc_id": "1ec84a30-fdcd-4f1f-a0a0-4429222362aa_712309850"
+            },
+            {
+              "doc_id": "3070d6a1-fc25-41bc-8539-08c048cf7606_862949452"
+            },
+            {
+              "doc_id": "a333ae7f-0373-44b2-a266-ed7304052c59_1045813813"
+            },
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            },
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            },
+            {
+              "doc_id": "2dd7579b-dc19-4a86-8baa-6d6db0310a31_555195232"
+            },
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            },
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b7fead8a-a07f-4c14-aa03-da188b12ad11_646421381"
+            },
+            {
+              "doc_id": "81ca8076-ec26-4b1d-b850-e4e17f76a70a_200615417"
+            },
+            {
+              "doc_id": "9d333eca-3204-402a-a29f-47f8d71b253b_230205988"
+            },
+            {
+              "doc_id": "e113e16e-33ec-4f4c-abd1-c6cd6fea9b32_621559774"
+            },
+            {
+              "doc_id": "003a3514-fd03-4c10-b357-43c5666e263c_505191658"
+            },
+            {
+              "doc_id": "16ca398b-f1ff-42c5-95ed-8e37d09b70f8_725045152"
+            },
+            {
+              "doc_id": "de7bafe3-0613-4f8d-a925-cd3f5a571d98_897868556"
+            },
+            {
+              "doc_id": "175ec7d7-4f28-4cb7-84ac-1c35b7fab08c_101477674"
+            },
+            {
+              "doc_id": "94a17499-4f6b-4cc6-ab9b-49cd63c59dba_115018207"
+            },
+            {
+              "doc_id": "bd18bfb8-3df1-40fe-80d2-e6f7164cb150_463168187"
+            },
+            {
+              "doc_id": "83eccc82-a52a-4cca-891e-5c7a2f78e459_880336803"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

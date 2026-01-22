@@ -1,0 +1,1104 @@
+{
+  "query_id": "1029",
+  "title_query": "I am thinking of starting a science fiction book club with my friends, and want to have a better understanding of the evolution of the genre. I want to make sure that we select books that are part of the traditional canon of science fiction as well as books from contemporary voices and/or underrepresented perspectives.\nI need information on how the genre of science fiction in literature has changed and evolved over time. What has influenced science fiction earlier last century and how has the genre more recently developed? How has it changed from the world of HG Wells to the current authors? Have authors from other demographics (women authors, or people of color) made an impact?",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Science fiction literature began with French author Jules Verne's 1863 story \"Five Weeks in a Balloon,\" and has since evolved to include diverse contemporary works by authors like N.K. Jemisin and Yoon Ha Lee.": {
+          "answer": "Science fiction literature began with French author Jules Verne's 1863 story \"Five Weeks in a Balloon,\" and has since evolved to include diverse contemporary works by authors like N.K. Jemisin and Yoon Ha Lee.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Science fiction is rapidly expanding as a genre with numerous subgenres and genre-bending variations that explore present-world themes rather than just future concepts.": {
+          "answer": "Science fiction is rapidly expanding as a genre with numerous subgenres and genre-bending variations that explore present-world themes rather than just future concepts.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Biswas emphasized the importance of diverse author representation in panels discussing humanity's future, hoping for increased geographic diversity and international participation with better funding in future projects.": {
+          "answer": "Biswas emphasized the importance of diverse author representation in panels discussing humanity's future, hoping for increased geographic diversity and international participation with better funding in future projects.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Okorafor's genre-bending novella Sankofa begins as fantasy-horror but evolves into African futurism, exploring how the world shapes us and how we might reshape it.": {
+          "answer": "Okorafor's genre-bending novella Sankofa begins as fantasy-horror but evolves into African futurism, exploring how the world shapes us and how we might reshape it.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "The text discusses the evolution of science fiction from Mary Shelley's foundational work through four eras, and mentions contemporary works like \"Remote Control\" and \"Foxfire, Foxfire.\"": {
+          "answer": "The text discusses the evolution of science fiction from Mary Shelley's foundational work through four eras, and mentions contemporary works like \"Remote Control\" and \"Foxfire, Foxfire.\"",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Chinese science fiction has grown significantly over decades, gaining international visibility alongside China's economic development, with the speaker having contributed to the \"New Generation\" movement in the 1990s.": {
+          "answer": "Chinese science fiction has grown significantly over decades, gaining international visibility alongside China's economic development, with the speaker having contributed to the \"New Generation\" movement in the 1990s.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Victor Manibo's \"Escape Velocity\" presents a hyper-capitalist future with luxury space habitats and Mars colonization, while discussions explore Chinese science fiction and distinctions between sci-fi and fantasy literature.": {
+          "answer": "Victor Manibo's \"Escape Velocity\" presents a hyper-capitalist future with luxury space habitats and Mars colonization, while discussions explore Chinese science fiction and distinctions between sci-fi and fantasy literature.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Horizon Forbidden West combines futuristic and primitive elements in a unique soft science fiction aesthetic that focuses on solving Earth's environmental problems rather than space exploration.": {
+          "answer": "Horizon Forbidden West combines futuristic and primitive elements in a unique soft science fiction aesthetic that focuses on solving Earth's environmental problems rather than space exploration.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "The writer examines science fiction branches that address political, social, and economic issues through dystopian/utopian literature, while Jemisin creates works exploring power dynamics and cultural conflicts that reflect contemporary societal fears.": {
+          "answer": "The writer examines science fiction branches that address political, social, and economic issues through dystopian/utopian literature, while Jemisin creates works exploring power dynamics and cultural conflicts that reflect contemporary societal fears.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Modern science fiction has shifted toward exploring artificial intelligence, space themes, and the human condition, with expectations that these topics will become increasingly important in future literary works.": {
+          "answer": "Modern science fiction has shifted toward exploring artificial intelligence, space themes, and the human condition, with expectations that these topics will become increasingly important in future literary works.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "The passage discusses how speculative fiction has evolved from a niche genre to mainstream entertainment, with authors emphasizing its interdisciplinary future and long-term perspective on civilization's changes.": {
+          "answer": "The passage discusses how speculative fiction has evolved from a niche genre to mainstream entertainment, with authors emphasizing its interdisciplinary future and long-term perspective on civilization's changes.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "Science fiction differs from mainstream literature as its success depends on a country's economic and technological development, with recent film popularization expanding accessibility and inspiring new interactive narrative formats.": {
+          "answer": "Science fiction differs from mainstream literature as its success depends on a country's economic and technological development, with recent film popularization expanding accessibility and inspiring new interactive narrative formats.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "The author discusses developing Philosophical Science Fiction with concentrated philosophical elements and Chinese themes, while Jemisin explains she writes science fiction because it offers unlimited creative freedom.": {
+          "answer": "The author discusses developing Philosophical Science Fiction with concentrated philosophical elements and Chinese themes, while Jemisin explains she writes science fiction because it offers unlimited creative freedom.",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1029",
+      "importance": "vital",
+      "answers": {
+        "\"Memories of Memories Lost\" by Mahmud El Sayed discusses Western and Arab dystopian writings, mentioning famous works like Orwell's \"1984,\" Huxley's \"Brave New World,\" and Bradbury's \"Fahrenheit 451.\"": {
+          "answer": "\"Memories of Memories Lost\" by Mahmud El Sayed discusses Western and Arab dystopian writings, mentioning famous works like Orwell's \"1984,\" Huxley's \"Brave New World,\" and Bradbury's \"Fahrenheit 451.\"",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            },
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            },
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            },
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            },
+            {
+              "doc_id": "e0d0eaca-aa98-46fb-ab70-0f03363ebcea_816797857"
+            },
+            {
+              "doc_id": "a2ca7791-1c7d-4c90-ac1b-aa7bac0b2942_144098081"
+            },
+            {
+              "doc_id": "8b0ef215-1d52-43a4-9ba0-15215b7f661c_150233956"
+            },
+            {
+              "doc_id": "c716d913-ebbc-4399-9c94-8573f1c137ec_526932315"
+            },
+            {
+              "doc_id": "ed522c2d-3c26-4c25-9162-0e48498f925d_110886793"
+            },
+            {
+              "doc_id": "313a3381-4790-45a2-8734-d595fd2ee46a_38674691"
+            },
+            {
+              "doc_id": "c09c243b-7c3c-45ac-9293-625d4352a868_256140477"
+            },
+            {
+              "doc_id": "230a7004-10c0-4d45-a399-b0f140e6a4cc_618708486"
+            },
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "1f7cf673-5fc9-4e0a-a5e9-5e2e25960e13_103800701"
+            },
+            {
+              "doc_id": "5ec6eede-455a-4325-a5fe-3b403a96cbf8_768801043"
+            },
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "01c44cda-9c26-4674-815e-de91cca921c4_209737677"
+            },
+            {
+              "doc_id": "59dc9720-ded9-454e-a56f-7a838f8dd257_40731959"
+            },
+            {
+              "doc_id": "e19083c9-2572-4d45-9236-8f524ddefe59_1062636466"
+            },
+            {
+              "doc_id": "774699db-8b63-4839-8211-2760098d90ac_1033840002"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

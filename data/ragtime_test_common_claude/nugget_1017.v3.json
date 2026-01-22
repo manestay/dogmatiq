@@ -1,0 +1,1090 @@
+{
+  "query_id": "1017",
+  "title_query": "1017",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Who directed Disney's 2022 live-action Pinocchio remake?": {
+      "question": "Who directed Disney's 2022 live-action Pinocchio remake?",
+      "answers": {
+        "Robert Zemeckis is creating a live-action Pinocchio for Disney+": {
+          "answer": "Robert Zemeckis is creating a live-action Pinocchio for Disney+",
+          "references": [
+            {
+              "doc_id": "b2d8e074-f3d6-4d22-ac03-e6a618389b55_63567010"
+            }
+          ]
+        },
+        "Robert Zemeckis": {
+          "answer": "Robert Zemeckis",
+          "references": [
+            {
+              "doc_id": "c25b12f3-f749-41ea-adf9-92494d06e91b_29302983"
+            },
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            },
+            {
+              "doc_id": "22630d71-6a6a-4e33-9d66-4fedc0ff1c1b_111905303"
+            },
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ]
+        },
+        "Robert Zemeckis directed the 2022 live-action Pinocchio adaptation": {
+          "answer": "Robert Zemeckis directed the 2022 live-action Pinocchio adaptation",
+          "references": [
+            {
+              "doc_id": "02f4666f-f648-452c-bff5-eccdf9240998_779138361"
+            }
+          ]
+        },
+        "Robert Zemeckis directed the live-action Pinocchio remake": {
+          "answer": "Robert Zemeckis directed the live-action Pinocchio remake",
+          "references": [
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_312984696"
+            }
+          ]
+        }
+      },
+      "question_id": "dbe724bf38a9421ecaf0dac93fbb6e3f",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which director is making Disney's upcoming live-action Pinocchio remake?",
+          "Who directed the live-action Pinocchio remake for Disney?",
+          "Who directed Disney's 2022 live-action Pinocchio remake?",
+          "Who directed the 2022 live-action Pinocchio remake?",
+          "Which director created an alternative Pinocchio adaptation in 2022?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b2d8e074-f3d6-4d22-ac03-e6a618389b55_63567010"
+            }
+          ],
+          [
+            {
+              "doc_id": "c25b12f3-f749-41ea-adf9-92494d06e91b_29302983"
+            }
+          ],
+          [
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            },
+            {
+              "doc_id": "02f4666f-f648-452c-bff5-eccdf9240998_779138361"
+            },
+            {
+              "doc_id": "22630d71-6a6a-4e33-9d66-4fedc0ff1c1b_111905303"
+            },
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_312984696"
+            }
+          ],
+          [
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ],
+          [
+            {
+              "doc_id": "1d1c5a72-eecb-4bd6-b758-09ed7e2b2029_870251546"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most informative and relevant to the user's request as it specifically asks about the director of Disney's 2022 live-action Pinocchio remake, which is one of the remakes mentioned in the report.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 8,
+        "num_answers": 4
+      }
+    },
+    "Who was cast as Ariel in Disney's live-action Little Mermaid?": {
+      "question": "Who was cast as Ariel in Disney's live-action Little Mermaid?",
+      "answers": {
+        "Halle Bailey, a 23-year-old Black actress": {
+          "answer": "Halle Bailey, a 23-year-old Black actress",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        },
+        "Halle Bailey": {
+          "answer": "Halle Bailey",
+          "references": [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "597e8387-d1c3-440e-86e9-f56d0dd63338_585484295"
+            }
+          ]
+        },
+        "Halle Bailey as Ariel in The Little Mermaid remake": {
+          "answer": "Halle Bailey as Ariel in The Little Mermaid remake",
+          "references": [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ]
+        }
+      },
+      "question_id": "8339c177faf15d45ccb4a318cd445ebe",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who was cast as Ariel in The Little Mermaid remake?",
+          "Who was cast as Ariel in Disney's live-action Little Mermaid?",
+          "Who was cast as Ariel in The Little Mermaid live-action remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ],
+          [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ],
+          [
+            {
+              "doc_id": "597e8387-d1c3-440e-86e9-f56d0dd63338_585484295"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected questions are nearly identical, so the choice of the canonical question is somewhat arbitrary, but one of them needs to be chosen as the most representative.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 4,
+        "num_answers": 3
+      }
+    },
+    "How much did the original animated Moana earn globally?": {
+      "question": "How much did the original animated Moana earn globally?",
+      "answers": {
+        "US$683 million worldwide": {
+          "answer": "US$683 million worldwide",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ]
+        },
+        "nearly $683 million worldwide at box offices": {
+          "answer": "nearly $683 million worldwide at box offices",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_66278383"
+            }
+          ]
+        },
+        "$683 million worldwide": {
+          "answer": "$683 million worldwide",
+          "references": [
+            {
+              "doc_id": "b4465530-3bca-4fc8-bc94-94f49d844c50_77964594"
+            }
+          ]
+        }
+      },
+      "question_id": "5e74136368527c4d63bff51069411a74",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How much did the original animated Moana earn globally?",
+          "How much did the original animated Moana film earn globally?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_66278383"
+            }
+          ],
+          [
+            {
+              "doc_id": "b4465530-3bca-4fc8-bc94-94f49d844c50_77964594"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is relevant to the user request, but both are identical in meaning, so either could be considered canonical.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What was the production budget for The Little Mermaid remake?": {
+      "question": "What was the production budget for The Little Mermaid remake?",
+      "answers": {
+        "$250 million": {
+          "answer": "$250 million",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        },
+        "$250 million production budget for The Little Mermaid remake": {
+          "answer": "$250 million production budget for The Little Mermaid remake",
+          "references": [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ]
+        },
+        "$250 million production budget for The Little Mermaid": {
+          "answer": "$250 million production budget for The Little Mermaid",
+          "references": [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        }
+      },
+      "question_id": "61dcbad1a74c9adcd96ae13a169fd80e",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What was the production budget for The Little Mermaid remake?",
+          "What was the production budget for Disney's The Little Mermaid live-action remake?",
+          "What was the production budget for Disney's The Little Mermaid remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ],
+          [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ],
+          [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks for the production budget of The Little Mermaid remake without redundant information.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which Disney live-action remakes are mentioned as successful examples?": {
+      "question": "Which Disney live-action remakes are mentioned as successful examples?",
+      "answers": {
+        "Beauty and the Beast, Aladdin, and Cinderella": {
+          "answer": "Beauty and the Beast, Aladdin, and Cinderella",
+          "references": [
+            {
+              "doc_id": "cad9dd55-5de3-4aa9-beae-4089248face7_806752063"
+            }
+          ]
+        },
+        "The Jungle Book (2016), Beauty and the Beast (2017), The Lion King (2019)": {
+          "answer": "The Jungle Book (2016), Beauty and the Beast (2017), The Lion King (2019)",
+          "references": [
+            {
+              "doc_id": "b0cdad92-634f-4d6e-b764-f694603e164e_943700962"
+            }
+          ]
+        },
+        "The Lion King and Aladdin": {
+          "answer": "The Lion King and Aladdin",
+          "references": [
+            {
+              "doc_id": "b2c206be-9a9c-4af5-814e-ef7dc03a58d5_1006080931"
+            }
+          ]
+        }
+      },
+      "question_id": "292262ea407c5d50ff89ae400e286110",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which Disney live-action remakes are mentioned as successful examples?",
+          "Which Disney live-action remakes were considered major successes?",
+          "Which successful Disney classics are mentioned as live-action remake examples?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cad9dd55-5de3-4aa9-beae-4089248face7_806752063"
+            }
+          ],
+          [
+            {
+              "doc_id": "b0cdad92-634f-4d6e-b764-f694603e164e_943700962"
+            }
+          ],
+          [
+            {
+              "doc_id": "b2c206be-9a9c-4af5-814e-ef7dc03a58d5_1006080931"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it directly inquires about successful examples of Disney live-action remakes, which is a key aspect of understanding the decision-making process and the role of nostalgia in driving financial profits.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which actor is reprising their role in the live-action Moana film?": {
+      "question": "Which actor is reprising their role in the live-action Moana film?",
+      "answers": {
+        "Dwayne Johnson will reprise his role as Maui": {
+          "answer": "Dwayne Johnson will reprise his role as Maui",
+          "references": [
+            {
+              "doc_id": "e26a2d38-6a10-47fe-b438-aa9c187eabd8_852949505"
+            }
+          ]
+        },
+        "Dwayne Johnson returns as Maui in live-action Moana": {
+          "answer": "Dwayne Johnson returns as Maui in live-action Moana",
+          "references": [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ]
+        },
+        "Dwayne Johnson reprising his role as Maui": {
+          "answer": "Dwayne Johnson reprising his role as Maui",
+          "references": [
+            {
+              "doc_id": "dc204bb6-7d35-4247-9a0f-e2c1f93dfbd9_499647154"
+            }
+          ]
+        }
+      },
+      "question_id": "222f8cb30c3d1a15bf6c9bdfb56f599e",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which original cast member is returning for the Moana remake?",
+          "Which actor is confirmed to reprise their role in Disney's live-action Moana?",
+          "Which actor is reprising their role in the live-action Moana film?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e26a2d38-6a10-47fe-b438-aa9c187eabd8_852949505"
+            }
+          ],
+          [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ],
+          [
+            {
+              "doc_id": "dc204bb6-7d35-4247-9a0f-e2c1f93dfbd9_499647154"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the actor reprising their role in the live-action Moana film, making it the most representative of the set.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "Which actor plays Geppetto in Disney's 2022 Pinocchio remake?": {
+      "question": "Which actor plays Geppetto in Disney's 2022 Pinocchio remake?",
+      "answers": {
+        "Tom Hanks": {
+          "answer": "Tom Hanks",
+          "references": [
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            }
+          ]
+        },
+        "Tom Hanks portrays Geppetto in the 2022 adaptation": {
+          "answer": "Tom Hanks portrays Geppetto in the 2022 adaptation",
+          "references": [
+            {
+              "doc_id": "02f4666f-f648-452c-bff5-eccdf9240998_779138361"
+            }
+          ]
+        },
+        "Tom Hanks played Geppetto the carpenter": {
+          "answer": "Tom Hanks played Geppetto the carpenter",
+          "references": [
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_312984696"
+            }
+          ]
+        }
+      },
+      "question_id": "992f0973932232cd9f0c66f1fff74a52",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Which actor starred as Geppetto in Disney's Pinocchio (2022)?",
+          "Which actor plays Geppetto in Disney's 2022 Pinocchio remake?",
+          "Which actor played Geppetto in Disney's 2022 Pinocchio?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            }
+          ],
+          [
+            {
+              "doc_id": "02f4666f-f648-452c-bff5-eccdf9240998_779138361"
+            }
+          ],
+          [
+            {
+              "doc_id": "575a1243-3c37-4fc9-9332-a8f5fdaf66ee_312984696"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most grammatically correct and clear version of the three paraphrased questions.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "When is Disney's live-action The Little Mermaid remake scheduled to debut?": {
+      "question": "When is Disney's live-action The Little Mermaid remake scheduled to debut?",
+      "answers": {
+        "The Little Mermaid with Halle Bailey scheduled May 26, 2023": {
+          "answer": "The Little Mermaid with Halle Bailey scheduled May 26, 2023",
+          "references": [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        },
+        "May 26, 2023": {
+          "answer": "May 26, 2023",
+          "references": [
+            {
+              "doc_id": "146a78eb-a71e-44dd-be3d-ca1c1df530fc_987150210"
+            },
+            {
+              "doc_id": "40a41541-e16a-4ec2-8f33-000537942ae0_204877977"
+            }
+          ]
+        }
+      },
+      "question_id": "47043064380b82a9e7c01cd4cb22c250",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "When was The Little Mermaid live-action remake scheduled for release?",
+          "When is The Little Mermaid live-action remake scheduled for release?",
+          "When is Disney's live-action The Little Mermaid remake scheduled to debut?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ],
+          [
+            {
+              "doc_id": "146a78eb-a71e-44dd-be3d-ca1c1df530fc_987150210"
+            }
+          ],
+          [
+            {
+              "doc_id": "40a41541-e16a-4ec2-8f33-000537942ae0_204877977"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most polished and formal, making it the most representative of the user's request for a professional report on live-action remakes.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "Who are the lead actresses in Disney's Snow White remake?": {
+      "question": "Who are the lead actresses in Disney's Snow White remake?",
+      "answers": {
+        "Rachel Zegler and Gal Gadot starring in Snow White": {
+          "answer": "Rachel Zegler and Gal Gadot starring in Snow White",
+          "references": [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        },
+        "Rachel Zegler and Gal Gadot": {
+          "answer": "Rachel Zegler and Gal Gadot",
+          "references": [
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ]
+        }
+      },
+      "question_id": "2b00f880a7b87faa1589e34abb138851",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who are the lead actresses in Disney's Snow White remake?",
+          "Who are the lead actresses in Snow White remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            }
+          ],
+          [
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question is selected based on its broader relevance to the topic of Disney live action remakes, as it implicitly includes Disney in the query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "Who directed Disney's live-action adaptation of The Little Mermaid?": {
+      "question": "Who directed Disney's live-action adaptation of The Little Mermaid?",
+      "answers": {
+        "Rob Marshall": {
+          "answer": "Rob Marshall",
+          "references": [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "9837c1b2-5ca2-4cfc-9285-487433e6bd64_690667611"
+            }
+          ]
+        },
+        "Rob Marshall directed The Little Mermaid live-action remake": {
+          "answer": "Rob Marshall directed The Little Mermaid live-action remake",
+          "references": [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ]
+        }
+      },
+      "question_id": "f1180210345b00ad967e77dbaca45bcb",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who directed The Little Mermaid live-action remake?",
+          "Who directed Disney's live-action adaptation of The Little Mermaid?",
+          "Who is directing The Little Mermaid live-action remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ],
+          [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ],
+          [
+            {
+              "doc_id": "9837c1b2-5ca2-4cfc-9285-487433e6bd64_690667611"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the set as it is grammatically correct and in the present tense, implying the director is currently working on the project, making it the most informative choice.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "How does Pinocchio (2022) leverage nostalgia for audiences?": {
+      "question": "How does Pinocchio (2022) leverage nostalgia for audiences?",
+      "answers": {
+        "Disney references through wooden cuckoo clocks from various films": {
+          "answer": "Disney references through wooden cuckoo clocks from various films",
+          "references": [
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            }
+          ]
+        },
+        "includes classic song When You Wish Upon The Star": {
+          "answer": "includes classic song When You Wish Upon The Star",
+          "references": [
+            {
+              "doc_id": "a46ff8d5-65d2-4767-bbbd-744e15e266f1_655286817"
+            }
+          ]
+        }
+      },
+      "question_id": "92bf7d5cb241a66bf7dda5b520ee522b",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How does Pinocchio (2022) incorporate nostalgia into its storytelling?",
+          "How does Pinocchio (2022) leverage nostalgia for audiences?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0d9ebf99-8003-4a64-9781-cf2fbb8f713e_160878830"
+            }
+          ],
+          [
+            {
+              "doc_id": "a46ff8d5-65d2-4767-bbbd-744e15e266f1_655286817"
+            }
+          ]
+        ],
+        "canonical_explanation": "The second question is more representative because it directly addresses how nostalgia is utilized for the audience, which is a key aspect of the user's request regarding the role of nostalgia in driving Disney's decisions.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How much did Disney's The Little Mermaid remake earn during its opening weekend?": {
+      "question": "How much did Disney's The Little Mermaid remake earn during its opening weekend?",
+      "answers": {
+        "$120 million to $130 million over Memorial Day weekend": {
+          "answer": "$120 million to $130 million over Memorial Day weekend",
+          "references": [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ]
+        },
+        "The Little Mermaid earned $125 million over Memorial Day weekend": {
+          "answer": "The Little Mermaid earned $125 million over Memorial Day weekend",
+          "references": [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        }
+      },
+      "question_id": "966626bedb80156c0d54b8cb8e8d18b4",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How much did The Little Mermaid remake earn during its opening weekend?",
+          "How much did Disney's The Little Mermaid remake earn during its opening weekend?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            }
+          ],
+          [
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical and address a very specific aspect of a single remake, with the second question being slightly more detailed by specifying the studio, making it a more complete and representative query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How much did the original How to Train Your Dragon trilogy earn?": {
+      "question": "How much did the original How to Train Your Dragon trilogy earn?",
+      "answers": {
+        "$1.6 billion worldwide at the box office": {
+          "answer": "$1.6 billion worldwide at the box office",
+          "references": [
+            {
+              "doc_id": "cad9dd55-5de3-4aa9-beae-4089248face7_806752063"
+            }
+          ]
+        },
+        "$1.6 billion worldwide across three films": {
+          "answer": "$1.6 billion worldwide across three films",
+          "references": [
+            {
+              "doc_id": "10c92252-c26e-48b2-a603-400f470a6a78_382786371"
+            }
+          ]
+        }
+      },
+      "question_id": "75e91d1bda23ea92f287cab8b6b556f2",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "How much did the original How to Train Your Dragon trilogy earn?",
+          "How much did the original How To Train Your Dragon trilogy earn?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cad9dd55-5de3-4aa9-beae-4089248face7_806752063"
+            }
+          ],
+          [
+            {
+              "doc_id": "10c92252-c26e-48b2-a603-400f470a6a78_382786371"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is relevant to the user request, but since both questions are identical, it doesn't matter which one is chosen.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What drives Disney's decision to produce live-action remakes of animated classics?": {
+      "question": "What drives Disney's decision to produce live-action remakes of animated classics?",
+      "answers": {
+        "success of previous remakes motivates Disney to continue adaptations": {
+          "answer": "success of previous remakes motivates Disney to continue adaptations",
+          "references": [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ]
+        },
+        "ensure financial success without risking capital on new projects": {
+          "answer": "ensure financial success without risking capital on new projects",
+          "references": [
+            {
+              "doc_id": "4f066135-2b16-40d4-b7e2-53d7b2c13378_369931830"
+            }
+          ]
+        }
+      },
+      "question_id": "b14041a76f024271fec3217db331cf69",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What drives Disney's decision to produce live-action remakes of animated classics?",
+          "Why does Disney rely on live-action remake strategy?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            }
+          ],
+          [
+            {
+              "doc_id": "4f066135-2b16-40d4-b7e2-53d7b2c13378_369931830"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question directly addresses the motivation behind Disney's production of live-action remakes, which is central to understanding the decision-making process and the role of nostalgia in driving financial profits.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What is the current status of the Moana live-action project?": {
+      "question": "What is the current status of the Moana live-action project?",
+      "answers": {
+        "early development stages": {
+          "answer": "early development stages",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ]
+        },
+        "currently in early development stages": {
+          "answer": "currently in early development stages",
+          "references": [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ]
+        }
+      },
+      "question_id": "bf9fde210d6eddfbd23490030059c5a4",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What is the current status of the Moana live-action project?",
+          "What is the current production status of live-action Moana?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ],
+          [
+            {
+              "doc_id": "34c40d72-6203-4998-bde5-a522bfbf2a18_648283296"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions provided are nearly identical and focus on the status of the Moana live-action project, making either a suitable choice, but for the sake of selection, the first one is chosen for its slightly broader wording.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What new Disney live-action remake was recently announced?": {
+      "question": "What new Disney live-action remake was recently announced?",
+      "answers": {
+        "Moana live-action adaptation announced by Dwayne Johnson": {
+          "answer": "Moana live-action adaptation announced by Dwayne Johnson",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ]
+        },
+        "Walt Disney Co is developing a live-action Moana adaptation": {
+          "answer": "Walt Disney Co is developing a live-action Moana adaptation",
+          "references": [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_66278383"
+            }
+          ]
+        }
+      },
+      "question_id": "9cc7c61e1809eb3045697b444dd9e7aa",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What new Disney live-action remake was recently announced?",
+          "What new live-action Disney remake was recently announced?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            }
+          ],
+          [
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_66278383"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions are nearly identical and do not address the user's request, but one must be chosen, so the first occurrence is selected by default.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What public reaction did Halle Bailey's casting generate?": {
+      "question": "What public reaction did Halle Bailey's casting generate?",
+      "answers": {
+        "initial backlash due to race change from original": {
+          "answer": "initial backlash due to race change from original",
+          "references": [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ]
+        },
+        "controversy and racist backlash from some critics": {
+          "answer": "controversy and racist backlash from some critics",
+          "references": [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        }
+      },
+      "question_id": "1e91eb0041831300fb9ec56cb217f7a5",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "What was the public reaction to Halle Bailey's casting?",
+          "What public reaction did Halle Bailey's casting generate?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            }
+          ],
+          [
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            }
+          ]
+        ],
+        "canonical_explanation": "The two questions are nearly identical, but question 2 is slightly more concise and directly asks about the public reaction generated by Halle Bailey's casting.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "When will Disney's live-action Snow White remake be released?": {
+      "question": "When will Disney's live-action Snow White remake be released?",
+      "answers": {
+        "March 2024": {
+          "answer": "March 2024",
+          "references": [
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ]
+        },
+        "March 22, 2024": {
+          "answer": "March 22, 2024",
+          "references": [
+            {
+              "doc_id": "8138d416-ceaa-43d3-a92d-7ad903317f2b_769285838"
+            }
+          ]
+        }
+      },
+      "question_id": "5dc40a53b9aaeba13529fa24bc73b5e9",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "When will Disney's live-action Snow White remake be released?",
+          "When is Disney's Snow White remake scheduled to premiere?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "98f59345-0351-4d65-bfc7-7acbaa6eca63_131994914"
+            }
+          ],
+          [
+            {
+              "doc_id": "8138d416-ceaa-43d3-a92d-7ad903317f2b_769285838"
+            }
+          ]
+        ],
+        "canonical_explanation": "Neither question is representative of the user request, but both questions are near-paraphrases of each other, making either a suitable choice based on the provided options.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Who are the main cast members in Disney's Pinocchio remake?": {
+      "question": "Who are the main cast members in Disney's Pinocchio remake?",
+      "answers": {
+        "Tom Hanks as Geppetto, Benjamin Evan Ainsworth as Pinocchio": {
+          "answer": "Tom Hanks as Geppetto, Benjamin Evan Ainsworth as Pinocchio",
+          "references": [
+            {
+              "doc_id": "c25b12f3-f749-41ea-adf9-92494d06e91b_29302983"
+            }
+          ]
+        },
+        "Tom Hanks, Cynthia Erivo, and Luke Evans": {
+          "answer": "Tom Hanks, Cynthia Erivo, and Luke Evans",
+          "references": [
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ]
+        }
+      },
+      "question_id": "e0245b1cbf006edc79c376b3ef136480",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who are the main cast members in Disney's Pinocchio remake?",
+          "Who starred in the main roles of Disney's Pinocchio remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c25b12f3-f749-41ea-adf9-92494d06e91b_29302983"
+            }
+          ],
+          [
+            {
+              "doc_id": "1c9073c4-5036-4194-8c19-070797d69f76_689057921"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions are nearly identical and ask about the same information, but question 1 is slightly more formal and polished, making it a better representative of the inquiry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Who directs the Peter Pan & Wendy live-action remake?": {
+      "question": "Who directs the Peter Pan & Wendy live-action remake?",
+      "answers": {
+        "David Lowery": {
+          "answer": "David Lowery",
+          "references": [
+            {
+              "doc_id": "b6f37f43-db4b-4ec1-979e-79dc640021ee_932228249"
+            }
+          ]
+        },
+        "David Lowry directed Peter Pan and Wendy remake": {
+          "answer": "David Lowry directed Peter Pan and Wendy remake",
+          "references": [
+            {
+              "doc_id": "969adcf0-04bc-416c-9dfc-ca191b310654_272702744"
+            }
+          ]
+        }
+      },
+      "question_id": "73376fbb709888cfaddebf83f551611d",
+      "aggregator_type": "OR",
+      "query_id": "1017",
+      "metadata": {
+        "paraphrases": [
+          "Who directs the Peter Pan & Wendy live-action remake?",
+          "Who directed the live-action Peter Pan and Wendy remake?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b6f37f43-db4b-4ec1-979e-79dc640021ee_932228249"
+            }
+          ],
+          [
+            {
+              "doc_id": "969adcf0-04bc-416c-9dfc-ca191b310654_272702744"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions are nearly identical and differ only in wording, so either can be considered canonical, but the first one is selected due to its slightly more formal tone.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    }
+  }
+}

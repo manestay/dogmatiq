@@ -1,0 +1,740 @@
+{
+  "query_id": "1029",
+  "title_query": "1029",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What information does this document provide about science fiction evolution?": {
+      "question": "What information does this document provide about science fiction evolution?",
+      "answers": {
+        "This document does not contain information about science fiction literature": {
+          "answer": "This document does not contain information about science fiction literature",
+          "references": [
+            {
+              "doc_id": "71ed6322-2003-4455-93e2-0155952d3a8d_72616968"
+            }
+          ]
+        },
+        "The document does not contain science fiction information": {
+          "answer": "The document does not contain science fiction information",
+          "references": [
+            {
+              "doc_id": "1ca9db01-06ec-4e5c-8837-889abfc1d707_218889049"
+            }
+          ]
+        }
+      },
+      "question_id": "accc75f5145503c5c7b0d8a79a4991ea",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Does this document contain information about science fiction literature evolution?",
+          "Does this document contain information about science fiction genre evolution?",
+          "What information does this document provide about science fiction evolution?",
+          "Does this document provide information about science fiction evolution?",
+          "Does this document contain information about science fiction evolution?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "541c0d78-639e-482d-9678-35d3e1485349_397410552"
+            },
+            {
+              "doc_id": "25bcdcfd-f6b2-4a35-814f-bac14f2f198f_737699243"
+            },
+            {
+              "doc_id": "8250f2d7-7ca1-4362-bae1-125f4e20025e_45075721"
+            },
+            {
+              "doc_id": "cc051c4e-a795-4426-96ff-f94cd46c4690_191479773"
+            },
+            {
+              "doc_id": "e41d0366-6ef3-416b-8143-67a85811b158_469048014"
+            },
+            {
+              "doc_id": "7be53fa8-e963-49f3-8573-297a1e47cc6a_361460386"
+            },
+            {
+              "doc_id": "7e848bea-0d77-4ad9-9941-2770affb7650_238485189"
+            },
+            {
+              "doc_id": "f666a9a4-5cb6-4ec6-834e-1f88f1186090_227360567"
+            }
+          ],
+          [
+            {
+              "doc_id": "c852df8a-8c21-40d7-800c-0a7672169ad8_1058136259"
+            },
+            {
+              "doc_id": "008c4763-6eab-431b-83b6-7a6fe6b4d0ce_831221379"
+            }
+          ],
+          [
+            {
+              "doc_id": "71ed6322-2003-4455-93e2-0155952d3a8d_72616968"
+            }
+          ],
+          [
+            {
+              "doc_id": "1ca9db01-06ec-4e5c-8837-889abfc1d707_218889049"
+            }
+          ],
+          [
+            {
+              "doc_id": "d46fc4fb-cc65-4f39-aa46-32c9e79f882f_64504902"
+            },
+            {
+              "doc_id": "fd3cffd4-e1c0-49e9-af0e-b2a04d515360_710795022"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_714413878"
+            },
+            {
+              "doc_id": "b8eb91ba-0306-4963-be58-b2755e0c82e4_780021748"
+            },
+            {
+              "doc_id": "6745280d-bcc2-4453-8408-3b76b4b30104_246366632"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it directly inquires about the information provided by the document regarding science fiction evolution, implying a desire for detailed content.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 17,
+        "num_answers": 2
+      }
+    },
+    "How is Turkish television drama currently developing in terms of genre?": {
+      "question": "How is Turkish television drama currently developing in terms of genre?",
+      "answers": {
+        "Turkish drama is evolving toward science fiction genre": {
+          "answer": "Turkish drama is evolving toward science fiction genre",
+          "references": [
+            {
+              "doc_id": "fd5a6809-317e-49a3-8641-9fb080214c17_94673711"
+            }
+          ]
+        },
+        "from social and romantic to historical to science fiction": {
+          "answer": "from social and romantic to historical to science fiction",
+          "references": [
+            {
+              "doc_id": "fd5a6809-317e-49a3-8641-9fb080214c17_94673711"
+            }
+          ]
+        }
+      },
+      "question_id": "0455d320e17bcd1b8ccc2a8d15457355",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How is Turkish television drama currently developing in terms of genre?",
+          "How has Turkish drama evolved in terms of genre progression?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fd5a6809-317e-49a3-8641-9fb080214c17_94673711"
+            }
+          ],
+          [
+            {
+              "doc_id": "fd5a6809-317e-49a3-8641-9fb080214c17_94673711"
+            }
+          ]
+        ],
+        "canonical_explanation": "The provided questions do not address the user's request about the evolution of the science fiction genre in literature, making it impossible to select a relevant canonical question.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What language and topic does this document cover?": {
+      "question": "What language and topic does this document cover?",
+      "answers": {
+        "This document is in Arabic about literary criticism": {
+          "answer": "This document is in Arabic about literary criticism",
+          "references": [
+            {
+              "doc_id": "0af926f6-bf16-429b-a85e-712d7cb81e2b_966096923"
+            }
+          ]
+        },
+        "This document is in Arabic and discusses literary criticism theory": {
+          "answer": "This document is in Arabic and discusses literary criticism theory",
+          "references": [
+            {
+              "doc_id": "bf1c57d2-3c5c-4acb-8669-68ccfbf58a91_969846809"
+            }
+          ]
+        }
+      },
+      "question_id": "dcd02993a79c04dd13bddb7c10f4db82",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What language and topic does this document cover?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0af926f6-bf16-429b-a85e-712d7cb81e2b_966096923"
+            },
+            {
+              "doc_id": "bf1c57d2-3c5c-4acb-8669-68ccfbf58a91_969846809"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How are contemporary science fiction writers expanding the genre?": {
+      "question": "How are contemporary science fiction writers expanding the genre?",
+      "answers": {
+        "mixing genres to create innovative narratives": {
+          "answer": "mixing genres to create innovative narratives",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "6821b01e8a08a169a23554fa121b4547",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How are contemporary science fiction writers expanding the genre?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which diverse authors are creating innovative science fiction works?": {
+      "question": "Which diverse authors are creating innovative science fiction works?",
+      "answers": {
+        "Nnedi Okorafor, Yoon Ha Lee, Karen Russell, Mahmud El Sayed": {
+          "answer": "Nnedi Okorafor, Yoon Ha Lee, Karen Russell, Mahmud El Sayed",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "46027864773c50e54887788e37af916a",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Which diverse authors are creating innovative science fiction works?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What genres does Nnedi Okorafor blend in Remote Control?": {
+      "question": "What genres does Nnedi Okorafor blend in Remote Control?",
+      "answers": {
+        "African futurism with fantasy-horror elements": {
+          "answer": "African futurism with fantasy-horror elements",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "0fbbe2852f5fc03729ffc7044c5871a1",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What genres does Nnedi Okorafor blend in Remote Control?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How do trailblazing science fiction writers reshape the genre?": {
+      "question": "How do trailblazing science fiction writers reshape the genre?",
+      "answers": {
+        "challenge conventional boundaries and defy easy classification": {
+          "answer": "challenge conventional boundaries and defy easy classification",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "f45b39e982ac89aa2b4ea72a5eb9ad1a",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How do trailblazing science fiction writers reshape the genre?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What formats feature genre-bending science fiction works?": {
+      "question": "What formats feature genre-bending science fiction works?",
+      "answers": {
+        "novels, novellas, and short stories": {
+          "answer": "novels, novellas, and short stories",
+          "references": [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        }
+      },
+      "question_id": "79a17b5d0824f7441cda81d1122c9afc",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What formats feature genre-bending science fiction works?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b189e16e-b1b0-4531-898b-22bc44ca457e_717111571"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What recent recognition did Chinese science fiction writer Wang Jinkang receive?": {
+      "question": "What recent recognition did Chinese science fiction writer Wang Jinkang receive?",
+      "answers": {
+        "Wang Jinkang received 2024 Hugo Award nomination": {
+          "answer": "Wang Jinkang received 2024 Hugo Award nomination",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "2ded192270e2f0b0946a145eda422bd9",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What recent recognition did Chinese science fiction writer Wang Jinkang receive?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What does Wang Jinkang observe about China's role in science fiction?": {
+      "question": "What does Wang Jinkang observe about China's role in science fiction?",
+      "answers": {
+        "China's growing prominence in science fiction genre": {
+          "answer": "China's growing prominence in science fiction genre",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "c439f8ebe0c2e23442f12eb86eefa196",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What does Wang Jinkang observe about China's role in science fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How is Wang Jinkang regarded in Chinese science fiction?": {
+      "question": "How is Wang Jinkang regarded in Chinese science fiction?",
+      "answers": {
+        "one of Chinese science fiction's Four Heavenly Kings": {
+          "answer": "one of Chinese science fiction's Four Heavenly Kings",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "654eb3f41c048ec0db390211fe58f1ed",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How is Wang Jinkang regarded in Chinese science fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How prolific has Wang Jinkang been as a science fiction writer?": {
+      "question": "How prolific has Wang Jinkang been as a science fiction writer?",
+      "answers": {
+        "over 90 short works and 20 novels since 1993": {
+          "answer": "over 90 short works and 20 novels since 1993",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "eca2fc73d643aed9689ba7fb25418a2a",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How prolific has Wang Jinkang been as a science fiction writer?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What thematic concern does Wang Jinkang explore in his work?": {
+      "question": "What thematic concern does Wang Jinkang explore in his work?",
+      "answers": {
+        "natural tension between science and religion as historically inevitable": {
+          "answer": "natural tension between science and religion as historically inevitable",
+          "references": [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        }
+      },
+      "question_id": "badfe1bb0b81413fb0755bf435696500",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What thematic concern does Wang Jinkang explore in his work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ac3a1030-35ca-4592-9ac0-7de59165a212_979870341"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are the historical roots of Arabic science fiction literature?": {
+      "question": "What are the historical roots of Arabic science fiction literature?",
+      "answers": {
+        "Ibn Sina, Ibn Tufail, and Ibn al-Nafis philosophical treatises": {
+          "answer": "Ibn Sina, Ibn Tufail, and Ibn al-Nafis philosophical treatises",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "d3e8ad3b8becb7a277f771884c11d9aa",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What are the historical roots of Arabic science fiction literature?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which authors contributed to Arabic science fiction development?": {
+      "question": "Which authors contributed to Arabic science fiction development?",
+      "answers": {
+        "Nehad Sharif and Tawfiq al-Hakim in Egypt": {
+          "answer": "Nehad Sharif and Tawfiq al-Hakim in Egypt",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "cbd8f60535b5d9e1664b0134b6d5bfc7",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Which authors contributed to Arabic science fiction development?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are the main subgenres of science fiction discussed?": {
+      "question": "What are the main subgenres of science fiction discussed?",
+      "answers": {
+        "utopian and dystopian literature branches": {
+          "answer": "utopian and dystopian literature branches",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "f3a16931a1925b9836d6a5c00f9134fc",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What are the main subgenres of science fiction discussed?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which Western dystopian novel is mentioned as an example?": {
+      "question": "Which Western dystopian novel is mentioned as an example?",
+      "answers": {
+        "George Orwell's 1984": {
+          "answer": "George Orwell's 1984",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "0d5e0abd2d1054d6eb5b9f18c6e240ce",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "Which Western dystopian novel is mentioned as an example?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What contemporary Arabic science fiction work is highlighted?": {
+      "question": "What contemporary Arabic science fiction work is highlighted?",
+      "answers": {
+        "Frankenstein in Baghdad by Ahmed Saadawi": {
+          "answer": "Frankenstein in Baghdad by Ahmed Saadawi",
+          "references": [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        }
+      },
+      "question_id": "3b1cfc36c4543e7ad42f75307c9525e4",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What contemporary Arabic science fiction work is highlighted?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "764901a5-ae9e-4bb0-be99-00e9fcaa1a8b_389925305"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has speculative fiction evolved according to Rob Cameron?": {
+      "question": "How has speculative fiction evolved according to Rob Cameron?",
+      "answers": {
+        "from niche enthusiasm to mainstream entertainment through Marvel films": {
+          "answer": "from niche enthusiasm to mainstream entertainment through Marvel films",
+          "references": [
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            }
+          ]
+        }
+      },
+      "question_id": "7aefe667d18991f34630fa15a4bb41b1",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "How has speculative fiction evolved according to Rob Cameron?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What does K.M. Szpara predict for the future of speculative fiction?": {
+      "question": "What does K.M. Szpara predict for the future of speculative fiction?",
+      "answers": {
+        "increasingly interdisciplinary": {
+          "answer": "increasingly interdisciplinary",
+          "references": [
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            }
+          ]
+        }
+      },
+      "question_id": "d175fd62038d0f61f11d323f66e0d115",
+      "aggregator_type": "OR",
+      "query_id": "1029",
+      "metadata": {
+        "paraphrases": [
+          "What does K.M. Szpara predict for the future of speculative fiction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "dc3c3b72-0d32-4b24-827d-e46b2f82f7cd_304953587"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

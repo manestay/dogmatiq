@@ -1,0 +1,1205 @@
+{
+  "query_id": "1065",
+  "title_query": "1065",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What information about Labubu is provided in this document?": {
+      "question": "What information about Labubu is provided in this document?",
+      "answers": {
+        "Document does not contain information about Labubu": {
+          "answer": "Document does not contain information about Labubu",
+          "references": [
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "dee4737a-0c59-4e47-b025-e18c6f1cf0bb_807005897"
+            },
+            {
+              "doc_id": "a4dc4bd5-f952-484a-bd42-722e0b8ab10a_988873552"
+            }
+          ]
+        },
+        "This document does not contain information about Labubu": {
+          "answer": "This document does not contain information about Labubu",
+          "references": [
+            {
+              "doc_id": "2988d195-f98a-4616-a8bb-dda5d252e1dc_76173656"
+            },
+            {
+              "doc_id": "108e3a67-50fe-44b2-bf1e-ac462c4b26eb_314925387"
+            },
+            {
+              "doc_id": "9562aa08-9891-466e-847e-488caf872762_24587864"
+            }
+          ]
+        },
+        "Document does not contain information about Labubu phenomenon": {
+          "answer": "Document does not contain information about Labubu phenomenon",
+          "references": [
+            {
+              "doc_id": "2515cea8-658d-44f3-bcd1-6def0802a9d7_837962220"
+            },
+            {
+              "doc_id": "b60bcb7c-678b-435c-a0c1-0aed79d2dcfc_296244988"
+            },
+            {
+              "doc_id": "fe6efba8-d76b-4c0d-813c-e74d67e9c9cf_10932204"
+            }
+          ]
+        },
+        "The document does not contain information about Labubu": {
+          "answer": "The document does not contain information about Labubu",
+          "references": [
+            {
+              "doc_id": "10a10a15-0f59-4895-af1f-a79e2f1ba42f_793938577"
+            }
+          ]
+        }
+      },
+      "question_id": "7cdd3fc203c1b584a60a06d31e729839",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What information about Labubu is provided in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1b545c96-5147-482a-808b-8f2f49275eed_844623664"
+            },
+            {
+              "doc_id": "33a891c9-67d4-4583-9bb6-e70b4a565394_320905300"
+            },
+            {
+              "doc_id": "5360068d-f0c2-4c44-a8ae-06ab47ed4b43_384567115"
+            },
+            {
+              "doc_id": "99d2beb0-db8b-47da-8c74-da789dfb68be_658425012"
+            },
+            {
+              "doc_id": "77b3875e-a248-487d-af5d-e6807103a823_950398559"
+            },
+            {
+              "doc_id": "65a658dc-9659-41f9-9be1-a7a4090f111d_47244040"
+            },
+            {
+              "doc_id": "1f1f4a39-5f25-4950-8fdd-ec594cd2621c_181501498"
+            },
+            {
+              "doc_id": "e40e23c7-cd07-4822-a491-32080653cbc2_343955773"
+            },
+            {
+              "doc_id": "f014299c-ff43-44a4-87f9-e626503344a4_223448509"
+            },
+            {
+              "doc_id": "beacf371-0373-4fa5-9630-14e6506be559_138630721"
+            },
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_837049646"
+            },
+            {
+              "doc_id": "2988d195-f98a-4616-a8bb-dda5d252e1dc_76173656"
+            },
+            {
+              "doc_id": "bef92ce4-8f72-451a-8226-77a51b6c4231_933168017"
+            },
+            {
+              "doc_id": "ce7fd517-c24d-441e-bde9-c02d9b53114d_714528"
+            },
+            {
+              "doc_id": "dcb987d1-237b-4172-9442-32368d7c07ad_607844909"
+            },
+            {
+              "doc_id": "108e3a67-50fe-44b2-bf1e-ac462c4b26eb_314925387"
+            },
+            {
+              "doc_id": "7ea9cf6d-4cb4-4b55-b124-b6929992aab9_516054692"
+            },
+            {
+              "doc_id": "81477004-eda6-4d22-b054-635d4b574537_136066580"
+            },
+            {
+              "doc_id": "b0efb5da-70b2-472b-8bae-85b577c24597_933149437"
+            },
+            {
+              "doc_id": "d00f8bf5-708d-441f-b507-385da10ad59e_123019268"
+            },
+            {
+              "doc_id": "2515cea8-658d-44f3-bcd1-6def0802a9d7_837962220"
+            },
+            {
+              "doc_id": "05110d2f-ff35-4ea4-8d8b-c7a6868eede9_521632235"
+            },
+            {
+              "doc_id": "7ea9cf6d-4cb4-4b55-b124-b6929992aab9_265742610"
+            },
+            {
+              "doc_id": "b60bcb7c-678b-435c-a0c1-0aed79d2dcfc_296244988"
+            },
+            {
+              "doc_id": "cf594e78-45cb-42da-b003-cc3e7ea49e39_16654188"
+            },
+            {
+              "doc_id": "fdc808cb-cb13-4a5f-ad1d-e682b6e262b0_384990137"
+            },
+            {
+              "doc_id": "9562aa08-9891-466e-847e-488caf872762_24587864"
+            },
+            {
+              "doc_id": "dee4737a-0c59-4e47-b025-e18c6f1cf0bb_807005897"
+            },
+            {
+              "doc_id": "10a10a15-0f59-4895-af1f-a79e2f1ba42f_793938577"
+            },
+            {
+              "doc_id": "294993e3-e111-4de8-a6fd-a76542d57f11_95960428"
+            },
+            {
+              "doc_id": "a4dc4bd5-f952-484a-bd42-722e0b8ab10a_988873552"
+            },
+            {
+              "doc_id": "b336317d-2aed-4f4c-a7ca-d7454767ae3e_891949965"
+            },
+            {
+              "doc_id": "d8ea5b0a-2e13-4a9b-adb8-61c7cab7d703_861463449"
+            },
+            {
+              "doc_id": "1a1b9fcc-4300-48ca-9dc8-146a2058b715_510431276"
+            },
+            {
+              "doc_id": "765f6998-50e6-42d0-b3c8-ed3d39896f44_497463479"
+            },
+            {
+              "doc_id": "a1b7f3ad-deee-4e59-90b7-fc035a010fc9_474712485"
+            },
+            {
+              "doc_id": "fe6efba8-d76b-4c0d-813c-e74d67e9c9cf_10932204"
+            },
+            {
+              "doc_id": "5fec9202-8ca9-4206-a463-1e7f463f664b_347157121"
+            },
+            {
+              "doc_id": "74a922d9-874b-42ff-8155-7dd3908ea75e_886273516"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 39,
+        "num_answers": 4
+      }
+    },
+    "Does this document explain the Labubu phenomenon parents are asking about?": {
+      "question": "Does this document explain the Labubu phenomenon parents are asking about?",
+      "answers": {
+        "document does not mention Labubu or Pop Mart": {
+          "answer": "document does not mention Labubu or Pop Mart",
+          "references": [
+            {
+              "doc_id": "fdf06077-575f-4622-85b1-149f46ac8871_287150392"
+            }
+          ]
+        }
+      },
+      "question_id": "d695dafda05272820eefaf7493ffa333",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Does this document contain information about the Labubu phenomenon?",
+          "Does this document contain information about Labubu phenomenon?",
+          "What does this document reveal about the Labubu phenomenon?",
+          "What information about Labubu phenomenon does this document provide?",
+          "Does this document explain the Labubu phenomenon parents are asking about?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1b5b4491-62ca-4f1d-8a81-27b8e44523e2_806990489"
+            },
+            {
+              "doc_id": "151f3688-882b-4c8a-8195-f7bb6ba13d3b_70087447"
+            },
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "cfd19590-fe1c-4f8c-9508-d0e24a581cba_724715541"
+            },
+            {
+              "doc_id": "bfcc42ed-004c-474a-ba36-64c36f6bc413_470166732"
+            },
+            {
+              "doc_id": "ca56bee7-af19-4df7-a74a-6e351bafcc15_646994213"
+            }
+          ],
+          [
+            {
+              "doc_id": "f8122819-7f94-4b55-86f1-db6e58439897_347006642"
+            },
+            {
+              "doc_id": "9c84e191-48be-41f5-8cb5-9eedf563dcd3_382751728"
+            },
+            {
+              "doc_id": "7a253d49-76af-44eb-bb4d-c91feeaf11d6_436803391"
+            },
+            {
+              "doc_id": "5354f963-0b0b-486a-b849-1b7f101c7f9d_805771168"
+            },
+            {
+              "doc_id": "7461960e-5186-46e0-a0b2-b3f11ee93995_135684361"
+            },
+            {
+              "doc_id": "ce3dc291-5bd1-4775-9267-3df8e4d5d36e_744248996"
+            },
+            {
+              "doc_id": "ea983e9a-f2a9-4375-802a-9c0fb98ca134_419289594"
+            }
+          ],
+          [
+            {
+              "doc_id": "b51c5629-4cd6-4e05-8289-2040fe52dddd_104255399"
+            },
+            {
+              "doc_id": "5c1162ae-4b10-4556-b59e-5a30440f6c83_783134130"
+            },
+            {
+              "doc_id": "8c9eda43-4550-4e10-94d5-a1603f5ed0c2_387096049"
+            },
+            {
+              "doc_id": "982ffd24-3134-49a3-a99a-ec8f5099e483_956818494"
+            },
+            {
+              "doc_id": "14a9311d-b744-4217-a02f-459271eefd30_201582490"
+            },
+            {
+              "doc_id": "5df4cb85-15e2-427a-87b7-8dbc1a528f08_895676644"
+            },
+            {
+              "doc_id": "2cdb0121-c7a5-4046-97b6-0bfb9bb98c03_127942613"
+            },
+            {
+              "doc_id": "a8edbea6-919b-4f4c-8136-a9bb0da513e7_67418462"
+            },
+            {
+              "doc_id": "981ca733-7cfb-4562-8dad-4512a16b5e79_517010588"
+            },
+            {
+              "doc_id": "852b59cf-d293-4bf6-8243-4a68f0367ada_120657088"
+            },
+            {
+              "doc_id": "93de4b07-3d39-4cf4-ac6a-4ff947c41798_128059104"
+            },
+            {
+              "doc_id": "c9543f19-fc13-449e-978b-9984d2101cae_373515151"
+            },
+            {
+              "doc_id": "50bb1536-d04f-4957-a0f3-9509eae6f755_730001953"
+            },
+            {
+              "doc_id": "845022d2-f6de-46fa-8198-fbc6310c0756_158135813"
+            },
+            {
+              "doc_id": "246931a2-f136-4425-9a59-8f22b63957f7_198857266"
+            },
+            {
+              "doc_id": "54a88ed4-7399-4915-bc9c-b086841396a3_13469966"
+            },
+            {
+              "doc_id": "11b347c7-8980-4909-afb4-befebd9b3365_491855713"
+            },
+            {
+              "doc_id": "6bfe3be6-0003-4aa1-b44c-4901596df847_1057437930"
+            },
+            {
+              "doc_id": "fdd6b04c-d99a-484f-94dc-1173ffc5e00d_43474291"
+            },
+            {
+              "doc_id": "c9d1947c-043c-472f-a86f-2a7840102c73_931366875"
+            }
+          ],
+          [
+            {
+              "doc_id": "fdf06077-575f-4622-85b1-149f46ac8871_287150392"
+            }
+          ],
+          [
+            {
+              "doc_id": "0b299863-ca28-4f9b-a97f-4de879bee446_872520562"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it directly inquires about the explanation of the Labubu phenomenon, which is the core of the user's request.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 35,
+        "num_answers": 1
+      }
+    },
+    "What does this document reveal about Labubu toys?": {
+      "question": "What does this document reveal about Labubu toys?",
+      "answers": {
+        "The document does not contain information about Labubu": {
+          "answer": "The document does not contain information about Labubu",
+          "references": [
+            {
+              "doc_id": "cd29b736-0885-4dbe-acd2-8a43a2e48e2c_5954939"
+            }
+          ]
+        },
+        "The document does not mention Labubu toys or figurines.": {
+          "answer": "The document does not mention Labubu toys or figurines.",
+          "references": [
+            {
+              "doc_id": "0b299863-ca28-4f9b-a97f-4de879bee446_872520562"
+            }
+          ]
+        },
+        "The document does not contain information about Labubu.": {
+          "answer": "The document does not contain information about Labubu.",
+          "references": [
+            {
+              "doc_id": "b48d0ff8-9e68-4c97-935d-4a9773de0d8b_61678450"
+            }
+          ]
+        },
+        "Document discusses Korean folktale, not Labubu toy phenomenon": {
+          "answer": "Document discusses Korean folktale, not Labubu toy phenomenon",
+          "references": [
+            {
+              "doc_id": "1fb1e736-0025-4b5a-a95f-dd24f13370c7_768103350"
+            }
+          ]
+        },
+        "Document discusses Icelandic lopapeysa sweaters, not Labubu toys": {
+          "answer": "Document discusses Icelandic lopapeysa sweaters, not Labubu toys",
+          "references": [
+            {
+              "doc_id": "44937e3f-4045-4818-9ab3-06c45a123381_421196563"
+            }
+          ]
+        },
+        "This document discusses Pokemon luxury merchandise, not Labubu toys": {
+          "answer": "This document discusses Pokemon luxury merchandise, not Labubu toys",
+          "references": [
+            {
+              "doc_id": "b562a13f-7090-4473-b18e-619ceae75987_183310371"
+            }
+          ]
+        },
+        "This document discusses Bluey, not Labubu toys": {
+          "answer": "This document discusses Bluey, not Labubu toys",
+          "references": [
+            {
+              "doc_id": "b8ba0f1d-7f46-42cc-9ba4-23d3f6e3bb9b_5587226"
+            }
+          ]
+        },
+        "Document discusses mofusand, not Labubu phenomenon": {
+          "answer": "Document discusses mofusand, not Labubu phenomenon",
+          "references": [
+            {
+              "doc_id": "f6d8c3c4-1e2e-402e-b0db-bb67c89b29a0_901247000"
+            }
+          ]
+        },
+        "This document is about Loopy, not Labubu": {
+          "answer": "This document is about Loopy, not Labubu",
+          "references": [
+            {
+              "doc_id": "699bbb1c-8d29-446e-8a56-8c42e1300039_268663564"
+            }
+          ]
+        }
+      },
+      "question_id": "b8a9a31daa3e6c78909c098cc8c3dba0",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What does this document reveal about Labubu toys?",
+          "What information does this document provide about Labubu toys?",
+          "What does the document reveal about Labubu toys?",
+          "Does this document contain information about Labubu collectible toys?",
+          "Does this document contain information about Labubu toys?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4b7f2cd4-08ad-4417-ae1c-3da4559cdbf3_351890221"
+            }
+          ],
+          [
+            {
+              "doc_id": "cd29b736-0885-4dbe-acd2-8a43a2e48e2c_5954939"
+            },
+            {
+              "doc_id": "0b299863-ca28-4f9b-a97f-4de879bee446_872520562"
+            },
+            {
+              "doc_id": "b48d0ff8-9e68-4c97-935d-4a9773de0d8b_61678450"
+            }
+          ],
+          [
+            {
+              "doc_id": "112761db-04a7-49d0-9348-d22f21ccc397_689960889"
+            }
+          ],
+          [
+            {
+              "doc_id": "1fb1e736-0025-4b5a-a95f-dd24f13370c7_768103350"
+            },
+            {
+              "doc_id": "44937e3f-4045-4818-9ab3-06c45a123381_421196563"
+            },
+            {
+              "doc_id": "b562a13f-7090-4473-b18e-619ceae75987_183310371"
+            },
+            {
+              "doc_id": "b8ba0f1d-7f46-42cc-9ba4-23d3f6e3bb9b_5587226"
+            }
+          ],
+          [
+            {
+              "doc_id": "f6d8c3c4-1e2e-402e-b0db-bb67c89b29a0_901247000"
+            },
+            {
+              "doc_id": "699bbb1c-8d29-446e-8a56-8c42e1300039_268663564"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative and informative because it directly inquires about the content of the document regarding Labubu toys, which aligns with the user's request for information on the Labubu phenomenon.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 11,
+        "num_answers": 9
+      }
+    },
+    "What is the main topic covered in this document?": {
+      "question": "What is the main topic covered in this document?",
+      "answers": {
+        "Jordan Peele's film Nope and extraterrestrial cinema portrayals": {
+          "answer": "Jordan Peele's film Nope and extraterrestrial cinema portrayals",
+          "references": [
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            }
+          ]
+        },
+        "Hung-bu and Nol-bu Korean traditional story interpretations": {
+          "answer": "Hung-bu and Nol-bu Korean traditional story interpretations",
+          "references": [
+            {
+              "doc_id": "1fb1e736-0025-4b5a-a95f-dd24f13370c7_768103350"
+            }
+          ]
+        },
+        "China Mobile's 2023 interim results and financial performance": {
+          "answer": "China Mobile's 2023 interim results and financial performance",
+          "references": [
+            {
+              "doc_id": "bfcc42ed-004c-474a-ba36-64c36f6bc413_470166732"
+            }
+          ]
+        },
+        "WTAPS Japanese streetwear brand store reopening in Tokyo": {
+          "answer": "WTAPS Japanese streetwear brand store reopening in Tokyo",
+          "references": [
+            {
+              "doc_id": "05110d2f-ff35-4ea4-8d8b-c7a6868eede9_521632235"
+            }
+          ]
+        },
+        "Lululemon trademark infringement by Shenzhen technology company": {
+          "answer": "Lululemon trademark infringement by Shenzhen technology company",
+          "references": [
+            {
+              "doc_id": "ca56bee7-af19-4df7-a74a-6e351bafcc15_646994213"
+            }
+          ]
+        },
+        "This document is about Elsword game character updates": {
+          "answer": "This document is about Elsword game character updates",
+          "references": [
+            {
+              "doc_id": "15362447-cf02-42a3-af28-8ebb0bf0078f_1031322733"
+            }
+          ]
+        }
+      },
+      "question_id": "2dc9e71fbd0257bb39dc8ba578f508ac",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What is the main topic covered in this document?",
+          "What is the main topic discussed in this document?",
+          "What is the main topic of this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "96bd2345-46b3-4cf8-98f9-7f304dcd3ddd_1039320638"
+            },
+            {
+              "doc_id": "1fb1e736-0025-4b5a-a95f-dd24f13370c7_768103350"
+            },
+            {
+              "doc_id": "bfcc42ed-004c-474a-ba36-64c36f6bc413_470166732"
+            }
+          ],
+          [
+            {
+              "doc_id": "05110d2f-ff35-4ea4-8d8b-c7a6868eede9_521632235"
+            }
+          ],
+          [
+            {
+              "doc_id": "ca56bee7-af19-4df7-a74a-6e351bafcc15_646994213"
+            },
+            {
+              "doc_id": "15362447-cf02-42a3-af28-8ebb0bf0078f_1031322733"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user's request because it directly inquires about the main topic, which is the Labubu phenomenon, and is phrased in a clear and concise manner.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 6,
+        "num_answers": 6
+      }
+    },
+    "On which social media platform has Labubu become viral?": {
+      "question": "On which social media platform has Labubu become viral?",
+      "answers": {
+        "TikTok platform helped Labubu become viral sensations": {
+          "answer": "TikTok platform helped Labubu become viral sensations",
+          "references": [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            }
+          ]
+        },
+        "TikTok platform has made Labubu a viral sensation": {
+          "answer": "TikTok platform has made Labubu a viral sensation",
+          "references": [
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            }
+          ]
+        },
+        "TikTok platform has amplified Labubu's viral sensation status": {
+          "answer": "TikTok platform has amplified Labubu's viral sensation status",
+          "references": [
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        }
+      },
+      "question_id": "fdb1dd691bf95ac69d4a5109e4931c9e",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "On which social media platform did Labubu gain viral popularity?",
+          "On which social media platform did Labubu become viral?",
+          "On which social media platform has Labubu become viral?",
+          "Which social media platform has boosted Labubu's viral popularity?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            }
+          ],
+          [
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            }
+          ],
+          [
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            }
+          ],
+          [
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        ],
+        "canonical_explanation": "The question is selected because it is the most grammatically correct and clearly phrased among the options, all of which essentially ask the same thing.",
+        "num_paraphrases_unique": 4,
+        "num_paraphrases_total": 4,
+        "num_answers": 3
+      }
+    },
+    "Which Chinese toy company is responsible for marketing Labubu?": {
+      "question": "Which Chinese toy company is responsible for marketing Labubu?",
+      "answers": {
+        "Pop Mart": {
+          "answer": "Pop Mart",
+          "references": [
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            }
+          ]
+        },
+        "Pop Mart markets and distributes Labubu collectible toys": {
+          "answer": "Pop Mart markets and distributes Labubu collectible toys",
+          "references": [
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            },
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            }
+          ]
+        }
+      },
+      "question_id": "c7f9e7c5ac6e8de129529a3cc587fec1",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Which Chinese toy company markets the Labubu collectibles?",
+          "Which Chinese toy company is responsible for marketing Labubu?",
+          "Which Chinese company is responsible for marketing Labubu toys?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ae82719e-3b45-4ca5-a14a-9514a5889632_487728695"
+            }
+          ],
+          [
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ],
+          [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            }
+          ]
+        ],
+        "canonical_explanation": "All questions are essentially asking the same thing, but question 2 is the most concise and directly asks for the company responsible for marketing Labubu.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 4,
+        "num_answers": 2
+      }
+    },
+    "Who is the original creator of the Labubu character?": {
+      "question": "Who is the original creator of the Labubu character?",
+      "answers": {
+        "Hong Kong designer Kasing Lung created Labubu character": {
+          "answer": "Hong Kong designer Kasing Lung created Labubu character",
+          "references": [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            },
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        }
+      },
+      "question_id": "8d6ab9074d8aa2baae66181dceed854f",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Who is the original creator of the Labubu character?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            },
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 4,
+        "num_answers": 1
+      }
+    },
+    "Which famous celebrities have been seen with Labubu toys?": {
+      "question": "Which famous celebrities have been seen with Labubu toys?",
+      "answers": {
+        "celebrities like Rihanna spotted with Labubu toys": {
+          "answer": "celebrities like Rihanna spotted with Labubu toys",
+          "references": [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            }
+          ]
+        },
+        "celebrities like Rihanna have been spotted with Labubu": {
+          "answer": "celebrities like Rihanna have been spotted with Labubu",
+          "references": [
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            }
+          ]
+        }
+      },
+      "question_id": "40c2b0b2892194d011cd1608356d52ed",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Which famous celebrities have been seen with Labubu toys?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            },
+            {
+              "doc_id": "5f869394-e7db-4dbc-a912-3d4fc7dbcc40_931472761"
+            },
+            {
+              "doc_id": "4a66b0ad-41fd-4ebb-bbca-ab0740e147a9_378362032"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 3,
+        "num_answers": 2
+      }
+    },
+    "How many careers has Barbie brand covered historically?": {
+      "question": "How many careers has Barbie brand covered historically?",
+      "answers": {
+        "over 200 careers including president and astronaut": {
+          "answer": "over 200 careers including president and astronaut",
+          "references": [
+            {
+              "doc_id": "5354f963-0b0b-486a-b849-1b7f101c7f9d_805771168"
+            }
+          ]
+        },
+        "over 150 different professions": {
+          "answer": "over 150 different professions",
+          "references": [
+            {
+              "doc_id": "b8da7d8c-47d6-4576-8532-12c51aeb6820_486932206"
+            }
+          ]
+        }
+      },
+      "question_id": "933068dd1b14689fd6449c33b0f875ae",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "How many careers has Barbie brand covered historically?",
+          "How many different careers has Barbie doll represented throughout history?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5354f963-0b0b-486a-b849-1b7f101c7f9d_805771168"
+            }
+          ],
+          [
+            {
+              "doc_id": "b8da7d8c-47d6-4576-8532-12c51aeb6820_486932206"
+            }
+          ]
+        ],
+        "canonical_explanation": "The provided questions do not relate to the Labubu phenomenon or the user's request, making it impossible to select a canonical question that represents the user's inquiry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What type of toys are Labubu figurines?": {
+      "question": "What type of toys are Labubu figurines?",
+      "answers": {
+        "collectible plush toy monster elves with viral appeal": {
+          "answer": "collectible plush toy monster elves with viral appeal",
+          "references": [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        }
+      },
+      "question_id": "90a10c81588117cb4386624ce1762b2b",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What type of toys are Labubu figurines?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d3d294f5-3bbb-4756-829e-bc3ae1b29b57_735867055"
+            },
+            {
+              "doc_id": "e28eb68f-8751-4971-92ce-84a78c57f3d3_641584784"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "What is Labubu and who created this collectible toy character?": {
+      "question": "What is Labubu and who created this collectible toy character?",
+      "answers": {
+        "Pop Mart's star character created by Hong Kong designer Kasing Lung": {
+          "answer": "Pop Mart's star character created by Hong Kong designer Kasing Lung",
+          "references": [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        }
+      },
+      "question_id": "a2665e3cf4ff3d2b672d0007c373888f",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What is Labubu and who created this collectible toy character?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What unprecedented official recognition did Thailand give to Labubu?": {
+      "question": "What unprecedented official recognition did Thailand give to Labubu?",
+      "answers": {
+        "Thailand granted Labubu official Amazing Thailand Experience Officer title": {
+          "answer": "Thailand granted Labubu official Amazing Thailand Experience Officer title",
+          "references": [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        }
+      },
+      "question_id": "83bbe877452cb94815b287aff133e8a0",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What unprecedented official recognition did Thailand give to Labubu?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?": {
+      "question": "When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?",
+      "answers": {
+        "July 1, 2024": {
+          "answer": "July 1, 2024",
+          "references": [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        }
+      },
+      "question_id": "0e07eec370ad702707efcbea0c313790",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which high-level officials attended Labubu's welcome ceremony in Thailand?": {
+      "question": "Which high-level officials attended Labubu's welcome ceremony in Thailand?",
+      "answers": {
+        "Thailand Tourism and Sports Minister and Chinese Embassy officials": {
+          "answer": "Thailand Tourism and Sports Minister and Chinese Embassy officials",
+          "references": [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        }
+      },
+      "question_id": "c61b15029461ae683ad506882b99784f",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Which high-level officials attended Labubu's welcome ceremony in Thailand?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d7ca8fc0-d7dc-4230-95fb-232096ab8873_656831105"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What toy safety issue is discussed in this document?": {
+      "question": "What toy safety issue is discussed in this document?",
+      "answers": {
+        "Calico Critters toys recalled due to choking hazards": {
+          "answer": "Calico Critters toys recalled due to choking hazards",
+          "references": [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        }
+      },
+      "question_id": "a7c1b016ec295a0185759d57ba68c0d3",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What toy safety issue is discussed in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many Calico Critters toys were recalled by US authorities?": {
+      "question": "How many Calico Critters toys were recalled by US authorities?",
+      "answers": {
+        "over 3.2 million toys": {
+          "answer": "over 3.2 million toys",
+          "references": [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        }
+      },
+      "question_id": "f369c78f627eb3dc60bba5d3122692b3",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "How many Calico Critters toys were recalled by US authorities?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What makes Calico Critters toys dangerous for children?": {
+      "question": "What makes Calico Critters toys dangerous for children?",
+      "answers": {
+        "accessories like milk bottles and pacifiers cause choking": {
+          "answer": "accessories like milk bottles and pacifiers cause choking",
+          "references": [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        }
+      },
+      "question_id": "5f6c5f6591f61cdf4e3bc4cff942b1c4",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What makes Calico Critters toys dangerous for children?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "860d3281-be14-48ab-b259-7f3f8ca38ac9_49346630"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What incident involving a large toy figure caused international news attention?": {
+      "question": "What incident involving a large toy figure caused international news attention?",
+      "answers": {
+        "1.8 meters tall Laa-Laa model figure was smashed": {
+          "answer": "1.8 meters tall Laa-Laa model figure was smashed",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        }
+      },
+      "question_id": "d222d687103f75fb6a2db6885bac1e8a",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "What incident involving a large toy figure caused international news attention?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did the toy company's stock price change following the incident?": {
+      "question": "How did the toy company's stock price change following the incident?",
+      "answers": {
+        "company stock price surged 85% after the incident": {
+          "answer": "company stock price surged 85% after the incident",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        }
+      },
+      "question_id": "8b1318d856eb528e93df02608073d45b",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "How did the toy company's stock price change following the incident?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who benefited most from the toy company's stock price increase?": {
+      "question": "Who benefited most from the toy company's stock price increase?",
+      "answers": {
+        "major shareholders became the biggest beneficiaries": {
+          "answer": "major shareholders became the biggest beneficiaries",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        }
+      },
+      "question_id": "af9909bfc0a9ca6272868c45cd1210c3",
+      "aggregator_type": "OR",
+      "query_id": "1065",
+      "metadata": {
+        "paraphrases": [
+          "Who benefited most from the toy company's stock price increase?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_966169421"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

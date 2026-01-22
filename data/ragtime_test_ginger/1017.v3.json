@@ -1,0 +1,1104 @@
+{
+  "query_id": "1017",
+  "title_query": "I am a podcaster who is planning to interview a former Disney executive for an episode. My listeners would be interested in the decision-making process behind the scenes at a major studio. I want to understand how nostalgia drives financial profits, how timeless stories are adapted for modern audiences, and how balance between authenticity and relevance is achieved in remaking popular classics.\nI need a report on the live action remakes of the classic animated Disney films. The live action remakes of the recent 5-10 years should be discussed in the report, such as Cinderella (2015), The Jungle Book (2016), Beauty and the Beast (2017), Dumbo (2019), Aladdin (2019), The Lion King (2019), Mulan (2020), Pinocchio (2022), Little Mermaid (2023) etc. I want information on why Disney produces so many live action remakes of their animated classics, and what role nostalgia plays in driving the company's decisions. I also want to know what changes have been made to the original stories and characters in the remakes, and how the stories have been adapted to the contemporary realia. Public reaction to the adaptations should be discussed as well.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney films traditionally provide hope, escape, and joy, but recent movies face criticism for prioritizing political correctness over storytelling, with directors suggesting Disney should focus more on entertainment and compelling characters.": {
+          "answer": "Disney films traditionally provide hope, escape, and joy, but recent movies face criticism for prioritizing political correctness over storytelling, with directors suggesting Disney should focus more on entertainment and compelling characters.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney's live-action Aladdin remake grossed over $1 billion globally in 2019 despite mixed critics' reviews, with strong audience reception earning an A CinemaScore.": {
+          "answer": "Disney's live-action Aladdin remake grossed over $1 billion globally in 2019 despite mixed critics' reviews, with strong audience reception earning an A CinemaScore.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney approaches animation remakes differently, with some like The Lion King closely following originals while others like Mulan offer freer interpretations, though most live-action adaptations receive poor reception.": {
+          "answer": "Disney approaches animation remakes differently, with some like The Lion King closely following originals while others like Mulan offer freer interpretations, though most live-action adaptations receive poor reception.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "The information discusses various Disney adaptations including costume design choices for aquatic characters, a Grimm fairy tale adaptation by Greta Gerwig, a computer-animated Bambi remake, and debates about Disney's creative direction.": {
+          "answer": "The information discusses various Disney adaptations including costume design choices for aquatic characters, a Grimm fairy tale adaptation by Greta Gerwig, a computer-animated Bambi remake, and debates about Disney's creative direction.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Halle Bailey's casting as Ariel in Disney's live-action remake sparked racial controversy, but Disney defended their choice, praising Bailey's voice and spirit while maintaining Ariel's beloved personality traits.": {
+          "answer": "Halle Bailey's casting as Ariel in Disney's live-action remake sparked racial controversy, but Disney defended their choice, praising Bailey's voice and spirit while maintaining Ariel's beloved personality traits.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney+ is developing a hybrid live-action/CGI remake of the 1976 animated classic \"Robin Hood\" directed by Carlos Lopez Estrada, avoiding stereotypes from the original.": {
+          "answer": "Disney+ is developing a hybrid live-action/CGI remake of the 1976 animated classic \"Robin Hood\" directed by Carlos Lopez Estrada, avoiding stereotypes from the original.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "John Musk criticized the 2023 live-action \"The Little Mermaid\" for lacking focus on the father-daughter story and having less expressive animal characters than real zoo animals.": {
+          "answer": "John Musk criticized the 2023 live-action \"The Little Mermaid\" for lacking focus on the father-daughter story and having less expressive animal characters than real zoo animals.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "\"The Little Mermaid\" remake receives mixed reviews, with critics praising Halle Bailey's performance while noting it lacks the originality and artistic inspiration of the animated version.": {
+          "answer": "\"The Little Mermaid\" remake receives mixed reviews, with critics praising Halle Bailey's performance while noting it lacks the originality and artistic inspiration of the animated version.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "The 2023 Little Mermaid improves upon the original by developing Eric's character beyond basic Disney Prince requirements and giving Ariel and Eric meaningful bonding time over shared interests, making their romance more believable and satisfying.": {
+          "answer": "The 2023 Little Mermaid improves upon the original by developing Eric's character beyond basic Disney Prince requirements and giving Ariel and Eric meaningful bonding time over shared interests, making their romance more believable and satisfying.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "The information discusses various film projects including independent animated productions, The Little Mermaid's 2-hour 15-minute runtime compared to its 1989 version, and DC League of Super-Pets' family appeal.": {
+          "answer": "The information discusses various film projects including independent animated productions, The Little Mermaid's 2-hour 15-minute runtime compared to its 1989 version, and DC League of Super-Pets' family appeal.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Filmmakers are reimagining classic Disney princesses like Belle and Snow White, moving away from traditional elements like shell bras while adding modern traits like inventiveness to appeal to contemporary audiences.": {
+          "answer": "Filmmakers are reimagining classic Disney princesses like Belle and Snow White, moving away from traditional elements like shell bras while adding modern traits like inventiveness to appeal to contemporary audiences.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney's live-action remake of The Little Mermaid grossed over $550 million globally, surpassing the original's earnings and opening with $38 million domestically.": {
+          "answer": "Disney's live-action remake of The Little Mermaid grossed over $550 million globally, surpassing the original's earnings and opening with $38 million domestically.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney increasingly remakes classic animations into live-action films to minimize risk and pursue political correctness, but critics argue this approach sacrifices storytelling depth for predetermined ideologies.": {
+          "answer": "Disney increasingly remakes classic animations into live-action films to minimize risk and pursue political correctness, but critics argue this approach sacrifices storytelling depth for predetermined ideologies.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1017",
+      "importance": "vital",
+      "answers": {
+        "Disney is working on live-action remakes of \"Peter Pan and Wendy,\" \"The Hunchback of Notre Dame,\" and a King Arthur story, all based on classic tales and literature.": {
+          "answer": "Disney is working on live-action remakes of \"Peter Pan and Wendy,\" \"The Hunchback of Notre Dame,\" and a King Arthur story, all based on classic tales and literature.",
+          "references": [
+            {
+              "doc_id": "800e6594-4a58-4429-a918-25f13f8757aa_119137286"
+            },
+            {
+              "doc_id": "5e5c7575-0fff-41f7-833f-b9ff4b71230c_219533606"
+            },
+            {
+              "doc_id": "e6068745-f488-4f0e-9910-2f016b0f9a10_884726436"
+            },
+            {
+              "doc_id": "08bf5561-f112-47d8-ae82-2041a9b4fc15_814052845"
+            },
+            {
+              "doc_id": "df9e5ebb-dee0-4822-9a30-1d964c8f843d_226465460"
+            },
+            {
+              "doc_id": "84e42260-399c-4d7b-8ea7-6f4f8bd47c33_545966498"
+            },
+            {
+              "doc_id": "8ad2d3bc-2278-4f4a-8520-8c59130086ce_339694030"
+            },
+            {
+              "doc_id": "04be02f4-bf63-4cf4-a520-2859d5be0752_801436266"
+            },
+            {
+              "doc_id": "2b7b6721-9b08-432c-b318-1f57bf8a8139_226946838"
+            },
+            {
+              "doc_id": "4d57703a-fc14-4d9b-9892-9d9676d51359_936125144"
+            },
+            {
+              "doc_id": "f2ef50c0-4817-4aae-bd18-4208e7c369cb_452895435"
+            },
+            {
+              "doc_id": "4510ab1a-cfa0-4626-98b5-7e8a0cf37b01_590236407"
+            },
+            {
+              "doc_id": "2bb0a8e6-bdd2-4861-8b6a-3f579c3333e9_627770711"
+            },
+            {
+              "doc_id": "458f78da-4fd3-48c7-8c6a-4d32ba5efffa_645465952"
+            },
+            {
+              "doc_id": "c5f26e63-75b5-48b1-9501-c8ee23be61f2_694539873"
+            },
+            {
+              "doc_id": "a16b6fac-ece9-4cef-8f88-a335ab359f41_4200995"
+            },
+            {
+              "doc_id": "9bf4d61e-80c6-417e-8c40-6d987236d4fb_1002818262"
+            },
+            {
+              "doc_id": "c7e579e6-3738-495f-b411-43f31a0e8d23_584006662"
+            },
+            {
+              "doc_id": "affa62b6-3681-4651-bd81-70d2425e5fae_433916494"
+            },
+            {
+              "doc_id": "c2fb166b-fc57-4a5c-b4c6-77dc3c5548d4_409461214"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

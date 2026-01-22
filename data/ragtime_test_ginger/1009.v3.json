@@ -1,0 +1,1182 @@
+{
+  "query_id": "1009",
+  "title_query": "I'm a city planner in San Antonio, TX, and I've been given the task to determine the appropriate response to the incoming Saharan dust storm. I need to determine how the air conditions and temperatures could impact the city, its power grid, traffic, and citizens health, and how best to prepare for them. I need to learn how the immediate weather could be affected.\nI need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms?",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 15
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dr. Chellam's team analyzed Saharan dust samples from Houston in 2018, studying how climate change affects dust storm patterns and their health impacts including respiratory issues and disease transmission.": {
+          "answer": "Dr. Chellam's team analyzed Saharan dust samples from Houston in 2018, studying how climate change affects dust storm patterns and their health impacts including respiratory issues and disease transmission.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "The Saharan dust cloud annually transports millions of tons of sand, bacteria, and fungi across the Atlantic from late spring to early fall, affecting weather patterns.": {
+          "answer": "The Saharan dust cloud annually transports millions of tons of sand, bacteria, and fungi across the Atlantic from late spring to early fall, affecting weather patterns.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dust storms create severe air pollution with PM2.5 and PM10 particles exceeding safety thresholds, causing respiratory problems, allergies, heart disease, and potentially premature death for affected communities.": {
+          "answer": "Dust storms create severe air pollution with PM2.5 and PM10 particles exceeding safety thresholds, causing respiratory problems, allergies, heart disease, and potentially premature death for affected communities.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dr. Chellam's research shows Saharan dust storms carry microbes to North America, correlating with a 17-fold increase in Caribbean asthma since the 1970s.": {
+          "answer": "Dr. Chellam's research shows Saharan dust storms carry microbes to North America, correlating with a 17-fold increase in Caribbean asthma since the 1970s.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dr. Chelam's research uniquely examines how desert dust storms introduce microbes to North America, while dust storms require urgent environmental responses and innovative desertification solutions.": {
+          "answer": "Dr. Chelam's research uniquely examines how desert dust storms introduce microbes to North America, while dust storms require urgent environmental responses and innovative desertification solutions.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Desert dust reflects sunlight back to space, cooling Earth's surface and counterbalancing greenhouse gas warming effects, while also enhancing colorful sunrises/sunsets and occurring earlier due to climate change.": {
+          "answer": "Desert dust reflects sunlight back to space, cooling Earth's surface and counterbalancing greenhouse gas warming effects, while also enhancing colorful sunrises/sunsets and occurring earlier due to climate change.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Saharan dust from Africa's desert travels across the Atlantic Ocean via trade winds, suppressing hurricane and thunderstorm development while impacting global ecosystems beyond North America.": {
+          "answer": "Saharan dust from Africa's desert travels across the Atlantic Ocean via trade winds, suppressing hurricane and thunderstorm development while impacting global ecosystems beyond North America.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dry air and Saharan dust, which move via trade winds to Atlantic regions, remain unpredictable factors affecting tropical weather patterns despite their annual occurrence.": {
+          "answer": "Dry air and Saharan dust, which move via trade winds to Atlantic regions, remain unpredictable factors affecting tropical weather patterns despite their annual occurrence.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "The Saharan Air Layer (SAL) contains 50% less moisture than typical atmosphere, inhibiting cloud formation and thunderstorms, leading to continued limited Atlantic cyclone activity and reduced rainfall.": {
+          "answer": "The Saharan Air Layer (SAL) contains 50% less moisture than typical atmosphere, inhibiting cloud formation and thunderstorms, leading to continued limited Atlantic cyclone activity and reduced rainfall.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Researchers found that desert dust contains WHO-listed pathogens, bacteria, viruses, and fungi that can cause respiratory diseases, cardiovascular problems, allergies, and skin issues across continents.": {
+          "answer": "Researchers found that desert dust contains WHO-listed pathogens, bacteria, viruses, and fungi that can cause respiratory diseases, cardiovascular problems, allergies, and skin issues across continents.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Climate warming will intensify wind patterns and West African monsoons, causing larger iron-rich dust clouds from the Sahara Desert to increase air pollution globally, particularly affecting Africa, eastern U.S., and Caribbean regions.": {
+          "answer": "Climate warming will intensify wind patterns and West African monsoons, causing larger iron-rich dust clouds from the Sahara Desert to increase air pollution globally, particularly affecting Africa, eastern U.S., and Caribbean regions.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dr. Chellam's team analyzed desert dust samples that reached Houston in 2018, finding traces of pathogens known to cause human illness according to WHO.": {
+          "answer": "Dr. Chellam's team analyzed desert dust samples that reached Houston in 2018, finding traces of pathogens known to cause human illness according to WHO.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "During the 2020 Southwest monsoon season, relaxed upper-atmospheric winds made tornado formation difficult, though one occurred near Kingman, Arizona, and lightning strikes reached record lows.": {
+          "answer": "During the 2020 Southwest monsoon season, relaxed upper-atmospheric winds made tornado formation difficult, though one occurred near Kingman, Arizona, and lightning strikes reached record lows.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Temperatures above 34°C were recorded across western Cuba and the capital, with Saturday reaching 39°C, Colón hitting 37.2°C, Bainoa 36.5°C, and Havana 36°C.": {
+          "answer": "Temperatures above 34°C were recorded across western Cuba and the capital, with Saturday reaching 39°C, Colón hitting 37.2°C, Bainoa 36.5°C, and Havana 36°C.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    },
+    "cluster_summary_15": {
+      "question": "cluster_summary_15",
+      "query_id": "1009",
+      "importance": "vital",
+      "answers": {
+        "Dust in the atmosphere causes asthma patients to use rescue inhalers more frequently and worsens symptoms in those with chronic lung diseases, while non-asthmatics should monitor for potential asthma warning signs.": {
+          "answer": "Dust in the atmosphere causes asthma patients to use rescue inhalers more frequently and worsens symptoms in those with chronic lung diseases, while non-asthmatics should monitor for potential asthma warning signs.",
+          "references": [
+            {
+              "doc_id": "958ae1ee-19d5-41c4-8e42-0583f3ed6841_957102541"
+            },
+            {
+              "doc_id": "847379b8-aea2-4369-b4fb-37b79f3e9753_449770659"
+            },
+            {
+              "doc_id": "976e5a88-b9d0-4613-be71-b666fa22d6f3_776351012"
+            },
+            {
+              "doc_id": "97394a3d-d49a-4762-b01a-724729885709_663017373"
+            },
+            {
+              "doc_id": "84de60a8-25d5-4105-ac47-d087d97502b8_1054859357"
+            },
+            {
+              "doc_id": "d2ad2c2b-4cb3-461a-a94c-298b31f47ee0_337092502"
+            },
+            {
+              "doc_id": "7924a912-23e6-42aa-b32e-ee7bda5eabc1_1045526796"
+            },
+            {
+              "doc_id": "1fd604e6-30ba-4b91-b53c-ecb5241f2624_55169144"
+            },
+            {
+              "doc_id": "2060cd19-2a64-4537-987d-dc20f718a8a9_701635911"
+            },
+            {
+              "doc_id": "50d87ec4-a0eb-47cd-a83b-2ea65776e64d_46679155"
+            },
+            {
+              "doc_id": "f6d6e9ec-fa3b-4150-adef-8d2417680571_895017965"
+            },
+            {
+              "doc_id": "5796c588-0e1c-4bfe-9805-1bc54cc26e65_397803440"
+            },
+            {
+              "doc_id": "270add43-f80a-4e9c-b485-5fe6a47a33f4_186258722"
+            },
+            {
+              "doc_id": "54c42d43-5691-4a18-a63f-3c936ecb10cc_86116201"
+            },
+            {
+              "doc_id": "5bf923f9-ce7a-4645-bf12-723dbd3325a7_49707969"
+            },
+            {
+              "doc_id": "b4b8cd5f-0ece-4441-9fe1-31c29415ca36_845297136"
+            },
+            {
+              "doc_id": "135649f4-82c4-4bc9-903a-9d935421ea27_1026921352"
+            },
+            {
+              "doc_id": "15d8999d-2d0f-4e22-a82c-078ab058b6d0_964450278"
+            },
+            {
+              "doc_id": "e7e6c73b-66b8-4b4f-a199-55f37a56213e_528784020"
+            },
+            {
+              "doc_id": "84f6315d-0c0e-44dc-a46f-f26237c1427e_1042650706"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 15
+      }
+    }
+  }
+}

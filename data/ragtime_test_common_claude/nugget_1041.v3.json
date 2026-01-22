@@ -1,0 +1,729 @@
+{
+  "query_id": "1041",
+  "title_query": "1041",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Which government ministry oversees traditional Indian medicine systems?": {
+      "question": "Which government ministry oversees traditional Indian medicine systems?",
+      "answers": {
+        "Ministry of Ayush": {
+          "answer": "Ministry of Ayush",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            },
+            {
+              "doc_id": "be420094-c530-49bb-b075-cf3dfac249ba_152156998"
+            }
+          ]
+        },
+        "Ayush ministry": {
+          "answer": "Ayush ministry",
+          "references": [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        },
+        "Ministry of AYUSH established in 2014": {
+          "answer": "Ministry of AYUSH established in 2014",
+          "references": [
+            {
+              "doc_id": "268f26fe-1e1b-4579-82f4-99d8c1588694_242312155"
+            }
+          ]
+        },
+        "AYUSH Ministry established in 2014": {
+          "answer": "AYUSH Ministry established in 2014",
+          "references": [
+            {
+              "doc_id": "2fedd616-5573-4ae9-b15e-79d8c03d9eb7_236750383"
+            }
+          ]
+        }
+      },
+      "question_id": "8ae351c1c7c4e94ce2b7907b35447211",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which Indian government ministry supports traditional medicine standardization?",
+          "Which Indian government ministry oversees traditional medicine validation?",
+          "Which Indian government ministry develops traditional medicine systems?",
+          "Which government ministry oversees traditional Indian medicine systems?",
+          "Which government ministry oversees traditional medicine systems in India?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ],
+          [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ],
+          [
+            {
+              "doc_id": "268f26fe-1e1b-4579-82f4-99d8c1588694_242312155"
+            }
+          ],
+          [
+            {
+              "doc_id": "2fedd616-5573-4ae9-b15e-79d8c03d9eb7_236750383"
+            }
+          ],
+          [
+            {
+              "doc_id": "be420094-c530-49bb-b075-cf3dfac249ba_152156998"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most general and inclusive, covering the oversight of traditional Indian medicine systems, which is relevant to understanding the current research and application of Indian herbal medicine.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 4
+      }
+    },
+    "What percentage of current pharmaceuticals come from natural sources?": {
+      "question": "What percentage of current pharmaceuticals come from natural sources?",
+      "answers": {
+        "40% of currently approved medicines derived from natural substances": {
+          "answer": "40% of currently approved medicines derived from natural substances",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        },
+        "40% of approved pharmaceutical products derive from natural basis": {
+          "answer": "40% of approved pharmaceutical products derive from natural basis",
+          "references": [
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            }
+          ]
+        }
+      },
+      "question_id": "7a877926c41585ce5ceaaa2a477e38ad",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of approved medicines come from natural sources?",
+          "What percentage of current pharmaceuticals come from natural sources?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ],
+          [
+            {
+              "doc_id": "8ab3ddad-35b5-48f8-a58e-56a49840ca41_799531423"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more relevant because it uses the term 'pharmaceuticals', which is more specific to the context of Western medicine and its relation to traditional Indian medicine.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What type of traditional medicine is discussed in this document?": {
+      "question": "What type of traditional medicine is discussed in this document?",
+      "answers": {
+        "Traditional Chinese Medicine, not Indian medicine": {
+          "answer": "Traditional Chinese Medicine, not Indian medicine",
+          "references": [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            }
+          ]
+        },
+        "Tibetan medicine, not traditional Indian medicine": {
+          "answer": "Tibetan medicine, not traditional Indian medicine",
+          "references": [
+            {
+              "doc_id": "077a6158-6bb9-4ec3-a481-8e8611ce66b2_699708810"
+            }
+          ]
+        }
+      },
+      "question_id": "de2b2befbceaf3eb278941672c23af3e",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What type of traditional medicine is discussed in this document?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fc4b65bf-5e7b-42b0-8abb-383763dad6dc_996877032"
+            },
+            {
+              "doc_id": "077a6158-6bb9-4ec3-a481-8e8611ce66b2_699708810"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "Where and when did the first Traditional Medicine Summit take place?": {
+      "question": "Where and when did the first Traditional Medicine Summit take place?",
+      "answers": {
+        "Gandhinagar, Gujarat on August 17-18, 2023": {
+          "answer": "Gandhinagar, Gujarat on August 17-18, 2023",
+          "references": [
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            }
+          ]
+        }
+      },
+      "question_id": "32b31bd70bc78f488039dc50272a071e",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Where and when was the inaugural global traditional medicine summit held?",
+          "Where and when did the first Traditional Medicine Summit take place?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1f20b9f5-317b-41f3-8d22-374b78b5cb3a_430798894"
+            }
+          ],
+          [
+            {
+              "doc_id": "aec0ad01-6840-40c7-b34e-5e9f8b9060f5_461874472"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions provided do not directly address the user's request for information on traditional Indian medicine in the context of modern Western medicine and its current research and applications.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 1
+      }
+    },
+    "What system is India requesting to include Ayurveda in?": {
+      "question": "What system is India requesting to include Ayurveda in?",
+      "answers": {
+        "World Health Organisation International Classification of Diseases 11th revision": {
+          "answer": "World Health Organisation International Classification of Diseases 11th revision",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "0d17c6295ddc1ee259b517cb0a8a42d8",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What system is India requesting to include Ayurveda in?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When does India expect Ayurveda inclusion in ICD-11?": {
+      "question": "When does India expect Ayurveda inclusion in ICD-11?",
+      "answers": {
+        "January 2024": {
+          "answer": "January 2024",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "8f0272ecf0b842235b5426808b4ea1f6",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "When does India expect Ayurveda inclusion in ICD-11?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What benefits would ICD-11 inclusion provide for Ayurveda?": {
+      "question": "What benefits would ICD-11 inclusion provide for Ayurveda?",
+      "answers": {
+        "facilitate regulation, research, and evaluation of Ayurveda's efficacy": {
+          "answer": "facilitate regulation, research, and evaluation of Ayurveda's efficacy",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "cd7013a9df9d8375ec0be47e4763eed0",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What benefits would ICD-11 inclusion provide for Ayurveda?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What traditional medicine system is already included in ICD-11?": {
+      "question": "What traditional medicine system is already included in ICD-11?",
+      "answers": {
+        "traditional Chinese medicine practices": {
+          "answer": "traditional Chinese medicine practices",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "15a4c3bd5993acde1e0423af2ad090f8",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What traditional medicine system is already included in ICD-11?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How would ICD-11 inclusion support universal health coverage?": {
+      "question": "How would ICD-11 inclusion support universal health coverage?",
+      "answers": {
+        "insurance and reimbursement systems integration": {
+          "answer": "insurance and reimbursement systems integration",
+          "references": [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        }
+      },
+      "question_id": "d47d1550d51405b518b27bf877680d28",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How would ICD-11 inclusion support universal health coverage?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e2101fe3-e219-47c1-8300-449bef7dfe12_68754735"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are India's three main traditional medicine systems?": {
+      "question": "What are India's three main traditional medicine systems?",
+      "answers": {
+        "Ayurveda, Siddha, and Unani practices": {
+          "answer": "Ayurveda, Siddha, and Unani practices",
+          "references": [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        }
+      },
+      "question_id": "9b27215ce1616476d0ddbff812351a27",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What are India's three main traditional medicine systems?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How should traditional knowledge integrate with modern medical practice?": {
+      "question": "How should traditional knowledge integrate with modern medical practice?",
+      "answers": {
+        "complement modern medicine rather than be limited by it": {
+          "answer": "complement modern medicine rather than be limited by it",
+          "references": [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        }
+      },
+      "question_id": "49ef5a3eb6420a93cba4cd4be746b7bc",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How should traditional knowledge integrate with modern medical practice?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has traditional medicine knowledge been historically validated?": {
+      "question": "How has traditional medicine knowledge been historically validated?",
+      "answers": {
+        "tested over centuries by indigenous communities": {
+          "answer": "tested over centuries by indigenous communities",
+          "references": [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        }
+      },
+      "question_id": "6269feadd72b11574172cff5753231c0",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How has traditional medicine knowledge been historically validated?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "12285aa1-5cd6-475f-82fe-271921520848_381225395"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What traditional medical system does India possess?": {
+      "question": "What traditional medical system does India possess?",
+      "answers": {
+        "Ayurveda traditional medicine system with thousands of years history": {
+          "answer": "Ayurveda traditional medicine system with thousands of years history",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "2380e1b2c428d577d5aca9072f923f63",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What traditional medical system does India possess?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What natural substances does Ayurveda use for medical treatment?": {
+      "question": "What natural substances does Ayurveda use for medical treatment?",
+      "answers": {
+        "herbs, spices, and minerals for disease treatment": {
+          "answer": "herbs, spices, and minerals for disease treatment",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "fff4d6a2b1ef7163651ea42aca6e7ed6",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What natural substances does Ayurveda use for medical treatment?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What does Ayurveda emphasize in its medical approach?": {
+      "question": "What does Ayurveda emphasize in its medical approach?",
+      "answers": {
+        "maintaining physical and mental balance and harmony": {
+          "answer": "maintaining physical and mental balance and harmony",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "2118423cf35dd8d79a8e7b365e5b33ec",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What does Ayurveda emphasize in its medical approach?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What complementary treatments does Ayurveda combine with herbal medicine?": {
+      "question": "What complementary treatments does Ayurveda combine with herbal medicine?",
+      "answers": {
+        "dietary therapy, yoga, meditation, and massage lifestyle adjustments": {
+          "answer": "dietary therapy, yoga, meditation, and massage lifestyle adjustments",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "52ac07545d8254db994cf0598aa711c1",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What complementary treatments does Ayurveda combine with herbal medicine?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How does Ayurveda's treatment philosophy differ from conventional medicine?": {
+      "question": "How does Ayurveda's treatment philosophy differ from conventional medicine?",
+      "answers": {
+        "focuses on patients rather than diseases themselves": {
+          "answer": "focuses on patients rather than diseases themselves",
+          "references": [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        }
+      },
+      "question_id": "8fec6298e1a45315cb97b19d8131f0ec",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How does Ayurveda's treatment philosophy differ from conventional medicine?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb0b3c11-59e5-4764-a752-871d802b2a83_536799701"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which organization created a new traditional medicine research center in India?": {
+      "question": "Which organization created a new traditional medicine research center in India?",
+      "answers": {
+        "World Health Organization established center in Jamnagar, India": {
+          "answer": "World Health Organization established center in Jamnagar, India",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        }
+      },
+      "question_id": "dedaa797f57188f08f2a6ebb9d1b8bdf",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "Which organization created a new traditional medicine research center in India?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How much funding supports the traditional medicine center in Jamnagar?": {
+      "question": "How much funding supports the traditional medicine center in Jamnagar?",
+      "answers": {
+        "250 million US dollars from Indian government": {
+          "answer": "250 million US dollars from Indian government",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        }
+      },
+      "question_id": "a8a0dc4eff1e5ad6fd3cf41db147ba25",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "How much funding supports the traditional medicine center in Jamnagar?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What systems comprise traditional Indian medicine according to Prime Minister Modi?": {
+      "question": "What systems comprise traditional Indian medicine according to Prime Minister Modi?",
+      "answers": {
+        "Ayurveda, Yoga, Naturopathy, Unani, Siddha, and Homeopathy": {
+          "answer": "Ayurveda, Yoga, Naturopathy, Unani, Siddha, and Homeopathy",
+          "references": [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        }
+      },
+      "question_id": "40030819a9d5415d7b36f83249d618ea",
+      "aggregator_type": "OR",
+      "query_id": "1041",
+      "metadata": {
+        "paraphrases": [
+          "What systems comprise traditional Indian medicine according to Prime Minister Modi?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cb9ef0c6-8b7e-40ec-a20a-a356d3083fe7_261399576"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

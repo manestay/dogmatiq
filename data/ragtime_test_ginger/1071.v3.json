@@ -1,0 +1,1104 @@
+{
+  "query_id": "1071",
+  "title_query": "I am a primary caretaker of a parent who lives with several chronic life-threatening conditions and relies on a number of life-saving medications. I know there have been shortages of medications all over the world, and I want to research the scope of the problem, the reasons behind it, and whether my parent's medications are or are expected to be affected. I want to be better prepared for future shortages, and to find alternative solutions in order to better care for my parent.\nMedication shortage is a growing global concern, impacting both developing and developed countries. I’m collecting reports between 2021 and 2024 on shortages of medications and/or medical supplies in hospitals and pharmacies. I want to identify which drugs or products were affected, the reasons behind the shortages, and how healthcare systems coped.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Global drug shortages stem from pandemic disruptions, high energy costs, manufacturing issues, pricing problems, and limited access to affordable medicines, particularly affecting cancer treatments and creating national security concerns.": {
+          "answer": "Global drug shortages stem from pandemic disruptions, high energy costs, manufacturing issues, pricing problems, and limited access to affordable medicines, particularly affecting cancer treatments and creating national security concerns.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "The FTC and Health Department suspect that three major GPOs and wholesalers controlling hospital drug transactions may be causing shortages by negotiating prices so low that drugmakers reduce or stop production.": {
+          "answer": "The FTC and Health Department suspect that three major GPOs and wholesalers controlling hospital drug transactions may be causing shortages by negotiating prices so low that drugmakers reduce or stop production.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Global antibiotic shortages affect 28 of 35 WHO-monitored countries, with deficits in penicillin-type drugs, painkillers, tuberculosis medications, and anesthetics driving worldwide pharmaceutical supply concerns.": {
+          "answer": "Global antibiotic shortages affect 28 of 35 WHO-monitored countries, with deficits in penicillin-type drugs, painkillers, tuberculosis medications, and anesthetics driving worldwide pharmaceutical supply concerns.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "I cannot provide a summary as no actual information content was provided - only formatting symbols (semicolons and \"and\" conjunctions) without any substantive details to summarize.": {
+          "answer": "I cannot provide a summary as no actual information content was provided - only formatting symbols (semicolons and \"and\" conjunctions) without any substantive details to summarize.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "A WHO study found that medication errors account for 34% of adverse events in Eastern Mediterranean hospitals, with treatment-related harm causing 18% of hospitalizations and contributing $42 billion globally in avoidable costs.": {
+          "answer": "A WHO study found that medication errors account for 34% of adverse events in Eastern Mediterranean hospitals, with treatment-related harm causing 18% of hospitalizations and contributing $42 billion globally in avoidable costs.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Drug shortages are primarily caused by manufacturing and quality issues, supply chain gaps, and production shutdowns, though increased demand like recent weight-loss medication shortages also contributes.": {
+          "answer": "Drug shortages are primarily caused by manufacturing and quality issues, supply chain gaps, and production shutdowns, though increased demand like recent weight-loss medication shortages also contributes.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "The United States faces an unprecedented drug shortage crisis according to health system data, with large healthcare systems making preemptive bulk orders that further strain supply chains.": {
+          "answer": "The United States faces an unprecedented drug shortage crisis according to health system data, with large healthcare systems making preemptive bulk orders that further strain supply chains.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Drug shortages reached a record high of 323 medications in early 2024, with shortages averaging 1.5 years and affecting at least half a million patients, many elderly.": {
+          "answer": "Drug shortages reached a record high of 323 medications in early 2024, with shortages averaging 1.5 years and affecting at least half a million patients, many elderly.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Drug shortages affect all categories including injectable sterile generics, chemotherapy, emergency medications, and ADHD treatments, with less than 50% of essential cancer medicines available in low-income countries.": {
+          "answer": "Drug shortages affect all categories including injectable sterile generics, chemotherapy, emergency medications, and ADHD treatments, with less than 50% of essential cancer medicines available in low-income countries.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Rare diseases affect over 7,000 known conditions but only 400 have corresponding treatments, with annual medical costs ranging from hundreds of thousands to millions of yuan, mostly uncovered by insurance.": {
+          "answer": "Rare diseases affect over 7,000 known conditions but only 400 have corresponding treatments, with annual medical costs ranging from hundreds of thousands to millions of yuan, mostly uncovered by insurance.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Traditional Chinese medicines are mostly imported from mainland China, making it difficult to find alternative sources from other countries when supply becomes unstable.": {
+          "answer": "Traditional Chinese medicines are mostly imported from mainland China, making it difficult to find alternative sources from other countries when supply becomes unstable.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "These problems are linked to economic factors, opaque supply chains, and the fact that 80-90% of certain products are manufactured abroad, with domestic manufacturers being reluctant to import.": {
+          "answer": "These problems are linked to economic factors, opaque supply chains, and the fact that 80-90% of certain products are manufactured abroad, with domestic manufacturers being reluctant to import.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "Drug shortages in the United States increased by 30% last year compared to 2021, with average shortages lasting 18 months and some medications unavailable for 15 years.": {
+          "answer": "Drug shortages in the United States increased by 30% last year compared to 2021, with average shortages lasting 18 months and some medications unavailable for 15 years.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1071",
+      "importance": "vital",
+      "answers": {
+        "A chemical drug shortage occurred due to an Indian factory closure after FDA inspection found quality issues, with import solutions being limited for low- and middle-income countries.": {
+          "answer": "A chemical drug shortage occurred due to an Indian factory closure after FDA inspection found quality issues, with import solutions being limited for low- and middle-income countries.",
+          "references": [
+            {
+              "doc_id": "5274aed3-746d-4d71-baa6-8aa39b97b0ce_945400587"
+            },
+            {
+              "doc_id": "25a56293-2f73-4173-bc6e-c760e5d9ea19_221025291"
+            },
+            {
+              "doc_id": "347229ac-71ad-4796-b8cb-2670a7b70907_671138780"
+            },
+            {
+              "doc_id": "339f9a05-059d-4245-a8bd-b104d6bbd659_852508653"
+            },
+            {
+              "doc_id": "0bf0d21b-9f73-4709-a870-08194da48203_515197876"
+            },
+            {
+              "doc_id": "f8012c19-6ef9-4977-a136-92ae50c2075c_439018019"
+            },
+            {
+              "doc_id": "039b72ee-9139-416e-9f1b-92b866fc03b0_1066817968"
+            },
+            {
+              "doc_id": "e16015ac-f39c-436c-af4f-b921511bf33e_393779106"
+            },
+            {
+              "doc_id": "dbf46369-99cc-4515-9437-6879131895eb_81269902"
+            },
+            {
+              "doc_id": "85839c34-15c7-467c-a6e8-56508760143e_811468325"
+            },
+            {
+              "doc_id": "891336de-02c6-4bef-a0cd-64691de974a4_293050038"
+            },
+            {
+              "doc_id": "9a5d16f6-cd7d-4b21-b9ee-fd37f48388c5_363113101"
+            },
+            {
+              "doc_id": "89fe00c3-16ab-460b-8e6d-94d51253a4a7_615568642"
+            },
+            {
+              "doc_id": "b1d98673-c064-438b-86f1-37b90f84a254_197975690"
+            },
+            {
+              "doc_id": "2a3bc657-2684-4fc5-8d04-845a4d0de69a_39976499"
+            },
+            {
+              "doc_id": "2b594cc2-e41f-46db-a26c-7a42ec0c6695_921023273"
+            },
+            {
+              "doc_id": "6cb4b195-7fe6-422e-bc3e-38aa6cb7e842_453515273"
+            },
+            {
+              "doc_id": "ebc2ec54-acc8-403b-b471-ce23708ec58f_626880785"
+            },
+            {
+              "doc_id": "0865dd4a-4113-4eb8-884e-70df47283aa8_325851178"
+            },
+            {
+              "doc_id": "715fc137-2c50-4950-a8c5-a0b2f5fbec49_567374709"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

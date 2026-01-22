@@ -1,0 +1,661 @@
+{
+  "query_id": "1027",
+  "title_query": "1027",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What circumstances led Latifa Ahmad to enter this male-dominated field?": {
+      "question": "What circumstances led Latifa Ahmad to enter this male-dominated field?",
+      "answers": {
+        "economic crisis forced career change from tailoring workshop": {
+          "answer": "economic crisis forced career change from tailoring workshop",
+          "references": [
+            {
+              "doc_id": "ce448834-76a3-45fc-9e21-d339e03b2bee_749844094"
+            }
+          ]
+        }
+      },
+      "question_id": "1d6d694d043afbe0ef7336c02aa8cb0f",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What circumstances led Latifa Ahmad to enter this male-dominated field?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ce448834-76a3-45fc-9e21-d339e03b2bee_749844094"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What natural advantages do women have in the brewing industry?": {
+      "question": "What natural advantages do women have in the brewing industry?",
+      "answers": {
+        "women have natural advantages in taste sensitivity for brewing": {
+          "answer": "women have natural advantages in taste sensitivity for brewing",
+          "references": [
+            {
+              "doc_id": "534be791-c50d-4fbf-8ee5-c9da7af78b41_8719983"
+            }
+          ]
+        }
+      },
+      "question_id": "a99dade92b0ba853a94922705bf4f945",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What natural advantages do women have in the brewing industry?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "534be791-c50d-4fbf-8ee5-c9da7af78b41_8719983"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What family support program did Ferrexpo implement for gender equality?": {
+      "question": "What family support program did Ferrexpo implement for gender equality?",
+      "answers": {
+        "male parental leave program allowing women continued career growth": {
+          "answer": "male parental leave program allowing women continued career growth",
+          "references": [
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            }
+          ]
+        }
+      },
+      "question_id": "3aa70d34d36803a75d840ef4afdef6de",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What family support program did Ferrexpo implement for gender equality?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "65fbc85d-e429-4d5a-9efc-ced8faf79161_540514178"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of construction industry workers are women?": {
+      "question": "What percentage of construction industry workers are women?",
+      "answers": {
+        "14.1% in May, highest historical level": {
+          "answer": "14.1% in May, highest historical level",
+          "references": [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ]
+        },
+        "10 percent of construction industry workers": {
+          "answer": "10 percent of construction industry workers",
+          "references": [
+            {
+              "doc_id": "c6691d00-dfb0-4b34-8d9d-a1453a0429a1_717856038"
+            }
+          ]
+        }
+      },
+      "question_id": "249829e606c925235763866bb9e4939c",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of US construction workers are women currently?",
+          "What percentage of construction industry workers are women?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ],
+          [
+            {
+              "doc_id": "c6691d00-dfb0-4b34-8d9d-a1453a0429a1_717856038"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more representative because it is broader and more general, making it more likely to provide a comprehensive understanding of the current state of women in the construction industry.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What physical challenges did the female trainee overcome during training?": {
+      "question": "What physical challenges did the female trainee overcome during training?",
+      "answers": {
+        "carrying 10+ kilogram equipment for land and sea operations": {
+          "answer": "carrying 10+ kilogram equipment for land and sea operations",
+          "references": [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        }
+      },
+      "question_id": "821aaf02ced488d7b918aae07cd2f3b3",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What physical challenges did the female trainee overcome during training?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "061641d6-49c2-4b0c-ac1e-001c86b80a9e_89871675"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Ho Tsz-ting describe the aviation industry outlook?": {
+      "question": "How did Ho Tsz-ting describe the aviation industry outlook?",
+      "answers": {
+        "optimistic prospects in the aviation industry": {
+          "answer": "optimistic prospects in the aviation industry",
+          "references": [
+            {
+              "doc_id": "eea230ef-510d-4333-a0f2-b5ae9830fdeb_339644006"
+            }
+          ]
+        }
+      },
+      "question_id": "455716b2a73a454de38f7f330fc31a84",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How did Ho Tsz-ting describe the aviation industry outlook?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "eea230ef-510d-4333-a0f2-b5ae9830fdeb_339644006"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What are average salaries for construction roles without college degrees?": {
+      "question": "What are average salaries for construction roles without college degrees?",
+      "answers": {
+        "$59,000 for electricians, $98,500 for construction managers": {
+          "answer": "$59,000 for electricians, $98,500 for construction managers",
+          "references": [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ]
+        }
+      },
+      "question_id": "1265a1820c0c37f5bdb1d811cd100cc6",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What are average salaries for construction roles without college degrees?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "589ca671-5a89-4831-abc9-9f0a59aeb2b9_935642743"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When did Meralco first include women in its linecrew training program?": {
+      "question": "When did Meralco first include women in its linecrew training program?",
+      "answers": {
+        "2013": {
+          "answer": "2013",
+          "references": [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        }
+      },
+      "question_id": "a7bce8aedddb694c8fa470ded0a5b6b8",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "When did Meralco first include women in its linecrew training program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What educational background helped Rachael Reresi succeed in construction?": {
+      "question": "What educational background helped Rachael Reresi succeed in construction?",
+      "answers": {
+        "mechanical engineering education from National Polytechnic Institute of Papua New Guinea": {
+          "answer": "mechanical engineering education from National Polytechnic Institute of Papua New Guinea",
+          "references": [
+            {
+              "doc_id": "1cd9e393-4db2-462d-ae50-377c72aa0dc4_1038775602"
+            }
+          ]
+        }
+      },
+      "question_id": "ea497c45299f7fedee49a0fd756e48bb",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What educational background helped Rachael Reresi succeed in construction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1cd9e393-4db2-462d-ae50-377c72aa0dc4_1038775602"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who does the Lifting Equipment Technician apprenticeship program target?": {
+      "question": "Who does the Lifting Equipment Technician apprenticeship program target?",
+      "answers": {
+        "school leavers with observational skills and hands-on attitudes": {
+          "answer": "school leavers with observational skills and hands-on attitudes",
+          "references": [
+            {
+              "doc_id": "2981dfca-63c3-4bc6-b366-5c1273311ff2_550477292"
+            }
+          ]
+        }
+      },
+      "question_id": "d29c134457cf87afc707adc59a8862ac",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "Who does the Lifting Equipment Technician apprenticeship program target?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2981dfca-63c3-4bc6-b366-5c1273311ff2_550477292"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did management support Walker-Ross against gender discrimination?": {
+      "question": "How did management support Walker-Ross against gender discrimination?",
+      "answers": {
+        "supervisor supported her qualifications when driver refused services": {
+          "answer": "supervisor supported her qualifications when driver refused services",
+          "references": [
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            }
+          ]
+        }
+      },
+      "question_id": "275dafaf1461f3dc83e7de4e5c0f5d3b",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How did management support Walker-Ross against gender discrimination?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b4382681-f199-43dc-a190-ef39b5bf9a5d_476864776"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which facility celebrated pioneering female operators during Women's History Month?": {
+      "question": "Which facility celebrated pioneering female operators during Women's History Month?",
+      "answers": {
+        "Savannah River Site in Aiken, South Carolina": {
+          "answer": "Savannah River Site in Aiken, South Carolina",
+          "references": [
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            }
+          ]
+        }
+      },
+      "question_id": "350d369ad27a5ae4363822672e1f2e72",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "Which facility celebrated pioneering female operators during Women's History Month?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3a8cbfea-9ef3-4a87-b89f-73c826c436b8_140000997"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What feminine qualities does Irina Gekht highlight as important professionally?": {
+      "question": "What feminine qualities does Irina Gekht highlight as important professionally?",
+      "answers": {
+        "empathy and compassion": {
+          "answer": "empathy and compassion",
+          "references": [
+            {
+              "doc_id": "cddc1e99-ca35-49f6-8e28-f691bf1eefe7_1050743579"
+            }
+          ]
+        }
+      },
+      "question_id": "5d7b659e2e508d1f347e6189099ea70f",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What feminine qualities does Irina Gekht highlight as important professionally?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cddc1e99-ca35-49f6-8e28-f691bf1eefe7_1050743579"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What gender discrimination challenges does Tyler Mahoney face in gold prospecting?": {
+      "question": "What gender discrimination challenges does Tyler Mahoney face in gold prospecting?",
+      "answers": {
+        "experiencing workplace sexual harassment and struggling to gain respect": {
+          "answer": "experiencing workplace sexual harassment and struggling to gain respect",
+          "references": [
+            {
+              "doc_id": "14183df7-2bf8-4c4a-a6a2-eee94ef35c43_290109839"
+            }
+          ]
+        }
+      },
+      "question_id": "3e9dfa2e9ad6ed87eddd2b3c8a08f166",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What gender discrimination challenges does Tyler Mahoney face in gold prospecting?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "14183df7-2bf8-4c4a-a6a2-eee94ef35c43_290109839"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What achievement proved Chen Huodi's professional competence in construction?": {
+      "question": "What achievement proved Chen Huodi's professional competence in construction?",
+      "answers": {
+        "won second place in Hong Kong Construction Skills Competition": {
+          "answer": "won second place in Hong Kong Construction Skills Competition",
+          "references": [
+            {
+              "doc_id": "bf6c1f9b-f19a-4c11-991c-650da7e72cf2_1069158876"
+            }
+          ]
+        }
+      },
+      "question_id": "3f13069f44dc05bb8f9d80ec198554f8",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What achievement proved Chen Huodi's professional competence in construction?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "bf6c1f9b-f19a-4c11-991c-650da7e72cf2_1069158876"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What advantages do companies gain from implementing inclusive hiring strategies?": {
+      "question": "What advantages do companies gain from implementing inclusive hiring strategies?",
+      "answers": {
+        "improved internal culture and positive public image": {
+          "answer": "improved internal culture and positive public image",
+          "references": [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        }
+      },
+      "question_id": "47e6ed8b8e896e89438d7cda33bc919d",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What advantages do companies gain from implementing inclusive hiring strategies?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "37e0b781-4c2a-44c1-bed6-e2c232792ed9_107068371"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What aspects of the job does Jewel Everett find satisfying?": {
+      "question": "What aspects of the job does Jewel Everett find satisfying?",
+      "answers": {
+        "demanding work, good compensation, and community service": {
+          "answer": "demanding work, good compensation, and community service",
+          "references": [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        }
+      },
+      "question_id": "f88dd7c93fde563b650bb975dc9f5345",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What aspects of the job does Jewel Everett find satisfying?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5db3cd35-e9aa-45e4-92a6-f53a64c446d3_904794769"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What leadership position does Shannon Kasinger Clark hold at NSWC Crane?": {
+      "question": "What leadership position does Shannon Kasinger Clark hold at NSWC Crane?",
+      "answers": {
+        "Chief Strategist for Expeditionary Warfare Mission Area": {
+          "answer": "Chief Strategist for Expeditionary Warfare Mission Area",
+          "references": [
+            {
+              "doc_id": "0e63a60c-9a64-4f48-96b4-74b563b0f840_886601763"
+            }
+          ]
+        }
+      },
+      "question_id": "e21de14e27a8c4ca1e77e57e70aa2547",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What leadership position does Shannon Kasinger Clark hold at NSWC Crane?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0e63a60c-9a64-4f48-96b4-74b563b0f840_886601763"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Taiwan Power Company encourage their female trainee?": {
+      "question": "How did Taiwan Power Company encourage their female trainee?",
+      "answers": {
+        "arranging female mentors for demonstration and support": {
+          "answer": "arranging female mentors for demonstration and support",
+          "references": [
+            {
+              "doc_id": "0cba40be-84c2-4ac7-9c5a-98e16d4699f9_1070461585"
+            }
+          ]
+        }
+      },
+      "question_id": "47b8d8e3bed186adbc1532d765b4edc7",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "How did Taiwan Power Company encourage their female trainee?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0cba40be-84c2-4ac7-9c5a-98e16d4699f9_1070461585"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is Centamin company's policy regarding gender employment?": {
+      "question": "What is Centamin company's policy regarding gender employment?",
+      "answers": {
+        "commitment to employing both genders equally": {
+          "answer": "commitment to employing both genders equally",
+          "references": [
+            {
+              "doc_id": "207175f2-ab1f-491c-b9ca-1d49daf32d72_913741610"
+            }
+          ]
+        }
+      },
+      "question_id": "bb20ac6f7ebc06b09512dc3ca350846f",
+      "aggregator_type": "OR",
+      "query_id": "1027",
+      "metadata": {
+        "paraphrases": [
+          "What is Centamin company's policy regarding gender employment?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "207175f2-ab1f-491c-b9ca-1d49daf32d72_913741610"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

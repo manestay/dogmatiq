@@ -1,0 +1,1026 @@
+{
+  "query_id": "1033",
+  "title_query": "As a labor policy researcher, I want to explore the growing trend of the 4-day workweek, including its potential benefits such as increased productivity and work-life balance, as well as the challenges it poses for employers and workers. This will help me assess whether and how this model can be adopted across different industries and countries.\nI would like to learn about the global trend toward a 4-day workweek, including its reported benefits—such as improved employee well-being and productivity—and the challenges related to implementation, equity, and business continuity.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 13
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "The pandemic accelerated remote work adoption and flexible working discussions, leading companies to explore four-day workweeks as employee benefits, though implementation faces challenges including potential salary reductions and increased work intensity.": {
+          "answer": "The pandemic accelerated remote work adoption and flexible working discussions, leading companies to explore four-day workweeks as employee benefits, though implementation faces challenges including potential salary reductions and increased work intensity.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "Seventy UK companies joined a six-month trial where 2,900 employees worked four days per week with full pay, following the 100-80-100 model of maintaining 100% productivity for 80% time.": {
+          "answer": "Seventy UK companies joined a six-month trial where 2,900 employees worked four days per week with full pay, following the 100-80-100 model of maintaining 100% productivity for 80% time.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "The world's largest four-day work week trial began in the UK in June, organized by 4 Day Week Global, involving over 60-70 companies and approximately 3,000-3,300 workers testing reduced hours without pay cuts.": {
+          "answer": "The world's largest four-day work week trial began in the UK in June, organized by 4 Day Week Global, involving over 60-70 companies and approximately 3,000-3,300 workers testing reduced hours without pay cuts.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "Businesses should carefully consider their reasons for adopting a four-day workweek, as while it improves work-life balance and wellbeing, it may not be a universal productivity solution and faces implementation challenges.": {
+          "answer": "Businesses should carefully consider their reasons for adopting a four-day workweek, as while it improves work-life balance and wellbeing, it may not be a universal productivity solution and faces implementation challenges.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "Companies not offering four-day work weeks cite concerns about staffing costs outweighing productivity benefits (65%), challenges meeting customer demands (75%), and management complexity (70%), while employers worry about potential productivity declines.": {
+          "answer": "Companies not offering four-day work weeks cite concerns about staffing costs outweighing productivity benefits (65%), challenges meeting customer demands (75%), and management complexity (70%), while employers worry about potential productivity declines.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "European research supports four-day work weeks for improving work-life balance and productivity, but implementation challenges may create workforce inequality, particularly affecting healthcare workers unable to reduce hours.": {
+          "answer": "European research supports four-day work weeks for improving work-life balance and productivity, but implementation challenges may create workforce inequality, particularly affecting healthcare workers unable to reduce hours.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "In 2021, 27% of American business owners had already implemented four-day work schedules while 35% planned to, with 89% of participating companies maintaining the practice by 2023's end.": {
+          "answer": "In 2021, 27% of American business owners had already implemented four-day work schedules while 35% planned to, with 89% of participating companies maintaining the practice by 2023's end.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "A UK trial found that employee health, wellbeing, and productivity significantly improved, with 22% increased productivity, reduced stress and burnout, though sleep quality results were mixed across different industries.": {
+          "answer": "A UK trial found that employee health, wellbeing, and productivity significantly improved, with 22% increased productivity, reduced stress and burnout, though sleep quality results were mixed across different industries.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "A four-day work week experiment involving 61 companies showed significant benefits including 60% fewer sick days, reduced turnover, 1% income growth, with researchers from Boston College, Cambridge, and Oxford confirming lasting positive impacts.": {
+          "answer": "A four-day work week experiment involving 61 companies showed significant benefits including 60% fewer sick days, reduced turnover, 1% income growth, with researchers from Boston College, Cambridge, and Oxford confirming lasting positive impacts.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "After successful four-day work week trials in New Zealand, companies like Unilever are expanding to Australia, while a six-month study involving 70 businesses and over 3,000 employees across multiple countries shows promising results.": {
+          "answer": "After successful four-day work week trials in New Zealand, companies like Unilever are expanding to Australia, while a six-month study involving 70 businesses and over 3,000 employees across multiple countries shows promising results.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "Research shows that reducing work hours while maintaining wages leads to higher life satisfaction, better work-life balance, improved physical and mental health, increased social activity, and reduced work-related fatigue for employees.": {
+          "answer": "Research shows that reducing work hours while maintaining wages leads to higher life satisfaction, better work-life balance, improved physical and mental health, increased social activity, and reduced work-related fatigue for employees.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "IT companies are more likely to adopt four-day workweeks than customer-facing sectors, with 96% of trial employees preferring the schedule for better sleep, family time, and work-life balance.": {
+          "answer": "IT companies are more likely to adopt four-day workweeks than customer-facing sectors, with 96% of trial employees preferring the schedule for better sleep, family time, and work-life balance.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1033",
+      "importance": "vital",
+      "answers": {
+        "Implementing a four-day work week presents challenges requiring behavior changes, manager development, and cultural shifts, with debates arising over workforce entitlement and maintaining productivity while improving work-life balance.": {
+          "answer": "Implementing a four-day work week presents challenges requiring behavior changes, manager development, and cultural shifts, with debates arising over workforce entitlement and maintaining productivity while improving work-life balance.",
+          "references": [
+            {
+              "doc_id": "4c2db427-4932-4b7c-977a-dfac0181fffd_255105730"
+            },
+            {
+              "doc_id": "04b2f2a0-28da-4acb-915d-4a601d16aec2_892204018"
+            },
+            {
+              "doc_id": "1ca23fc5-1e30-4aa8-ac99-04ecc30df58b_831866648"
+            },
+            {
+              "doc_id": "941bb6a1-0562-49cf-b65d-40a1edf10f98_903436754"
+            },
+            {
+              "doc_id": "b2927506-8cda-4b92-8aa4-c54084dee51e_332522273"
+            },
+            {
+              "doc_id": "b5faf33f-d3d4-4a66-95a7-0126445042f9_284671742"
+            },
+            {
+              "doc_id": "9c22c8be-5fb6-45e6-8201-81d909bd0599_946811357"
+            },
+            {
+              "doc_id": "9e1be21b-78bd-4a02-99be-30592613efad_77733316"
+            },
+            {
+              "doc_id": "8d1e8dce-0568-453d-acaf-717b98c0383c_383141420"
+            },
+            {
+              "doc_id": "cc3a259a-ce3b-4f94-9713-38685c43f269_916045631"
+            },
+            {
+              "doc_id": "cf48d8ac-0386-40b7-9253-77191b543af4_295608395"
+            },
+            {
+              "doc_id": "1fc15b8e-eed5-499c-937b-c6b42c8ef6b1_644025128"
+            },
+            {
+              "doc_id": "d5e7633e-4964-44ea-86b2-578d7f85d75a_492757152"
+            },
+            {
+              "doc_id": "efbf8e21-e4ed-43ac-86a1-7217a6030d69_660392548"
+            },
+            {
+              "doc_id": "08c71a3b-8df7-4914-bf64-4b617a2a7d1f_878798027"
+            },
+            {
+              "doc_id": "8eccf2a6-c77e-497c-a3ad-685f68e66f0d_706398177"
+            },
+            {
+              "doc_id": "2afb54f5-6e6f-4cd6-9856-49054d7f7c21_155420427"
+            },
+            {
+              "doc_id": "56adfbca-a2b9-402a-8105-b7e282865071_669235408"
+            },
+            {
+              "doc_id": "7058c1ec-20ea-4496-9ade-e2cda7ccfc06_698203815"
+            },
+            {
+              "doc_id": "cb4ac5bc-bc25-4f66-82eb-2fb95df543dd_683572091"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    }
+  }
+}

@@ -1,0 +1,810 @@
+{
+  "query_id": "1011",
+  "title_query": "1011",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Which major Saudi companies does the Public Investment Fund hold stakes in?": {
+      "question": "Which major Saudi companies does the Public Investment Fund hold stakes in?",
+      "answers": {
+        "Saudi Aramco, Saudi Telecom Company, and Ma'aden Mining Company": {
+          "answer": "Saudi Aramco, Saudi Telecom Company, and Ma'aden Mining Company",
+          "references": [
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        }
+      },
+      "question_id": "212af7229991dad447138acc1810a551",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Which major Saudi companies does the Public Investment Fund hold stakes in?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "29734349-f777-46bc-a6b3-b65322e38fbe_690866150"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What enabled Saudi Arabia's success in cultural transformation?": {
+      "question": "What enabled Saudi Arabia's success in cultural transformation?",
+      "answers": {
+        "political courage in making reality-based decisions": {
+          "answer": "political courage in making reality-based decisions",
+          "references": [
+            {
+              "doc_id": "3c834768-2b4c-4c7b-9ed8-48ea91af2156_142988122"
+            }
+          ]
+        }
+      },
+      "question_id": "8b8ee80ee5679a47617c3df484b878b3",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What enabled Saudi Arabia's success in cultural transformation?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3c834768-2b4c-4c7b-9ed8-48ea91af2156_142988122"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Under which framework did Mohammed bin Salman consolidate Saudi national identity?": {
+      "question": "Under which framework did Mohammed bin Salman consolidate Saudi national identity?",
+      "answers": {
+        "Saudi Vision 2030": {
+          "answer": "Saudi Vision 2030",
+          "references": [
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            }
+          ]
+        }
+      },
+      "question_id": "677ac8276280277e96cf59923b1526a9",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Under which framework did Mohammed bin Salman consolidate Saudi national identity?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "8187c124-b7d8-491e-a402-c6dc19fae6a0_368825303"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?": {
+      "question": "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
+      "answers": {
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ]
+        },
+        "diversifying income sources and combating corruption and extremism": {
+          "answer": "diversifying income sources and combating corruption and extremism",
+          "references": [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ]
+        },
+        "Vision 2030 modernization plan": {
+          "answer": "Vision 2030 modernization plan",
+          "references": [
+            {
+              "doc_id": "f14b5c9e-084a-4291-8dc9-a631b84e6c4c_107673090"
+            }
+          ]
+        },
+        "institutional restructuring and fighting corruption within the royal family": {
+          "answer": "institutional restructuring and fighting corruption within the royal family",
+          "references": [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ]
+        },
+        "Vision 2030 transformational projects": {
+          "answer": "Vision 2030 transformational projects",
+          "references": [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ]
+        },
+        "Vision 2030 economic modernization program": {
+          "answer": "Vision 2030 economic modernization program",
+          "references": [
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            }
+          ]
+        }
+      },
+      "question_id": "29e942e062c22d410f09708aa3c865bb",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
+          "What are Mohammed bin Salman's key reform objectives for Saudi Arabia?",
+          "What is Mohammed bin Salman's reform initiative for Saudi Arabia?",
+          "What major internal reforms has Mohammed bin Salman implemented in Saudi Arabia?",
+          "What major reform initiative is Mohammed bin Salman leading in Saudi Arabia?",
+          "What major reform initiative has Mohammed bin Salman Al Saud launched?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            },
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ],
+          [
+            {
+              "doc_id": "3575335e-eed6-4f6d-be45-e0b382b2a227_139594759"
+            }
+          ],
+          [
+            {
+              "doc_id": "f14b5c9e-084a-4291-8dc9-a631b84e6c4c_107673090"
+            }
+          ],
+          [
+            {
+              "doc_id": "0f37144d-1ae3-4b17-aa7e-e87704c24a29_359865985"
+            }
+          ],
+          [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ],
+          [
+            {
+              "doc_id": "0f1b1e80-0ad8-47a9-958c-d307747ea092_404328681"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is the most representative because it specifically asks for a comprehensive reform plan, which aligns with the user's request for a report on MBS's 2030 vision and its associated social and economic reforms.",
+        "num_paraphrases_unique": 6,
+        "num_paraphrases_total": 7,
+        "num_answers": 6
+      }
+    },
+    "Which American network conducted Mohammed bin Salman's recent interview?": {
+      "question": "Which American network conducted Mohammed bin Salman's recent interview?",
+      "answers": {
+        "Fox News": {
+          "answer": "Fox News",
+          "references": [
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            }
+          ]
+        }
+      },
+      "question_id": "cc0dd40d279bb9556b73e31d902a8355",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Which American network conducted Mohammed bin Salman's recent interview?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cdc2aff2-38bb-412f-9e54-466bcc59c27b_383313697"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What restriction on Islamic practices has Saudi Arabia implemented?": {
+      "question": "What restriction on Islamic practices has Saudi Arabia implemented?",
+      "answers": {
+        "reduced mosque call-to-prayer volumes": {
+          "answer": "reduced mosque call-to-prayer volumes",
+          "references": [
+            {
+              "doc_id": "32019b46-1650-4b8e-9a8d-1ec25d723119_937428739"
+            }
+          ]
+        }
+      },
+      "question_id": "92bd316f203e3f9466a4830bfecbc241",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What restriction on Islamic practices has Saudi Arabia implemented?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "32019b46-1650-4b8e-9a8d-1ec25d723119_937428739"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has Vision 2030 improved social conditions in Saudi Arabia?": {
+      "question": "How has Vision 2030 improved social conditions in Saudi Arabia?",
+      "answers": {
+        "enhancing citizenship rights and gender equality": {
+          "answer": "enhancing citizenship rights and gender equality",
+          "references": [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ]
+        },
+        "improving quality of life for citizens and residents": {
+          "answer": "improving quality of life for citizens and residents",
+          "references": [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ]
+        }
+      },
+      "question_id": "c60b159b191b8ca031c2ad90acc763ad",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "How has Vision 2030 improved social conditions in Saudi Arabia?",
+          "How has Vision 2030 enhanced social conditions in Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ],
+          [
+            {
+              "doc_id": "ed745716-f1be-4d88-8500-21e283a22105_371148383"
+            }
+          ]
+        ],
+        "canonical_explanation": "Both questions are nearly identical, but the first one is slightly more concise and directly asks about improvement, making it a more representative query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How do these space missions symbolize Saudi Arabia's change?": {
+      "question": "How do these space missions symbolize Saudi Arabia's change?",
+      "answers": {
+        "transforming from closed state to modern country": {
+          "answer": "transforming from closed state to modern country",
+          "references": [
+            {
+              "doc_id": "986b88ef-41ad-4adc-b83a-0e3a6fbed652_784402729"
+            }
+          ]
+        }
+      },
+      "question_id": "78dd9e773e1f180a3e444bf0d2f4d254",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "How do these space missions symbolize Saudi Arabia's change?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "986b88ef-41ad-4adc-b83a-0e3a6fbed652_784402729"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "When was Mohammed bin Salman appointed as Prime Minister of Saudi Arabia?": {
+      "question": "When was Mohammed bin Salman appointed as Prime Minister of Saudi Arabia?",
+      "answers": {
+        "Mohammed bin Salman was appointed Prime Minister in 2022": {
+          "answer": "Mohammed bin Salman was appointed Prime Minister in 2022",
+          "references": [
+            {
+              "doc_id": "4c77517a-f15f-40ef-be6e-f30e1d00ebd2_96455493"
+            }
+          ]
+        }
+      },
+      "question_id": "00ba788fe648abab1bc1b9d08995cfa2",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "When was Mohammed bin Salman appointed as Prime Minister of Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4c77517a-f15f-40ef-be6e-f30e1d00ebd2_96455493"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What did Mohammed bin Salman say motivates Saudi Arabia's sports investments?": {
+      "question": "What did Mohammed bin Salman say motivates Saudi Arabia's sports investments?",
+      "answers": {
+        "making Saudi people happy, not pleasing the world": {
+          "answer": "making Saudi people happy, not pleasing the world",
+          "references": [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ]
+        }
+      },
+      "question_id": "16c689b929a3fa78064e5baeefeedb04",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What did Mohammed bin Salman say motivates Saudi Arabia's sports investments?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7bad6264-fc46-435a-a015-08b4f16ceb06_326471779"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What makes Saudi Arabia's geographic location strategically important for trade?": {
+      "question": "What makes Saudi Arabia's geographic location strategically important for trade?",
+      "answers": {
+        "connecting Asia, Europe, and Africa through international waterways": {
+          "answer": "connecting Asia, Europe, and Africa through international waterways",
+          "references": [
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            }
+          ]
+        }
+      },
+      "question_id": "c445ba9abc40247da8cdd71c98b2dc35",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What makes Saudi Arabia's geographic location strategically important for trade?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "02a77179-2293-4105-ae92-bdc9ff4c60eb_824706076"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did Saudi Arabia change its founding date?": {
+      "question": "How did Saudi Arabia change its founding date?",
+      "answers": {
+        "from 1744 to 1727": {
+          "answer": "from 1744 to 1727",
+          "references": [
+            {
+              "doc_id": "e6aa347f-8849-47a0-9a31-c7458eb1a237_71661160"
+            }
+          ]
+        }
+      },
+      "question_id": "c83637d6e633848067144f3ed9b10f93",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "How did Saudi Arabia change its founding date?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e6aa347f-8849-47a0-9a31-c7458eb1a237_71661160"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage did non-oil GDP reach in Saudi Arabia last year?": {
+      "question": "What percentage did non-oil GDP reach in Saudi Arabia last year?",
+      "answers": {
+        "over fifty percent of total GDP": {
+          "answer": "over fifty percent of total GDP",
+          "references": [
+            {
+              "doc_id": "06c02d9c-b98f-47a5-9573-e7dccfa76092_78227085"
+            }
+          ]
+        }
+      },
+      "question_id": "3cb4d8efcfe05f81c177437702a6edf9",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What percentage did non-oil GDP reach in Saudi Arabia last year?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "06c02d9c-b98f-47a5-9573-e7dccfa76092_78227085"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Where are Saudi Arabia's smart cities being developed?": {
+      "question": "Where are Saudi Arabia's smart cities being developed?",
+      "answers": {
+        "NEOM region": {
+          "answer": "NEOM region",
+          "references": [
+            {
+              "doc_id": "b13f56b9-bc35-4594-9d2d-69eaf0ac87fa_104811013"
+            }
+          ]
+        }
+      },
+      "question_id": "e80656e6a243bf2c20491fd716cbb270",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Where are Saudi Arabia's smart cities being developed?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b13f56b9-bc35-4594-9d2d-69eaf0ac87fa_104811013"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who leads Saudi Arabia's Vision 2030 initiative?": {
+      "question": "Who leads Saudi Arabia's Vision 2030 initiative?",
+      "answers": {
+        "Crown Prince Mohammed bin Salman": {
+          "answer": "Crown Prince Mohammed bin Salman",
+          "references": [
+            {
+              "doc_id": "9ff833e1-c1d4-4658-9be0-5861973fea8f_72248479"
+            },
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        },
+        "Mohammed bin Salman bin Abdulaziz Al Saud": {
+          "answer": "Mohammed bin Salman bin Abdulaziz Al Saud",
+          "references": [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ]
+        },
+        "Mohammed bin Salman": {
+          "answer": "Mohammed bin Salman",
+          "references": [
+            {
+              "doc_id": "a24f177b-e40a-4466-a8ca-27ce2859e6d1_716889618"
+            }
+          ]
+        },
+        "Crown Prince Mohammed bin Salman Al Saud": {
+          "answer": "Crown Prince Mohammed bin Salman Al Saud",
+          "references": [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ]
+        }
+      },
+      "question_id": "7824bd3137c5e0c7e1b66dfd10ed0f87",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Who is implementing Saudi Arabia's Vision 2030 development plan?",
+          "Who is leading Saudi Arabia's Vision 2030 development initiative?",
+          "Who leads Saudi Vision 2030's comprehensive development initiative?",
+          "Who leads Saudi Arabia's Vision 2030 initiative?",
+          "Who leads Saudi Arabia's Vision 2030 transformation program?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9ff833e1-c1d4-4658-9be0-5861973fea8f_72248479"
+            }
+          ],
+          [
+            {
+              "doc_id": "c456399f-060a-440f-8317-0f9dc08ba936_479488907"
+            }
+          ],
+          [
+            {
+              "doc_id": "a24f177b-e40a-4466-a8ca-27ce2859e6d1_716889618"
+            }
+          ],
+          [
+            {
+              "doc_id": "c05ec712-2b58-4cd7-a651-eeba7b546fd3_360094863"
+            }
+          ],
+          [
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most concise and directly asks about the leader of Saudi Arabia's Vision 2030 initiative, which is the central figure of the user's request.",
+        "num_paraphrases_unique": 5,
+        "num_paraphrases_total": 5,
+        "num_answers": 4
+      }
+    },
+    "What are the main economic goals of Vision 2030?": {
+      "question": "What are the main economic goals of Vision 2030?",
+      "answers": {
+        "reduce dependence on oil and attract tourists": {
+          "answer": "reduce dependence on oil and attract tourists",
+          "references": [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            }
+          ]
+        },
+        "reduce dependence on oil and increase non-oil revenues": {
+          "answer": "reduce dependence on oil and increase non-oil revenues",
+          "references": [
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            }
+          ]
+        },
+        "diversify income sources and reduce oil dependence": {
+          "answer": "diversify income sources and reduce oil dependence",
+          "references": [
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            }
+          ]
+        }
+      },
+      "question_id": "32804077638ce02ef722e026e376697d",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What are the main economic goals of Vision 2030?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b07a8d73-e542-437e-8984-decb47d00cb5_125623190"
+            },
+            {
+              "doc_id": "b5f2c392-9bc6-4a26-a76f-8ad29ccebef1_964810200"
+            },
+            {
+              "doc_id": "e49f9128-b0f8-40c8-88d1-c2971932eab2_221045447"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What is Neom's ultimate population target according to officials?": {
+      "question": "What is Neom's ultimate population target according to officials?",
+      "answers": {
+        "nine million people": {
+          "answer": "nine million people",
+          "references": [
+            {
+              "doc_id": "43ab9c90-7c36-4b2a-94cd-117c9dfa55c8_33332921"
+            }
+          ]
+        }
+      },
+      "question_id": "657779933a46bbc4cef11e8b2e28a210",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Neom's ultimate population target according to officials?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "43ab9c90-7c36-4b2a-94cd-117c9dfa55c8_33332921"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is Saudi Arabia's strategic plan that amazes world leaders?": {
+      "question": "What is Saudi Arabia's strategic plan that amazes world leaders?",
+      "answers": {
+        "Vision 2030": {
+          "answer": "Vision 2030",
+          "references": [
+            {
+              "doc_id": "1287df68-6b5a-4953-a796-97dc10adbe92_29682369"
+            }
+          ]
+        }
+      },
+      "question_id": "df37a77c363685db83e40df5a3ea69fd",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "What is Saudi Arabia's strategic plan that amazes world leaders?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1287df68-6b5a-4953-a796-97dc10adbe92_29682369"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who invited Arab leaders to the 32nd Arab Summit?": {
+      "question": "Who invited Arab leaders to the 32nd Arab Summit?",
+      "answers": {
+        "King Salman bin Abdulaziz": {
+          "answer": "King Salman bin Abdulaziz",
+          "references": [
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        }
+      },
+      "question_id": "5d5544ffb8a1b29af05ee78108eeb780",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "Who invited Arab leaders to the 32nd Arab Summit?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "42f3deca-47ad-40e8-9345-e74ec4b3fb6f_537533521"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How has Mohammed bin Salman transformed government operations in Saudi Arabia?": {
+      "question": "How has Mohammed bin Salman transformed government operations in Saudi Arabia?",
+      "answers": {
+        "attracting young talents and changing Cabinet cooperation dynamics": {
+          "answer": "attracting young talents and changing Cabinet cooperation dynamics",
+          "references": [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ]
+        }
+      },
+      "question_id": "71ae5541a63776135b3f89e965e76c41",
+      "aggregator_type": "OR",
+      "query_id": "1011",
+      "metadata": {
+        "paraphrases": [
+          "How has Mohammed bin Salman transformed government operations in Saudi Arabia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4ed536b4-231e-4ddc-82d1-b2ff719038d8_568433226"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

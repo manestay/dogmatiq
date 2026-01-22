@@ -1,0 +1,1104 @@
+{
+  "query_id": "1005",
+  "title_query": "I work for an international travel platform and am curating content to inspire remote workers. This topic is especially relevant to our younger users considering lifestyle shifts post-pandemic.\nWith remote work becoming normalized, many people are choosing to travel while working from laptops. This report should explain what the digital nomad lifestyle is, which countries support it with visas, and what challenges or advantages it presents. Include insights on the types of work suited to this lifestyle and tools commonly used.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "During the pandemic, tourism destinations introduced special visa programs for digital nomads who work remotely in various fields, seeking affordable living through geographical arbitrage while requiring financial stability and legal compliance.": {
+          "answer": "During the pandemic, tourism destinations introduced special visa programs for digital nomads who work remotely in various fields, seeking affordable living through geographical arbitrage while requiring financial stability and legal compliance.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Digital nomads are remote workers who travel while maintaining productivity, typically highly educated people in their 30s who require proper setup including furniture and internet connections.": {
+          "answer": "Digital nomads are remote workers who travel while maintaining productivity, typically highly educated people in their 30s who require proper setup including furniture and internet connections.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Remote desktop software connects devices via internet using client and agent applications, enabling digital nomads to access home computer software remotely while maintaining productivity with essential mobile office equipment.": {
+          "answer": "Remote desktop software connects devices via internet using client and agent applications, enabling digital nomads to access home computer software remotely while maintaining productivity with essential mobile office equipment.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Croatia ranks as the world's most attractive digital nomad destination due to good infrastructure, affordable lifestyle, and early introduction of digital nomad visas for tourism promotion.": {
+          "answer": "Croatia ranks as the world's most attractive digital nomad destination due to good infrastructure, affordable lifestyle, and early introduction of digital nomad visas for tourism promotion.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Thailand, Indonesia, Vietnam, and other locations are becoming popular digital nomad destinations due to their favorable climates, high-speed internet, easy visa policies, and low living costs.": {
+          "answer": "Thailand, Indonesia, Vietnam, and other locations are becoming popular digital nomad destinations due to their favorable climates, high-speed internet, easy visa policies, and low living costs.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Since 2020, the COVID-19 pandemic has driven rapid growth in digital nomads worldwide as remote work policies enabled location-independent employment, though infrastructure shortages persist.": {
+          "answer": "Since 2020, the COVID-19 pandemic has driven rapid growth in digital nomads worldwide as remote work policies enabled location-independent employment, though infrastructure shortages persist.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Remote work enables professionals like developers and designers to work from various locations using laptops, internet connections, and remote desktop software to access powerful home computers.": {
+          "answer": "Remote work enables professionals like developers and designers to work from various locations using laptops, internet connections, and remote desktop software to access powerful home computers.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Digital nomads numbered 7.3 million in the US in 2019, with global estimates around 35 million, and projections suggest this could reach one billion by 2030-2035.": {
+          "answer": "Digital nomads numbered 7.3 million in the US in 2019, with global estimates around 35 million, and projections suggest this could reach one billion by 2030-2035.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Digital nomad visas allow remote workers earning at least $2,000 from foreign sources to stay longer than tourists, with costs ranging from $72 in Brazil to $1,000 in UAE, and varying income/asset requirements across different countries.": {
+          "answer": "Digital nomad visas allow remote workers earning at least $2,000 from foreign sources to stay longer than tourists, with costs ranging from $72 in Brazil to $1,000 in UAE, and varying income/asset requirements across different countries.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Digital nomadism involves unpredictable monthly budgets due to varying currencies and locations, with expensive complications like flight cancellations, ATM fees reaching $30-40 per withdrawal, and surprisingly high public transportation costs like London's $20 daily expense.": {
+          "answer": "Digital nomadism involves unpredictable monthly budgets due to varying currencies and locations, with expensive complications like flight cancellations, ATM fees reaching $30-40 per withdrawal, and surprisingly high public transportation costs like London's $20 daily expense.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "WiFi hotspots and USB charging stations are essential tools for maintaining internet connectivity and device power while working remotely or traveling internationally.": {
+          "answer": "WiFi hotspots and USB charging stations are essential tools for maintaining internet connectivity and device power while working remotely or traveling internationally.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Croatia was among the first European countries to introduce a digital nomad visa allowing third-country citizens to stay up to one year with €2,300 monthly income requirement and restrictive re-entry rules.": {
+          "answer": "Croatia was among the first European countries to introduce a digital nomad visa allowing third-country citizens to stay up to one year with €2,300 monthly income requirement and restrictive re-entry rules.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "The emerging 'Tethered Nomads' category includes independent remote workers who've increased 14% since last year, though they face productivity challenges from travel distractions and technical issues.": {
+          "answer": "The emerging 'Tethered Nomads' category includes independent remote workers who've increased 14% since last year, though they face productivity challenges from travel distractions and technical issues.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1005",
+      "importance": "vital",
+      "answers": {
+        "Portugal, Canada, and Germany have introduced digital nomad visas promoting remote work tourism, with cities ranked by internet speed, quality of life, climate, connectivity, and housing costs.": {
+          "answer": "Portugal, Canada, and Germany have introduced digital nomad visas promoting remote work tourism, with cities ranked by internet speed, quality of life, climate, connectivity, and housing costs.",
+          "references": [
+            {
+              "doc_id": "495a3813-6b54-48f9-a9d3-18b74a1a72df_561526741"
+            },
+            {
+              "doc_id": "f2d39679-7714-4818-8520-3a94256d29a9_256892267"
+            },
+            {
+              "doc_id": "5324a4fc-50ff-4055-8112-dd9dcb7fc46a_802668716"
+            },
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            },
+            {
+              "doc_id": "ce81a3b1-962d-402d-b926-4b9cbe19a4b2_209082205"
+            },
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            },
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            },
+            {
+              "doc_id": "fd4108f8-40d8-428f-9fff-07e1f458e396_508564484"
+            },
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            },
+            {
+              "doc_id": "23980c8b-8970-4b9b-96ce-6f690a62ec45_787468909"
+            },
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            },
+            {
+              "doc_id": "eb9bb425-89ea-45e2-9b52-ed2a0f921fe9_132088186"
+            },
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            },
+            {
+              "doc_id": "b67b7441-6604-4229-82d6-e410e0419e0b_1051067344"
+            },
+            {
+              "doc_id": "c529ac8d-80af-410a-a327-3546b54a14c8_242137462"
+            },
+            {
+              "doc_id": "543f79d1-b4ee-4c44-b5ba-bc0dd95cb878_473601805"
+            },
+            {
+              "doc_id": "15e8540b-5ba4-4152-9f0a-a15471c6bcb8_847147219"
+            },
+            {
+              "doc_id": "ec9e942a-2b47-4552-9825-4e206606823c_696735006"
+            },
+            {
+              "doc_id": "285c7275-5c5c-4c6d-924e-bdcf417d62b6_811230217"
+            },
+            {
+              "doc_id": "cba9d67e-9378-4b75-897e-a35c90c5f82b_789890584"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

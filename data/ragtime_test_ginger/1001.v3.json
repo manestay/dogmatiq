@@ -1,0 +1,1104 @@
+{
+  "query_id": "1001",
+  "title_query": "I’m a college student who has seen articles about Geoffrey Hinton and his resignation from Google, with warnings of AI's impacts, but I don’t fully understand the context of these warnings. Since I’m interested in the future of AI and how it might affect jobs or safety, I’d like a report that breaks down the story and why Hinton’s warnings matter. I want something that helps me follow this issue more clearly without needing a tech background.\nGeoffrey Hinton, one of the pioneers of artificial intelligence, left Google in 2023, warning that AI might become dangerous if not carefully managed. This report should explain who he is, what his main contributions to AI have been, and why his recent warnings made headlines. The report should also explore how other experts responded to his concerns, and what the public should understand from this event.",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Geoffrey Hinton, the \"Godfather of AI,\" quit Google to publicly warn about AI risks, expressing regret about developing AI technology due to concerns about misinformation, potential human extinction, and machines surpassing human intelligence.": {
+          "answer": "Geoffrey Hinton, the \"Godfather of AI,\" quit Google to publicly warn about AI risks, expressing regret about developing AI technology due to concerns about misinformation, potential human extinction, and machines surpassing human intelligence.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Hinton pioneered backpropagation in the 1980s and neural networks that evolved into today's AI systems, with his student Ilya Sutskever later founding OpenAI and developing ChatGPT.": {
+          "answer": "Hinton pioneered backpropagation in the 1980s and neural networks that evolved into today's AI systems, with his student Ilya Sutskever later founding OpenAI and developing ChatGPT.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Geoffrey Hinton, known as the \"AI godfather,\" left Google in 2023, expressing regret about his work and warning about AI's growing dangers without careful management.": {
+          "answer": "Geoffrey Hinton, known as the \"AI godfather,\" left Google in 2023, expressing regret about his work and warning about AI's growing dangers without careful management.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Apple co-founder Steve Wozniak and security experts express concerns about AI's potential for spreading misinformation and deception, while emphasizing the need for regulatory guardrails.": {
+          "answer": "Apple co-founder Steve Wozniak and security experts express concerns about AI's potential for spreading misinformation and deception, while emphasizing the need for regulatory guardrails.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "AI pioneer Geoffrey Hinton warns that artificial intelligence could cause mass unemployment, widen wealth inequality, create a world where truth becomes indistinguishable, and potentially threaten humanity's existence.": {
+          "answer": "AI pioneer Geoffrey Hinton warns that artificial intelligence could cause mass unemployment, widen wealth inequality, create a world where truth becomes indistinguishable, and potentially threaten humanity's existence.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Hinton believes AI is becoming smarter than humans, warns about job displacement, manipulation risks, and the need to prevent AI from controlling humanity.": {
+          "answer": "Hinton believes AI is becoming smarter than humans, warns about job displacement, manipulation risks, and the need to prevent AI from controlling humanity.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Europe has advanced AI legislation with a parliamentary committee passing a position document in May 2023, while Microsoft's chief scientist advocates for accelerated AI investment rather than pausing development.": {
+          "answer": "Europe has advanced AI legislation with a parliamentary committee passing a position document in May 2023, while Microsoft's chief scientist advocates for accelerated AI investment rather than pausing development.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "AI systems are surpassing human intelligence through superior communication abilities, data processing capacity, and knowledge immortality that allows sharing learning across multiple networks simultaneously.": {
+          "answer": "AI systems are surpassing human intelligence through superior communication abilities, data processing capacity, and knowledge immortality that allows sharing learning across multiple networks simultaneously.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Hinton pioneered AI neural network technology as a graduate student in 1972 and won the 2018 Turing Award with Yoshua Bengio and Yann LeCun for their foundational contributions to deep learning.": {
+          "answer": "Hinton pioneered AI neural network technology as a graduate student in 1972 and won the 2018 Turing Award with Yoshua Bengio and Yann LeCun for their foundational contributions to deep learning.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "AI pioneer Geoffrey Hinton left Google in April 2023 to freely discuss AI safety concerns and express regret about his lifelong work in neural networks without harming his former employer.": {
+          "answer": "AI pioneer Geoffrey Hinton left Google in April 2023 to freely discuss AI safety concerns and express regret about his lifelong work in neural networks without harming his former employer.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Nineteen AI association leaders, including Microsoft's Eric Horvitz, and over a thousand signatories including Elon Musk called for AI development pauses and regulatory summits.": {
+          "answer": "Nineteen AI association leaders, including Microsoft's Eric Horvitz, and over a thousand signatories including Elon Musk called for AI development pauses and regulatory summits.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Apple co-founder Steve Wozniak expressed concerns on CNN about AI spreading misinformation and the need for regulations, while some sources believe these concerns are overstated.": {
+          "answer": "Apple co-founder Steve Wozniak expressed concerns on CNN about AI spreading misinformation and the need for regulations, while some sources believe these concerns are overstated.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Dr. Geoffrey Hinton reflects on his AI research's rapid unexpected success, acknowledging concerns about potential misuse by bad actors while noting someone else would have developed it.": {
+          "answer": "Dr. Geoffrey Hinton reflects on his AI research's rapid unexpected success, acknowledging concerns about potential misuse by bad actors while noting someone else would have developed it.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1001",
+      "importance": "vital",
+      "answers": {
+        "Over 1,000 tech leaders including Elon Musk signed an open letter in March calling for a six-month moratorium on AI development due to profound risks to society and humanity.": {
+          "answer": "Over 1,000 tech leaders including Elon Musk signed an open letter in March calling for a six-month moratorium on AI development due to profound risks to society and humanity.",
+          "references": [
+            {
+              "doc_id": "792ba802-fc52-4ca2-bb1a-ee90ce0fe3de_231601945"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_779126512"
+            },
+            {
+              "doc_id": "892eb5ca-2b8c-4eeb-b71c-c9f8f83ccc6a_11672726"
+            },
+            {
+              "doc_id": "d0d53bd7-a835-4e68-9f88-55c12fd01693_296881079"
+            },
+            {
+              "doc_id": "d490c53b-a3c0-4442-9a80-1a11110c988f_899870942"
+            },
+            {
+              "doc_id": "f51eec6d-22b3-4ed2-95e9-d127cda3300b_321145537"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_304858450"
+            },
+            {
+              "doc_id": "79ebd9ed-d25a-485c-b9d2-54a988b77025_496813334"
+            },
+            {
+              "doc_id": "3afb956b-40d5-4ecb-8918-2675d6b68006_521301684"
+            },
+            {
+              "doc_id": "0b0a6638-7cfb-483c-bf6d-bc4b844b884a_253543854"
+            },
+            {
+              "doc_id": "28a083d6-e397-4b10-96c8-683ddd70ae01_452338678"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_433457856"
+            },
+            {
+              "doc_id": "abd90351-b865-4002-b72d-7c84d3f6fa6c_702017578"
+            },
+            {
+              "doc_id": "38461be6-5490-41fa-a616-e92ea3eac2e4_899033951"
+            },
+            {
+              "doc_id": "99b06f2f-6f17-498d-82f9-5c50811e3477_211656408"
+            },
+            {
+              "doc_id": "e1466ebf-84b4-41ed-8497-d39fc984abd1_839419513"
+            },
+            {
+              "doc_id": "d2deb389-3761-4e46-82f2-9b4e753196d5_416878875"
+            },
+            {
+              "doc_id": "34a5ef86-794c-4dd0-95a9-b1b3c3632633_78796288"
+            },
+            {
+              "doc_id": "09887dcf-8df7-4f1e-b60b-875b3d1bd775_245465706"
+            },
+            {
+              "doc_id": "a459dbdd-a0b6-427a-83c2-e167962e91e3_76482717"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}

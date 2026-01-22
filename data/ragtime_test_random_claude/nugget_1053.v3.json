@@ -1,0 +1,698 @@
+{
+  "query_id": "1053",
+  "title_query": "1053",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What price change occurred with Sunshine Rose grapes in China?": {
+      "question": "What price change occurred with Sunshine Rose grapes in China?",
+      "answers": {
+        "Sunshine Rose grape prices dropped from 300 yuan to 10 yuan": {
+          "answer": "Sunshine Rose grape prices dropped from 300 yuan to 10 yuan",
+          "references": [
+            {
+              "doc_id": "d128ad1e-6aa0-4914-a424-06f1b4516c50_370156776"
+            }
+          ]
+        }
+      },
+      "question_id": "a560004c73362e254acd19c6f736f970",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What price change occurred with Sunshine Rose grapes in China?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "d128ad1e-6aa0-4914-a424-06f1b4516c50_370156776"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the price of Hass avocados in California by 2019?": {
+      "question": "What was the price of Hass avocados in California by 2019?",
+      "answers": {
+        "2.1 US dollars per Hass avocado in California": {
+          "answer": "2.1 US dollars per Hass avocado in California",
+          "references": [
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            }
+          ]
+        }
+      },
+      "question_id": "b9d7c1d70221d0ac126781674d54e24a",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What was the price of Hass avocados in California by 2019?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What environmental impacts does avocado production have on producing countries?": {
+      "question": "What environmental impacts does avocado production have on producing countries?",
+      "answers": {
+        "The document does not discuss avocado environmental impacts.": {
+          "answer": "The document does not discuss avocado environmental impacts.",
+          "references": [
+            {
+              "doc_id": "fc19deb0-521f-4ca3-a123-a51006b6072e_884347061"
+            }
+          ]
+        },
+        "The document does not mention avocado environmental impacts.": {
+          "answer": "The document does not mention avocado environmental impacts.",
+          "references": [
+            {
+              "doc_id": "0aeb7488-472b-41c7-82d4-399a5c29a25a_341222389"
+            }
+          ]
+        }
+      },
+      "question_id": "0201ae1fc9cc62fc7c6a4c91b70fef20",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What environmental impacts does avocado production have on producing countries?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "f6b77365-a5d9-408b-ae15-ef142a8b8917_375710514"
+            },
+            {
+              "doc_id": "fc19deb0-521f-4ca3-a123-a51006b6072e_884347061"
+            },
+            {
+              "doc_id": "ba7048dd-1cd7-4e62-9d1a-2026b2ea329f_119037401"
+            },
+            {
+              "doc_id": "49e74cc9-e751-4660-b413-1fc6354d637a_551772054"
+            },
+            {
+              "doc_id": "5604daa4-ae57-4bae-ba6c-41a80ecf2fa8_31539907"
+            },
+            {
+              "doc_id": "0aeb7488-472b-41c7-82d4-399a5c29a25a_341222389"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 6,
+        "num_answers": 2
+      }
+    },
+    "How many avocados did New Zealanders purchase in the latest season?": {
+      "question": "How many avocados did New Zealanders purchase in the latest season?",
+      "answers": {
+        "over 80 million avocados last season": {
+          "answer": "over 80 million avocados last season",
+          "references": [
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            }
+          ]
+        }
+      },
+      "question_id": "a6a466aec6c61b804a7e7660bb872efa",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "How many avocados did New Zealanders purchase in the latest season?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "16a00b71-6e6c-4015-b1b2-d5437d613bb8_463765569"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many people does rice feed globally?": {
+      "question": "How many people does rice feed globally?",
+      "answers": {
+        "more than 3.5 billion people": {
+          "answer": "more than 3.5 billion people",
+          "references": [
+            {
+              "doc_id": "2467d7cc-ad16-49b5-b87a-ca5ec0d24278_329050976"
+            }
+          ]
+        }
+      },
+      "question_id": "1074398e3ee3af78cfc3dd5c7085ee35",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "How many people does rice feed globally?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "2467d7cc-ad16-49b5-b87a-ca5ec0d24278_329050976"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What was the value of Mexican avocado exports to the United States last year?": {
+      "question": "What was the value of Mexican avocado exports to the United States last year?",
+      "answers": {
+        "$2.8 billion in Mexican avocado exports to United States": {
+          "answer": "$2.8 billion in Mexican avocado exports to United States",
+          "references": [
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            }
+          ]
+        }
+      },
+      "question_id": "cf81cad888a71ca9a60b3bcfe0a3582f",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What was the value of Mexican avocado exports to the United States last year?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What environmental damages does avocado farming cause in Mexico?": {
+      "question": "What environmental damages does avocado farming cause in Mexico?",
+      "answers": {
+        "water depletion, deforestation, soil erosion, chemical pollution": {
+          "answer": "water depletion, deforestation, soil erosion, chemical pollution",
+          "references": [
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            }
+          ]
+        }
+      },
+      "question_id": "0eeab2a4bec05336c6ace4349dc92c36",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What environmental damages does avocado farming cause in Mexico?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9f7babf6-335c-4686-b3fe-7602641d29a4_195587657"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What timeframe of avocado consumption data does the Hass Avocado Board study cover?": {
+      "question": "What timeframe of avocado consumption data does the Hass Avocado Board study cover?",
+      "answers": {
+        "three years of fresh avocado purchasing data": {
+          "answer": "three years of fresh avocado purchasing data",
+          "references": [
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            }
+          ]
+        }
+      },
+      "question_id": "3913a6bb3793eaf42dd6b3c29c4c4023",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What timeframe of avocado consumption data does the Hass Avocado Board study cover?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1f9636a0-a998-4320-a608-6d983a2941ad_822792373"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What tropical fruits have export opportunities according to the expert?": {
+      "question": "What tropical fruits have export opportunities according to the expert?",
+      "answers": {
+        "tropical fruits including bananas, avocados, and mangoes": {
+          "answer": "tropical fruits including bananas, avocados, and mangoes",
+          "references": [
+            {
+              "doc_id": "5fbf7b2f-f89f-4046-a279-790b7f0040ab_139411531"
+            }
+          ]
+        }
+      },
+      "question_id": "4d2b3b360e2419e1761600769c66fac0",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What tropical fruits have export opportunities according to the expert?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5fbf7b2f-f89f-4046-a279-790b7f0040ab_139411531"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which region leads the global IQF fruits market?": {
+      "question": "Which region leads the global IQF fruits market?",
+      "answers": {
+        "North America with 40.4% market share": {
+          "answer": "North America with 40.4% market share",
+          "references": [
+            {
+              "doc_id": "4ae82475-d396-4dcc-a8b3-3012c4a5c78e_719651205"
+            }
+          ]
+        }
+      },
+      "question_id": "6f787eba27aaa526548170d40a7bc330",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "Which region leads the global IQF fruits market?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4ae82475-d396-4dcc-a8b3-3012c4a5c78e_719651205"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What social issues affect avocado farming communities in Michoacan?": {
+      "question": "What social issues affect avocado farming communities in Michoacan?",
+      "answers": {
+        "criminal organizations compete for avocado distribution control": {
+          "answer": "criminal organizations compete for avocado distribution control",
+          "references": [
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            }
+          ]
+        },
+        "drug cartel violence and extortion of growers": {
+          "answer": "drug cartel violence and extortion of growers",
+          "references": [
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            }
+          ]
+        }
+      },
+      "question_id": "3a9fdd879d39296ed860e03696963b15",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What social issue affects avocado-growing regions in Michoacán?",
+          "What social issues affect avocado farming communities in Michoacan?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
+            }
+          ],
+          [
+            {
+              "doc_id": "e4fbae76-8864-456f-a77d-b9388c3fe828_80897540"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is more comprehensive as it inquires about social issues in plural, potentially encompassing a broader range of concerns affecting avocado farming communities.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What is Mexico's domestic per capita avocado consumption?": {
+      "question": "What is Mexico's domestic per capita avocado consumption?",
+      "answers": {
+        "seven kilograms annually": {
+          "answer": "seven kilograms annually",
+          "references": [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            }
+          ]
+        }
+      },
+      "question_id": "25cae2d780d55c09cc39e595f47a104e",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What is Mexico's domestic per capita avocado consumption?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "114d1622-c9c5-4614-b132-9c9189790987_442554566"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is the projected global jackfruit market size by 2026?": {
+      "question": "What is the projected global jackfruit market size by 2026?",
+      "answers": {
+        "3.6 billion US dollars by 2026": {
+          "answer": "3.6 billion US dollars by 2026",
+          "references": [
+            {
+              "doc_id": "0737b2e5-93cd-496e-8bd7-f80b12ec4120_815803661"
+            }
+          ]
+        }
+      },
+      "question_id": "ad3782e0b81e58be2da1a83deb4b7102",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What is the projected global jackfruit market size by 2026?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "0737b2e5-93cd-496e-8bd7-f80b12ec4120_815803661"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many avocados did Kenya export in the first ten months of 2021?": {
+      "question": "How many avocados did Kenya export in the first ten months of 2021?",
+      "answers": {
+        "69 metric tonnes between January and October 2021": {
+          "answer": "69 metric tonnes between January and October 2021",
+          "references": [
+            {
+              "doc_id": "5265a592-e564-46e3-90dc-7b6f403e67e2_421983327"
+            }
+          ]
+        }
+      },
+      "question_id": "019a73a91f1533b47160e8fe81f8fef2",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "How many avocados did Kenya export in the first ten months of 2021?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5265a592-e564-46e3-90dc-7b6f403e67e2_421983327"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What environmental factors caused the avocado shortage from Mexico?": {
+      "question": "What environmental factors caused the avocado shortage from Mexico?",
+      "answers": {
+        "reduced rainfall and elevated temperatures": {
+          "answer": "reduced rainfall and elevated temperatures",
+          "references": [
+            {
+              "doc_id": "73493bc6-4369-4fce-ae8f-cc476a6366c9_120731568"
+            }
+          ]
+        }
+      },
+      "question_id": "53f91db91f4d2428c46990b4b1680ed2",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What environmental factors caused the avocado shortage from Mexico?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "73493bc6-4369-4fce-ae8f-cc476a6366c9_120731568"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many avocados per person are forecasted in Australia?": {
+      "question": "How many avocados per person are forecasted in Australia?",
+      "answers": {
+        "22 avocados per person this year in Australia": {
+          "answer": "22 avocados per person this year in Australia",
+          "references": [
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            }
+          ]
+        }
+      },
+      "question_id": "ee96b5fc4b36d0f859bae7aa4232dcc7",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "How many avocados per person are forecasted in Australia?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "7f26f5d2-c184-4391-bb8d-6af58511c4f2_735878203"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What does Chipotle use to dye their avocado-themed merchandise?": {
+      "question": "What does Chipotle use to dye their avocado-themed merchandise?",
+      "answers": {
+        "upcycled avocado pits from their restaurants": {
+          "answer": "upcycled avocado pits from their restaurants",
+          "references": [
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            }
+          ]
+        }
+      },
+      "question_id": "53f6240142ff6934f41200f4605d18af",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What does Chipotle use to dye their avocado-themed merchandise?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "1677ff37-69a9-4e9a-8163-28a6764b7abb_608713"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is the carbon footprint of a typical 2-pack avocado?": {
+      "question": "What is the carbon footprint of a typical 2-pack avocado?",
+      "answers": {
+        "850 grams carbon footprint for 2-pack avocados": {
+          "answer": "850 grams carbon footprint for 2-pack avocados",
+          "references": [
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            }
+          ]
+        }
+      },
+      "question_id": "840b258d7e0a4eac630722934f1491cb",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What is the carbon footprint of a typical 2-pack avocado?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "e723799f-1810-462b-b84e-a0b5e5a4749d_1052218110"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is Morocco's ranking as an avocado exporter worldwide?": {
+      "question": "What is Morocco's ranking as an avocado exporter worldwide?",
+      "answers": {
+        "ninth globally in avocado exports": {
+          "answer": "ninth globally in avocado exports",
+          "references": [
+            {
+              "doc_id": "18665f57-7b47-4cae-9c9d-5fc30625182f_930516690"
+            }
+          ]
+        },
+        "ninth largest global exporter": {
+          "answer": "ninth largest global exporter",
+          "references": [
+            {
+              "doc_id": "edc5f60d-13d5-49b0-807a-65a8ddf3ea54_546350791"
+            }
+          ]
+        }
+      },
+      "question_id": "574e0b5a946674ef135d20d2188db142",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What is Morocco's ranking in global avocado exports?",
+          "What is Morocco's ranking as an avocado exporter worldwide?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "18665f57-7b47-4cae-9c9d-5fc30625182f_930516690"
+            }
+          ],
+          [
+            {
+              "doc_id": "edc5f60d-13d5-49b0-807a-65a8ddf3ea54_546350791"
+            }
+          ]
+        ],
+        "canonical_explanation": "The questions are nearly identical, but one is slightly more concise and directly asks for the ranking as an exporter, which is a clearer query.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What specific climate conditions damage crops in Mexico?": {
+      "question": "What specific climate conditions damage crops in Mexico?",
+      "answers": {
+        "extreme weather including drought and heavy rainfall": {
+          "answer": "extreme weather including drought and heavy rainfall",
+          "references": [
+            {
+              "doc_id": "159baee4-b320-4d1f-bff6-c75f069f4b69_840020726"
+            }
+          ]
+        }
+      },
+      "question_id": "1ba218cbb5fae8c6977a7535eb54988c",
+      "aggregator_type": "OR",
+      "query_id": "1053",
+      "metadata": {
+        "paraphrases": [
+          "What specific climate conditions damage crops in Mexico?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "159baee4-b320-4d1f-bff6-c75f069f4b69_840020726"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

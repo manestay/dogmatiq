@@ -1,0 +1,731 @@
+{
+  "query_id": "1005",
+  "title_query": "1005",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Which cloud storage platforms support remote work document management?": {
+      "question": "Which cloud storage platforms support remote work document management?",
+      "answers": {
+        "cloud platforms such as Dropbox and OneDrive": {
+          "answer": "cloud platforms such as Dropbox and OneDrive",
+          "references": [
+            {
+              "doc_id": "fc443d20-b50f-46a3-aa8a-5be53c5802f0_421080521"
+            }
+          ]
+        }
+      },
+      "question_id": "dc0b89f3996963441933e1bc360910f9",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "Which cloud storage platforms support remote work document management?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fc443d20-b50f-46a3-aa8a-5be53c5802f0_421080521"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What program did Airbnb create to support digital nomads?": {
+      "question": "What program did Airbnb create to support digital nomads?",
+      "answers": {
+        "Airbnb's Live Anywhere program allowed global travel while working": {
+          "answer": "Airbnb's Live Anywhere program allowed global travel while working",
+          "references": [
+            {
+              "doc_id": "5b857f7c-f0de-47d9-a7d5-1b827f3b06e5_844261961"
+            }
+          ]
+        }
+      },
+      "question_id": "a14064ea6f3cf30a2f6ca8d8a8085500",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What program did Airbnb create to support digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "5b857f7c-f0de-47d9-a7d5-1b827f3b06e5_844261961"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What financial tools do digital nomads commonly use?": {
+      "question": "What financial tools do digital nomads commonly use?",
+      "answers": {
+        "multi-currency debit cards to avoid high foreign transaction fees": {
+          "answer": "multi-currency debit cards to avoid high foreign transaction fees",
+          "references": [
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            }
+          ]
+        }
+      },
+      "question_id": "b59eef5ee17d1656e77e1dc73b432801",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What financial tools do digital nomads commonly use?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "a3c70681-f2b9-494d-bb98-7de9c98f52da_736721641"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How did the pandemic impact remote work adoption?": {
+      "question": "How did the pandemic impact remote work adoption?",
+      "answers": {
+        "COVID-19 pandemic made remote work necessary instead of optional": {
+          "answer": "COVID-19 pandemic made remote work necessary instead of optional",
+          "references": [
+            {
+              "doc_id": "94749fa6-19ca-44c6-aec8-a45a68d08620_222088372"
+            }
+          ]
+        },
+        "pandemic accelerated remote work becoming established norm": {
+          "answer": "pandemic accelerated remote work becoming established norm",
+          "references": [
+            {
+              "doc_id": "efefb6e5-0fde-42b4-b533-23a33f10adc4_747347304"
+            }
+          ]
+        },
+        "pandemic accelerated business digitalization and remote working trends": {
+          "answer": "pandemic accelerated business digitalization and remote working trends",
+          "references": [
+            {
+              "doc_id": "cd14aec9-d684-4ad5-9797-5f0c25a2b5eb_299992812"
+            }
+          ]
+        }
+      },
+      "question_id": "b1652d388e52ebf124ef955c584c8148",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How did the COVID-19 pandemic change remote work adoption?",
+          "How did the pandemic impact remote work adoption?",
+          "How did the pandemic impact remote working adoption?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "94749fa6-19ca-44c6-aec8-a45a68d08620_222088372"
+            }
+          ],
+          [
+            {
+              "doc_id": "efefb6e5-0fde-42b4-b533-23a33f10adc4_747347304"
+            }
+          ],
+          [
+            {
+              "doc_id": "cd14aec9-d684-4ad5-9797-5f0c25a2b5eb_299992812"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly addresses the impact of the pandemic on remote work, a key aspect of the digital nomad lifestyle.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What high-performance feature does Splashtop remote desktop offer?": {
+      "question": "What high-performance feature does Splashtop remote desktop offer?",
+      "answers": {
+        "4K streaming at 40 frames per second capability": {
+          "answer": "4K streaming at 40 frames per second capability",
+          "references": [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        }
+      },
+      "question_id": "339fb56ffd20afdd6ef243ade442286d",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What high-performance feature does Splashtop remote desktop offer?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "b67cd69f-4c83-4193-99ab-2cc0767b6bfd_37536649"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is the cost of qualified electronic signatures?": {
+      "question": "What is the cost of qualified electronic signatures?",
+      "answers": {
+        "2000 rubles minimum": {
+          "answer": "2000 rubles minimum",
+          "references": [
+            {
+              "doc_id": "c9b97c74-fecc-4cbe-bf03-78333bd866b6_978415096"
+            }
+          ]
+        }
+      },
+      "question_id": "c9f5da97353ee65583f00e7e8e61ff04",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What is the cost of qualified electronic signatures?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "c9b97c74-fecc-4cbe-bf03-78333bd866b6_978415096"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which artificial intelligence startup recently launched a paid programming product?": {
+      "question": "Which artificial intelligence startup recently launched a paid programming product?",
+      "answers": {
+        "LangChain launched its first paid product for programmers": {
+          "answer": "LangChain launched its first paid product for programmers",
+          "references": [
+            {
+              "doc_id": "07d9d65d-d81d-41ca-a816-eb0878fc0b2d_436034532"
+            }
+          ]
+        }
+      },
+      "question_id": "6654dcf249cbf449a0c482f0998759ae",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "Which artificial intelligence startup recently launched a paid programming product?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "07d9d65d-d81d-41ca-a816-eb0878fc0b2d_436034532"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What visa options support digital nomads internationally?": {
+      "question": "What visa options support digital nomads internationally?",
+      "answers": {
+        "special digital nomad visas costing 72 to 1000 dollars": {
+          "answer": "special digital nomad visas costing 72 to 1000 dollars",
+          "references": [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ]
+        },
+        "global remote work visas through streamlined application processes": {
+          "answer": "global remote work visas through streamlined application processes",
+          "references": [
+            {
+              "doc_id": "255cffed-9128-4d3c-aeb9-60ac4940c381_592587899"
+            }
+          ]
+        }
+      },
+      "question_id": "9cdc8f13176c868eb5eb83321f3bc643",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What visa options support digital nomads internationally?",
+          "What visa solutions are available for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "72836102-23df-4f82-b338-56a356464891_682732748"
+            }
+          ],
+          [
+            {
+              "doc_id": "255cffed-9128-4d3c-aeb9-60ac4940c381_592587899"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative because it uses the phrase 'visa options' which is more comprehensive than 'visa solutions', implying a broader range of possibilities for digital nomads.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "What types of shadow IT tools do remote workers commonly use?": {
+      "question": "What types of shadow IT tools do remote workers commonly use?",
+      "answers": {
+        "file storage, project management tools, messaging systems, cloud platforms": {
+          "answer": "file storage, project management tools, messaging systems, cloud platforms",
+          "references": [
+            {
+              "doc_id": "50d4d543-c635-4de6-a625-cc333940b310_842775387"
+            }
+          ]
+        }
+      },
+      "question_id": "8a2bebbf5cd756c0248b7aa5e0c985b2",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What types of shadow IT tools do remote workers commonly use?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "50d4d543-c635-4de6-a625-cc333940b310_842775387"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of campers take weekday camping trips?": {
+      "question": "What percentage of campers take weekday camping trips?",
+      "answers": {
+        "70% of campers now take weekday trips": {
+          "answer": "70% of campers now take weekday trips",
+          "references": [
+            {
+              "doc_id": "19455407-4698-4362-acc0-09243de656f8_5164616"
+            }
+          ]
+        }
+      },
+      "question_id": "61ca0be0e5e5b6809e7ea6c9c12843c6",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of campers take weekday camping trips?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "19455407-4698-4362-acc0-09243de656f8_5164616"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What percentage of remote workers want to continue?": {
+      "question": "What percentage of remote workers want to continue?",
+      "answers": {
+        "60% of remote workers prefer continuing arrangement": {
+          "answer": "60% of remote workers prefer continuing arrangement",
+          "references": [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ]
+        }
+      },
+      "question_id": "c2e492c254a6b87d35ba52b00916e5a9",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What percentage of remote workers want to continue?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "08fdb39e-0e42-430d-9f24-5553e27ff75f_126682210"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many countries offer specialized digital nomad visas?": {
+      "question": "How many countries offer specialized digital nomad visas?",
+      "answers": {
+        "50 countries including Dubai and Iceland": {
+          "answer": "50 countries including Dubai and Iceland",
+          "references": [
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            }
+          ]
+        }
+      },
+      "question_id": "43e0741de49cac443a14b8e897a2fc00",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How many countries offer specialized digital nomad visas?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "ea90bb4e-0607-4636-afd5-5e325bcbfef8_77576442"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What award did Davit Ayvazyan receive in 2021?": {
+      "question": "What award did Davit Ayvazyan receive in 2021?",
+      "answers": {
+        "2021 HackerNoon Contributor of the Year - WORK award": {
+          "answer": "2021 HackerNoon Contributor of the Year - WORK award",
+          "references": [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_380399232"
+            }
+          ]
+        }
+      },
+      "question_id": "2c505881e312ce886c62dc95a3a3e3fd",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What award did Davit Ayvazyan receive in 2021?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_380399232"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What is the Workation lifestyle concept for remote workers?": {
+      "question": "What is the Workation lifestyle concept for remote workers?",
+      "answers": {
+        "combining work and vacation while traveling": {
+          "answer": "combining work and vacation while traveling",
+          "references": [
+            {
+              "doc_id": "4096c5e9-28b2-43a4-a983-d4b751c2f437_463535422"
+            }
+          ]
+        }
+      },
+      "question_id": "4fe0db06a5dff6d4c2f3726d05957824",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What is the Workation lifestyle concept for remote workers?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4096c5e9-28b2-43a4-a983-d4b751c2f437_463535422"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "What shared facilities does Huangyu Jiutian NO1 provide for digital nomads?": {
+      "question": "What shared facilities does Huangyu Jiutian NO1 provide for digital nomads?",
+      "answers": {
+        "co-working spaces, meeting rooms, and social lounges": {
+          "answer": "co-working spaces, meeting rooms, and social lounges",
+          "references": [
+            {
+              "doc_id": "77fe7fbf-41e8-4067-9063-0458ea76d448_158447245"
+            }
+          ]
+        }
+      },
+      "question_id": "2ae53cabee5822e05ff20d928ac5b0e1",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What shared facilities does Huangyu Jiutian NO1 provide for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "77fe7fbf-41e8-4067-9063-0458ea76d448_158447245"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Which major event accelerated the growth of remote work opportunities?": {
+      "question": "Which major event accelerated the growth of remote work opportunities?",
+      "answers": {
+        "COVID-19 pandemic accelerated transition to online work": {
+          "answer": "COVID-19 pandemic accelerated transition to online work",
+          "references": [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_1029705577"
+            }
+          ]
+        },
+        "COVID-19 pandemic": {
+          "answer": "COVID-19 pandemic",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        },
+        "COVID-19 pandemic accelerated global adoption of remote work": {
+          "answer": "COVID-19 pandemic accelerated global adoption of remote work",
+          "references": [
+            {
+              "doc_id": "7783cd24-525b-406d-96d3-c241be953db5_463137411"
+            }
+          ]
+        }
+      },
+      "question_id": "ab697dc9d3bd0dac86dc096f6ec4cbe4",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What major event accelerated the shift to remote work?",
+          "Which major event accelerated the growth of remote work opportunities?",
+          "What major event drove worldwide acceptance of remote work?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "9081ea28-204a-4cf1-8f04-e909f0e4b60f_1029705577"
+            }
+          ],
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ],
+          [
+            {
+              "doc_id": "7783cd24-525b-406d-96d3-c241be953db5_463137411"
+            }
+          ]
+        ],
+        "canonical_explanation": "The selected question is the most representative of the user request as it directly addresses the catalyst for the shift to remote work, which is a key context for the digital nomad lifestyle.",
+        "num_paraphrases_unique": 3,
+        "num_paraphrases_total": 3,
+        "num_answers": 3
+      }
+    },
+    "What types of remote work suit digital nomads?": {
+      "question": "What types of remote work suit digital nomads?",
+      "answers": {
+        "tutoring and content writing": {
+          "answer": "tutoring and content writing",
+          "references": [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ]
+        },
+        "web design, software development, cybersecurity analysis, and writing": {
+          "answer": "web design, software development, cybersecurity analysis, and writing",
+          "references": [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        }
+      },
+      "question_id": "43a453c33cae41f02afdd9eb7ef16619",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "What types of remote work suit digital nomads?",
+          "What are the main remote work careers suitable for digital nomads?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "4acd88c5-7d2b-4157-a17b-8edb9d9769ad_4928390"
+            }
+          ],
+          [
+            {
+              "doc_id": "e2e5695e-5664-4b13-9684-77a67f6d4397_888512071"
+            }
+          ]
+        ],
+        "canonical_explanation": "This question is selected because it directly addresses the types of work suited to the digital nomad lifestyle, a key aspect of the user request.",
+        "num_paraphrases_unique": 2,
+        "num_paraphrases_total": 2,
+        "num_answers": 2
+      }
+    },
+    "How much did competitor Flatio grow due to remote work expansion?": {
+      "question": "How much did competitor Flatio grow due to remote work expansion?",
+      "answers": {
+        "48 percent year-on-year revenue growth reaching $1.24 million": {
+          "answer": "48 percent year-on-year revenue growth reaching $1.24 million",
+          "references": [
+            {
+              "doc_id": "fe84c6fd-4143-499a-997e-02c0ed231b4f_167668822"
+            }
+          ]
+        }
+      },
+      "question_id": "4b0513bd2e7e8025cf6b7f43171eb50e",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How much did competitor Flatio grow due to remote work expansion?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "fe84c6fd-4143-499a-997e-02c0ed231b4f_167668822"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "How many countries have Ryan Ellison and Sophie Darsy visited while working?": {
+      "question": "How many countries have Ryan Ellison and Sophie Darsy visited while working?",
+      "answers": {
+        "14 countries over nearly four years": {
+          "answer": "14 countries over nearly four years",
+          "references": [
+            {
+              "doc_id": "66a58391-3a62-480f-be64-9b2280bbe834_951964714"
+            }
+          ]
+        }
+      },
+      "question_id": "c7ba907c22d569baf153d11bcdfd5285",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "How many countries have Ryan Ellison and Sophie Darsy visited while working?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "66a58391-3a62-480f-be64-9b2280bbe834_951964714"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    },
+    "Who developed the 15-minute city concept?": {
+      "question": "Who developed the 15-minute city concept?",
+      "answers": {
+        "Professor Carlos Moreno from University Paris 1 Pantheon-Sorbonne": {
+          "answer": "Professor Carlos Moreno from University Paris 1 Pantheon-Sorbonne",
+          "references": [
+            {
+              "doc_id": "cba287e8-5af7-4fcf-b2e8-e9e4c7975e1c_567134000"
+            }
+          ]
+        }
+      },
+      "question_id": "b2caf28226917fe71ed5c405e17fc095",
+      "aggregator_type": "OR",
+      "query_id": "1005",
+      "metadata": {
+        "paraphrases": [
+          "Who developed the 15-minute city concept?"
+        ],
+        "paraphrase_references": [
+          [
+            {
+              "doc_id": "cba287e8-5af7-4fcf-b2e8-e9e4c7975e1c_567134000"
+            }
+          ]
+        ],
+        "canonical_explanation": "N/A",
+        "num_paraphrases_unique": 1,
+        "num_paraphrases_total": 1,
+        "num_answers": 1
+      }
+    }
+  }
+}

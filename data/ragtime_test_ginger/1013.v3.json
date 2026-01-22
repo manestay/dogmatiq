@@ -1,0 +1,1104 @@
+{
+  "query_id": "1013",
+  "title_query": "I am a traveler and foodie who has enjoyed farm-to-table dining in my own country. I want to understand more about the roots of the slow movement, and particularly about how the movement has manifested in different places and cultures. I am considering visiting well-known slow food restaurants during my international travels, but am curious if these are authentic experiences or if the notion of slow food is a western construct that elides nuances in local food cultures.\nI want to know the history and background of the slow food movement. Where did it start, who were the main drivers, what are the tenets of the movement? Who are some current proponents of the slow food movement worldwide? Where would I go to sample the best slow food cuisine?",
+  "format_version": "v3",
+  "metadata": {
+    "source": "ginger",
+    "parse_date": "011825",
+    "num_cluster_summaries": 14
+  },
+  "nugget_bank": {
+    "cluster_summary_1": {
+      "question": "cluster_summary_1",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "Italian Slow Food representatives Andrea Amato and Daniel Cruse introduced the global expansion of the Slow Food movement, while Indian representative Aruna Tirkey shared India's millet kitchen initiatives.": {
+          "answer": "Italian Slow Food representatives Andrea Amato and Daniel Cruse introduced the global expansion of the Slow Food movement, while Indian representative Aruna Tirkey shared India's millet kitchen initiatives.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 1
+      }
+    },
+    "cluster_summary_2": {
+      "question": "cluster_summary_2",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Slow Food network has shown global solidarity by hosting Ukrainian refugees, collecting aid, organizing fundraisers, and supporting Ukrainian food traditions and producers during the crisis.": {
+          "answer": "The Slow Food network has shown global solidarity by hosting Ukrainian refugees, collecting aid, organizing fundraisers, and supporting Ukrainian food traditions and producers during the crisis.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 2
+      }
+    },
+    "cluster_summary_3": {
+      "question": "cluster_summary_3",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Slow Food movement was founded in Italy in the late 1980s by Carlo Petrini to promote traditional food preparation, local ingredients, and sustainable practices against fast-food culture.": {
+          "answer": "The Slow Food movement was founded in Italy in the late 1980s by Carlo Petrini to promote traditional food preparation, local ingredients, and sustainable practices against fast-food culture.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 3
+      }
+    },
+    "cluster_summary_4": {
+      "question": "cluster_summary_4",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The slow food and slow living movement originated in Italy during the 1980s, founded by Carlo Petrini to reconnect farmers and consumers against fast food culture.": {
+          "answer": "The slow food and slow living movement originated in Italy during the 1980s, founded by Carlo Petrini to reconnect farmers and consumers against fast food culture.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 4
+      }
+    },
+    "cluster_summary_5": {
+      "question": "cluster_summary_5",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "Nazlina Spice Station from Malaysia discusses preserving Penang's food culture through laksa, emphasizing seasonal and local eating practices at Taiwan's Taitung Slow Food Festival.": {
+          "answer": "Nazlina Spice Station from Malaysia discusses preserving Penang's food culture through laksa, emphasizing seasonal and local eating practices at Taiwan's Taitung Slow Food Festival.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 5
+      }
+    },
+    "cluster_summary_6": {
+      "question": "cluster_summary_6",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The 2022 Slow Food annual conference will be held in Turin, Italy at Parco Dora, featuring global Slow Food organizations discussing environmental and climate issues, while Taiwan's Taitung has developed a successful 9-year Slow Food movement.": {
+          "answer": "The 2022 Slow Food annual conference will be held in Turin, Italy at Parco Dora, featuring global Slow Food organizations discussing environmental and climate issues, while Taiwan's Taitung has developed a successful 9-year Slow Food movement.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 6
+      }
+    },
+    "cluster_summary_7": {
+      "question": "cluster_summary_7",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Slow Food movement has gained supporters in over 150 countries, promoting good food enjoyment, conscious consumption, seasonal respect, environmental sustainability, and spiritual values over profit.": {
+          "answer": "The Slow Food movement has gained supporters in over 150 countries, promoting good food enjoyment, conscious consumption, seasonal respect, environmental sustainability, and spiritual values over profit.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 7
+      }
+    },
+    "cluster_summary_8": {
+      "question": "cluster_summary_8",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Slow Food movement, originating in Italy and globally popular for over thirty years, has been promoted in Taitung for ten years with \"Good, Clean, Fair\" principles.": {
+          "answer": "The Slow Food movement, originating in Italy and globally popular for over thirty years, has been promoted in Taitung for ten years with \"Good, Clean, Fair\" principles.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 8
+      }
+    },
+    "cluster_summary_9": {
+      "question": "cluster_summary_9",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "This initiative focuses on developing innovative cuisine using local ingredients and recreating traditional dishes that represent the slow fish and East Coast food culture, incorporating tidal zone foraging wisdom and seasonal seafood from Taiwan's East Coast, Green Island, and Orchid Island.": {
+          "answer": "This initiative focuses on developing innovative cuisine using local ingredients and recreating traditional dishes that represent the slow fish and East Coast food culture, incorporating tidal zone foraging wisdom and seasonal seafood from Taiwan's East Coast, Green Island, and Orchid Island.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 9
+      }
+    },
+    "cluster_summary_10": {
+      "question": "cluster_summary_10",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Causeway Coast and Glens became Northern Ireland's first accredited Slow Food destination, while Taiwan established its first county-level Slow Food Taitung chapter in February.": {
+          "answer": "The Causeway Coast and Glens became Northern Ireland's first accredited Slow Food destination, while Taiwan established its first county-level Slow Food Taitung chapter in February.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 10
+      }
+    },
+    "cluster_summary_11": {
+      "question": "cluster_summary_11",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "Ramon Uy Jr. from the Philippines serves as Southeast Asia advisor for Slow Food International, co-founded Negros Island's Slow Food organization, and promotes slow food tourism.": {
+          "answer": "Ramon Uy Jr. from the Philippines serves as Southeast Asia advisor for Slow Food International, co-founded Negros Island's Slow Food organization, and promotes slow food tourism.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 11
+      }
+    },
+    "cluster_summary_12": {
+      "question": "cluster_summary_12",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "Representatives from Italy's Slow Food International headquarters, Philippines, India, and Malaysia gathered to share global slow food movement experiences and practices.": {
+          "answer": "Representatives from Italy's Slow Food International headquarters, Philippines, India, and Malaysia gathered to share global slow food movement experiences and practices.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 12
+      }
+    },
+    "cluster_summary_13": {
+      "question": "cluster_summary_13",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "The Slow Food organization established the Slow Wine Coalition to promote sustainable wine production through environmental protection, rural culture preservation, and fair labor practices, addressing pollution and biodiversity loss from chemical pesticides.": {
+          "answer": "The Slow Food organization established the Slow Wine Coalition to promote sustainable wine production through environmental protection, rural culture preservation, and fair labor practices, addressing pollution and biodiversity loss from chemical pesticides.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 13
+      }
+    },
+    "cluster_summary_14": {
+      "question": "cluster_summary_14",
+      "query_id": "1013",
+      "importance": "vital",
+      "answers": {
+        "Cooking, dining, and sharing experiences build cultural and territorial identity by combining local ingredients with foreign cultural influences.": {
+          "answer": "Cooking, dining, and sharing experiences build cultural and territorial identity by combining local ingredients with foreign cultural influences.",
+          "references": [
+            {
+              "doc_id": "347aa98a-ba79-4341-963b-fe558f633c81_611052333"
+            },
+            {
+              "doc_id": "3fc1cd45-38d0-4612-8e8e-21d9a4fd7376_751985363"
+            },
+            {
+              "doc_id": "96da40f6-f654-43da-a3f7-d19d9c31ede9_78339237"
+            },
+            {
+              "doc_id": "573bbdbd-ccb5-417f-82b3-117a2073ed1c_97571398"
+            },
+            {
+              "doc_id": "e5453a54-a53d-46c1-88ec-cb93130fa116_485767238"
+            },
+            {
+              "doc_id": "7c2a1fe5-6d77-43d3-b615-45dfa7772754_981252650"
+            },
+            {
+              "doc_id": "d2492db9-afe6-4877-a586-087d469a4cff_581432463"
+            },
+            {
+              "doc_id": "ba5e7a01-a860-4e26-a47c-0e52b3c682e6_174285831"
+            },
+            {
+              "doc_id": "21597006-6a4b-4e4d-bdb3-16063020492e_526063534"
+            },
+            {
+              "doc_id": "90c089b4-9707-45ba-af3b-77dd18799bed_763079563"
+            },
+            {
+              "doc_id": "47c318de-0df6-40ed-976e-0abcd31d8ccb_585421035"
+            },
+            {
+              "doc_id": "89e87dc2-272d-4055-8419-f253560719f7_771613945"
+            },
+            {
+              "doc_id": "0f46a5b9-51f0-4ed9-ad70-4f917d22db9e_979065188"
+            },
+            {
+              "doc_id": "50520886-47dc-4553-a58c-930216d9beb3_575552235"
+            },
+            {
+              "doc_id": "3da66b0b-e3b6-4ed9-80a4-6716dfea1fe9_946081767"
+            },
+            {
+              "doc_id": "b702106c-5025-4436-a5d8-8cb8153a683a_482923612"
+            },
+            {
+              "doc_id": "de860988-dbb7-47bb-9919-88ebe56769a3_304327499"
+            },
+            {
+              "doc_id": "30f75caf-2871-4821-834c-e6b2e6e36dfc_456720797"
+            },
+            {
+              "doc_id": "a6e139e5-2201-4127-b6c0-b6b459a4db5e_18544158"
+            },
+            {
+              "doc_id": "e9951c05-7d63-4215-ba1f-f774e81ccb42_799247081"
+            }
+          ]
+        }
+      },
+      "aggregator_type": "OR",
+      "metadata": {
+        "source": "ginger_cluster_summaries",
+        "generated_from_passages": true,
+        "cluster_index": 14
+      }
+    }
+  }
+}
