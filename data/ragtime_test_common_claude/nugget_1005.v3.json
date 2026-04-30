@@ -74,6 +74,17 @@
       "question_id": "d48e987f9925d3d780fc3f8708ee09e8",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are digital nomads according to the document?",
@@ -195,6 +206,17 @@
       "question_id": "814844e422a384bffb477bfddab2b26a",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the digital nomad lifestyle?",
@@ -292,6 +314,17 @@
       "question_id": "0e9e8a1675ed3e7c8a5dfd3f03278336",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of work are commonly suited for digital nomads?",
@@ -361,6 +394,17 @@
       "question_id": "b1652d388e52ebf124ef955c584c8148",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did the COVID-19 pandemic change remote work adoption?",
@@ -421,6 +465,17 @@
       "question_id": "fdbb19db3050e00623a5389307494513",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long do most digital nomads typically stay in locations?",
@@ -478,6 +533,17 @@
       "question_id": "a3f4fe3c08ecf08183fafa8c2873e6c2",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many European countries provide digital nomad visa options?",
@@ -538,6 +604,17 @@
       "question_id": "64c9162df1e320aa654bd38b7eaf7f45",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What immediate benefits does remote work offer to employees?",
@@ -598,6 +675,17 @@
       "question_id": "bbfb097c8e18585f59dd4e370bbf2a5d",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What income requirement does Japan set for digital nomad visas?",
@@ -655,6 +743,17 @@
       "question_id": "ab697dc9d3bd0dac86dc096f6ec4cbe4",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What major event accelerated the shift to remote work?",
@@ -715,6 +814,17 @@
       "question_id": "55cb291d69b67a753c9ddc190a761977",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of professionals commonly work as digital nomads?",
@@ -775,6 +885,17 @@
       "question_id": "e91f207aa9c6d8e58d9fb0837e5e1e34",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries offer digital nomad visas for remote workers?",
@@ -824,6 +945,17 @@
       "question_id": "8a984f506dc2febb04ea39c1624602fd",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has the digital nomad phenomenon changed since the pandemic?",
@@ -870,6 +1002,17 @@
       "question_id": "6dc23d33ef2acf36dab109e7d4e0bb3b",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many digital nomads exist worldwide according to travel data?",
@@ -916,6 +1059,17 @@
       "question_id": "c9d010c7028046eaae47510ac5e685bb",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What advantages does the digital nomad lifestyle offer workers?",
@@ -962,6 +1116,17 @@
       "question_id": "f4202af64fbdec8a5095812641c19444",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What unique challenges do digital nomads face?",
@@ -1008,6 +1173,17 @@
       "question_id": "43a453c33cae41f02afdd9eb7ef16619",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of remote work suit digital nomads?",
@@ -1054,6 +1230,17 @@
       "question_id": "244fee5d3b7c1a3a9c15998dd7328af5",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of workers does Japan's new digital nomad visa target?",
@@ -1100,6 +1287,17 @@
       "question_id": "9cdc8f13176c868eb5eb83321f3bc643",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visa options support digital nomads internationally?",
@@ -1141,6 +1339,17 @@
       "question_id": "705a97e0a838f41e59952efa3de37417",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visa initiative is Japan planning for remote workers?"
@@ -1176,6 +1385,17 @@
       "question_id": "eb702fa4c20385afd5169fe60a36d172",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many people worked as digital nomads worldwide in 2022?"
@@ -1193,5 +1413,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

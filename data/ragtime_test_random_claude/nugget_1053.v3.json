@@ -18,6 +18,17 @@
       "question_id": "a560004c73362e254acd19c6f736f970",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What price change occurred with Sunshine Rose grapes in China?"
@@ -50,6 +61,17 @@
       "question_id": "b9d7c1d70221d0ac126781674d54e24a",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the price of Hass avocados in California by 2019?"
@@ -90,6 +112,17 @@
       "question_id": "0201ae1fc9cc62fc7c6a4c91b70fef20",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental impacts does avocado production have on producing countries?"
@@ -137,6 +170,17 @@
       "question_id": "a6a466aec6c61b804a7e7660bb872efa",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many avocados did New Zealanders purchase in the latest season?"
@@ -169,6 +213,17 @@
       "question_id": "1074398e3ee3af78cfc3dd5c7085ee35",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many people does rice feed globally?"
@@ -201,6 +256,17 @@
       "question_id": "cf81cad888a71ca9a60b3bcfe0a3582f",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the value of Mexican avocado exports to the United States last year?"
@@ -233,6 +299,17 @@
       "question_id": "0eeab2a4bec05336c6ace4349dc92c36",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental damages does avocado farming cause in Mexico?"
@@ -265,6 +342,17 @@
       "question_id": "3913a6bb3793eaf42dd6b3c29c4c4023",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What timeframe of avocado consumption data does the Hass Avocado Board study cover?"
@@ -297,6 +385,17 @@
       "question_id": "4d2b3b360e2419e1761600769c66fac0",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What tropical fruits have export opportunities according to the expert?"
@@ -329,6 +428,17 @@
       "question_id": "6f787eba27aaa526548170d40a7bc330",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which region leads the global IQF fruits market?"
@@ -369,9 +479,20 @@
       "question_id": "3a9fdd879d39296ed860e03696963b15",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "What social issue affects avocado-growing regions in Michoacán?",
+          "What social issue affects avocado-growing regions in Michoac\u00e1n?",
           "What social issues affect avocado farming communities in Michoacan?"
         ],
         "paraphrase_references": [
@@ -407,6 +528,17 @@
       "question_id": "25cae2d780d55c09cc39e595f47a104e",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mexico's domestic per capita avocado consumption?"
@@ -439,6 +571,17 @@
       "question_id": "ad3782e0b81e58be2da1a83deb4b7102",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the projected global jackfruit market size by 2026?"
@@ -471,6 +614,17 @@
       "question_id": "019a73a91f1533b47160e8fe81f8fef2",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many avocados did Kenya export in the first ten months of 2021?"
@@ -503,6 +657,17 @@
       "question_id": "53f91db91f4d2428c46990b4b1680ed2",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental factors caused the avocado shortage from Mexico?"
@@ -535,6 +700,17 @@
       "question_id": "ee96b5fc4b36d0f859bae7aa4232dcc7",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many avocados per person are forecasted in Australia?"
@@ -567,6 +743,17 @@
       "question_id": "53f6240142ff6934f41200f4605d18af",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Chipotle use to dye their avocado-themed merchandise?"
@@ -599,6 +786,17 @@
       "question_id": "840b258d7e0a4eac630722934f1491cb",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the carbon footprint of a typical 2-pack avocado?"
@@ -639,6 +837,17 @@
       "question_id": "574e0b5a946674ef135d20d2188db142",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Morocco's ranking in global avocado exports?",
@@ -677,6 +886,17 @@
       "question_id": "1ba218cbb5fae8c6977a7535eb54988c",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What specific climate conditions damage crops in Mexico?"
@@ -694,5 +914,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

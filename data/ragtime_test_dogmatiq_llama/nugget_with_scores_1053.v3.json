@@ -18,6 +18,17 @@
       "question_id": "d785bec28e3fa30fd3f6bd5d58418f4d",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What years saw significant deforestation for avocado plantations?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229472+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.0751612122431098
       }
@@ -76,6 +97,17 @@
       "question_id": "ec312a62c856cb5091c814bf7932adae",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which regions' consumers drive the high demand for avocados?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229393+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8755238243846546
       }
@@ -134,6 +176,17 @@
       "question_id": "421f1d74a108eff2b9b8ab72c152b16a",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What issues are associated with avocado cultivation in Michoacan state?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.230784+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8204340231708422
       }
@@ -192,6 +255,17 @@
       "question_id": "e9672cfd7fd7e5d4bee3c386c0260efc",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much have European avocado imports increased recently?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228818+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8177868604954242
       }
@@ -258,6 +342,17 @@
       "question_id": "520014c5e7b07a274e8c2d9542b1cd84",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water is consumed to produce one kilogram of avocados?",
@@ -302,7 +397,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228574+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.77655797622044
       }
@@ -322,6 +427,17 @@
       "question_id": "3ef576867c04f2b7745637da53dde38f",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What methods can Kenyan companies invest in for sustainable avocado production?"
@@ -360,7 +476,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.230617+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7417741687609438
       }
@@ -380,6 +506,17 @@
       "question_id": "159938ecda2296daecc6b2dffd2f8a51",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What practice do some farmers and NGOs promote to address environmental concerns?"
@@ -418,7 +555,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.231885+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6658843851758167
       }
@@ -438,6 +585,17 @@
       "question_id": "203e1622b1fded1e776f5a7469917276",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water is needed to grow one avocado?"
@@ -476,7 +634,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229352+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5070742615413244
       }
@@ -496,6 +664,17 @@
       "question_id": "027d0e1d817a4895611ea88998831eab",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What can governments promote to mitigate the climate impact of avocado farming?"
@@ -534,7 +713,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229146+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.4831679162887319
       }
@@ -554,6 +743,17 @@
       "question_id": "33d2114d6163ec6711da94ac77648c0c",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country has faced concerns over avocado farming's water usage?"
@@ -592,7 +792,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.230321+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.3948332670771464
       }
@@ -612,6 +822,17 @@
       "question_id": "1f05ed645a1668653a1f651dfeeccf55",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long has the avocado market been growing substantially?"
@@ -650,7 +871,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228892+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.3861561042068764
       }
@@ -670,6 +901,17 @@
       "question_id": "2d8dd5f427f3268f1b0a238aa3756e4c",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many metric tons of avocados are destined for the United States?"
@@ -708,7 +950,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228748+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.35009479532164445
       }
@@ -728,6 +980,17 @@
       "question_id": "ee3c8881eb66ca6656266915ce48bb78",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What trend reflects consumer expectations for transparency around sustainable food practices?"
@@ -766,7 +1029,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.230035+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.26546877715479744
       }
@@ -786,6 +1059,17 @@
       "question_id": "47c598816f867edf4fa3afa3e7387ee7",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental concerns are associated with avocado farming?",
@@ -830,7 +1114,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228627+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.09921322153172274
       }
@@ -850,6 +1144,17 @@
       "question_id": "9efa50c2918b277b00a863db4248f015",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where is avocado primarily cultivated?"
@@ -888,7 +1193,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229134+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.04756296486963296
       }
@@ -908,6 +1223,17 @@
       "question_id": "0b12d978c60913bfc05e464493253b5e",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organizations are involved in illegal land acquisition for avocado farming in Mexico?"
@@ -946,7 +1272,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.231875+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.03322117035371752
       }
@@ -966,6 +1302,17 @@
       "question_id": "b291bd15e2980a9c012472d757060668",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "In which Mexican state has avocado farming caused significant environmental damage?"
@@ -1004,7 +1351,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.229114+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.054786697327412925
       }
@@ -1024,6 +1381,17 @@
       "question_id": "21cec1df3851fa246b4e12428564ac4c",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much were the payouts to farmers in local communities?"
@@ -1062,7 +1430,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.230000+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.13175086012623471
       }
@@ -1082,6 +1460,17 @@
       "question_id": "c6d2b8020572b42426be05c3410c1196",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is a major avocado supplier to the United States?"
@@ -1120,13 +1509,23 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.231019+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.14554669952940724
       }
     },
-    "How many workers in Michoacán are supported by the avocado industry?": {
-      "question": "How many workers in Michoacán are supported by the avocado industry?",
+    "How many workers in Michoac\u00e1n are supported by the avocado industry?": {
+      "question": "How many workers in Michoac\u00e1n are supported by the avocado industry?",
       "answers": {
         "300,000": {
           "answer": "300,000",
@@ -1140,9 +1539,20 @@
       "question_id": "6f9312ee5c1d66d432841778dc543d74",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How many workers in Michoacán are supported by the avocado industry?"
+          "How many workers in Michoac\u00e1n are supported by the avocado industry?"
         ],
         "paraphrase_references": [
           [
@@ -1178,12 +1588,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T01:00:08.228783+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.1509570749325655
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-08T06:03:51.407591",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 10.036144578313253,
@@ -1624,7 +2055,7 @@
             "6": [
               [
                 6,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Mexico's avocado production comes from Michoacán?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Mexico's avocado production comes from Michoac\u00e1n?"
               ],
               [
                 7,
@@ -1710,7 +2141,7 @@
             "11": [
               [
                 12,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Michoacán's avocado production is typically exported?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Michoac\u00e1n's avocado production is typically exported?"
               ],
               [
                 94,
@@ -1736,7 +2167,7 @@
             "14": [
               [
                 16,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many workers in Michoacán are supported by the avocado industry?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many workers in Michoac\u00e1n are supported by the avocado industry?"
               ]
             ],
             "15": [
@@ -1748,7 +2179,7 @@
             "16": [
               [
                 18,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> Who is the Governor of Michoacán who tweeted about the lifting of the avocado import ban?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> Who is the Governor of Michoac\u00e1n who tweeted about the lifting of the avocado import ban?"
               ]
             ],
             "17": [
@@ -2382,7 +2813,7 @@
             "101": [
               [
                 131,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many tons of avocados did Michoacán export to the US in six weeks?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many tons of avocados did Michoac\u00e1n export to the US in six weeks?"
               ]
             ],
             "102": [
@@ -3770,7 +4201,7 @@
             "22": [
               [
                 6,
-                "What percentage of Mexico's avocado production comes from Michoacán?"
+                "What percentage of Mexico's avocado production comes from Michoac\u00e1n?"
               ],
               [
                 85,
@@ -3840,7 +4271,7 @@
             "19": [
               [
                 12,
-                "What percentage of Michoacán's avocado production is typically exported?"
+                "What percentage of Michoac\u00e1n's avocado production is typically exported?"
               ],
               [
                 39,
@@ -3886,7 +4317,7 @@
             "2": [
               [
                 16,
-                "How many workers in Michoacán are supported by the avocado industry?"
+                "How many workers in Michoac\u00e1n are supported by the avocado industry?"
               ],
               [
                 160,
@@ -3918,7 +4349,7 @@
             "74": [
               [
                 18,
-                "Who is the Governor of Michoacán who tweeted about the lifting of the avocado import ban?"
+                "Who is the Governor of Michoac\u00e1n who tweeted about the lifting of the avocado import ban?"
               ],
               [
                 93,
@@ -4378,7 +4809,7 @@
               ],
               [
                 131,
-                "How many tons of avocados did Michoacán export to the US in six weeks?"
+                "How many tons of avocados did Michoac\u00e1n export to the US in six weeks?"
               ]
             ],
             "64": [
@@ -5295,7 +5726,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.27149995551409223,
         "inverse_compression_pos": 0.1755001755001755
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-12T01:00:08.228464+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

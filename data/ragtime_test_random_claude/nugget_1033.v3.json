@@ -18,6 +18,17 @@
       "question_id": "9b5906b1913687906f4415c4ebed9e8d",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does a 4/10 schedule restructure traditional work arrangements?"
@@ -50,6 +61,17 @@
       "question_id": "38294119ecd619c5a4fd3a885d257c76",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Front's headcount change during the experiment?"
@@ -82,6 +104,17 @@
       "question_id": "c8799f8abdfa363e3ac71376cbf690e3",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits did Unilever experience from the 4-day workweek?"
@@ -138,6 +171,17 @@
       "question_id": "603ad0338a2f9a398ebdc0e05c5ef9d5",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of UK trial companies adopted 4-day workweek long-term?",
@@ -188,6 +232,17 @@
       "question_id": "1bd485e31afede35b13801b82ba7e24e",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health improvements were observed in American and Irish trials?"
@@ -220,6 +275,17 @@
       "question_id": "5acd07f6feedeb70a656f1ac58bbf702",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of Iceland's workforce now has 4-day week rights?"
@@ -252,6 +318,17 @@
       "question_id": "847adfce8c9f56d3f50d734965a74476",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which major South Korean company started implementing 4-day workweek?"
@@ -284,6 +361,17 @@
       "question_id": "dda104405a7c37ad77142448cf37ab85",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What proportion of UK trial companies plan permanent 4-day workweeks?"
@@ -324,6 +412,17 @@
       "question_id": "5fb96a69fa3b16f639d24a2197c5bb89",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What were the main benefits of the UK 4-day workweek experiment?",
@@ -362,6 +461,17 @@
       "question_id": "f90ed2b83331a647ca7cf8b27f88cdbb",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What meeting time limits did Unity company establish?"
@@ -394,6 +504,17 @@
       "question_id": "09de3a94d59816f6f2b7bb6ee548bf9b",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the three key principles for 4-day workweek implementation?"
@@ -426,6 +547,17 @@
       "question_id": "38af71b589e68b7c10fde40293191b38",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What equity concerns arise with four-day workweek adoption?"
@@ -458,6 +590,17 @@
       "question_id": "396e58722cb23cb1f246a8d7ff6ce5d8",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many holiday days do Germany, United Kingdom, and United States have?"
@@ -490,6 +633,17 @@
       "question_id": "3a896a93cbdb43a77e167476bc4ecb1c",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits does Denis Melekhov propose from 4-day workweek implementation?"
@@ -522,6 +676,17 @@
       "question_id": "237af090863ad980893f001ee4df2c0a",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which day is most preferred as the additional day off?"
@@ -554,6 +719,17 @@
       "question_id": "9984dc7a96765e6dd60def29b3faa0a9",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many employees view 4-day workweek as most appealing job benefit?"
@@ -602,6 +778,17 @@
       "question_id": "b5a05fa46e993a7ed7e1ac2314012341",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies and employees participated in the UK 4-day workweek experiment?",
@@ -654,6 +841,17 @@
       "question_id": "31da35d44a95d2fd7f6acbccc4283240",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did Microsoft Japan's productivity improve with 4-day workweek?",
@@ -692,6 +890,17 @@
       "question_id": "c5ea15701fadabf5c11c307e6668e338",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What work schedule did neighboring countries implement in their trials?"
@@ -724,6 +933,17 @@
       "question_id": "20bd6a8c8c86be7e4067248842ac102a",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What level of employee support exists for four-day workweek in India?"
@@ -741,5 +961,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

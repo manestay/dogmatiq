@@ -18,6 +18,17 @@
       "question_id": "f7f7276d2157080b48f156230df42ea1",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do fans typically respond to new Labubu releases?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167360+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.248591613383047
       }
@@ -76,6 +97,17 @@
       "question_id": "4ae448595557bae5a49fa5e945ded0a2",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What demographic does Pop Mart target with their products?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165893+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.893654520122467
       }
@@ -134,6 +176,17 @@
       "question_id": "ed6123c06d106cf5f3ce8397c8c63fe9",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why do modern people seek comfort from collectible toys?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167453+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7608218306121772
       }
@@ -192,6 +255,17 @@
       "question_id": "eb3987315295d0db55b9cafb8c3947d5",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What demographic group primarily purchases cute collectible toys?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167428+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7336068679781822
       }
@@ -250,6 +334,17 @@
       "question_id": "48608f24e84cb7d2f43b742f8fe17f3f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has the blind box trend developed recently?"
@@ -288,7 +383,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167003+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6420332733085385
       }
@@ -308,6 +413,17 @@
       "question_id": "956241e4b0ef16150a8f3de0a767828b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What design features make Labubu Constellation Series appealing?"
@@ -346,7 +462,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165998+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.44358957640383867
       }
@@ -366,6 +492,17 @@
       "question_id": "5104177cd27e207aca02e5791c32ce14",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much do Pop Mart blind box collectors typically spend?"
@@ -404,7 +541,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165984+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.1750763632092882
       }
@@ -424,6 +571,17 @@
       "question_id": "8ca1e936e4f08f1b0d2b4a29a139a905",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which famous celebrities have contributed to Labubu's popularity?"
@@ -462,7 +620,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167339+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.11944527065132116
       }
@@ -485,6 +653,17 @@
       "question_id": "90a10c81588117cb4386624ce1762b2b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of toys are Labubu figurines?"
@@ -526,7 +705,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165691+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.09158431114461996
       }
@@ -546,6 +735,17 @@
       "question_id": "137f124fd7785749052b4c0e37f6fba0",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main motivations for collectible toy purchases?"
@@ -584,7 +784,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167186+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.09180156619251822
       }
@@ -604,6 +814,17 @@
       "question_id": "8950c820958d07c9c09b80e9044a6b8e",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What product does this document primarily discuss?"
@@ -642,7 +863,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.166100+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.18602516714110262
       }
@@ -662,6 +893,17 @@
       "question_id": "55b2340073d6cad4d8f5d4552fd73f6f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which company is responsible for marketing Labubu toys?"
@@ -700,7 +942,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.166846+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.31975229454970866
       }
@@ -736,6 +988,17 @@
       "question_id": "fdb1dd691bf95ac69d4a5109e4931c9e",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "On which social media platform did Labubu gain viral popularity?",
@@ -792,7 +1055,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165581+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.35405226245927635
       }
@@ -812,6 +1085,17 @@
       "question_id": "b3d17d9c90fa4e52cb7573d3b0ddcec7",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What psychological theory explains attraction to fluffy toys?"
@@ -850,7 +1134,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167465+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.6085364404083713
       }
@@ -870,6 +1164,17 @@
       "question_id": "011ae31f6621847f742018f30030c63a",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What psychological principle makes cute toys like Labubu appealing?"
@@ -908,7 +1213,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167396+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.624209956438784
       }
@@ -942,6 +1257,17 @@
       "question_id": "c7f9e7c5ac6e8de129529a3cc587fec1",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Chinese toy company markets the Labubu collectibles?",
@@ -995,7 +1321,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165613+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.6616779581295182
       }
@@ -1015,6 +1351,17 @@
       "question_id": "1934ba4772d00f7c5650dc1074a8853c",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What exactly is Labubu that teenagers are obsessed with?"
@@ -1053,7 +1400,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.165949+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.6644863654297269
       }
@@ -1073,6 +1430,17 @@
       "question_id": "16b9d0a99278b4b514b598aea82b5849",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do fans typically acquire new Labubu toy releases?"
@@ -1111,7 +1479,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.166745+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.6671792492474905
       }
@@ -1131,6 +1509,17 @@
       "question_id": "94161274532c72351b4f64fee885642b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of toys are Labubu products?"
@@ -1169,7 +1558,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.166759+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.6768557308622076
       }
@@ -1189,6 +1588,17 @@
       "question_id": "e911d3b243eed468f954044108a7a19a",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is the main subject discussed in this document?"
@@ -1227,12 +1637,33 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:48:39.167478+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.7263541030482552
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 9.860655737704919,
@@ -1375,661 +1806,661 @@
             "0": [
               [
                 0,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information about Labubu is provided in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information about Labubu is provided in this document?"
               ],
               [
                 2,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does this document reveal about Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does this document reveal about Labubu toys?"
               ],
               [
                 106,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about the Labubu phenomenon?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about the Labubu phenomenon?"
               ],
               [
                 107,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu phenomenon?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu phenomenon?"
               ],
               [
                 108,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does this document reveal about the Labubu phenomenon?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does this document reveal about the Labubu phenomenon?"
               ],
               [
                 109,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information about Labubu phenomenon does this document provide?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information about Labubu phenomenon does this document provide?"
               ],
               [
                 110,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information does this document provide about Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What information does this document provide about Labubu toys?"
               ],
               [
                 111,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does the document reveal about Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What does the document reveal about Labubu toys?"
               ],
               [
                 112,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu collectible toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu collectible toys?"
               ],
               [
                 113,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document contain information about Labubu toys?"
               ]
             ],
             "1": [
               [
                 1,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document explain the Labubu phenomenon parents are asking about?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Does this document explain the Labubu phenomenon parents are asking about?"
               ]
             ],
             "2": [
               [
                 3,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic covered in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic covered in this document?"
               ],
               [
                 45,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main subject discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main subject discussed in this document?"
               ],
               [
                 105,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the main subject discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the main subject discussed in this document?"
               ],
               [
                 114,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic discussed in this document?"
               ],
               [
                 115,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic of this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the main topic of this document?"
               ]
             ],
             "3": [
               [
                 4,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform has Labubu become viral?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform has Labubu become viral?"
               ],
               [
                 116,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform did Labubu gain viral popularity?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform did Labubu gain viral popularity?"
               ],
               [
                 117,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform did Labubu become viral?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> On which social media platform did Labubu become viral?"
               ],
               [
                 118,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which social media platform has boosted Labubu's viral popularity?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which social media platform has boosted Labubu's viral popularity?"
               ]
             ],
             "4": [
               [
                 5,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese toy company is responsible for marketing Labubu?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese toy company is responsible for marketing Labubu?"
               ],
               [
                 81,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company is responsible for marketing Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company is responsible for marketing Labubu toys?"
               ],
               [
                 120,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese company is responsible for marketing Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese company is responsible for marketing Labubu toys?"
               ]
             ],
             "5": [
               [
                 6,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the original creator of the Labubu character?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the original creator of the Labubu character?"
               ]
             ],
             "6": [
               [
                 7,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which famous celebrities have been seen with Labubu toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which famous celebrities have been seen with Labubu toys?"
               ],
               [
                 98,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which famous celebrities have contributed to Labubu's popularity?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which famous celebrities have contributed to Labubu's popularity?"
               ]
             ],
             "7": [
               [
                 8,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many careers has Barbie brand covered historically?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many careers has Barbie brand covered historically?"
               ],
               [
                 121,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many different careers has Barbie doll represented throughout history?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many different careers has Barbie doll represented throughout history?"
               ]
             ],
             "8": [
               [
                 9,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of toys are Labubu figurines?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of toys are Labubu figurines?"
               ],
               [
                 74,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of toys are Labubu products?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of toys are Labubu products?"
               ]
             ],
             "9": [
               [
                 10,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Labubu and who created this collectible toy character?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Labubu and who created this collectible toy character?"
               ]
             ],
             "10": [
               [
                 11,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What unprecedented official recognition did Thailand give to Labubu?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What unprecedented official recognition did Thailand give to Labubu?"
               ],
               [
                 12,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?"
               ],
               [
                 13,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which high-level officials attended Labubu's welcome ceremony in Thailand?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which high-level officials attended Labubu's welcome ceremony in Thailand?"
               ]
             ],
             "11": [
               [
                 14,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What toy safety issue is discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What toy safety issue is discussed in this document?"
               ]
             ],
             "12": [
               [
                 15,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many Calico Critters toys were recalled by US authorities?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many Calico Critters toys were recalled by US authorities?"
               ]
             ],
             "13": [
               [
                 16,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What makes Calico Critters toys dangerous for children?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What makes Calico Critters toys dangerous for children?"
               ]
             ],
             "14": [
               [
                 17,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What incident involving a large toy figure caused international news attention?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What incident involving a large toy figure caused international news attention?"
               ]
             ],
             "15": [
               [
                 18,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How did the toy company's stock price change following the incident?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How did the toy company's stock price change following the incident?"
               ],
               [
                 19,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who benefited most from the toy company's stock price increase?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who benefited most from the toy company's stock price increase?"
               ]
             ],
             "16": [
               [
                 20,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What Pop Mart character products are being distributed in Russia?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What Pop Mart character products are being distributed in Russia?"
               ]
             ],
             "17": [
               [
                 21,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What demographic does Pop Mart target with their products?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What demographic does Pop Mart target with their products?"
               ]
             ],
             "18": [
               [
                 22,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the price range for Pop Mart products in Russia?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the price range for Pop Mart products in Russia?"
               ]
             ],
             "19": [
               [
                 23,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did Rosman invest in Pop Mart distribution in Russia?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did Rosman invest in Pop Mart distribution in Russia?"
               ]
             ],
             "20": [
               [
                 24,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the size of Russia's collectible toy market?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the size of Russia's collectible toy market?"
               ]
             ],
             "21": [
               [
                 25,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What exactly is Labubu that teenagers are obsessed with?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What exactly is Labubu that teenagers are obsessed with?"
               ]
             ],
             "22": [
               [
                 26,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How popular was the Labubu Constellation Series when released?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How popular was the Labubu Constellation Series when released?"
               ]
             ],
             "23": [
               [
                 27,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much do Pop Mart blind box collectors typically spend?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much do Pop Mart blind box collectors typically spend?"
               ]
             ],
             "24": [
               [
                 28,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design features make Labubu Constellation Series appealing?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design features make Labubu Constellation Series appealing?"
               ]
             ],
             "25": [
               [
                 29,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the hidden rare figure in Labubu Constellation Series?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the hidden rare figure in Labubu Constellation Series?"
               ]
             ],
             "26": [
               [
                 30,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Loab according to the document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Loab according to the document?"
               ],
               [
                 31,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who created the Loab character and when?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who created the Loab character and when?"
               ],
               [
                 32,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are Loab's distinctive physical features?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are Loab's distinctive physical features?"
               ]
             ],
             "27": [
               [
                 33,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What product does this document primarily discuss?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What product does this document primarily discuss?"
               ],
               [
                 56,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What products are discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What products are discussed in this document?"
               ],
               [
                 76,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What product is the main focus of this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What product is the main focus of this document?"
               ]
             ],
             "28": [
               [
                 34,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What animal characteristics inspired the Wallaby brand naming?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What animal characteristics inspired the Wallaby brand naming?"
               ]
             ],
             "29": [
               [
                 35,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What materials are used in Wallaby square zipper luggage?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What materials are used in Wallaby square zipper luggage?"
               ]
             ],
             "30": [
               [
                 36,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What major collaboration did POP MART announce recently?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What major collaboration did POP MART announce recently?"
               ]
             ],
             "31": [
               [
                 37,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many people registered to purchase the limited SKULLPANDA collaboration?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How many people registered to purchase the limited SKULLPANDA collaboration?"
               ]
             ],
             "32": [
               [
                 38,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What will POP MART showcase at TTF Taipei toy exhibition?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What will POP MART showcase at TTF Taipei toy exhibition?"
               ]
             ],
             "33": [
               [
                 39,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who directed the Barbie movie discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who directed the Barbie movie discussed in this document?"
               ],
               [
                 40,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What themes does the Barbie movie explore according to this review?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What themes does the Barbie movie explore according to this review?"
               ]
             ],
             "34": [
               [
                 41,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which two countries interpreted the Hung-bu and Nol-bu story differently?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which two countries interpreted the Hung-bu and Nol-bu story differently?"
               ]
             ],
             "35": [
               [
                 42,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When did North Korea reinterpret the traditional Korean folktale?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When did North Korea reinterpret the traditional Korean folktale?"
               ]
             ],
             "36": [
               [
                 43,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company created the Role Model Barbie series?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company created the Role Model Barbie series?"
               ],
               [
                 44,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is one scientist featured in the Role Model Barbie series?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is one scientist featured in the Role Model Barbie series?"
               ]
             ],
             "37": [
               [
                 46,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the price range for Daiso animal products?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the price range for Daiso animal products?"
               ]
             ],
             "38": [
               [
                 47,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What distinctive feature makes these Daiso animals appealing?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What distinctive feature makes these Daiso animals appealing?"
               ]
             ],
             "39": [
               [
                 48,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the original creator of the Zhdun character?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the original creator of the Zhdun character?"
               ]
             ],
             "40": [
               [
                 49,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company owns the licensing rights for Zhdun merchandise?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which company owns the licensing rights for Zhdun merchandise?"
               ]
             ],
             "41": [
               [
                 50,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the court's ruling regarding Yandex's responsibility?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the court's ruling regarding Yandex's responsibility?"
               ]
             ],
             "42": [
               [
                 51,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible item is being discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible item is being discussed in this document?"
               ],
               [
                 66,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible merchandise does this document primarily discuss?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible merchandise does this document primarily discuss?"
               ],
               [
                 70,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What types of collectible toys are mentioned in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What types of collectible toys are mentioned in this document?"
               ]
             ],
             "43": [
               [
                 52,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the current auction price for the Mr Blobby costume?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the current auction price for the Mr Blobby costume?"
               ]
             ],
             "44": [
               [
                 53,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What classic toy gained renewed attention from the recent Barbie movie?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What classic toy gained renewed attention from the recent Barbie movie?"
               ]
             ],
             "45": [
               [
                 54,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the current collector value of controversial 1992 talking Barbie dolls?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the current collector value of controversial 1992 talking Barbie dolls?"
               ]
             ],
             "46": [
               [
                 55,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the original inspiration for the Barbie doll design?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the original inspiration for the Barbie doll design?"
               ]
             ],
             "47": [
               [
                 57,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design theme does the tupera tupera collaboration use?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design theme does the tupera tupera collaboration use?"
               ]
             ],
             "48": [
               [
                 58,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who created the Loobani pet toy company mentioned in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who created the Loobani pet toy company mentioned in this document?"
               ]
             ],
             "49": [
               [
                 59,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Loobani's flagship product described in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Loobani's flagship product described in this document?"
               ]
             ],
             "50": [
               [
                 60,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When was the Handknitting Association of Iceland established?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When was the Handknitting Association of Iceland established?"
               ]
             ],
             "51": [
               [
                 61,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What makes lopapeysa sweaters exceptionally warm and durable?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What makes lopapeysa sweaters exceptionally warm and durable?"
               ]
             ],
             "52": [
               [
                 62,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible toy brand was recently launched in Taiwan?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What collectible toy brand was recently launched in Taiwan?"
               ]
             ],
             "53": [
               [
                 63,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What sizes are offered for the Bored Ape collectible figures?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What sizes are offered for the Bored Ape collectible figures?"
               ]
             ],
             "54": [
               [
                 64,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much do the different sized Bored Ape figures cost?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much do the different sized Bored Ape figures cost?"
               ]
             ],
             "55": [
               [
                 65,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What must consumers do before obtaining Bored Ape physical figures?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What must consumers do before obtaining Bored Ape physical figures?"
               ]
             ],
             "56": [
               [
                 67,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How does this document describe Pokemon's cultural impact?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How does this document describe Pokemon's cultural impact?"
               ]
             ],
             "57": [
               [
                 68,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design features make mofusand appealing to consumers?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What design features make mofusand appealing to consumers?"
               ]
             ],
             "58": [
               [
                 69,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which major brands collaborated with mofusand in Taiwan?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which major brands collaborated with mofusand in Taiwan?"
               ]
             ],
             "59": [
               [
                 71,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which character IP collaboration is featured in this promotional event?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which character IP collaboration is featured in this promotional event?"
               ]
             ],
             "60": [
               [
                 72,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the duration of the rabbit-themed promotional event?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the duration of the rabbit-themed promotional event?"
               ]
             ],
             "61": [
               [
                 73,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do fans typically acquire new Labubu toy releases?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do fans typically acquire new Labubu toy releases?"
               ],
               [
                 99,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do fans typically respond to new Labubu releases?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do fans typically respond to new Labubu releases?"
               ]
             ],
             "62": [
               [
                 75,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What financial impact has the Labubu phenomenon created?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What financial impact has the Labubu phenomenon created?"
               ],
               [
                 82,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How has Labubu affected Pop Mart's financial performance?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How has Labubu affected Pop Mart's financial performance?"
               ]
             ],
             "63": [
               [
                 77,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Bluey according to this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is Bluey according to this document?"
               ]
             ],
             "64": [
               [
                 78,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What luxury product is featured in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What luxury product is featured in this document?"
               ]
             ],
             "65": [
               [
                 79,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the creative director of Chanel jewelry studio?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the creative director of Chanel jewelry studio?"
               ]
             ],
             "66": [
               [
                 80,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the main themes in Chanel TWEED collection?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the main themes in Chanel TWEED collection?"
               ]
             ],
             "67": [
               [
                 83,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the origins of blind box products?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the origins of blind box products?"
               ],
               [
                 84,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the key characteristic of blind box products?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What is the key characteristic of blind box products?"
               ],
               [
                 85,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How has the blind box trend developed recently?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How has the blind box trend developed recently?"
               ]
             ],
             "68": [
               [
                 86,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What role do collectible toys like Labubu serve for adults?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What role do collectible toys like Labubu serve for adults?"
               ]
             ],
             "69": [
               [
                 87,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How large is the projected core consumer base for collectible toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How large is the projected core consumer base for collectible toys?"
               ]
             ],
             "70": [
               [
                 88,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did consumer Xiao Chen spend on Labubu collectibles?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did consumer Xiao Chen spend on Labubu collectibles?"
               ]
             ],
             "71": [
               [
                 89,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the main motivations for collectible toy purchases?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What are the main motivations for collectible toy purchases?"
               ]
             ],
             "72": [
               [
                 90,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the projected collectible toy market size in China?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What was the projected collectible toy market size in China?"
               ]
             ],
             "73": [
               [
                 91,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of character is Loopy from the document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What type of character is Loopy from the document?"
               ]
             ],
             "74": [
               [
                 92,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What caused Loopy's recent surge in popularity?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What caused Loopy's recent surge in popularity?"
               ]
             ],
             "75": [
               [
                 93,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When and where did Loopy open its flagship store?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> When and where did Loopy open its flagship store?"
               ]
             ],
             "76": [
               [
                 94,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What brand is discussed in this document?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What brand is discussed in this document?"
               ]
             ],
             "77": [
               [
                 95,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the founder of the Lethed clothing brand?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Who is the founder of the Lethed clothing brand?"
               ]
             ],
             "78": [
               [
                 96,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What Chinese artifact was sold at Sotheby's Hong Kong?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What Chinese artifact was sold at Sotheby's Hong Kong?"
               ]
             ],
             "79": [
               [
                 97,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did the Chinese Emperor's seal sell for?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How much did the Chinese Emperor's seal sell for?"
               ]
             ],
             "80": [
               [
                 100,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What psychological principle makes cute toys like Labubu appealing?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What psychological principle makes cute toys like Labubu appealing?"
               ]
             ],
             "81": [
               [
                 101,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What demographic group primarily purchases cute collectible toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What demographic group primarily purchases cute collectible toys?"
               ]
             ],
             "82": [
               [
                 102,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do plush toys help people psychologically?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> How do plush toys help people psychologically?"
               ]
             ],
             "83": [
               [
                 103,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Why do modern people seek comfort from collectible toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Why do modern people seek comfort from collectible toys?"
               ]
             ],
             "84": [
               [
                 104,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What psychological theory explains attraction to fluffy toys?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> What psychological theory explains attraction to fluffy toys?"
               ]
             ],
             "85": [
               [
                 119,
-                "Labubu, a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on “The Labubu Phenomenon” that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier. The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese toy company markets the Labubu collectibles?"
+                "Labubu,\u00a0a character and brand of collectible plush toy monster elves created by Hong Kong designer Kasing Lung and marketed by Pop Mart, a Chinese toy company, has gained significant popularity, with fans lining up to purchase them and even celebrities like Rihanna being spotted with them. I need a report on \u201cThe Labubu Phenomenon\u201d that has led to a surge in global revenue for Pop Mart, with the company's founder becoming significantly wealthier.\u00a0The report should contain the explanation why these figurines have become viral sensations, particularly on platforms like TikTok. >>> Which Chinese toy company markets the Labubu collectibles?"
               ]
             ]
           }
@@ -2794,7 +3225,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.37899905218967506,
         "inverse_compression_pos": 0.20872469213107908
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T22:48:39.165353+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

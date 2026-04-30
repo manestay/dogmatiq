@@ -18,6 +18,17 @@
       "question_id": "62e982c212110f230daba3665f3f29f1",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What do digital nomads value most about their lifestyle?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.912036+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.8567797127709085
       }
@@ -84,6 +105,17 @@
       "question_id": "150d5b7b9befe69bccefb3cde1cb4ae1",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is a key challenge of the digital nomad lifestyle?",
@@ -134,7 +166,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.911769+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.499151944269045
       }
@@ -154,6 +196,17 @@
       "question_id": "de616b9a4bfcfc7f7599527605fbce30",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are typically digital nomads?"
@@ -192,7 +245,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.913351+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.441884491621916
       }
@@ -212,6 +275,17 @@
       "question_id": "feba948c41eb913e5edaea2667655797",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What kind of lifestyle do digital nomads have?"
@@ -250,7 +324,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.912413+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.292628704529992
       }
@@ -270,6 +354,17 @@
       "question_id": "912842eeff7d606580e066260e068b10",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is another challenge faced by freelancers?"
@@ -308,7 +403,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.918443+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.0550449583875237
       }
@@ -328,6 +433,17 @@
       "question_id": "bbaf48e798d780e9a89a034bea4085e0",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the primary work arrangement of digital nomads?"
@@ -366,7 +482,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.917844+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.9237342051378872
       }
@@ -386,6 +512,17 @@
       "question_id": "bcbb83b48a8d7e69a9be9752540f3774",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What tools are necessary for remote work?"
@@ -424,7 +561,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.918346+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.603015364900838
       }
@@ -444,6 +591,17 @@
       "question_id": "7b13217f93fad721a8e6e9d228f2d023",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What factors do people consider when choosing where to live as digital nomads?"
@@ -482,7 +640,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.913949+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.5606212406921922
       }
@@ -502,6 +670,17 @@
       "question_id": "a4c84d251dd75f80bf7f3a297e80bfc2",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which professions can easily adapt to remote work?"
@@ -540,7 +719,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.918332+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.5230615000413286
       }
@@ -568,6 +757,17 @@
       "question_id": "0a15629ab6bd293ffb5784706aa759f2",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits do digital nomads often enjoy?",
@@ -612,7 +812,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.911902+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.5166400349058744
       }
@@ -632,6 +842,17 @@
       "question_id": "605d1f5b85c3ae52bd4ba95748489b5d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What kind of companies do digital nomads often work for?"
@@ -670,7 +891,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.917827+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.5151870233951072
       }
@@ -690,6 +921,17 @@
       "question_id": "edb03f580a570c42418d5e5a6ec77f95",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of jobs can be done fully remotely with an internet connection?"
@@ -728,7 +970,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.916247+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.460568031185248
       }
@@ -748,6 +1000,17 @@
       "question_id": "3ecdf5da66379dee7d2a155a87e5a73c",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traits are necessary for remote work?"
@@ -786,7 +1049,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.918884+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.4382018906326768
       }
@@ -806,6 +1079,17 @@
       "question_id": "383955036c172044e268d7fe3aa356ef",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What enables the digital nomad lifestyle?"
@@ -844,7 +1128,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.913337+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.412781716587204
       }
@@ -864,6 +1158,17 @@
       "question_id": "ebd3177df7a57bf688e5d4a584e21ead",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What enables the combination of work and travel in the digital nomad lifestyle?"
@@ -902,7 +1207,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.917140+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.3186944046836633
       }
@@ -922,6 +1237,17 @@
       "question_id": "66c73a4c8cadb1b10a4fceb4028b1f8d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of visa do digital nomads use to stay in a country?"
@@ -960,7 +1286,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.912160+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2720681226133586
       }
@@ -980,6 +1316,17 @@
       "question_id": "bf34da7e1426f49f51f52d9e83e3866e",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of employment do digital nomads typically engage in?"
@@ -1018,7 +1365,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.917814+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2566096469942196
       }
@@ -1038,6 +1395,17 @@
       "question_id": "45b5b0a783875543dcf23d53d4455b5a",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What challenges do digital nomads typically face?",
@@ -1082,7 +1450,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.911867+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2496959231346487
       }
@@ -1102,6 +1480,17 @@
       "question_id": "e6d173cd923ff074eff73f3395ad4621",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is a concern raised by the shift towards remote work?"
@@ -1140,7 +1529,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.917734+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2253783505136169
       }
@@ -1176,6 +1575,17 @@
       "question_id": "4b6ea91bf0ab8c91657e72e5d16c4749",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What skills are necessary for a digital nomad lifestyle?",
@@ -1226,12 +1636,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T18:09:15.911810+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2240024630341977
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-08T06:03:51.407591",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 9.679133858267717,
@@ -7474,7 +7905,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.2688947175430975,
         "inverse_compression_pos": 0.17283097131005878
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-11T18:09:15.911473+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

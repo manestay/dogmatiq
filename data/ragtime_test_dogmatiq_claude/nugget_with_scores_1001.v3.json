@@ -18,6 +18,17 @@
       "question_id": "1a4b57317b45e57a0e102973e53e7da0",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What potential dangers did Geoffrey Hinton warn about?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.826267+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.619015761802925
       }
@@ -76,6 +97,17 @@
       "question_id": "f8af8aee621c21ccb0c21759b64c5ac8",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What future scenario does Geoffrey Hinton warn about?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.826027+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.4220222002290304
       }
@@ -142,6 +184,17 @@
       "question_id": "9165efe168c71f4f4f9bb9c3878d7f35",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Geoffrey Hinton warn about after leaving Google?"
@@ -183,7 +236,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.824915+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.2025713690771442
       }
@@ -203,6 +266,17 @@
       "question_id": "599d052abfcb33050ba586ccfb7c19c4",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Geoffrey Hinton urge governments to do regarding AI?"
@@ -241,7 +315,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.826293+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.192213131635703
       }
@@ -261,6 +345,17 @@
       "question_id": "50457f8ae2d43abc209d8a55dffed71c",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Geoffrey Hinton believe about AI's danger level?"
@@ -299,7 +394,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.827030+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.1768070645696547
       }
@@ -319,6 +424,17 @@
       "question_id": "392e64804ce0e2584262b8dc0be57b96",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who does Geoffrey Hinton say should be involved in AI discussions?"
@@ -357,7 +473,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825990+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.095151534906578
       }
@@ -377,6 +503,17 @@
       "question_id": "8d906a6456058b0147db03b5b5da69b2",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main AI misuse concerns mentioned in the document?"
@@ -415,7 +552,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825261+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.0788015839237968
       }
@@ -435,6 +582,17 @@
       "question_id": "58ebdf39c0f6f22f0efb6fca811cb906",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are two major risks Geoffrey Hinton warned about?"
@@ -473,7 +631,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.827089+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.0636882591113848
       }
@@ -611,6 +779,17 @@
       "question_id": "deb99e0bb7b0c826bf8f37c8a408edb0",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why did Geoffrey Hinton leave Google in 2023?",
@@ -715,7 +894,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.824528+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.0349508463390955
       }
@@ -735,6 +924,17 @@
       "question_id": "7bb0c5e7b6ab901d411467605ddcb7f0",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What ultimate consequence do AI specialists warn about?"
@@ -773,7 +973,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.827558+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 2.0190164898079273
       }
@@ -793,6 +1003,17 @@
       "question_id": "6272ed38457afcec01be624e2115fc2e",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does the AI safety warning statement call for?"
@@ -831,7 +1052,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.827361+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.935292876847741
       }
@@ -851,6 +1082,17 @@
       "question_id": "79b7f68d3cfe9fd55f62a3a2c2c82550",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Geoffrey Hinton's resignation from Google represent?"
@@ -889,7 +1131,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.826570+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.8166324457110075
       }
@@ -909,6 +1161,17 @@
       "question_id": "1bb8652b99ab387e30c9c0a0261048bd",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Geoffrey Hinton believe AI will affect jobs?"
@@ -947,7 +1210,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825003+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.7999743208126393
       }
@@ -967,6 +1240,17 @@
       "question_id": "a073bbb7a5a8cf7cdf9c6884f89d18ef",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Geoffrey Hinton describe humanity's potential future?"
@@ -1005,7 +1289,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825239+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.736526851730571
       }
@@ -1025,6 +1319,17 @@
       "question_id": "840b83a5c2fe84efccb391b16bbf414a",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Geoffrey Hinton worry about regarding tech companies?"
@@ -1063,7 +1368,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825394+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.7003708587822937
       }
@@ -1107,6 +1422,17 @@
       "question_id": "b857e31d6b35005fde15e9ff3b4f2159",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which AI pioneers have warned about artificial intelligence dangers?",
@@ -1163,7 +1489,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.824603+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.601509333332623
       }
@@ -1183,6 +1519,17 @@
       "question_id": "b8148d8401f354736e5f5b025a623a1c",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did tech experts describe as their main concern?"
@@ -1221,7 +1568,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.828003+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.6003836770423279
       }
@@ -1241,6 +1598,17 @@
       "question_id": "c5be4a4b3ee210a327e11301383bd2d5",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which notable figures supported pausing advanced AI system development?"
@@ -1279,7 +1647,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.825077+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.5098360833172038
       }
@@ -1299,6 +1677,17 @@
       "question_id": "6efdb113f7f15225aab0c8ca31a176a5",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What specific AI concerns did Geoffrey Hinton express?"
@@ -1337,7 +1726,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.826625+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.4368112433694673
       }
@@ -1357,6 +1756,17 @@
       "question_id": "737fb2cf9ff39b626eb8120401382992",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why are AI companies potentially compromising safety according to experts?"
@@ -1395,12 +1805,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T19:45:14.827688+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.251657896307829
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 9.284705882352942,
@@ -3444,7 +3875,7 @@
             "157": [
               [
                 212,
-                "Geoffrey Hinton, one of the pioneers of artificial intelligence, left Google in 2023, warning that AI might become dangerous if not carefully managed. This report should explain who he is, what his main contributions to AI have been, and why his recent warnings made headlines. The report should also explore how other experts responded to his concerns, and what the public should understand from this event. >>> How did Jürgen Schmidhuber respond to Geoffrey Hinton's warnings?"
+                "Geoffrey Hinton, one of the pioneers of artificial intelligence, left Google in 2023, warning that AI might become dangerous if not carefully managed. This report should explain who he is, what his main contributions to AI have been, and why his recent warnings made headlines. The report should also explore how other experts responded to his concerns, and what the public should understand from this event. >>> How did J\u00fcrgen Schmidhuber respond to Geoffrey Hinton's warnings?"
               ]
             ],
             "158": [
@@ -5697,7 +6128,7 @@
               ],
               [
                 212,
-                "How did Jürgen Schmidhuber respond to Geoffrey Hinton's warnings?"
+                "How did J\u00fcrgen Schmidhuber respond to Geoffrey Hinton's warnings?"
               ],
               [
                 220,
@@ -6572,7 +7003,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.23828442607780337,
         "inverse_compression_pos": 0.15802781289506954
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T19:45:14.824350+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

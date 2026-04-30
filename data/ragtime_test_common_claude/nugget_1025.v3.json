@@ -26,6 +26,17 @@
       "question_id": "877f8ac5332ef3f5cf17865036e602a0",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Nirwana Selle gain social media attention?",
@@ -72,6 +83,17 @@
       "question_id": "1b366830d66159cbdfca3201c37a0e02",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has Saudi female workforce participation changed recently?",
@@ -118,6 +140,17 @@
       "question_id": "97e2ae4f09ed2d532d00129de46f6163",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is a successful female crane operator mentioned in the report?",
@@ -156,6 +189,17 @@
       "question_id": "5f0671e56f15d8d56bb567d1d8adf65a",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does this document say about women crane operators?"
@@ -191,6 +235,17 @@
       "question_id": "a9e6d98d6650dd40e832d139dec449a5",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of waste management workers are women currently?"
@@ -223,6 +278,17 @@
       "question_id": "56cfcbc3d62ce362382a4dd94dd8eda0",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional barriers have women faced in male-dominated industries?"
@@ -255,6 +321,17 @@
       "question_id": "2ecfc71dbf8b1a38ddf9ec444abb85d6",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits do companies gain from promoting gender equality?"
@@ -287,6 +364,17 @@
       "question_id": "dbaed54d5f662dcf186d16222bd53e5c",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How can companies create more inclusive hiring practices?"
@@ -319,6 +407,17 @@
       "question_id": "52805053298d534682b67f92aee446be",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are notable female leaders in traditionally male-dominated industries?"
@@ -351,6 +450,17 @@
       "question_id": "b38e25292c22e2ca4e370c7a6c4e8ebd",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What milestone did Jewel Everett achieve at LUS Fiber?"
@@ -383,6 +493,17 @@
       "question_id": "c2813503b795843d404648ec03121e11",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which program did Jewel Everett graduate from?"
@@ -415,6 +536,17 @@
       "question_id": "480533cd471d2f84875dcb5c4ce7d954",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What physical challenge does Jewel Everett face in her work?"
@@ -447,6 +579,17 @@
       "question_id": "2b9bb3c83079db6b9d7126b7c298b2c5",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What aspects of her job does Jewel Everett value?"
@@ -479,6 +622,17 @@
       "question_id": "f12621c6fade960ad526210f0c112bcc",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the job placement rate for the lineworker program?"
@@ -511,6 +665,17 @@
       "question_id": "1d97845a4f2502ef1e0974af1d4df8b4",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What qualities does Ryan Meche value in Jewel Everett?"
@@ -543,6 +708,17 @@
       "question_id": "6831ce471498d207c09db83b118431ac",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What pioneering program demonstrates women's inclusion in electrical construction work?"
@@ -575,6 +751,17 @@
       "question_id": "71d2a705ded0765909d18959964756a5",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What career progression did Zuzette Castro achieve in electrical construction?"
@@ -592,11 +779,11 @@
         "num_answers": 1
       }
     },
-    "How did Karen Cañizares advance her construction career at Meralco?": {
-      "question": "How did Karen Cañizares advance her construction career at Meralco?",
+    "How did Karen Ca\u00f1izares advance her construction career at Meralco?": {
+      "question": "How did Karen Ca\u00f1izares advance her construction career at Meralco?",
       "answers": {
-        "Karen Cañizares progressed from trainee to Quality Inspector": {
-          "answer": "Karen Cañizares progressed from trainee to Quality Inspector",
+        "Karen Ca\u00f1izares progressed from trainee to Quality Inspector": {
+          "answer": "Karen Ca\u00f1izares progressed from trainee to Quality Inspector",
           "references": [
             {
               "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
@@ -607,9 +794,20 @@
       "question_id": "d8c94f0f8086f4fe0d9cde9a61001181",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How did Karen Cañizares advance her construction career at Meralco?"
+          "How did Karen Ca\u00f1izares advance her construction career at Meralco?"
         ],
         "paraphrase_references": [
           [
@@ -639,6 +837,17 @@
       "question_id": "675095c0d548c98a33513dde17a9cf5d",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long is the Meralco Linecrew Training Program for women?"
@@ -671,6 +880,17 @@
       "question_id": "1aa670ceb91c5ca6657ab49b106b8e0d",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What gender equality approach does Meralco's training program provide?"
@@ -688,5 +908,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -226,6 +226,17 @@
       "question_id": "8260354c2206f5b0b461973a8701b994",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main reported benefits of the four-day work week?",
@@ -462,6 +473,17 @@
       "question_id": "e22930f6c1a01643103b1cb4c5bc0023",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies and workers participated in Britain's four-day work week trial?",
@@ -548,6 +570,17 @@
       "question_id": "4818f03d5d801a7b2d32c56c389bf5db",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long was the United Kingdom 4-day workweek trial period?",
@@ -625,6 +658,17 @@
       "question_id": "603ad0338a2f9a398ebdc0e05c5ef9d5",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of UK trial companies adopted 4-day workweek long-term?",
@@ -699,6 +743,17 @@
       "question_id": "bbb803902963b2f3e9c22de3bf84b07e",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies and workers were involved in the 4-day workweek trial?",
@@ -773,6 +828,17 @@
       "question_id": "ed564c19fa494e50d4edfc0aa0749657",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which industries participated in the UK 4-day workweek trial?",
@@ -847,6 +913,17 @@
       "question_id": "358d7dbfd7cdddb5c622790caffe593d",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which industries face the most challenges implementing four-day workweeks?",
@@ -913,6 +990,17 @@
       "question_id": "36e10b779ab3acbe8ac4e40814920765",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies participated in the UK 4-day workweek trial?",
@@ -979,6 +1067,17 @@
       "question_id": "b5a05fa46e993a7ed7e1ac2314012341",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies and employees participated in the UK 4-day workweek experiment?",
@@ -1039,6 +1138,17 @@
       "question_id": "98e12f4a865400b3b4163664ff857df4",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits did Iceland's 4-day workweek experiment demonstrate?",
@@ -1099,6 +1209,17 @@
       "question_id": "637845cd885aab51c8c6e0136a160949",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental benefit would a four-day workweek provide?",
@@ -1159,6 +1280,17 @@
       "question_id": "df90207a77674a584d011174fd199adc",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries have conducted similar 4-day workweek trials?",
@@ -1211,6 +1343,17 @@
       "question_id": "d5b4f428b8ca0fe9e67248d5aaf226c5",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies are participating in Germany's 4-day workweek experiment?",
@@ -1257,6 +1400,17 @@
       "question_id": "4698118fc2fcd184a81877f0b6c8e08d",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies continued the 4-day workweek after the UK trial?",
@@ -1303,6 +1457,17 @@
       "question_id": "d27d655b0eef5ed3b2e9b996e361215e",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many companies and workers participate in the major 4-day workweek experiment?",
@@ -1349,6 +1514,17 @@
       "question_id": "31da35d44a95d2fd7f6acbccc4283240",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did Microsoft Japan's productivity improve with 4-day workweek?",
@@ -1395,6 +1571,17 @@
       "question_id": "3e57175e68e97438845a0ab97d5c6b14",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What business benefits did UK companies report from 4-day workweek?",
@@ -1441,6 +1628,17 @@
       "question_id": "5fb96a69fa3b16f639d24a2197c5bb89",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What were the main benefits of the UK 4-day workweek experiment?",
@@ -1487,6 +1685,17 @@
       "question_id": "a04dfe6205206cac4a92636660b7f756",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What workplace challenges does 4-day workweek potentially create for companies?",
@@ -1533,6 +1742,17 @@
       "question_id": "8b08eabb33639f31bf21142b9a83a69a",
       "aggregator_type": "OR",
       "query_id": "1033",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What financial concerns do workers have about four-day workweeks?",
@@ -1556,5 +1776,16 @@
         "num_answers": 2
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -18,6 +18,17 @@
       "question_id": "f6549e8fad3d479a25aa0f3c7070e997",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "In which journal was the Ayurveda COVID-19 treatment study published?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.165986+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9181300742722902
       }
@@ -76,6 +97,17 @@
       "question_id": "ed01e0fe9e59fa2d960b25dc5d6f5bff",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific diseases has Ayurveda been studied for treating?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166080+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8358225330940403
       }
@@ -134,6 +176,17 @@
       "question_id": "ca85dbd5ac4b4ac301d5e098ee2b2f0f",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which institutions conducted the Yoga and Ayurveda COVID-19 treatment research?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.165951+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8068164877801367
       }
@@ -192,6 +255,17 @@
       "question_id": "3e95050e4de504235d70a1ba7128694b",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What conditions does turmeric treat in traditional Indian medicine?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168674+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.679507872633033
       }
@@ -250,6 +334,17 @@
       "question_id": "ee03636d43d45ac9ee4aab6ffc4a118b",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific diseases are targeted by Ayush programs?"
@@ -288,7 +383,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166264+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.677096137425361
       }
@@ -308,6 +413,17 @@
       "question_id": "27b9d5f0502f7dc3c6be321428fba978",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Indian herb helps treat digestive system problems?"
@@ -346,7 +462,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168692+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6325337356410738
       }
@@ -366,6 +492,17 @@
       "question_id": "6b8858a2b6db4de9295e2f235651776e",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What regulatory framework exists for traditional Indian medicine patents?"
@@ -404,7 +541,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166894+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5098610956718548
       }
@@ -424,6 +571,17 @@
       "question_id": "8955f9a9752825ef10495a0a36c02ae6",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How will CRIYN integrate traditional medicine with modern approaches?"
@@ -462,7 +620,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168238+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.37980229940527654
       }
@@ -482,6 +650,17 @@
       "question_id": "b79f36bc02eba11126d3029284613067",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which diseases do Patanjali ayurvedic medicines allegedly treat?"
@@ -520,7 +699,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.169073+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.35890931750365795
       }
@@ -540,6 +729,17 @@
       "question_id": "0a7f0a862a48aa07f91d39332ec5a46b",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific diseases does HealthRoots treat using Ayurvedic remedies?"
@@ -578,7 +778,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168306+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.2703166777184214
       }
@@ -598,6 +808,17 @@
       "question_id": "cecaa3591ca8bd34f82c3b2691f5610c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Ayurveda differ from modern diabetes medications?"
@@ -636,7 +857,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.167001+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.23060161616586416
       }
@@ -656,6 +887,17 @@
       "question_id": "f3ae99713c9a287dcbc5f1f2aca9fae3",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What plant is Redrive Am derived from and what does it treat?"
@@ -694,7 +936,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168343+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.22216862051080044
       }
@@ -714,6 +966,17 @@
       "question_id": "df91dd494fd4315bfde505cb64e2b373",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional Indian therapy is used for fetal development?"
@@ -752,7 +1015,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.168937+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.20835550108753065
       }
@@ -772,6 +1045,17 @@
       "question_id": "af1b7998e4adbd305a2162a43e666793",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the traditional Indian medicine system called?"
@@ -810,7 +1094,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166920+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.2054351401702601
       }
@@ -830,6 +1124,17 @@
       "question_id": "64ad930be2e3cc0624a9dc314ecc4a76",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Indian healthcare company specializes in evidence-based Ayurveda cardiac treatments?"
@@ -868,7 +1173,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.167178+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.19663503942553873
       }
@@ -888,6 +1203,17 @@
       "question_id": "3e381041219a02ee2d0659c7956b0b0d",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Ayurveda focus on for patient care?"
@@ -926,7 +1252,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166931+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.16686052323902745
       }
@@ -946,6 +1282,17 @@
       "question_id": "ccbc3f1467ce8b930498852e05b82b03",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific Ayurvedic herb was mentioned for diabetes treatment?"
@@ -984,7 +1331,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.166988+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.1651441876754356
       }
@@ -1004,6 +1361,17 @@
       "question_id": "cd7013a9df9d8375ec0be47e4763eed0",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits would ICD-11 inclusion provide for Ayurveda?"
@@ -1042,7 +1410,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.165543+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.009246577420404689
       }
@@ -1062,6 +1440,17 @@
       "question_id": "9ae648cf7a8bde9eff57e10b396632cb",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which traditional Indian practices help activate the pituitary gland?"
@@ -1100,7 +1489,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.172549+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.03702388406552859
       }
@@ -1120,6 +1519,17 @@
       "question_id": "6218e0e51cfa39e0a2018cc22f59a402",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Cannarma integrate traditional Indian medicine with modern approaches?"
@@ -1158,12 +1568,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:50:19.171788+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.1337267691944235
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 13.04066985645933,
@@ -2412,13 +2843,13 @@
             "89": [
               [
                 125,
-                "I need a report on traditional Indian medicine. The report should focus more on the current research and application of Indian herbal medicine rather than the history of traditional Indian medicine. Cases of treatment of specific diseases using Indian herbal medicine are particularly important for the report. Information about institutions like hospitals and research centers in the fields of traditional Indian medicine are also desirable. >>> What is the full name of ĀCĀRA research institution?"
+                "I need a report on traditional Indian medicine. The report should focus more on the current research and application of Indian herbal medicine rather than the history of traditional Indian medicine. Cases of treatment of specific diseases using Indian herbal medicine are particularly important for the report. Information about institutions like hospitals and research centers in the fields of traditional Indian medicine are also desirable. >>> What is the full name of \u0100C\u0100RA research institution?"
               ]
             ],
             "90": [
               [
                 126,
-                "I need a report on traditional Indian medicine. The report should focus more on the current research and application of Indian herbal medicine rather than the history of traditional Indian medicine. Cases of treatment of specific diseases using Indian herbal medicine are particularly important for the report. Information about institutions like hospitals and research centers in the fields of traditional Indian medicine are also desirable. >>> What is the main goal of THIP Media and ĀCĀRA collaboration?"
+                "I need a report on traditional Indian medicine. The report should focus more on the current research and application of Indian herbal medicine rather than the history of traditional Indian medicine. Cases of treatment of specific diseases using Indian herbal medicine are particularly important for the report. Information about institutions like hospitals and research centers in the fields of traditional Indian medicine are also desirable. >>> What is the main goal of THIP Media and \u0100C\u0100RA collaboration?"
               ]
             ],
             "91": [
@@ -5412,7 +5843,7 @@
             "82": [
               [
                 125,
-                "What is the full name of ĀCĀRA research institution?"
+                "What is the full name of \u0100C\u0100RA research institution?"
               ],
               [
                 171,
@@ -5422,7 +5853,7 @@
             "81": [
               [
                 126,
-                "What is the main goal of THIP Media and ĀCĀRA collaboration?"
+                "What is the main goal of THIP Media and \u0100C\u0100RA collaboration?"
               ],
               [
                 264,
@@ -6370,7 +6801,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.26378803395253236,
         "inverse_compression_pos": 0.1738828029907842
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T21:50:19.165321+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

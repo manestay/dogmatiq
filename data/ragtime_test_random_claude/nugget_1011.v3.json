@@ -18,6 +18,17 @@
       "question_id": "212af7229991dad447138acc1810a551",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which major Saudi companies does the Public Investment Fund hold stakes in?"
@@ -50,6 +61,17 @@
       "question_id": "8b8ee80ee5679a47617c3df484b878b3",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What enabled Saudi Arabia's success in cultural transformation?"
@@ -82,6 +104,17 @@
       "question_id": "677ac8276280277e96cf59923b1526a9",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Under which framework did Mohammed bin Salman consolidate Saudi national identity?"
@@ -157,6 +190,17 @@
       "question_id": "29e942e062c22d410f09708aa3c865bb",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
@@ -222,6 +266,17 @@
       "question_id": "cc0dd40d279bb9556b73e31d902a8355",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which American network conducted Mohammed bin Salman's recent interview?"
@@ -254,6 +309,17 @@
       "question_id": "92bd316f203e3f9466a4830bfecbc241",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What restriction on Islamic practices has Saudi Arabia implemented?"
@@ -294,6 +360,17 @@
       "question_id": "c60b159b191b8ca031c2ad90acc763ad",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has Vision 2030 improved social conditions in Saudi Arabia?",
@@ -332,6 +409,17 @@
       "question_id": "78dd9e773e1f180a3e444bf0d2f4d254",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do these space missions symbolize Saudi Arabia's change?"
@@ -364,6 +452,17 @@
       "question_id": "00ba788fe648abab1bc1b9d08995cfa2",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When was Mohammed bin Salman appointed as Prime Minister of Saudi Arabia?"
@@ -396,6 +495,17 @@
       "question_id": "16c689b929a3fa78064e5baeefeedb04",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Mohammed bin Salman say motivates Saudi Arabia's sports investments?"
@@ -428,6 +538,17 @@
       "question_id": "c445ba9abc40247da8cdd71c98b2dc35",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What makes Saudi Arabia's geographic location strategically important for trade?"
@@ -460,6 +581,17 @@
       "question_id": "c83637d6e633848067144f3ed9b10f93",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Saudi Arabia change its founding date?"
@@ -492,6 +624,17 @@
       "question_id": "3cb4d8efcfe05f81c177437702a6edf9",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage did non-oil GDP reach in Saudi Arabia last year?"
@@ -524,6 +667,17 @@
       "question_id": "e80656e6a243bf2c20491fd716cbb270",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where are Saudi Arabia's smart cities being developed?"
@@ -583,6 +737,17 @@
       "question_id": "7824bd3137c5e0c7e1b66dfd10ed0f87",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is implementing Saudi Arabia's Vision 2030 development plan?",
@@ -655,6 +820,17 @@
       "question_id": "32804077638ce02ef722e026e376697d",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main economic goals of Vision 2030?"
@@ -693,6 +869,17 @@
       "question_id": "657779933a46bbc4cef11e8b2e28a210",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Neom's ultimate population target according to officials?"
@@ -725,6 +912,17 @@
       "question_id": "df37a77c363685db83e40df5a3ea69fd",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Saudi Arabia's strategic plan that amazes world leaders?"
@@ -757,6 +955,17 @@
       "question_id": "5d5544ffb8a1b29af05ee78108eeb780",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who invited Arab leaders to the 32nd Arab Summit?"
@@ -789,6 +998,17 @@
       "question_id": "71ae5541a63776135b3f89e965e76c41",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has Mohammed bin Salman transformed government operations in Saudi Arabia?"
@@ -806,5 +1026,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

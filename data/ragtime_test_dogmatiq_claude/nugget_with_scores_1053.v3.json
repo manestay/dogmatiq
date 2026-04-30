@@ -34,6 +34,17 @@
       "question_id": "07ff5e3054904bb6bab2b8b639de56b9",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water does avocado cultivation require per kilogram?",
@@ -81,7 +92,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.443509+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.8548091672666365
       }
@@ -101,6 +122,17 @@
       "question_id": "f95b2f30ef2bb670cd9336ae12b590f1",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much forest land was converted for avocado cultivation?"
@@ -139,7 +171,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.448970+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.8063060218797138
       }
@@ -167,6 +209,17 @@
       "question_id": "0201ae1fc9cc62fc7c6a4c91b70fef20",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental impacts does avocado production have on producing countries?"
@@ -220,7 +273,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.443472+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.4061096523106174
       }
@@ -240,6 +303,17 @@
       "question_id": "14e71df436b1cfe0df17bab956ef857a",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What caused the recent surge in avocado production?"
@@ -278,13 +352,23 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444482+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2594986788833382
       }
     },
-    "How much forest was converted to avocado plantations in Michoacán?": {
-      "question": "How much forest was converted to avocado plantations in Michoacán?",
+    "How much forest was converted to avocado plantations in Michoac\u00e1n?": {
+      "question": "How much forest was converted to avocado plantations in Michoac\u00e1n?",
       "answers": {
         "at least 300 square kilometers between 2018-2023": {
           "answer": "at least 300 square kilometers between 2018-2023",
@@ -298,9 +382,20 @@
       "question_id": "b837b22f3d9e5b857e31a9d83b797a15",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How much forest was converted to avocado plantations in Michoacán?"
+          "How much forest was converted to avocado plantations in Michoac\u00e1n?"
         ],
         "paraphrase_references": [
           [
@@ -336,7 +431,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444398+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.2190610036303404
       }
@@ -356,6 +461,17 @@
       "question_id": "ee74e861c56290f77047515c6f8ef5d5",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How can sustainable farming practices reduce avocado water usage?"
@@ -394,7 +510,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444045+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.121238709389968
       }
@@ -414,6 +540,17 @@
       "question_id": "78d3454519d79b7938d20109e083aef7",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What social problems have emerged from avocado industry growth?"
@@ -452,13 +589,23 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444032+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1028370449784552
       }
     },
-    "How much forest was cleared for avocado plantations in Michoacán 2018-2023?": {
-      "question": "How much forest was cleared for avocado plantations in Michoacán 2018-2023?",
+    "How much forest was cleared for avocado plantations in Michoac\u00e1n 2018-2023?": {
+      "question": "How much forest was cleared for avocado plantations in Michoac\u00e1n 2018-2023?",
       "answers": {
         "300 square kilometers of forest illegally cleared": {
           "answer": "300 square kilometers of forest illegally cleared",
@@ -472,9 +619,20 @@
       "question_id": "b3e0d7a75698f656756609bd40fc06cb",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How much forest was cleared for avocado plantations in Michoacán 2018-2023?"
+          "How much forest was cleared for avocado plantations in Michoac\u00e1n 2018-2023?"
         ],
         "paraphrase_references": [
           [
@@ -510,7 +668,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.447976+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.087380721270602
       }
@@ -530,6 +698,17 @@
       "question_id": "68084dae623b83f655d9aef175a555e1",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What limits smallholder farmer participation in avocado exports?"
@@ -568,7 +747,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.448474+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.0526252213697234
       }
@@ -588,6 +777,17 @@
       "question_id": "c89553a5bac101b40d33b36d8c4effe5",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How are avocado farmers adapting to environmental and water challenges?"
@@ -626,13 +826,23 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.448218+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9508109086957544
       }
     },
-    "What social impact has rising avocado demand had on Michoacán communities?": {
-      "question": "What social impact has rising avocado demand had on Michoacán communities?",
+    "What social impact has rising avocado demand had on Michoac\u00e1n communities?": {
+      "question": "What social impact has rising avocado demand had on Michoac\u00e1n communities?",
       "answers": {
         "criminal organizations compete for control over avocado trade": {
           "answer": "criminal organizations compete for control over avocado trade",
@@ -646,9 +856,20 @@
       "question_id": "d84d877b6f121efb5b698909a14d675a",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "What social impact has rising avocado demand had on Michoacán communities?"
+          "What social impact has rising avocado demand had on Michoac\u00e1n communities?"
         ],
         "paraphrase_references": [
           [
@@ -684,7 +905,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.447985+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7819232223404575
       }
@@ -704,6 +935,17 @@
       "question_id": "0f518dafd9df08ab07317edd8032fd24",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has global avocado demand affected local communities economically?"
@@ -742,7 +984,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444270+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6505118437033937
       }
@@ -770,9 +1022,20 @@
       "question_id": "3a9fdd879d39296ed860e03696963b15",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "What social issue affects avocado-growing regions in Michoacán?",
+          "What social issue affects avocado-growing regions in Michoac\u00e1n?",
           "What social issues affect avocado farming communities in Michoacan?"
         ],
         "paraphrase_references": [
@@ -814,7 +1077,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.443553+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6122924839570318
       }
@@ -834,6 +1107,17 @@
       "question_id": "0eeab2a4bec05336c6ace4349dc92c36",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental damages does avocado farming cause in Mexico?"
@@ -872,7 +1156,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444020+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5703391297759572
       }
@@ -892,6 +1186,17 @@
       "question_id": "7dcc3d49239e566a5f7f21e558061857",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Kakuzi manage water resources for avocado production?"
@@ -930,7 +1235,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.445041+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5345342763206118
       }
@@ -950,6 +1265,17 @@
       "question_id": "fd78144447d3552960432dfef65f5cf4",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does export demand affect local avocado pricing for farmers?"
@@ -988,7 +1314,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444863+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5026996801216974
       }
@@ -1008,6 +1344,17 @@
       "question_id": "2a0369fe937504f40e7dde20a9ddfc92",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water is required to grow one avocado?"
@@ -1046,7 +1393,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.444232+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.4225395843639832
       }
@@ -1066,6 +1423,17 @@
       "question_id": "1150d8bf19924360d1211a079fc5e625",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What factors drove the surge in US avocado consumption?"
@@ -1104,7 +1472,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.445531+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.41401862738268336
       }
@@ -1124,6 +1502,17 @@
       "question_id": "2341cfd6ca17b1712dc20f342e461961",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What has increased demand for high-value crops led to?"
@@ -1162,7 +1551,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.448545+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.341559226695491
       }
@@ -1170,8 +1569,8 @@
     "Which country and state is the main global avocado producer?": {
       "question": "Which country and state is the main global avocado producer?",
       "answers": {
-        "Mexico produces 70% of avocados in Michoacán state": {
-          "answer": "Mexico produces 70% of avocados in Michoacán state",
+        "Mexico produces 70% of avocados in Michoac\u00e1n state": {
+          "answer": "Mexico produces 70% of avocados in Michoac\u00e1n state",
           "references": [
             {
               "doc_id": "c4df1771-8297-4414-adac-d7cd6bb376e0_639626865"
@@ -1182,6 +1581,17 @@
       "question_id": "0720016df1497e18f5120893142798cf",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country and state is the main global avocado producer?"
@@ -1220,12 +1630,33 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T22:16:42.448919+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.32061577407929187
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 11.562893081761006,
@@ -1754,11 +2185,11 @@
               ],
               [
                 171,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What social impact has rising avocado demand had on Michoacán communities?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What social impact has rising avocado demand had on Michoac\u00e1n communities?"
               ],
               [
                 316,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What social issue affects avocado-growing regions in Michoacán?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What social issue affects avocado-growing regions in Michoac\u00e1n?"
               ]
             ],
             "8": [
@@ -1774,7 +2205,7 @@
             "9": [
               [
                 10,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Mexico's avocados does Michoacán state produce?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of Mexico's avocados does Michoac\u00e1n state produce?"
               ]
             ],
             "10": [
@@ -1816,7 +2247,7 @@
             "14": [
               [
                 16,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How did Michoacán's non-United States exports change in 2020-21?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How did Michoac\u00e1n's non-United States exports change in 2020-21?"
               ]
             ],
             "15": [
@@ -1854,7 +2285,7 @@
             "17": [
               [
                 19,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many workers does the avocado industry support in Michoacán?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many workers does the avocado industry support in Michoac\u00e1n?"
               ]
             ],
             "18": [
@@ -2138,11 +2569,11 @@
             "59": [
               [
                 68,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much forest was converted to avocado plantations in Michoacán?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much forest was converted to avocado plantations in Michoac\u00e1n?"
               ],
               [
                 170,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much forest was cleared for avocado plantations in Michoacán 2018-2023?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much forest was cleared for avocado plantations in Michoac\u00e1n 2018-2023?"
               ]
             ],
             "60": [
@@ -2436,13 +2867,13 @@
             "102": [
               [
                 122,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> Which agency suspended avocado inspections in Michoacán, Mexico?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> Which agency suspended avocado inspections in Michoac\u00e1n, Mexico?"
               ]
             ],
             "103": [
               [
                 123,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What caused the suspension of avocado inspections in Michoacán?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What caused the suspension of avocado inspections in Michoac\u00e1n?"
               ]
             ],
             "104": [
@@ -2454,7 +2885,7 @@
             "105": [
               [
                 125,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many avocados did Michoacán export to America in six weeks?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How many avocados did Michoac\u00e1n export to America in six weeks?"
               ]
             ],
             "106": [
@@ -2670,7 +3101,7 @@
             "137": [
               [
                 172,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What violent incident occurred in Maravatío avocado-producing region recently?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What violent incident occurred in Maravat\u00edo avocado-producing region recently?"
               ]
             ],
             "138": [
@@ -2828,7 +3259,7 @@
             "160": [
               [
                 200,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of US avocado supply comes from Michoacán state?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What percentage of US avocado supply comes from Michoac\u00e1n state?"
               ]
             ],
             "161": [
@@ -3150,17 +3581,17 @@
             "209": [
               [
                 273,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How did açaí exports from Pará state change over the decade?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How did a\u00e7a\u00ed exports from Par\u00e1 state change over the decade?"
               ],
               [
                 274,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What revenue did açaí exports from Pará state generate in 2022?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> What revenue did a\u00e7a\u00ed exports from Par\u00e1 state generate in 2022?"
               ]
             ],
             "210": [
               [
                 275,
-                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much do açaí harvesters earn per bag collected?"
+                "I would like to understand how global avocado consumption has changed in recent years and what impact this rising demand has had on the countries that produce them. This includes looking into economic benefits, environmental concerns like deforestation and water use, and the social effects on local farming communities. >>> How much do a\u00e7a\u00ed harvesters earn per bag collected?"
               ]
             ],
             "211": [
@@ -3724,7 +4155,7 @@
               ],
               [
                 171,
-                "What social impact has rising avocado demand had on Michoacán communities?"
+                "What social impact has rising avocado demand had on Michoac\u00e1n communities?"
               ],
               [
                 216,
@@ -3732,7 +4163,7 @@
               ],
               [
                 316,
-                "What social issue affects avocado-growing regions in Michoacán?"
+                "What social issue affects avocado-growing regions in Michoac\u00e1n?"
               ]
             ],
             "9": [
@@ -3756,15 +4187,15 @@
             "48": [
               [
                 10,
-                "What percentage of Mexico's avocados does Michoacán state produce?"
+                "What percentage of Mexico's avocados does Michoac\u00e1n state produce?"
               ],
               [
                 19,
-                "How many workers does the avocado industry support in Michoacán?"
+                "How many workers does the avocado industry support in Michoac\u00e1n?"
               ],
               [
                 200,
-                "What percentage of US avocado supply comes from Michoacán state?"
+                "What percentage of US avocado supply comes from Michoac\u00e1n state?"
               ]
             ],
             "-1": [
@@ -3844,7 +4275,7 @@
             "0": [
               [
                 16,
-                "How did Michoacán's non-United States exports change in 2020-21?"
+                "How did Michoac\u00e1n's non-United States exports change in 2020-21?"
               ],
               [
                 262,
@@ -4040,7 +4471,7 @@
               ],
               [
                 275,
-                "How much do açaí harvesters earn per bag collected?"
+                "How much do a\u00e7a\u00ed harvesters earn per bag collected?"
               ]
             ],
             "3": [
@@ -4218,7 +4649,7 @@
             "41": [
               [
                 68,
-                "How much forest was converted to avocado plantations in Michoacán?"
+                "How much forest was converted to avocado plantations in Michoac\u00e1n?"
               ],
               [
                 253,
@@ -4316,7 +4747,7 @@
               ],
               [
                 125,
-                "How many avocados did Michoacán export to America in six weeks?"
+                "How many avocados did Michoac\u00e1n export to America in six weeks?"
               ]
             ],
             "93": [
@@ -4368,7 +4799,7 @@
               ],
               [
                 172,
-                "What violent incident occurred in Maravatío avocado-producing region recently?"
+                "What violent incident occurred in Maravat\u00edo avocado-producing region recently?"
               ],
               [
                 254,
@@ -4542,11 +4973,11 @@
             "88": [
               [
                 122,
-                "Which agency suspended avocado inspections in Michoacán, Mexico?"
+                "Which agency suspended avocado inspections in Michoac\u00e1n, Mexico?"
               ],
               [
                 123,
-                "What caused the suspension of avocado inspections in Michoacán?"
+                "What caused the suspension of avocado inspections in Michoac\u00e1n?"
               ]
             ],
             "27": [
@@ -4708,7 +5139,7 @@
             "83": [
               [
                 170,
-                "How much forest was cleared for avocado plantations in Michoacán 2018-2023?"
+                "How much forest was cleared for avocado plantations in Michoac\u00e1n 2018-2023?"
               ],
               [
                 252,
@@ -5040,11 +5471,11 @@
             "109": [
               [
                 273,
-                "How did açaí exports from Pará state change over the decade?"
+                "How did a\u00e7a\u00ed exports from Par\u00e1 state change over the decade?"
               ],
               [
                 274,
-                "What revenue did açaí exports from Pará state generate in 2022?"
+                "What revenue did a\u00e7a\u00ed exports from Par\u00e1 state generate in 2022?"
               ]
             ],
             "110": [
@@ -5150,7 +5581,7 @@
           "do",
           "dominate",
           "export",
-          "açaí",
+          "a\u00e7a\u00ed",
           "impact",
           "grow",
           "contain",
@@ -5194,7 +5625,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.31488089921578255,
         "inverse_compression_pos": 0.18515089798185522
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T22:16:42.443303+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

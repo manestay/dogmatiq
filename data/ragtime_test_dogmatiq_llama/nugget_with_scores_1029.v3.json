@@ -18,6 +18,17 @@
       "question_id": "f0293ccd4a2413b29782823a72582e6a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which authors from underrepresented demographics are mentioned in the document?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.600256+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.8356245632896355
       }
@@ -76,6 +97,17 @@
       "question_id": "e4c10e5b516b9d1ba4e2180bf0f95e5e",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is an example of an early science fiction author?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599550+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.537413387884551
       }
@@ -134,6 +176,17 @@
       "question_id": "5db072ae352cec36709e16c870638147",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which demographics have made an impact on the science fiction genre?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599461+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.3435285824626426
       }
@@ -192,6 +255,17 @@
       "question_id": "7068f62e682120a9ccd9b8b74122d7dd",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which demographic has made an impact in science fiction recently?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599827+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1513985334001808
       }
@@ -250,6 +334,17 @@
       "question_id": "df357353ce1577285660ccd0a7bc340e",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are examples of Arab authors associated with science fiction?"
@@ -288,7 +383,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598354+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.078317632098508
       }
@@ -308,6 +413,17 @@
       "question_id": "a691e13b7083d12a5f72950a0a4d77f1",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What recognition have Chinese women authors received for their work?"
@@ -346,7 +462,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599838+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9980358788920785
       }
@@ -366,6 +492,17 @@
       "question_id": "e9ae1641664f6f5d227374180852f064",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of setting is common in contemporary science fiction?"
@@ -404,7 +541,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599471+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8114992544916237
       }
@@ -424,6 +571,17 @@
       "question_id": "7c988ab3727c7da79d5d95c4e57f7795",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Chinese science fiction author won a Hugo Award?"
@@ -462,7 +620,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599785+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7255485424957309
       }
@@ -482,6 +650,17 @@
       "question_id": "a0157d97bf048731b4e3a91e947ac524",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which author of color is featured in the science fiction list?"
@@ -520,7 +699,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598190+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6334680307836829
       }
@@ -540,6 +729,17 @@
       "question_id": "852c130f1291067ef97c803cfb0890f6",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is a notable Chinese science fiction author?"
@@ -578,7 +778,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598275+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5722384430379419
       }
@@ -598,6 +808,17 @@
       "question_id": "a7c715a4e1d7d599dd12eb52cf43e30c",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is a notable female science fiction author from the 20th century?"
@@ -636,7 +857,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599500+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5422450126449929
       }
@@ -656,6 +887,17 @@
       "question_id": "66e3b7178c62b697b238853cd29dff2d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which female author has made an impact on the science fiction genre with innovative works?",
@@ -700,7 +942,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598172+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.34130231566614744
       }
@@ -720,6 +972,17 @@
       "question_id": "603772e5282a7c7df12af2eb209f5c01",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does N. K. Jemisin explore the reality of society?"
@@ -758,7 +1021,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 5.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598565+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.3162664648014901
       }
@@ -778,6 +1051,17 @@
       "question_id": "6ef0819173dd85ca49772d411472925d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is an example of an early influential science fiction author?"
@@ -816,7 +1100,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599438+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.16163982796599052
       }
@@ -836,6 +1130,17 @@
       "question_id": "14ecf4af7ccb72ab443d851b90628ded",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is credited with popularizing Chinese science fiction worldwide?"
@@ -874,7 +1179,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598707+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.019137551320350887
       }
@@ -894,6 +1209,17 @@
       "question_id": "d0f5512f835491856f3f16fa5bbe787d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is an example of a classic science fiction novel?"
@@ -932,7 +1258,17 @@
             "knowledge_intensiveness": 1.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599540+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.028353354573545042
       }
@@ -952,6 +1288,17 @@
       "question_id": "a093eac3ec3190f2841510cb125d352d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "In what year did Ursula K. Le Guin's The Dispossessed win awards?"
@@ -990,7 +1337,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.599326+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.13293067459355834
       }
@@ -1010,6 +1367,17 @@
       "question_id": "8375c588d7932c1e920fa01c92df8882",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which female author is mentioned in the science fiction list?"
@@ -1048,7 +1416,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598208+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.14035635468373897
       }
@@ -1071,6 +1449,17 @@
       "question_id": "37fca0de75b921534988ee65f72a008e",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Chinese science fiction author has gained international recognition?",
@@ -1115,7 +1504,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.598143+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.18125839933618582
       }
@@ -1135,6 +1534,17 @@
       "question_id": "25a60347ad9047606a1738ea9944f366",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the most influential Chinese sci-fi work overseas?"
@@ -1173,12 +1583,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T23:15:13.600447+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.2571805663092799
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-08T06:03:51.407591",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 8.72463768115942,
@@ -2326,7 +2757,7 @@
             "102": [
               [
                 164,
-                "I need information on how the genre of science fiction in literature has changed and evolved over time. What has influenced science fiction earlier last century and how has the genre more recently developed? How has it changed from the world of HG Wells to the current authors? Have authors from other demographics (women authors, or people of color) made an impact? >>> In what year was Gabriel García Márquez's novel 'One Hundred Years of Solitude' published?"
+                "I need information on how the genre of science fiction in literature has changed and evolved over time. What has influenced science fiction earlier last century and how has the genre more recently developed? How has it changed from the world of HG Wells to the current authors? Have authors from other demographics (women authors, or people of color) made an impact? >>> In what year was Gabriel Garc\u00eda M\u00e1rquez's novel 'One Hundred Years of Solitude' published?"
               ]
             ],
             "103": [
@@ -3543,7 +3974,7 @@
             "30": [
               [
                 164,
-                "In what year was Gabriel García Márquez's novel 'One Hundred Years of Solitude' published?"
+                "In what year was Gabriel Garc\u00eda M\u00e1rquez's novel 'One Hundred Years of Solitude' published?"
               ],
               [
                 178,
@@ -3711,7 +4142,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.32192774919945366,
         "inverse_compression_pos": 0.17998560115190784
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-11T23:15:13.597984+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

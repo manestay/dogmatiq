@@ -18,6 +18,17 @@
       "question_id": "5d08c7d2bbd9d4339f4fa386b68b0bac",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is one of Modi's two critical areas for pharmaceutical development?"
@@ -50,6 +61,17 @@
       "question_id": "9edb450d79c4ba42f631a545ff98c4fd",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which government department oversees traditional medicine in Jammu and Kashmir?"
@@ -82,6 +104,17 @@
       "question_id": "bd09823b052fae8be10c828b416789f7",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What specialized healthcare area does the Supraja program address?"
@@ -122,6 +155,17 @@
       "question_id": "de2b2befbceaf3eb278941672c23af3e",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of traditional medicine is discussed in this document?"
@@ -157,6 +201,17 @@
       "question_id": "107b5db499a80e111232df8eb8449f20",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Ayurvedic practitioners assess patients for treatment?"
@@ -189,6 +244,17 @@
       "question_id": "03e6d2d9edea28f19714bbd2681689bc",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What institutional reform was suggested for Traditional Chinese Medicine?"
@@ -221,6 +287,17 @@
       "question_id": "dedaa797f57188f08f2a6ebb9d1b8bdf",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organization created a new traditional medicine research center in India?"
@@ -253,6 +330,17 @@
       "question_id": "6218e0e51cfa39e0a2018cc22f59a402",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Cannarma integrate traditional Indian medicine with modern approaches?"
@@ -285,6 +373,17 @@
       "question_id": "5844a7297d366da94812bebdc2235e2f",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many treatment centers does Nil Herbal operate?"
@@ -317,6 +416,17 @@
       "question_id": "ed01e0fe9e59fa2d960b25dc5d6f5bff",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific diseases has Ayurveda been studied for treating?"
@@ -349,6 +459,17 @@
       "question_id": "c037dcd0fcaf34a20eea4a5cae3f92f0",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What were homeopathic treatment results during Spanish Flu pandemic?"
@@ -381,6 +502,17 @@
       "question_id": "85b825b729ee221223dca0882c8c55bf",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What summit focuses on investment in traditional Indian medicine systems?"
@@ -413,6 +545,17 @@
       "question_id": "f5d4007a47bd82f85309aaaf58241b2f",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the main focus of the 25th International Ayurveda Symposium?"
@@ -445,6 +588,17 @@
       "question_id": "574f5f7e47c3591649cdecb550ea9e7f",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What online platform provides authentic Ayurvedic knowledge for global practitioners?"
@@ -477,6 +631,17 @@
       "question_id": "d47d1550d51405b518b27bf877680d28",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How would ICD-11 inclusion support universal health coverage?"
@@ -509,6 +674,17 @@
       "question_id": "52ac07545d8254db994cf0598aa711c1",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What complementary treatments does Ayurveda combine with herbal medicine?"
@@ -541,6 +717,17 @@
       "question_id": "9ae648cf7a8bde9eff57e10b396632cb",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which traditional Indian practices help activate the pituitary gland?"
@@ -573,6 +760,17 @@
       "question_id": "dd83e46a50d5231efadf686139bcddaa",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which regulatory body oversees traditional Indian medicine practitioners in Kerala?"
@@ -605,6 +803,17 @@
       "question_id": "5e816a901fb2a02d233043094452a73b",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What specific medical conditions does Dr. Batra's AI Hair Pro system treat?"
@@ -637,6 +846,17 @@
       "question_id": "e8a4b2cea7a003aaf22169c655588c0c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Ayurvedic institution successfully treated Rosemary Odinga's vision loss?"
@@ -654,5 +874,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

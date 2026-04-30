@@ -18,6 +18,17 @@
       "question_id": "da3ab4fb3c8e74d02466b7709c08572f",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What negative impact can Saharan dust storms have on air conditions?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215330+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.3087637268558279
       }
@@ -76,6 +97,17 @@
       "question_id": "0f4bcb000faf6dfdeb30b1af125c425f",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What carries the Saharan dust cloud over the Atlantic Ocean and the Caribbean Sea?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215940+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9740484598229364
       }
@@ -134,6 +176,17 @@
       "question_id": "9b20d66e58df9a8f76b349612f5aa8c5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What can be negatively affected by Saharan dust storms in local ecosystems?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215093+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.738773158152048
       }
@@ -192,6 +255,17 @@
       "question_id": "08eae8bd95da3087a38c192a5039be92",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health effects can Saharan dust storms cause in Texas?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214866+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6657392604348127
       }
@@ -274,6 +358,17 @@
       "question_id": "6113d9a6586121120dc1990fb6003bc4",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health issue can Saharan dust storms cause in citizens?",
@@ -330,7 +425,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214653+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5861273863582284
       }
@@ -358,6 +463,17 @@
       "question_id": "6ea6d2d07496aebc108fe6695ddf626b",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health issues can be exacerbated by Saharan dust storms?",
@@ -402,7 +518,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214733+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.48628364230586896
       }
@@ -422,6 +548,17 @@
       "question_id": "6d462579c3cbd994f14a27d46a61b8b5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much dust crosses the Atlantic Ocean annually?"
@@ -460,7 +597,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216032+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.46916634921834666
       }
@@ -480,6 +627,17 @@
       "question_id": "d491e5c432e5acb4eff561a0f3f85740",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the forecast for the area of interest over the next five days?"
@@ -518,7 +676,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215520+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.43017097046786157
       }
@@ -538,6 +706,17 @@
       "question_id": "a5a0c34cd40fd38545c459957cf94733",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much can Saharan dust storms reduce solar energy production?"
@@ -576,7 +755,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216614+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.3736663702358236
       }
@@ -596,6 +785,17 @@
       "question_id": "ceeb09c7fd3a10f7281f122289d032ac",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What weather effect can be caused by low-pressure systems like Saharan dust storms?"
@@ -634,7 +834,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216811+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.36039080048995586
       }
@@ -654,6 +864,17 @@
       "question_id": "84b82a00349ef0bae65ee80381dd16a0",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How can individuals prepare for Saharan dust storms?"
@@ -692,7 +913,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216570+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.33328132420058854
       }
@@ -712,6 +943,17 @@
       "question_id": "ed9bd68bf69aca4a361b1228d75349dd",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What effect does the Saharan Air Layer have on weather?"
@@ -750,7 +992,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214942+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.28029345077318313
       }
@@ -770,6 +1022,17 @@
       "question_id": "440459c291925270929a2ea8ed85759f",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which service provides 24/7 air quality forecast data for Saharan dust events?"
@@ -808,7 +1071,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215224+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.2617139373777315
       }
@@ -828,6 +1101,17 @@
       "question_id": "428bd7cec4a4f3014d78d31bf9e8d243",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which areas have been reached by the Saharan dust plume?"
@@ -866,7 +1150,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214979+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.19721876274438044
       }
@@ -894,6 +1188,17 @@
       "question_id": "35cfbbbb898c3b2a0509cea5dd55c81d",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which areas may be affected by the Saharan dust?",
@@ -938,7 +1243,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214802+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.18507178222235043
       }
@@ -958,6 +1273,17 @@
       "question_id": "e37da3ca5eda8ffd39473c93e4c45474",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much dust is transported by trade winds from the Saharan Desert annually?"
@@ -996,7 +1322,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.214879+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.15919438231959582
       }
@@ -1016,6 +1352,17 @@
       "question_id": "e1095f518e477f8440dae98a10a787c4",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When does the Southwest monsoon season typically occur?"
@@ -1054,7 +1401,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215547+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.14216973177912218
       }
@@ -1074,6 +1431,17 @@
       "question_id": "8c9e5072a8f9c05b869de83600c5a1f9",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is a negative impact of Saharan dust storms on affected areas?"
@@ -1112,7 +1480,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216800+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.13917229188128566
       }
@@ -1132,6 +1510,17 @@
       "question_id": "6cd6d31a64e0971b884af822269a5ad5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the expected impacts of a Saharan dust event on local conditions?"
@@ -1170,7 +1559,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.215238+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.12225152954693153
       }
@@ -1190,6 +1589,17 @@
       "question_id": "37af00300b86061cb0d59be76d89bd94",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long may the Saharan dust linger?"
@@ -1228,12 +1638,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-11T19:00:06.216603+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.12138016855282552
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-08T06:03:51.407591",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 9.305555555555555,
@@ -1974,7 +2405,7 @@
               ],
               [
                 101,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How much will harmful dust increase with 4°C temperature rise?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How much will harmful dust increase with 4\u00b0C temperature rise?"
               ]
             ],
             "51": [
@@ -2038,7 +2469,7 @@
             "60": [
               [
                 65,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which organization employs meteorologist Paul Iñiguez?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which organization employs meteorologist Paul I\u00f1iguez?"
               ]
             ],
             "61": [
@@ -2504,19 +2935,19 @@
             "123": [
               [
                 161,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How often does the El Niño phenomenon occur?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How often does the El Ni\u00f1o phenomenon occur?"
               ],
               [
                 162,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How much can strong El Niño events increase global temperatures?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How much can strong El Ni\u00f1o events increase global temperatures?"
               ],
               [
                 163,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which organization announced the occurrence of the El Niño phenomenon?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which organization announced the occurrence of the El Ni\u00f1o phenomenon?"
               ],
               [
                 164,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What is the predicted intensity of this year's El Niño event?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What is the predicted intensity of this year's El Ni\u00f1o event?"
               ],
               [
                 195,
@@ -2846,13 +3277,13 @@
             "164": [
               [
                 230,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How fast were the strong winds in Ribeirão Preto, São Paulo?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How fast were the strong winds in Ribeir\u00e3o Preto, S\u00e3o Paulo?"
               ]
             ],
             "165": [
               [
                 231,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How long had it been since northern São Paulo saw rain before the dust storm?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How long had it been since northern S\u00e3o Paulo saw rain before the dust storm?"
               ]
             ],
             "166": [
@@ -2870,7 +3301,7 @@
             "168": [
               [
                 234,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What can dissipate a dust storm in regions like Espírito Santo?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What can dissipate a dust storm in regions like Esp\u00edrito Santo?"
               ]
             ],
             "169": [
@@ -3904,7 +4335,7 @@
               ],
               [
                 101,
-                "How much will harmful dust increase with 4°C temperature rise?"
+                "How much will harmful dust increase with 4\u00b0C temperature rise?"
               ]
             ],
             "53": [
@@ -3982,11 +4413,11 @@
               ],
               [
                 230,
-                "How fast were the strong winds in Ribeirão Preto, São Paulo?"
+                "How fast were the strong winds in Ribeir\u00e3o Preto, S\u00e3o Paulo?"
               ],
               [
                 231,
-                "How long had it been since northern São Paulo saw rain before the dust storm?"
+                "How long had it been since northern S\u00e3o Paulo saw rain before the dust storm?"
               ]
             ],
             "78": [
@@ -4002,7 +4433,7 @@
             "77": [
               [
                 65,
-                "Which organization employs meteorologist Paul Iñiguez?"
+                "Which organization employs meteorologist Paul I\u00f1iguez?"
               ],
               [
                 239,
@@ -4290,7 +4721,7 @@
               ],
               [
                 234,
-                "What can dissipate a dust storm in regions like Espírito Santo?"
+                "What can dissipate a dust storm in regions like Esp\u00edrito Santo?"
               ],
               [
                 256,
@@ -4392,11 +4823,11 @@
             "5": [
               [
                 161,
-                "How often does the El Niño phenomenon occur?"
+                "How often does the El Ni\u00f1o phenomenon occur?"
               ],
               [
                 163,
-                "Which organization announced the occurrence of the El Niño phenomenon?"
+                "Which organization announced the occurrence of the El Ni\u00f1o phenomenon?"
               ],
               [
                 196,
@@ -4414,7 +4845,7 @@
             "38": [
               [
                 162,
-                "How much can strong El Niño events increase global temperatures?"
+                "How much can strong El Ni\u00f1o events increase global temperatures?"
               ],
               [
                 195,
@@ -4428,7 +4859,7 @@
             "80": [
               [
                 164,
-                "What is the predicted intensity of this year's El Niño event?"
+                "What is the predicted intensity of this year's El Ni\u00f1o event?"
               ],
               [
                 193,
@@ -4796,7 +5227,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.29569223205733974,
         "inverse_compression_pos": 0.18218254691200583
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-11T19:00:06.214588+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

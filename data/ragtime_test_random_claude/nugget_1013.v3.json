@@ -18,6 +18,17 @@
       "question_id": "b398ab15947ef55f0e19c9d3c8b92245",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What classic dish did Zhao Zhengyu learn to make?"
@@ -50,6 +61,17 @@
       "question_id": "68194e24581a1125f34e2eee2fd6d7dd",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are the representatives from Italy's international Slow Food headquarters?"
@@ -93,6 +115,17 @@
       "question_id": "99570e4204ceb9d0599bafcafaf6c557",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is home to the international Slow Food organization headquarters?",
@@ -143,6 +176,17 @@
       "question_id": "33e681b671b50675bb4f1b0b9c1d871f",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is the origin of the slow city movement?"
@@ -183,6 +227,17 @@
       "question_id": "40ab100f603bc0d50e0e98ad25354497",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who founded the slow food movement and when?"
@@ -218,6 +273,17 @@
       "question_id": "9d8f82aaef965d425de20992ab0af848",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What festival promotes local food culture in Taitung County?"
@@ -250,6 +316,17 @@
       "question_id": "786a5a24c0e212e069f3ed26bdce4963",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many Taitung Slow Food Festivals have been held?"
@@ -282,6 +359,17 @@
       "question_id": "d6b7871726efcb1214d8d2d95bf0c647",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What farming methods do Taitung slow agriculture operators practice?"
@@ -314,6 +402,17 @@
       "question_id": "bdcdda2c605425a07734bb5152c5c375",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did soul food originate as a distinct cuisine?"
@@ -354,6 +453,17 @@
       "question_id": "46265b68e14c6ec18cf93273d9588607",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long has the slow food movement been popular worldwide?",
@@ -395,6 +505,17 @@
       "question_id": "df2edb9d7900db69bb18825830d83be7",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country hosts the global slow food annual conference?",
@@ -433,6 +554,17 @@
       "question_id": "9bfe8d25dd176ad3d0c5a70d5d02fb88",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which traditional Russian foods were considered vulgar by 18th-century aristocrats?"
@@ -465,6 +597,17 @@
       "question_id": "321ee7c3fb112a615cc6ea1bb47b7840",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which four coastal townships participate in Miaoli's slow fish project?"
@@ -497,6 +640,17 @@
       "question_id": "49fc75b78260fcfc610eff9f60bd7fa0",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional foods were featured at the tribal market?"
@@ -529,6 +683,17 @@
       "question_id": "f5f5d101514d5c249c957e9b97b46229",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where can travelers experience slow food cooking in East Africa?"
@@ -561,6 +726,17 @@
       "question_id": "ccd660853317131a528cfbad8ddc694d",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When and where was the 2022 Taitung Slow Food Festival held?"
@@ -593,6 +769,17 @@
       "question_id": "61655df8b7ff1c4c75c181ba3558259b",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What theme did the 2023 Taitung Slow Food Festival focus on?"
@@ -641,6 +828,17 @@
       "question_id": "0b4578196a2b297c683ba51ca68049fb",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of ingredients does the Taitung Slow Food Festival emphasize?",
@@ -685,6 +883,17 @@
       "question_id": "8cffaa64d08ca6ac3ae2339020757a5b",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of ingredients does the Hong Kong slow food dinner feature?"
@@ -717,6 +926,17 @@
       "question_id": "1fd1c51568c0f30e7b8b086e0fa6ed33",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What role does food play in Japanese drama narratives?"
@@ -734,5 +954,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -18,6 +18,17 @@
       "question_id": "4fff4fc8d87cf3bc444f117b0d1bcc40",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of food experiences does slow travel encourage?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122741+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.953873769752958
       }
@@ -76,6 +97,17 @@
       "question_id": "93bb62874b1d5b5db2875f8e01a92477",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is mentioned as a current proponent of slow food principles?",
@@ -132,7 +164,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122299+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.6210384876503383
       }
@@ -160,6 +202,17 @@
       "question_id": "38513e4e6a695c6b0b7017f3fa2fda72",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Asian countries have representatives in the international slow food movement?",
@@ -204,7 +257,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122481+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9200584474856441
       }
@@ -224,6 +287,17 @@
       "question_id": "d749d5eb7e8bcc2e564aa77a2b5910bb",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How is artisanal food characterized in the slow food movement?"
@@ -262,7 +336,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123949+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9062790482751484
       }
@@ -282,6 +366,17 @@
       "question_id": "730ba084ababd3e2449468e5a10d6a47",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What negative effects does the slow movement address?"
@@ -320,7 +415,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123618+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8446720881809462
       }
@@ -340,6 +445,17 @@
       "question_id": "9cb7060b5b01afd6f05ae0a023b75850",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Slow Food International view small-scale farmers' role?"
@@ -378,7 +494,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.124317+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8414943948628926
       }
@@ -398,6 +524,17 @@
       "question_id": "d8998b99523cc3c9e8b9d36cfe5c889f",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What movement is developing as an alternative to globalized food systems?"
@@ -436,7 +573,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.125397+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8348112562697056
       }
@@ -456,6 +603,17 @@
       "question_id": "b867a4d8196bdbe157a38b4e85cdd591",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organizations advocate for community-driven food system approaches?"
@@ -494,7 +652,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.125695+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8001038662602049
       }
@@ -514,6 +682,17 @@
       "question_id": "c1a6079631e821425e32acb7d4b9e24e",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What core philosophy drove traditional cucina povera cooking methods?"
@@ -552,7 +731,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123857+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7151131431977316
       }
@@ -572,6 +761,17 @@
       "question_id": "41329384a615d5f144f3a894bef4788b",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What approaches do food sovereignty advocates promote for sustainable food systems?"
@@ -610,7 +810,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.125674+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6617406333742424
       }
@@ -630,6 +840,17 @@
       "question_id": "67f20d1c373a15c1a832b7a4ab90fd86",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What local food culture does Shixu Company's slow food initiative feature?"
@@ -668,7 +889,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.124044+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.4669768902865723
       }
@@ -688,6 +919,17 @@
       "question_id": "6fcda68923a38ed171e9a758b7095d28",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are the pioneer authors exploring semi-agricultural lifestyle ideals?"
@@ -726,7 +968,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.124528+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.39543049019955645
       }
@@ -746,6 +998,17 @@
       "question_id": "f5f5d101514d5c249c957e9b97b46229",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where can travelers experience slow food cooking in East Africa?"
@@ -784,7 +1047,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123401+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.2907869813289803
       }
@@ -845,6 +1118,17 @@
       "question_id": "9aa076e0c662771c24d5a02c4391567a",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is the origin of the slow food movement?",
@@ -1000,7 +1284,17 @@
             "knowledge_intensiveness": 2.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122148+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.20991113629808922
       }
@@ -1008,8 +1302,8 @@
     "Which modern dishes originated from cucina povera waste-reduction practices?": {
       "question": "Which modern dishes originated from cucina povera waste-reduction practices?",
       "answers": {
-        "pesto, panzanella, bruschetta, baccalà, and various cured meats": {
-          "answer": "pesto, panzanella, bruschetta, baccalà, and various cured meats",
+        "pesto, panzanella, bruschetta, baccal\u00e0, and various cured meats": {
+          "answer": "pesto, panzanella, bruschetta, baccal\u00e0, and various cured meats",
           "references": [
             {
               "doc_id": "80bb6928-9bfa-41c6-b187-c8b9601700a8_44836635"
@@ -1020,6 +1314,17 @@
       "question_id": "c6e309a1f5b14791deaa6cca1339d725",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which modern dishes originated from cucina povera waste-reduction practices?"
@@ -1058,7 +1363,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123880+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.19544680650715174
       }
@@ -1078,6 +1393,17 @@
       "question_id": "470290e7d022f6c37db0aa45957e8381",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What aspects of local food culture do slow food organizations focus on?"
@@ -1116,7 +1442,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123217+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.05675941713975807
       }
@@ -1136,6 +1472,17 @@
       "question_id": "938067efbe48c643fba478d8c99474db",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who founded the Slow Food movement and where did it originate?"
@@ -1174,7 +1521,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 1.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.123344+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.016778877312908724
       }
@@ -1229,6 +1586,17 @@
       "question_id": "9bef12ba44a616885e5c22d28f5cd5b7",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the three core principles of the slow food movement?",
@@ -1318,7 +1686,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122195+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.09494717810991693
       }
@@ -1338,6 +1716,17 @@
       "question_id": "875b98c3e488004e59bceebb61710378",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Hong Kong communities collaborate in this slow food initiative?"
@@ -1376,7 +1765,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.126008+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.151182556853664
       }
@@ -1396,6 +1795,17 @@
       "question_id": "728e4344d6ccd36806b12bd83aff679a",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does slow travel emphasize regarding cultural interaction?"
@@ -1434,12 +1844,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:23:41.122729+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.2190922068605028
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 10.043333333333333,
@@ -2162,7 +2593,7 @@
             "7": [
               [
                 24,
-                "I want to know the history and background of the slow food movement. Where did it start, who were the main drivers, what are the tenets of the movement? Who are some current proponents of the slow food movement worldwide? Where would I go to sample the best slow food cuisine? >>> What is the core principle of positive slowness according to Carl Honoré?"
+                "I want to know the history and background of the slow food movement. Where did it start, who were the main drivers, what are the tenets of the movement? Who are some current proponents of the slow food movement worldwide? Where would I go to sample the best slow food cuisine? >>> What is the core principle of positive slowness according to Carl Honor\u00e9?"
               ]
             ],
             "8": [
@@ -3824,7 +4255,7 @@
             "25": [
               [
                 24,
-                "What is the core principle of positive slowness according to Carl Honoré?"
+                "What is the core principle of positive slowness according to Carl Honor\u00e9?"
               ],
               [
                 109,
@@ -4994,7 +5425,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.28165492092442107,
         "inverse_compression_pos": 0.1763357432551578
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T20:23:41.122063+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

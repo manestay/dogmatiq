@@ -18,6 +18,17 @@
       "question_id": "fbaa7e43ceeac04c28eb1d8bb957e34c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Indian herbal plants show anti-hyperglycemic action?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.067249+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8289223767889586
       }
@@ -76,6 +97,17 @@
       "question_id": "62c0f4a87de0a3e92da02bef4d7f63e3",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional medicine has been used in COVID-19 symptom relief?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.066780+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7564329859082122
       }
@@ -134,6 +176,17 @@
       "question_id": "ee588391024f83e05a00f9f28614d097",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What herbs are used to treat gastrointestinal disorders in Ayurveda?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.065781+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7391474074835171
       }
@@ -192,6 +255,17 @@
       "question_id": "d45a6a3efdab9f0cba81c04a75bfbbf7",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which disease is treated using Indian herbal medicine in a recent study?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063105+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6834614297720547
       }
@@ -258,6 +342,17 @@
       "question_id": "3f6779863d72284f918302ac7c614ecc",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which institution is involved in research on Indian herbal medicine for diabetes?",
@@ -302,7 +397,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.062600+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6322023756688697
       }
@@ -322,6 +427,17 @@
       "question_id": "f34d02bd8fa255997b996a4aaad71398",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What illnesses does HealthRoots aim to treat using Ayurvedic remedies?"
@@ -360,7 +476,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.065460+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5789522699454723
       }
@@ -380,6 +506,17 @@
       "question_id": "6fc64317adcebc4e373b4bb021fe988b",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What condition has Ayurveda been researched for?"
@@ -418,7 +555,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063284+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5446288216049331
       }
@@ -438,6 +585,17 @@
       "question_id": "349654db104a8170284761c42fc9c54a",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What condition has Ayurveda been studied for?"
@@ -476,7 +634,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063240+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5008019561188508
       }
@@ -496,6 +664,17 @@
       "question_id": "d5faf2fae3304dca71c21a7cd001134e",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What institution is providing herbal medicine treatment?"
@@ -534,7 +713,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.067423+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.436542328272304
       }
@@ -554,6 +743,17 @@
       "question_id": "2dcfed11022bc6e0b26ceb82efc9e16c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What Indian institution is involved in the study on Ashwagandha?"
@@ -592,7 +792,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063801+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.429092743654651
       }
@@ -612,6 +822,17 @@
       "question_id": "14c5241ae27506fb169a608a95cacfe2",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What institution researches Ayurveda in India?"
@@ -650,7 +871,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.064487+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.28234127472633075
       }
@@ -670,6 +901,17 @@
       "question_id": "1e6d9d40ff8b5ac0602312befd96cec9",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which hospital in India provides Ayurvedic eye treatment?"
@@ -708,7 +950,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.066629+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.27820544297321215
       }
@@ -728,6 +980,17 @@
       "question_id": "2b46a95f31afe6c1d2f56c1a74ffb6d1",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What diseases are targeted by Patanjali's herbal medicines?"
@@ -766,7 +1029,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.066278+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.18157821721068323
       }
@@ -786,6 +1059,17 @@
       "question_id": "e4f44eda6828b6f38a704751f8bb333f",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the investment in the Central Research Institute of Yoga & Naturopathy?"
@@ -824,7 +1108,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.065354+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.02964117318733983
       }
@@ -844,6 +1138,17 @@
       "question_id": "73adf10ee31633e339d136d55cfd54b0",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What institution promotes Ayurveda in New Delhi, India?"
@@ -882,7 +1187,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.066348+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.020819680486374725
       }
@@ -902,6 +1217,17 @@
       "question_id": "c14293921e8b741ca65619d2bc2f9736",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What methods are used in Ayurvedic treatment?"
@@ -940,7 +1266,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063261+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.025381823289537975
       }
@@ -960,6 +1296,17 @@
       "question_id": "cdd3d4bc99ae460b3bfe123d965ac0bf",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organization's journal published a study on Giloy liver injury?"
@@ -998,7 +1345,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.064980+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.04069057631915607
       }
@@ -1018,6 +1375,17 @@
       "question_id": "e92721a4837c3336bd1d9df2bec2d04c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What Indian herb is being studied for treating long Covid?"
@@ -1056,7 +1424,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.063741+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.09541004611113424
       }
@@ -1076,6 +1454,17 @@
       "question_id": "9e8c3f53282544dd2d205f4a76cc764c",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What diseases are being treated with herbal medicine?"
@@ -1114,7 +1503,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.067411+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.10596047981796186
       }
@@ -1134,6 +1533,17 @@
       "question_id": "15707dbb63af12603e78663cd946ed71",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-08T06:03:51.407591",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What institution specializes in treating cardiac ailments with Ayurveda?"
@@ -1172,12 +1582,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-12T00:16:53.064415+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": -0.10603802505941728
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-08T06:03:51.407591",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 11.139949109414758,
@@ -5987,7 +6418,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.2585508110011102,
         "inverse_compression_pos": 0.16619577862722285
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-12T00:16:53.062418+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

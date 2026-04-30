@@ -18,6 +18,17 @@
       "question_id": "e049c20aea932ca4a3689664f287bc37",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does this document reveal about global avocado consumption trends?",
@@ -139,6 +150,17 @@
       "question_id": "2ae014e19fbc50a4128ab5f083b385e7",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has global avocado consumption changed in recent years?"
@@ -235,6 +257,17 @@
       "question_id": "7a19d0d7468df98208d72f92ae647314",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental impacts of avocado farming are discussed here?",
@@ -299,6 +332,17 @@
       "question_id": "0201ae1fc9cc62fc7c6a4c91b70fef20",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental impacts does avocado production have on producing countries?"
@@ -346,6 +390,17 @@
       "question_id": "f48b2ce392c139c49a14b382f5467d42",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries are mentioned as top avocado-producing regions?",
@@ -409,6 +464,17 @@
       "question_id": "07ff5e3054904bb6bab2b8b639de56b9",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water does avocado cultivation require per kilogram?",
@@ -458,6 +524,17 @@
       "question_id": "797b27c28322b551476b3e1eab31bdd4",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Kenya's current position in African avocado exports?",
@@ -504,6 +581,17 @@
       "question_id": "574e0b5a946674ef135d20d2188db142",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Morocco's ranking in global avocado exports?",
@@ -550,9 +638,20 @@
       "question_id": "3a9fdd879d39296ed860e03696963b15",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "What social issue affects avocado-growing regions in Michoacán?",
+          "What social issue affects avocado-growing regions in Michoac\u00e1n?",
           "What social issues affect avocado farming communities in Michoacan?"
         ],
         "paraphrase_references": [
@@ -573,11 +672,11 @@
         "num_answers": 2
       }
     },
-    "What percentage of Mexico's avocados does Michoacán state produce?": {
-      "question": "What percentage of Mexico's avocados does Michoacán state produce?",
+    "What percentage of Mexico's avocados does Michoac\u00e1n state produce?": {
+      "question": "What percentage of Mexico's avocados does Michoac\u00e1n state produce?",
       "answers": {
-        "Michoacán state produces 70% of Mexico's avocados": {
-          "answer": "Michoacán state produces 70% of Mexico's avocados",
+        "Michoac\u00e1n state produces 70% of Mexico's avocados": {
+          "answer": "Michoac\u00e1n state produces 70% of Mexico's avocados",
           "references": [
             {
               "doc_id": "0647188f-9964-4a4f-ae8e-63483708d38d_25051651"
@@ -596,9 +695,20 @@
       "question_id": "d22d9774c1a51da5bd0e6dd602a2b1f7",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "What percentage of Mexico's avocados does Michoacán state produce?"
+          "What percentage of Mexico's avocados does Michoac\u00e1n state produce?"
         ],
         "paraphrase_references": [
           [
@@ -634,6 +744,17 @@
       "question_id": "927dd5f758c6c49d2c7c1ca0b164fef9",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the per capita avocado consumption in the United States in 2022?",
@@ -672,6 +793,17 @@
       "question_id": "39f80a1e41fca56bff9fb4b978a7f686",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was Mexico's projected avocado production for 2021-22?"
@@ -704,6 +836,17 @@
       "question_id": "d7df2eaaf60c400e28a4c5788df07714",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Mexican avocado production change in 2021-22?"
@@ -736,6 +879,17 @@
       "question_id": "a911917647257c6104f9ff6b6f70f95c",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental factors reduced Mexican avocado yields?"
@@ -768,6 +922,17 @@
       "question_id": "57c61d65448f3cb86ab2ee9c6e47a19b",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do United States export profits compare to domestic sales?"
@@ -800,6 +965,17 @@
       "question_id": "25cae2d780d55c09cc39e595f47a104e",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mexico's domestic per capita avocado consumption?"
@@ -817,8 +993,8 @@
         "num_answers": 1
       }
     },
-    "How did Michoacán's non-United States exports change in 2020-21?": {
-      "question": "How did Michoacán's non-United States exports change in 2020-21?",
+    "How did Michoac\u00e1n's non-United States exports change in 2020-21?": {
+      "question": "How did Michoac\u00e1n's non-United States exports change in 2020-21?",
       "answers": {
         "22 percent increase to Canada, Japan, and Spain": {
           "answer": "22 percent increase to Canada, Japan, and Spain",
@@ -832,9 +1008,20 @@
       "question_id": "ca42ef55ca93b2c732a04f2a30972576",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How did Michoacán's non-United States exports change in 2020-21?"
+          "How did Michoac\u00e1n's non-United States exports change in 2020-21?"
         ],
         "paraphrase_references": [
           [
@@ -864,6 +1051,17 @@
       "question_id": "cf81cad888a71ca9a60b3bcfe0a3582f",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the value of Mexican avocado exports to the United States last year?"
@@ -896,6 +1094,17 @@
       "question_id": "ea192812a1ba7900fbcfb4632fdd0d2a",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of United States avocado consumption comes from Mexico?"
@@ -913,11 +1122,11 @@
         "num_answers": 1
       }
     },
-    "How many workers does the avocado industry support in Michoacán?": {
-      "question": "How many workers does the avocado industry support in Michoacán?",
+    "How many workers does the avocado industry support in Michoac\u00e1n?": {
+      "question": "How many workers does the avocado industry support in Michoac\u00e1n?",
       "answers": {
-        "approximately 300,000 workers in Michoacán": {
-          "answer": "approximately 300,000 workers in Michoacán",
+        "approximately 300,000 workers in Michoac\u00e1n": {
+          "answer": "approximately 300,000 workers in Michoac\u00e1n",
           "references": [
             {
               "doc_id": "3f2668d2-a695-4d4c-a2be-36032d9a07f4_87857532"
@@ -928,9 +1137,20 @@
       "question_id": "19dbcc0c2c74ec7619fab8994f240cc4",
       "aggregator_type": "OR",
       "query_id": "1053",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How many workers does the avocado industry support in Michoacán?"
+          "How many workers does the avocado industry support in Michoac\u00e1n?"
         ],
         "paraphrase_references": [
           [
@@ -945,5 +1165,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

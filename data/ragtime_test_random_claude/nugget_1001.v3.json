@@ -18,6 +18,17 @@
       "question_id": "32dfe5a63a8341b693a72913dd34fee7",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What realistic AI risks does Gary Marcus warn about?"
@@ -50,6 +61,17 @@
       "question_id": "ad69350ca23d9b6da57d86da3dc35d0e",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who developed GANs and when were they first created?"
@@ -200,6 +222,17 @@
       "question_id": "deb99e0bb7b0c826bf8f37c8a408edb0",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why did Geoffrey Hinton leave Google in 2023?",
@@ -298,6 +331,17 @@
       "question_id": "08fa2217e8ae01b861e7db528a01e80e",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Geoffrey Hinton's ranking in research citations?"
@@ -330,6 +374,17 @@
       "question_id": "8aef4533ca582b6aece0a0cfa3331ee8",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much water will AI development consume according to predictions?"
@@ -368,6 +423,17 @@
       "question_id": "8638243c6d7aa181af0923cbe0fde98b",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is known as the 'godfather' of artificial intelligence?",
@@ -412,6 +478,17 @@
       "question_id": "46ea3e9bd29bf7a6f08af9ab33a629a1",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was Geoffrey Hinton's foundational contribution to neural networks?"
@@ -444,6 +521,17 @@
       "question_id": "809553db95741cfa18edb66cb904efaf",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why didn't Geoffrey Hinton sign the AI pause petition?"
@@ -476,6 +564,17 @@
       "question_id": "24e0932b6ca06d5fc0be698e0b492df9",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many jobs does Goldman Sachs warn could be automated?"
@@ -508,6 +607,17 @@
       "question_id": "f8af8aee621c21ccb0c21759b64c5ac8",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What future scenario does Geoffrey Hinton warn about?"
@@ -564,6 +674,17 @@
       "question_id": "b857e31d6b35005fde15e9ff3b4f2159",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which AI pioneers have warned about artificial intelligence dangers?",
@@ -622,6 +743,17 @@
       "question_id": "ef6d03b3d041fedca45ca0a519c5fda3",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which major AI business leaders signed the extinction risk declaration?",
@@ -666,6 +798,17 @@
       "question_id": "92cd4d3a72f07934d122a69378cf6ec3",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does the Senate hearing demonstrate about AI policy?"
@@ -698,6 +841,17 @@
       "question_id": "6f2c32a4f599c69f699ad12caf7847d8",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which AI pioneers does Yann LeCun disagree with about AI risks?"
@@ -730,6 +884,17 @@
       "question_id": "b8e625d5babb8ec96222ca1cf9c53f5a",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What level of priority should AI risk prevention have?"
@@ -762,6 +927,17 @@
       "question_id": "a67c230d57d90476523eb3591eddab55",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which podcast featured an interview with Geoffrey Hinton?"
@@ -794,6 +970,17 @@
       "question_id": "557ea20a6ca9219751d674415ce58e44",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What AI safety company did Ilya Sutskever recently establish?"
@@ -826,6 +1013,17 @@
       "question_id": "881ce87e840e15229caf077acb8e97c4",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which major organizations has Yoshua Bengio advised on AI safety?"
@@ -858,6 +1056,17 @@
       "question_id": "d09e91211e9a69c4d7bc2588ee5f75e2",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Geoffrey Hinton do after leaving his Google position?"
@@ -890,6 +1099,17 @@
       "question_id": "a073bbb7a5a8cf7cdf9c6884f89d18ef",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Geoffrey Hinton describe humanity's potential future?"
@@ -907,5 +1127,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

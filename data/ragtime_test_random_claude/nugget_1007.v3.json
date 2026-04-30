@@ -18,6 +18,17 @@
       "question_id": "7a3174b6b5f316f6c4151b6ee8bb281d",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which company manufactures the J-10 fighter jet?"
@@ -50,6 +61,17 @@
       "question_id": "a87ca67e502a5f968401c616e2bbc8ee",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many J-10 fighter jets did Pakistan order from China?"
@@ -162,6 +184,17 @@
       "question_id": "13ec955fc1d790ef5e9cfb7f306ad24f",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What buyer feedback exists for China's J-10 fighter jet?",
@@ -398,6 +431,17 @@
       "question_id": "6a8b6bb9ef250352e711df53e979aad7",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Chinese analysts view the J-10C sale to Pakistan?"
@@ -430,6 +474,17 @@
       "question_id": "57b027bca309cd9e87fd7393934a0c6b",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Sudan's significance in J-10C fighter jet sales?"
@@ -470,6 +525,17 @@
       "question_id": "d294a71c28ee7d047bbd96aec5b53e1d",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Does this document contain buyer feedback on J-10 jets?",
@@ -508,6 +574,17 @@
       "question_id": "4e2a5eab62fe0d6d259502060331c689",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Chinese analyst Shi Hong characterize the J-10C?"
@@ -540,6 +617,17 @@
       "question_id": "6d7ac07e0a676a5a5d2a498277fdda38",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do military analysts view the J-10's market position?"
@@ -572,6 +660,17 @@
       "question_id": "e52c772b04a61f9369235f38148bca4f",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many Chinese fighter jets were deployed in recent Taiwan missions?"
@@ -604,6 +703,17 @@
       "question_id": "b1b54c57ce5c176e9668991fae66e0cc",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has China adapted the J-10C for foreign customers?"
@@ -676,6 +786,17 @@
       "question_id": "3f7a35390d5ed8bde4ab46999fd6fe89",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Does this document contain information about J-10 fighter jet exports?",
@@ -740,6 +861,17 @@
       "question_id": "5037c1ea2fd6090842399a5feb5e0b3c",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What feedback have international buyers given about J-10 fighter jets?"
@@ -781,6 +913,17 @@
       "question_id": "75ac47e34ab32396dc3ca49d17d43f85",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the value of Chinese weapons deals recently?"
@@ -813,6 +956,17 @@
       "question_id": "3cfe989ca2dbe226677130ddc8652ee7",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How is China's J-10 series characterized in terms of capabilities?"
@@ -845,6 +999,17 @@
       "question_id": "d0d7952210a7e0f4936951fb695952e6",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What recent achievements has the J-10C fighter jet accomplished?"
@@ -877,6 +1042,17 @@
       "question_id": "be842d355e20214dd612ef8476b401c9",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which publication ranked the J-10 among top threatening fighter jets?"
@@ -909,6 +1085,17 @@
       "question_id": "48f3f999adc9bcd59cc88c7b0396e45a",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries currently use the J-10 fighter jet?"
@@ -974,6 +1161,17 @@
       "question_id": "f52568732459870322f544b7d5b4d40b",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What do commentators say about J-10 fighter jet performance?",
@@ -1027,6 +1225,17 @@
       "question_id": "615d80782bc1dd21da21b696b342f1b6",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What technology makes the J-10CE's golden cockpit canopy special?"
@@ -1059,6 +1268,17 @@
       "question_id": "af9a2f754c87e04f24549aa74674a64b",
       "aggregator_type": "OR",
       "query_id": "1007",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was Iran's assessment of China's J-10 fighter jets?"
@@ -1076,5 +1296,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

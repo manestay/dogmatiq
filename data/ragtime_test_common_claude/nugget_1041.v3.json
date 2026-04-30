@@ -45,6 +45,17 @@
       "question_id": "8ae351c1c7c4e94ce2b7907b35447211",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Indian government ministry supports traditional medicine standardization?",
@@ -109,6 +120,17 @@
       "question_id": "7a877926c41585ce5ceaaa2a477e38ad",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of approved medicines come from natural sources?",
@@ -155,6 +177,17 @@
       "question_id": "de2b2befbceaf3eb278941672c23af3e",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of traditional medicine is discussed in this document?"
@@ -190,6 +223,17 @@
       "question_id": "32b31bd70bc78f488039dc50272a071e",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where and when was the inaugural global traditional medicine summit held?",
@@ -228,6 +272,17 @@
       "question_id": "0d17c6295ddc1ee259b517cb0a8a42d8",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What system is India requesting to include Ayurveda in?"
@@ -260,6 +315,17 @@
       "question_id": "8f0272ecf0b842235b5426808b4ea1f6",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When does India expect Ayurveda inclusion in ICD-11?"
@@ -292,6 +358,17 @@
       "question_id": "cd7013a9df9d8375ec0be47e4763eed0",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What benefits would ICD-11 inclusion provide for Ayurveda?"
@@ -324,6 +401,17 @@
       "question_id": "15a4c3bd5993acde1e0423af2ad090f8",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional medicine system is already included in ICD-11?"
@@ -356,6 +444,17 @@
       "question_id": "d47d1550d51405b518b27bf877680d28",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How would ICD-11 inclusion support universal health coverage?"
@@ -388,6 +487,17 @@
       "question_id": "9b27215ce1616476d0ddbff812351a27",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are India's three main traditional medicine systems?"
@@ -420,6 +530,17 @@
       "question_id": "49ef5a3eb6420a93cba4cd4be746b7bc",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How should traditional knowledge integrate with modern medical practice?"
@@ -452,6 +573,17 @@
       "question_id": "6269feadd72b11574172cff5753231c0",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has traditional medicine knowledge been historically validated?"
@@ -484,6 +616,17 @@
       "question_id": "2380e1b2c428d577d5aca9072f923f63",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What traditional medical system does India possess?"
@@ -516,6 +659,17 @@
       "question_id": "fff4d6a2b1ef7163651ea42aca6e7ed6",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What natural substances does Ayurveda use for medical treatment?"
@@ -548,6 +702,17 @@
       "question_id": "2118423cf35dd8d79a8e7b365e5b33ec",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Ayurveda emphasize in its medical approach?"
@@ -580,6 +745,17 @@
       "question_id": "52ac07545d8254db994cf0598aa711c1",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What complementary treatments does Ayurveda combine with herbal medicine?"
@@ -612,6 +788,17 @@
       "question_id": "8fec6298e1a45315cb97b19d8131f0ec",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Ayurveda's treatment philosophy differ from conventional medicine?"
@@ -644,6 +831,17 @@
       "question_id": "dedaa797f57188f08f2a6ebb9d1b8bdf",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organization created a new traditional medicine research center in India?"
@@ -676,6 +874,17 @@
       "question_id": "a8a0dc4eff1e5ad6fd3cf41db147ba25",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much funding supports the traditional medicine center in Jamnagar?"
@@ -708,6 +917,17 @@
       "question_id": "40030819a9d5415d7b36f83249d618ea",
       "aggregator_type": "OR",
       "query_id": "1041",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What systems comprise traditional Indian medicine according to Prime Minister Modi?"
@@ -725,5 +945,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -18,6 +18,17 @@
       "question_id": "f7f7276d2157080b48f156230df42ea1",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do fans typically respond to new Labubu releases?"
@@ -50,6 +61,17 @@
       "question_id": "c7e03bc12156842f25d0c20e9c2b5fed",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What products are discussed in this document?"
@@ -82,6 +104,17 @@
       "question_id": "a7c1b016ec295a0185759d57ba68c0d3",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What toy safety issue is discussed in this document?"
@@ -159,6 +192,17 @@
       "question_id": "7cdd3fc203c1b584a60a06d31e729839",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What information about Labubu is provided in this document?"
@@ -305,6 +349,17 @@
       "question_id": "83bbe877452cb94815b287aff133e8a0",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What unprecedented official recognition did Thailand give to Labubu?"
@@ -337,6 +392,17 @@
       "question_id": "ed6123c06d106cf5f3ce8397c8c63fe9",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why do modern people seek comfort from collectible toys?"
@@ -369,6 +435,17 @@
       "question_id": "94161274532c72351b4f64fee885642b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of toys are Labubu products?"
@@ -417,6 +494,17 @@
       "question_id": "fdb1dd691bf95ac69d4a5109e4931c9e",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "On which social media platform did Labubu gain viral popularity?",
@@ -467,6 +555,17 @@
       "question_id": "48608f24e84cb7d2f43b742f8fe17f3f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has the blind box trend developed recently?"
@@ -499,6 +598,17 @@
       "question_id": "a04f2d721cc2b12795f56d9f72a1faad",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did consumer Xiao Chen spend on Labubu collectibles?"
@@ -531,6 +641,17 @@
       "question_id": "a2665e3cf4ff3d2b672d0007c373888f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Labubu and who created this collectible toy character?"
@@ -563,6 +684,17 @@
       "question_id": "0e07eec370ad702707efcbea0c313790",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?"
@@ -595,6 +727,17 @@
       "question_id": "8ca1e936e4f08f1b0d2b4a29a139a905",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which famous celebrities have contributed to Labubu's popularity?"
@@ -627,6 +770,17 @@
       "question_id": "5057638b18380ec716d7a843a900c16c",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the main subject discussed in this document?"
@@ -659,6 +813,17 @@
       "question_id": "97a4e4a9f845a8f8e89220b9a85a1ee3",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Loab according to the document?"
@@ -755,6 +920,17 @@
       "question_id": "b8a9a31daa3e6c78909c098cc8c3dba0",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does this document reveal about Labubu toys?",
@@ -869,6 +1045,17 @@
       "question_id": "2dc9e71fbd0257bb39dc8ba578f508ac",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the main topic covered in this document?",
@@ -922,6 +1109,17 @@
       "question_id": "011ae31f6621847f742018f30030c63a",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What psychological principle makes cute toys like Labubu appealing?"
@@ -954,6 +1152,17 @@
       "question_id": "e3537dbe4bdc7fd2114b982cf7f80f45",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is one scientist featured in the Role Model Barbie series?"
@@ -986,6 +1195,17 @@
       "question_id": "4610116649eb04dcbc29589aab173bfa",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has Labubu affected Pop Mart's financial performance?"
@@ -1003,5 +1223,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

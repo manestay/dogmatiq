@@ -26,6 +26,17 @@
       "question_id": "accc75f5145503c5c7b0d8a79a4991ea",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Does this document contain information about science fiction literature evolution?",
@@ -126,6 +137,17 @@
       "question_id": "0455d320e17bcd1b8ccc2a8d15457355",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How is Turkish television drama currently developing in terms of genre?",
@@ -172,6 +194,17 @@
       "question_id": "dcd02993a79c04dd13bddb7c10f4db82",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What language and topic does this document cover?"
@@ -207,6 +240,17 @@
       "question_id": "6821b01e8a08a169a23554fa121b4547",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How are contemporary science fiction writers expanding the genre?"
@@ -239,6 +283,17 @@
       "question_id": "46027864773c50e54887788e37af916a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which diverse authors are creating innovative science fiction works?"
@@ -271,6 +326,17 @@
       "question_id": "0fbbe2852f5fc03729ffc7044c5871a1",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What genres does Nnedi Okorafor blend in Remote Control?"
@@ -303,6 +369,17 @@
       "question_id": "f45b39e982ac89aa2b4ea72a5eb9ad1a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do trailblazing science fiction writers reshape the genre?"
@@ -335,6 +412,17 @@
       "question_id": "79a17b5d0824f7441cda81d1122c9afc",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What formats feature genre-bending science fiction works?"
@@ -367,6 +455,17 @@
       "question_id": "2ded192270e2f0b0946a145eda422bd9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What recent recognition did Chinese science fiction writer Wang Jinkang receive?"
@@ -399,6 +498,17 @@
       "question_id": "c439f8ebe0c2e23442f12eb86eefa196",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Wang Jinkang observe about China's role in science fiction?"
@@ -431,6 +541,17 @@
       "question_id": "654eb3f41c048ec0db390211fe58f1ed",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How is Wang Jinkang regarded in Chinese science fiction?"
@@ -463,6 +584,17 @@
       "question_id": "eca2fc73d643aed9689ba7fb25418a2a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How prolific has Wang Jinkang been as a science fiction writer?"
@@ -495,6 +627,17 @@
       "question_id": "badfe1bb0b81413fb0755bf435696500",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What thematic concern does Wang Jinkang explore in his work?"
@@ -527,6 +670,17 @@
       "question_id": "d3e8ad3b8becb7a277f771884c11d9aa",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the historical roots of Arabic science fiction literature?"
@@ -559,6 +713,17 @@
       "question_id": "cbd8f60535b5d9e1664b0134b6d5bfc7",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which authors contributed to Arabic science fiction development?"
@@ -591,6 +756,17 @@
       "question_id": "f3a16931a1925b9836d6a5c00f9134fc",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main subgenres of science fiction discussed?"
@@ -623,6 +799,17 @@
       "question_id": "0d5e0abd2d1054d6eb5b9f18c6e240ce",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Western dystopian novel is mentioned as an example?"
@@ -655,6 +842,17 @@
       "question_id": "3b1cfc36c4543e7ad42f75307c9525e4",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What contemporary Arabic science fiction work is highlighted?"
@@ -687,6 +885,17 @@
       "question_id": "7aefe667d18991f34630fa15a4bb41b1",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has speculative fiction evolved according to Rob Cameron?"
@@ -719,6 +928,17 @@
       "question_id": "d175fd62038d0f61f11d323f66e0d115",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does K.M. Szpara predict for the future of speculative fiction?"
@@ -736,5 +956,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

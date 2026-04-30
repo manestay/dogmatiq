@@ -63,6 +63,17 @@
       "question_id": "7cdd3fc203c1b584a60a06d31e729839",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What information about Labubu is provided in this document?"
@@ -209,6 +220,17 @@
       "question_id": "d695dafda05272820eefaf7493ffa333",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Does this document contain information about the Labubu phenomenon?",
@@ -419,6 +441,17 @@
       "question_id": "b8a9a31daa3e6c78909c098cc8c3dba0",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does this document reveal about Labubu toys?",
@@ -533,6 +566,17 @@
       "question_id": "2dc9e71fbd0257bb39dc8ba578f508ac",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the main topic covered in this document?",
@@ -602,6 +646,17 @@
       "question_id": "fdb1dd691bf95ac69d4a5109e4931c9e",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "On which social media platform did Labubu gain viral popularity?",
@@ -666,6 +721,17 @@
       "question_id": "c7f9e7c5ac6e8de129529a3cc587fec1",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Chinese toy company markets the Labubu collectibles?",
@@ -722,6 +788,17 @@
       "question_id": "8d6ab9074d8aa2baae66181dceed854f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is the original creator of the Labubu character?"
@@ -774,6 +851,17 @@
       "question_id": "40c2b0b2892194d011cd1608356d52ed",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which famous celebrities have been seen with Labubu toys?"
@@ -820,6 +908,17 @@
       "question_id": "933068dd1b14689fd6449c33b0f875ae",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many careers has Barbie brand covered historically?",
@@ -861,6 +960,17 @@
       "question_id": "90a10c81588117cb4386624ce1762b2b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of toys are Labubu figurines?"
@@ -896,6 +1006,17 @@
       "question_id": "a2665e3cf4ff3d2b672d0007c373888f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Labubu and who created this collectible toy character?"
@@ -928,6 +1049,17 @@
       "question_id": "83bbe877452cb94815b287aff133e8a0",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What unprecedented official recognition did Thailand give to Labubu?"
@@ -960,6 +1092,17 @@
       "question_id": "0e07eec370ad702707efcbea0c313790",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did Labubu arrive at Bangkok Suvarnabhumi Airport in Thailand?"
@@ -992,6 +1135,17 @@
       "question_id": "c61b15029461ae683ad506882b99784f",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which high-level officials attended Labubu's welcome ceremony in Thailand?"
@@ -1024,6 +1178,17 @@
       "question_id": "a7c1b016ec295a0185759d57ba68c0d3",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What toy safety issue is discussed in this document?"
@@ -1056,6 +1221,17 @@
       "question_id": "f369c78f627eb3dc60bba5d3122692b3",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many Calico Critters toys were recalled by US authorities?"
@@ -1088,6 +1264,17 @@
       "question_id": "5f6c5f6591f61cdf4e3bc4cff942b1c4",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What makes Calico Critters toys dangerous for children?"
@@ -1120,6 +1307,17 @@
       "question_id": "d222d687103f75fb6a2db6885bac1e8a",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What incident involving a large toy figure caused international news attention?"
@@ -1152,6 +1350,17 @@
       "question_id": "8b1318d856eb528e93df02608073d45b",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did the toy company's stock price change following the incident?"
@@ -1184,6 +1393,17 @@
       "question_id": "af9909bfc0a9ca6272868c45cd1210c3",
       "aggregator_type": "OR",
       "query_id": "1065",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who benefited most from the toy company's stock price increase?"
@@ -1201,5 +1421,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

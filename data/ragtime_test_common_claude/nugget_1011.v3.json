@@ -119,6 +119,17 @@
       "question_id": "114afe5af790be094df58c79f3d74b53",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mohammed bin Salman's strategic development plan for Saudi Arabia?",
@@ -371,6 +382,17 @@
       "question_id": "dc15f15e965d913f3c2313a0deb41ad4",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the three main pillars of Saudi Vision 2030?",
@@ -518,6 +540,17 @@
       "question_id": "6aa94264fa80fcebc241c2aadd140110",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did Crown Prince Mohammed bin Salman launch Saudi Vision 2030?",
@@ -640,6 +673,17 @@
       "question_id": "ce6885ecfac89592fa949774a65f2dff",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main goals of Mohammed bin Salman's Vision 2030?",
@@ -742,6 +786,17 @@
       "question_id": "29e942e062c22d410f09708aa3c865bb",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mohammed bin Salman's comprehensive reform plan for Saudi Arabia?",
@@ -847,6 +902,17 @@
       "question_id": "abc4be810f9f0c3373708eb09d6f2605",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What women's rights reforms did Mohammed bin Salman introduce?",
@@ -930,6 +996,17 @@
       "question_id": "849c40833a3d567a8c019c450bdf60d6",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When was Mohammed bin Salman appointed as Crown Prince?",
@@ -1018,6 +1095,17 @@
       "question_id": "472a0f50d0eef5603fa60b72b3972d5d",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What economic transformation does Saudi Vision 2030 aim for?",
@@ -1098,6 +1186,17 @@
       "question_id": "7824bd3137c5e0c7e1b66dfd10ed0f87",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is implementing Saudi Arabia's Vision 2030 development plan?",
@@ -1178,6 +1277,17 @@
       "question_id": "2a445ef8368d9e20c708893074c1bc50",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What major project is part of Mohammed bin Salman's Vision 2030?",
@@ -1244,6 +1354,17 @@
       "question_id": "2d9880b1355b497bad3083d5b422c00d",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What economic achievement has Saudi Arabia reached under Mohammed bin Salman?",
@@ -1303,6 +1424,17 @@
       "question_id": "760fb18a1555fb39e073491ee217ab95",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Mohammed bin Salman's economic development plan called?",
@@ -1366,6 +1498,17 @@
       "question_id": "b98222a8450d7f3980f09c6493b60c68",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the main economic goal of Crown Prince Mohammed bin Salman's Vision 2030?",
@@ -1426,6 +1569,17 @@
       "question_id": "7f174dcc39a19ffc7290e251fb6316c5",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the name of Mohammed bin Salman's reform plan?",
@@ -1483,6 +1637,17 @@
       "question_id": "253018f27552ba134f4256228d362a84",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What new rights have Saudi women gained under Mohammed bin Salman?",
@@ -1543,6 +1708,17 @@
       "question_id": "32804077638ce02ef722e026e376697d",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main economic goals of Vision 2030?"
@@ -1589,6 +1765,17 @@
       "question_id": "48ac52cc9ca7c780a9a906d55aca5b16",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What international impact has Vision 2030 had on Saudi Arabia?",
@@ -1635,6 +1822,17 @@
       "question_id": "c60b159b191b8ca031c2ad90acc763ad",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has Vision 2030 improved social conditions in Saudi Arabia?",
@@ -1681,6 +1879,17 @@
       "question_id": "6aa5ff1cef1b47c4098f3690e170636a",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What financial milestone did Saudi Arabia achieve under Mohammed bin Salman's reforms?",
@@ -1727,6 +1936,17 @@
       "question_id": "63fefd78baa4858bb8dbb3cbcbf9eba8",
       "aggregator_type": "OR",
       "query_id": "1011",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the estimated cost of the NEOM project?",
@@ -1750,5 +1970,16 @@
         "num_answers": 2
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

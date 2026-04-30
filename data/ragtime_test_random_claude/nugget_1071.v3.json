@@ -18,6 +18,17 @@
       "question_id": "471273d5ffc65752bcefc96090401bd3",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of implantable medical devices are part of the global market?"
@@ -50,6 +61,17 @@
       "question_id": "0b321c8a89bd3ea5c874c331cdc008b8",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did antibiotic-resistant bacteria increase during the COVID-19 pandemic?"
@@ -82,6 +104,17 @@
       "question_id": "ea998d555fa4479f7a8ea433298a72da",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What price increases resulted from recent global conflicts?"
@@ -122,6 +155,17 @@
       "question_id": "a03a405015f9509d97ff58dde50554f8",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Taiwan healthcare providers cope with medication shortages?",
@@ -160,6 +204,17 @@
       "question_id": "e1320d4bcaba5c50b52cb5abd40e2e1e",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many countries provide palliative care services globally?"
@@ -192,6 +247,17 @@
       "question_id": "966241901bc4ff16021603e1ee521be4",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which chronic non-communicable diseases cause most global deaths?"
@@ -224,6 +290,17 @@
       "question_id": "9298d97737c90d5253b2e6343259ea11",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is a primary cause of medication shortages in Ethiopia?"
@@ -256,6 +333,17 @@
       "question_id": "69aa29696b0668251546d5feec028f8d",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What global challenges contribute to Taiwan's medication shortage problems?"
@@ -288,6 +376,17 @@
       "question_id": "ffd67718b542af0dbb7c4691d1c7b8c3",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What challenges does the Advanced Drug Delivery Market face?"
@@ -320,6 +419,17 @@
       "question_id": "c22ed4ee77961ce5b34628a317f8e837",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many patients will benefit from the pediatric cancer drug program?"
@@ -352,6 +462,17 @@
       "question_id": "99f87726ed1f26faa203829659acf508",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which pharmaceutical companies are partners in the ATOM Coalition?"
@@ -384,6 +505,17 @@
       "question_id": "c7286607bb501607e11930c1065f2a94",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What method does WHO recommend to control antibiotic resistance?"
@@ -416,6 +548,17 @@
       "question_id": "a2f4fd5d09348e8c2e2b18cec4d50678",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What solution does Taiwan's Kuomintang party propose for medication shortages?"
@@ -448,6 +591,17 @@
       "question_id": "eaee00acb435eb94afeae70c15ecbafd",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the vaccination rates between low and high-income countries?"
@@ -480,6 +634,17 @@
       "question_id": "257e51c4f7cd1cc11db729b33a00dc6a",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which critical medications experienced shortages in Botswana public health facilities?"
@@ -520,6 +685,17 @@
       "question_id": "4c952f303620922293cb35de157456b4",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific medications were affected by shortages in the United States?",
@@ -558,6 +734,17 @@
       "question_id": "48d5e98ca2001beacf1a345b527b679c",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who reported the critical medication situation to Financial Times?"
@@ -590,6 +777,17 @@
       "question_id": "19f2837ab9e7ec14ab5ccfcb46ea11a7",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main consequences of Jordan's medication shortages?"
@@ -622,6 +820,17 @@
       "question_id": "9b7a0315f7f42079c4b0192442267910",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much money could preventing medication errors save worldwide?"
@@ -654,6 +863,17 @@
       "question_id": "61130f623c6d1e2e4eb430a1fbd5a68f",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many stroke deaths occurred in 2020 versus 2050 projections?"
@@ -671,5 +891,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -18,6 +18,17 @@
       "question_id": "dc0b89f3996963441933e1bc360910f9",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which cloud storage platforms support remote work document management?"
@@ -50,6 +61,17 @@
       "question_id": "a14064ea6f3cf30a2f6ca8d8a8085500",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What program did Airbnb create to support digital nomads?"
@@ -82,6 +104,17 @@
       "question_id": "b59eef5ee17d1656e77e1dc73b432801",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What financial tools do digital nomads commonly use?"
@@ -130,6 +163,17 @@
       "question_id": "b1652d388e52ebf124ef955c584c8148",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did the COVID-19 pandemic change remote work adoption?",
@@ -174,6 +218,17 @@
       "question_id": "339fb56ffd20afdd6ef243ade442286d",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What high-performance feature does Splashtop remote desktop offer?"
@@ -206,6 +261,17 @@
       "question_id": "c9f5da97353ee65583f00e7e8e61ff04",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the cost of qualified electronic signatures?"
@@ -238,6 +304,17 @@
       "question_id": "6654dcf249cbf449a0c482f0998759ae",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which artificial intelligence startup recently launched a paid programming product?"
@@ -278,6 +355,17 @@
       "question_id": "9cdc8f13176c868eb5eb83321f3bc643",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visa options support digital nomads internationally?",
@@ -316,6 +404,17 @@
       "question_id": "8a2bebbf5cd756c0248b7aa5e0c985b2",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of shadow IT tools do remote workers commonly use?"
@@ -348,6 +447,17 @@
       "question_id": "61ca0be0e5e5b6809e7ea6c9c12843c6",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of campers take weekday camping trips?"
@@ -380,6 +490,17 @@
       "question_id": "c2e492c254a6b87d35ba52b00916e5a9",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of remote workers want to continue?"
@@ -412,6 +533,17 @@
       "question_id": "43e0741de49cac443a14b8e897a2fc00",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many countries offer specialized digital nomad visas?"
@@ -444,6 +576,17 @@
       "question_id": "2c505881e312ce886c62dc95a3a3e3fd",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What award did Davit Ayvazyan receive in 2021?"
@@ -476,6 +619,17 @@
       "question_id": "4fe0db06a5dff6d4c2f3726d05957824",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the Workation lifestyle concept for remote workers?"
@@ -508,6 +662,17 @@
       "question_id": "2ae53cabee5822e05ff20d928ac5b0e1",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What shared facilities does Huangyu Jiutian NO1 provide for digital nomads?"
@@ -556,6 +721,17 @@
       "question_id": "ab697dc9d3bd0dac86dc096f6ec4cbe4",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What major event accelerated the shift to remote work?",
@@ -608,6 +784,17 @@
       "question_id": "43a453c33cae41f02afdd9eb7ef16619",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of remote work suit digital nomads?",
@@ -646,6 +833,17 @@
       "question_id": "4b0513bd2e7e8025cf6b7f43171eb50e",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did competitor Flatio grow due to remote work expansion?"
@@ -678,6 +876,17 @@
       "question_id": "c7ba907c22d569baf153d11bcdfd5285",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many countries have Ryan Ellison and Sophie Darsy visited while working?"
@@ -710,6 +919,17 @@
       "question_id": "b2caf28226917fe71ed5c405e17fc095",
       "aggregator_type": "OR",
       "query_id": "1005",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who developed the 15-minute city concept?"
@@ -727,5 +947,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

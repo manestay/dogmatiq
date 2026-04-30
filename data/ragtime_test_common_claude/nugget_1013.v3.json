@@ -59,6 +59,17 @@
       "question_id": "9aa076e0c662771c24d5a02c4391567a",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is the origin of the slow food movement?",
@@ -243,6 +254,17 @@
       "question_id": "9bef12ba44a616885e5c22d28f5cd5b7",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the three core principles of the slow food movement?",
@@ -337,6 +359,17 @@
       "question_id": "99570e4204ceb9d0599bafcafaf6c557",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country is home to the international Slow Food organization headquarters?",
@@ -396,6 +429,17 @@
       "question_id": "91b220a095144306603f7767c3cdcccb",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What information about the slow food movement is provided in this document?",
@@ -440,6 +484,17 @@
       "question_id": "93bb62874b1d5b5db2875f8e01a92477",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is mentioned as a current proponent of slow food principles?",
@@ -506,6 +561,17 @@
       "question_id": "0d928a19798da96598a21be2d3934cb8",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does the 'body and soil are one' concept originally promote?",
@@ -566,6 +632,17 @@
       "question_id": "0b4578196a2b297c683ba51ca68049fb",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of ingredients does the Taitung Slow Food Festival emphasize?",
@@ -621,6 +698,17 @@
       "question_id": "b52005ca57c15cba00d00400c9c44d4d",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long has the slow food movement been developing in Taitung?",
@@ -670,6 +758,17 @@
       "question_id": "46265b68e14c6ec18cf93273d9588607",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long has the slow food movement been popular worldwide?",
@@ -716,6 +815,17 @@
       "question_id": "28d4fe6dc8ef79f7cfda3fbb01781a31",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main focus areas of Taitung Slow Food Festival?",
@@ -762,6 +872,17 @@
       "question_id": "de6d43a0ac00824b8ae9aa618987de29",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What international recognition did Taitung Slow Food Festival receive?",
@@ -808,6 +929,17 @@
       "question_id": "50b3ab06ee60a2652f60933147fed4a0",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What sustainability practices does Taitung Slow Food Festival follow?",
@@ -854,6 +986,17 @@
       "question_id": "38513e4e6a695c6b0b7017f3fa2fda72",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Asian countries have representatives in the international slow food movement?",
@@ -900,6 +1043,17 @@
       "question_id": "40ab100f603bc0d50e0e98ad25354497",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who founded the slow food movement and when?"
@@ -943,6 +1097,17 @@
       "question_id": "b7c1b61793966c7628bcaa2fa5d5b57c",
       "aggregator_type": "AND",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main goals of the Slow Food organization?"
@@ -978,6 +1143,17 @@
       "question_id": "c6bb6790e5edd25f6a7405cd945e5605",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did the Taitung Slow Food Festival begin?",
@@ -1019,6 +1195,17 @@
       "question_id": "6cc940265ff86271c9bdd4a90bbe3c90",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries are represented at the Taitung slow food forum?",
@@ -1060,6 +1247,17 @@
       "question_id": "df2edb9d7900db69bb18825830d83be7",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which country hosts the global slow food annual conference?",
@@ -1101,6 +1299,17 @@
       "question_id": "a6e6a85bc5036f67efd0618b049f20b6",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are the representatives from Slow Food International headquarters in Italy?"
@@ -1136,6 +1345,17 @@
       "question_id": "f441a3ddb380584a7a31ce4ed873f367",
       "aggregator_type": "OR",
       "query_id": "1013",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where is hosting the first international slow food forum?"
@@ -1153,5 +1373,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

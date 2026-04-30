@@ -18,6 +18,17 @@
       "question_id": "51a859bf03694c20ff82874001def4ea",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Herbert George Wells' significance in science fiction genre?"
@@ -56,7 +67,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.165158+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.509549179090186
       }
@@ -76,6 +97,17 @@
       "question_id": "6cf58b2f4ea95ad79802e7c980b262e3",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is considered a foundational classic of science fiction literature?"
@@ -114,7 +146,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164905+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.4565685119527148
       }
@@ -134,6 +176,17 @@
       "question_id": "afb5f432e4f85b828e152b2682ef536e",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is considered the foundational work of modern science fiction?"
@@ -172,7 +225,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164245+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.3068199825143374
       }
@@ -192,6 +255,17 @@
       "question_id": "600c6a310f08c4b91ae99f3e7dff497c",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What subgenre emerged as part of science fiction's evolution?"
@@ -230,7 +304,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164286+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1977647494113217
       }
@@ -250,6 +334,17 @@
       "question_id": "1687559c09d15fdc63107d659344fe22",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the historical representation of women in science fiction?"
@@ -288,7 +383,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164836+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1835513078567481
       }
@@ -308,6 +413,17 @@
       "question_id": "bfbac604ed4044e3e61525f4fc5a50d4",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which author helped elevate science fiction to more mature literary content?"
@@ -346,7 +462,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164951+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9767880734063974
       }
@@ -366,6 +492,17 @@
       "question_id": "f5aca3b6d32cd53887378043374c047d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which contemporary diverse authors are gaining recognition in science fiction?"
@@ -404,7 +541,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164015+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9762068254626097
       }
@@ -424,6 +571,17 @@
       "question_id": "d229251d210e4ebd5e7a0437f4bbb593",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which women authors are featured in contemporary science fiction?"
@@ -462,7 +620,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164267+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9746177426650706
       }
@@ -482,6 +650,17 @@
       "question_id": "676e8b779a6494ad4e0d884122c3c8c2",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which celebrated science fiction work explored political themes?"
@@ -520,7 +699,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.163959+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9299491717209696
       }
@@ -540,6 +729,17 @@
       "question_id": "f6a087ab873314d83836635d005cef6a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What recent publishing milestone shows increased female representation?"
@@ -578,7 +778,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164826+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8559779671141103
       }
@@ -598,6 +808,17 @@
       "question_id": "658c2972d38b8af8c2ee94b2f877ca28",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What publication milestone marked Chinese science fiction's growth?"
@@ -636,7 +857,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.163170+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7889278566614895
       }
@@ -656,6 +887,17 @@
       "question_id": "af13a7ca6b8ebd55524bc9e91c7e4cca",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What distinguished Dune from mainstream 1960s science fiction novels?"
@@ -694,7 +936,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.165322+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7766607099820657
       }
@@ -714,6 +966,17 @@
       "question_id": "a09cd74f9aded0966846fc44ed21370c",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What challenges did female authors face in science fiction?"
@@ -752,7 +1015,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164844+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7703755533539534
       }
@@ -760,8 +1033,8 @@
     "Which contemporary authors from underrepresented demographics are mentioned as groundbreaking?": {
       "question": "Which contemporary authors from underrepresented demographics are mentioned as groundbreaking?",
       "answers": {
-        "Toni Morrison, Colson Whitehead, Junot Díaz, Jennifer Egan": {
-          "answer": "Toni Morrison, Colson Whitehead, Junot Díaz, Jennifer Egan",
+        "Toni Morrison, Colson Whitehead, Junot D\u00edaz, Jennifer Egan": {
+          "answer": "Toni Morrison, Colson Whitehead, Junot D\u00edaz, Jennifer Egan",
           "references": [
             {
               "doc_id": "55c717b2-2f04-4663-b3dc-dfed0b2eaebd_213125413"
@@ -772,6 +1045,17 @@
       "question_id": "f557043e55913e9dc9cc195cb27a5969",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which contemporary authors from underrepresented demographics are mentioned as groundbreaking?"
@@ -810,7 +1094,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.163802+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7078866642347177
       }
@@ -830,6 +1124,17 @@
       "question_id": "69d3a5fc58bb66b2029c3b0aab876ff1",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Russian work influenced the development of dystopian science fiction?"
@@ -868,7 +1173,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.163698+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6897472226164503
       }
@@ -888,6 +1203,17 @@
       "question_id": "bbbcdd65ec9a0a6fe7a0a7fd6d8268fe",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What timeframe covers women's accomplishments in science fiction?"
@@ -926,7 +1252,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164855+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6565354381923068
       }
@@ -946,6 +1282,17 @@
       "question_id": "de818ad2e0915917f793b5d1497b8840",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What scientific developments in the 20th century influenced literature?"
@@ -984,7 +1331,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.165497+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6449305038999453
       }
@@ -1004,6 +1361,17 @@
       "question_id": "6d666230ceb8f4868565b2d6e8c8dc83",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does modern science fiction portray artificial intelligence differently?"
@@ -1042,7 +1410,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.165678+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6148052613574997
       }
@@ -1062,6 +1440,17 @@
       "question_id": "2f06c0babad1157c66c45536a8e2a41d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What political themes did twentieth-century science fiction literature address?"
@@ -1100,7 +1489,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.163251+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5997988748008791
       }
@@ -1120,6 +1519,17 @@
       "question_id": "9b96adb245b44d522a8a6ee00412969a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What literary influence shaped early science fiction's view of artificial life?"
@@ -1158,12 +1568,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T21:11:24.164412+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5971627885150097
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 11.406593406593407,
@@ -2403,7 +2834,7 @@
             "101": [
               [
                 153,
-                "I need information on how the genre of science fiction in literature has changed and evolved over time. What has influenced science fiction earlier last century and how has the genre more recently developed? How has it changed from the world of HG Wells to the current authors? Have authors from other demographics (women authors, or people of color) made an impact? >>> What classic narrative theme did Karel Čapek's robot play establish?"
+                "I need information on how the genre of science fiction in literature has changed and evolved over time. What has influenced science fiction earlier last century and how has the genre more recently developed? How has it changed from the world of HG Wells to the current authors? Have authors from other demographics (women authors, or people of color) made an impact? >>> What classic narrative theme did Karel \u010capek's robot play establish?"
               ]
             ],
             "102": [
@@ -4116,7 +4547,7 @@
               ],
               [
                 153,
-                "What classic narrative theme did Karel Čapek's robot play establish?"
+                "What classic narrative theme did Karel \u010capek's robot play establish?"
               ],
               [
                 203,
@@ -4538,7 +4969,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.33124461547835315,
         "inverse_compression_pos": 0.1838235294117647
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T21:11:24.162308+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

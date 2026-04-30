@@ -18,6 +18,17 @@
       "question_id": "0faaf99b463d0b0eec7a755179605f87",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did atmospheric particulate pollution decrease in recent decades?"
@@ -50,6 +61,17 @@
       "question_id": "ca6aa0f3a6b06229991ae9d402559ad7",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Saharan dust damage vehicles?"
@@ -90,6 +112,17 @@
       "question_id": "0333bb2ed360f6a3c102053e5acedf08",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Saharan dust clouds affect weather conditions?",
@@ -143,6 +176,17 @@
       "question_id": "8188d50d70166a6234e2f382e66ba009",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much dust do annual Saharan storms transport worldwide?"
@@ -175,6 +219,17 @@
       "question_id": "9f6c8b1bfdfc125df65fed5703194cbe",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What temperature patterns occur during Khamsin wind events?"
@@ -215,6 +270,17 @@
       "question_id": "f4445b70a389b035cb7618153e909244",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health precautions do authorities recommend during dust storms?",
@@ -253,6 +319,17 @@
       "question_id": "bdf861c92e68d151e504a3194b227019",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When was the NASA atmospheric dust sampling mission conducted?"
@@ -285,6 +362,17 @@
       "question_id": "69bd6f7509cdd78d040f2d0c4fdd4ed7",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How frequently do long-range Saharan dust transport events occur?"
@@ -317,6 +405,17 @@
       "question_id": "78833ca99a97f28be112f1d1a0acc56d",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many dust storm events occurred in China by April 2023?"
@@ -349,6 +448,17 @@
       "question_id": "2e17cd39859b3b0b248bdfcc2cbedb20",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What ice particle concentrations and sizes were observed in dust storms?"
@@ -397,6 +507,17 @@
       "question_id": "7d76c0299be6a3c9873b303a21325374",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What positive impact do Saharan dust storms have on weather?",
@@ -449,6 +570,17 @@
       "question_id": "b7ec7efc0e24e168cf48c87fd82480a5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of atmospheric conditions does Saharan dust create?",
@@ -487,6 +619,17 @@
       "question_id": "da80335b958b0bfe94adcfb3f13409b0",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What preparatory responses have American authorities implemented for sargassum?"
@@ -519,6 +662,17 @@
       "question_id": "105867dee1e745975e3c9fd37e5d5a51",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did NASA conduct the CPEX-CV mission studying Saharan dust?"
@@ -551,6 +705,17 @@
       "question_id": "af4ab474b291a8e0907d2f91d34e9e12",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the altitude range of the troposphere where weather occurs?"
@@ -583,6 +748,17 @@
       "question_id": "2658a870c578a9334f4b0ef499480c19",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long does the Saharan dust season typically last?"
@@ -615,6 +791,17 @@
       "question_id": "b2398b0616e927b4ac7be7c969225a35",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which areas of the Americas commonly experience supercell storms?"
@@ -647,6 +834,17 @@
       "question_id": "41d0b2b6bda47c9309e9b1617e24eae0",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What symptoms does Saharan dust exposure trigger in people?"
@@ -679,6 +877,17 @@
       "question_id": "2ca6c9cd20819aa517262d2a4de92c03",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much Saharan dust typically travels across the Atlantic yearly?"
@@ -711,6 +920,17 @@
       "question_id": "6f1a4aa3e8420b0022cc5bad7015bba7",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which citizens face the greatest health risks from Saharan dust?"
@@ -728,5 +948,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

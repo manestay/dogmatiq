@@ -281,6 +281,17 @@
       "question_id": "dc6c0f32145f16fd03a114cc9aa8ad08",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What title is Geoffrey Hinton commonly known by?",
@@ -832,6 +843,17 @@
       "question_id": "87650a75cc170c2d8ef8b54a83e5c26a",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does Geoffrey Hinton warn about AI intelligence capabilities?",
@@ -1259,6 +1281,17 @@
       "question_id": "d075df6789fada789db03d452695a872",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When did Geoffrey Hinton resign from his position at Google?",
@@ -1526,6 +1559,17 @@
       "question_id": "deb99e0bb7b0c826bf8f37c8a408edb0",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Why did Geoffrey Hinton leave Google in 2023?",
@@ -1656,6 +1700,17 @@
       "question_id": "f1349ec390966ae6f3c0e34f22b18d57",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Geoffrey Hinton feel about his past AI work?",
@@ -1739,6 +1794,17 @@
       "question_id": "a3698e137f8da50817c0f890f82d4346",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What nickname is Geoffrey Hinton commonly known by?",
@@ -1813,6 +1879,17 @@
       "question_id": "1dc56c2ac490b221b839ed16700fa2d7",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was Geoffrey Hinton's main contribution to artificial intelligence?",
@@ -1887,6 +1964,17 @@
       "question_id": "b857e31d6b35005fde15e9ff3b4f2159",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which AI pioneers have warned about artificial intelligence dangers?",
@@ -1953,6 +2041,17 @@
       "question_id": "3ccc42fb7fa4b2c75d5872ebad2138bb",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What AI technologies did Geoffrey Hinton help pioneer?",
@@ -2012,6 +2111,17 @@
       "question_id": "f25ffa25a1e05481e80c255f44bfe480",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How old is Geoffrey Hinton?"
@@ -2069,6 +2179,17 @@
       "question_id": "dd9ec0a6f7041d6bbddcc6c77cc6ae6a",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Geoffrey Hinton compare AI threats to climate change?",
@@ -2126,6 +2247,17 @@
       "question_id": "2603e2e30f743686d3264d2d8b8d3ead",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many jobs could artificial intelligence potentially replace?",
@@ -2186,6 +2318,17 @@
       "question_id": "9578dea80a87550beffb1df3dc40eb45",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What major action did Geoffrey Hinton take regarding AI concerns?",
@@ -2243,6 +2386,17 @@
       "question_id": "8b46262f9f1ed72a3b59b02cfea3a062",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What capability did Geoffrey Hinton warn AI could develop?",
@@ -2303,6 +2457,17 @@
       "question_id": "dec0dd33afcb0553ab93e8641838c7ba",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What did Geoffrey Hinton say about current AI technologies?",
@@ -2363,6 +2528,17 @@
       "question_id": "23e1ee8f3d7d4cbdff65a1d20d7452ca",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which other AI experts joined Geoffrey Hinton's warning statement?",
@@ -2415,6 +2591,17 @@
       "question_id": "ef6d03b3d041fedca45ca0a519c5fda3",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which major AI business leaders signed the extinction risk declaration?",
@@ -2465,6 +2652,17 @@
       "question_id": "8638243c6d7aa181af0923cbe0fde98b",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who is known as the 'godfather' of artificial intelligence?",
@@ -2517,6 +2715,17 @@
       "question_id": "29473132bc3b3b463b89f634ea3b6eaa",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did other tech experts respond to AI safety concerns?",
@@ -2563,6 +2772,17 @@
       "question_id": "2574f1e7e91c506da6f81baf86078e12",
       "aggregator_type": "OR",
       "query_id": "1001",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many experts called for pausing AI development?",
@@ -2586,5 +2806,16 @@
         "num_answers": 2
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

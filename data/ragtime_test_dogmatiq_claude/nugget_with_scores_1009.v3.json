@@ -90,6 +90,17 @@
       "question_id": "6b5318e60d9de1d6e271029dcc2577ef",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which areas of the Americas are currently impacted by Saharan dust?",
@@ -179,7 +190,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.238936+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1918863146503829
       }
@@ -199,6 +220,17 @@
       "question_id": "2ca6c9cd20819aa517262d2a4de92c03",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much Saharan dust typically travels across the Atlantic yearly?"
@@ -237,7 +269,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.240475+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 1.1737836155306622
       }
@@ -265,6 +307,17 @@
       "question_id": "fbdbed8a64eab3c5241e14defac1fb38",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When does Saharan dust typically reach the Americas?",
@@ -309,7 +362,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239345+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.9137936315101682
       }
@@ -337,6 +400,17 @@
       "question_id": "bb79cf3b84a395d5d533bc0094868b56",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health precautions do officials recommend during heavy Saharan dust periods?",
@@ -381,7 +455,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239271+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8901800501966894
       }
@@ -401,6 +485,17 @@
       "question_id": "7f3fe9ccb15672ab5d7889dad1a24fe2",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What precipitation patterns occur with Saharan dust storms?"
@@ -439,7 +534,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.242903+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8656602589426057
       }
@@ -467,6 +572,17 @@
       "question_id": "b7ec7efc0e24e168cf48c87fd82480a5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of atmospheric conditions does Saharan dust create?",
@@ -511,7 +627,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239258+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8531138236057889
       }
@@ -539,6 +665,17 @@
       "question_id": "75496b1dc74b2c347d899f1e2d429e65",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long do Saharan dust storm impacts typically last?",
@@ -583,7 +720,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239211+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8160821439041008
       }
@@ -627,6 +774,17 @@
       "question_id": "98deacfdd84820e5b918d76b5fdc013e",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Saharan dust storms affect surface temperatures?",
@@ -683,7 +841,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239025+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.8125712186405649
       }
@@ -751,6 +919,17 @@
       "question_id": "f24fe02acdfffbe3deb33f053897e643",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health risks do Saharan dust storms pose to citizens?",
@@ -825,7 +1004,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.238970+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7794242494747947
       }
@@ -845,6 +1034,17 @@
       "question_id": "e80857e4699ced8b00510c634afe1e10",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health problems do dust storms cause for citizens?"
@@ -883,7 +1083,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239792+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.7312090023667817
       }
@@ -903,6 +1113,17 @@
       "question_id": "b63f7f74650b044d5f57abc109de6521",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "During which months do Saharan dust storms typically arrive in affected areas?"
@@ -941,7 +1162,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.241815+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6879309717573641
       }
@@ -969,6 +1200,17 @@
       "question_id": "f4445b70a389b035cb7618153e909244",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health precautions do authorities recommend during dust storms?",
@@ -1013,7 +1255,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239286+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6691866646587168
       }
@@ -1033,6 +1285,17 @@
       "question_id": "539d97cbfeea161951f50fe49ce2ee42",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Texas city has been impacted by Saharan dust storms?"
@@ -1071,7 +1334,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 1.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239402+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6678854325738683
       }
@@ -1091,6 +1364,17 @@
       "question_id": "bbadcbcb0ce87857191ce60120e363ee",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the typical impact range of large-scale dust storms?"
@@ -1129,7 +1413,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.240843+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6540170863921402
       }
@@ -1149,6 +1443,17 @@
       "question_id": "ec4ca6005a4935ac2642c38e48d30614",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What environmental threats does Saharan dust pose?"
@@ -1187,7 +1492,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.240431+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.6214709231038325
       }
@@ -1207,6 +1522,17 @@
       "question_id": "24f0a767ebc14d439a680048bef67e1e",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What air quality levels can dust storms produce?"
@@ -1245,7 +1571,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.241760+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.598376291524517
       }
@@ -1265,6 +1601,17 @@
       "question_id": "8bc04197c99801b6e757b10c7a2391db",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do dust storms affect PM2.5 particulate matter levels?"
@@ -1303,7 +1650,17 @@
             "knowledge_intensiveness": 5.0,
             "subjectiveness": 5.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.241769+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5844402735012619
       }
@@ -1323,6 +1680,17 @@
       "question_id": "c2db31e0aa118fd1ea1262f587812213",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What conditions does Saharan dust potentially impact in affected regions?"
@@ -1361,7 +1729,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.242364+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5767833860157499
       }
@@ -1381,6 +1759,17 @@
       "question_id": "20b3d3919abcd1ba8363b4809872dffc",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visibility impacts do Saharan dust storms cause?"
@@ -1419,7 +1808,17 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 4.0,
             "reasoning_intensiveness": 4.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.241644+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5637895410284306
       }
@@ -1439,6 +1838,17 @@
       "question_id": "ff4d975695e899bb762a4cc2535f44c7",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visibility impact do dust storms cause?",
@@ -1483,12 +1893,33 @@
             "knowledge_intensiveness": 4.0,
             "subjectiveness": 2.0,
             "reasoning_intensiveness": 2.0
-          }
+          },
+          "creator": [
+            {
+              "is_human": false,
+              "llm_model": "LiteLLM",
+              "creation_date": "2025-08-15T20:10:29.239305+00:00",
+              "contact": [
+                "Kaili"
+              ]
+            }
+          ]
         },
         "model_score": 0.5551282979450665
       }
     }
   },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ],
   "metadata": {
     "quality": {
       "avg_reading_level": 10.827493261455526,
@@ -2044,15 +2475,15 @@
             "8": [
               [
                 10,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Niño affect Atlantic hurricane activity?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Ni\u00f1o affect Atlantic hurricane activity?"
               ],
               [
                 280,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What does El Niño's hurricane impact mean for Gulf facilities?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What does El Ni\u00f1o's hurricane impact mean for Gulf facilities?"
               ],
               [
                 359,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Niño phenomenon affect Atlantic hurricane formation?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Ni\u00f1o phenomenon affect Atlantic hurricane formation?"
               ]
             ],
             "9": [
@@ -3082,59 +3513,59 @@
             "147": [
               [
                 178,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Niño affect moisture patterns in southeastern United States?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How does El Ni\u00f1o affect moisture patterns in southeastern United States?"
               ],
               [
                 179,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What weather conditions does El Niño bring to southwestern United States?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What weather conditions does El Ni\u00f1o bring to southwestern United States?"
               ],
               [
                 180,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What is NOAA's prediction for El Niño intensity this year?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What is NOAA's prediction for El Ni\u00f1o intensity this year?"
               ],
               [
                 217,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How might El Niño phenomenon affect precipitation in southern United States?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How might El Ni\u00f1o phenomenon affect precipitation in southern United States?"
               ],
               [
                 218,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What temperature impacts does El Niño phenomenon typically cause?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What temperature impacts does El Ni\u00f1o phenomenon typically cause?"
               ],
               [
                 219,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> When is the current El Niño phenomenon expected to peak?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> When is the current El Ni\u00f1o phenomenon expected to peak?"
               ],
               [
                 220,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How long does El Niño phenomenon typically last?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How long does El Ni\u00f1o phenomenon typically last?"
               ],
               [
                 253,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What extreme weather changes does El Niño cause?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What extreme weather changes does El Ni\u00f1o cause?"
               ],
               [
                 254,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How frequently does the El Niño phenomenon occur?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How frequently does the El Ni\u00f1o phenomenon occur?"
               ],
               [
                 281,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> When does El Niño typically reach its peak intensity?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> When does El Ni\u00f1o typically reach its peak intensity?"
               ],
               [
                 282,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What temperature impacts does El Niño cause during climate change?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What temperature impacts does El Ni\u00f1o cause during climate change?"
               ],
               [
                 284,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which Americas regions were affected by the El Niño discussed?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> Which Americas regions were affected by the El Ni\u00f1o discussed?"
               ],
               [
                 290,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What impacts do Coastal El Niño events cause in South America?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What impacts do Coastal El Ni\u00f1o events cause in South America?"
               ],
               [
                 307,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How frequently does the El Niño-Southern Oscillation phenomenon occur?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> How frequently does the El Ni\u00f1o-Southern Oscillation phenomenon occur?"
               ]
             ],
             "148": [
@@ -3584,11 +4015,11 @@
             "210": [
               [
                 270,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What soil conditions contributed to the São Paulo dust storm formation?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What soil conditions contributed to the S\u00e3o Paulo dust storm formation?"
               ],
               [
                 271,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What wind speeds were recorded during the São Paulo dust storm?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What wind speeds were recorded during the S\u00e3o Paulo dust storm?"
               ]
             ],
             "211": [
@@ -3664,7 +4095,7 @@
             "222": [
               [
                 291,
-                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What weather conditions do El Niño flavors significantly affect in Hawaii?"
+                "I need data about how Saharan dust storms have impacted weather and air conditions in the Americas in the past. What might be the negative and positive impacts, and which areas of the Americas have been impacted? What might be appropriate preparations to mitigate contemporary Saharan dust storms? >>> What weather conditions do El Ni\u00f1o flavors significantly affect in Hawaii?"
               ]
             ],
             "223": [
@@ -4391,7 +4822,7 @@
             "8": [
               [
                 10,
-                "How does El Niño affect Atlantic hurricane activity?"
+                "How does El Ni\u00f1o affect Atlantic hurricane activity?"
               ],
               [
                 264,
@@ -4399,7 +4830,7 @@
               ],
               [
                 280,
-                "What does El Niño's hurricane impact mean for Gulf facilities?"
+                "What does El Ni\u00f1o's hurricane impact mean for Gulf facilities?"
               ],
               [
                 306,
@@ -4407,7 +4838,7 @@
               ],
               [
                 359,
-                "How does El Niño phenomenon affect Atlantic hurricane formation?"
+                "How does El Ni\u00f1o phenomenon affect Atlantic hurricane formation?"
               ]
             ],
             "80": [
@@ -5023,15 +5454,15 @@
               ],
               [
                 220,
-                "How long does El Niño phenomenon typically last?"
+                "How long does El Ni\u00f1o phenomenon typically last?"
               ],
               [
                 254,
-                "How frequently does the El Niño phenomenon occur?"
+                "How frequently does the El Ni\u00f1o phenomenon occur?"
               ],
               [
                 307,
-                "How frequently does the El Niño-Southern Oscillation phenomenon occur?"
+                "How frequently does the El Ni\u00f1o-Southern Oscillation phenomenon occur?"
               ]
             ],
             "35": [
@@ -5557,29 +5988,29 @@
             "24": [
               [
                 178,
-                "How does El Niño affect moisture patterns in southeastern United States?"
+                "How does El Ni\u00f1o affect moisture patterns in southeastern United States?"
               ],
               [
                 179,
-                "What weather conditions does El Niño bring to southwestern United States?"
+                "What weather conditions does El Ni\u00f1o bring to southwestern United States?"
               ],
               [
                 217,
-                "How might El Niño phenomenon affect precipitation in southern United States?"
+                "How might El Ni\u00f1o phenomenon affect precipitation in southern United States?"
               ],
               [
                 291,
-                "What weather conditions do El Niño flavors significantly affect in Hawaii?"
+                "What weather conditions do El Ni\u00f1o flavors significantly affect in Hawaii?"
               ]
             ],
             "21": [
               [
                 180,
-                "What is NOAA's prediction for El Niño intensity this year?"
+                "What is NOAA's prediction for El Ni\u00f1o intensity this year?"
               ],
               [
                 219,
-                "When is the current El Niño phenomenon expected to peak?"
+                "When is the current El Ni\u00f1o phenomenon expected to peak?"
               ],
               [
                 242,
@@ -5587,7 +6018,7 @@
               ],
               [
                 281,
-                "When does El Niño typically reach its peak intensity?"
+                "When does El Ni\u00f1o typically reach its peak intensity?"
               ]
             ],
             "47": [
@@ -5733,11 +6164,11 @@
             "115": [
               [
                 218,
-                "What temperature impacts does El Niño phenomenon typically cause?"
+                "What temperature impacts does El Ni\u00f1o phenomenon typically cause?"
               ],
               [
                 253,
-                "What extreme weather changes does El Niño cause?"
+                "What extreme weather changes does El Ni\u00f1o cause?"
               ]
             ],
             "113": [
@@ -5827,7 +6258,7 @@
               ],
               [
                 282,
-                "What temperature impacts does El Niño cause during climate change?"
+                "What temperature impacts does El Ni\u00f1o cause during climate change?"
               ]
             ],
             "27": [
@@ -5865,21 +6296,21 @@
             "122": [
               [
                 270,
-                "What soil conditions contributed to the São Paulo dust storm formation?"
+                "What soil conditions contributed to the S\u00e3o Paulo dust storm formation?"
               ],
               [
                 271,
-                "What wind speeds were recorded during the São Paulo dust storm?"
+                "What wind speeds were recorded during the S\u00e3o Paulo dust storm?"
               ]
             ],
             "121": [
               [
                 284,
-                "Which Americas regions were affected by the El Niño discussed?"
+                "Which Americas regions were affected by the El Ni\u00f1o discussed?"
               ],
               [
                 290,
-                "What impacts do Coastal El Niño events cause in South America?"
+                "What impacts do Coastal El Ni\u00f1o events cause in South America?"
               ]
             ],
             "120": [
@@ -6058,7 +6489,17 @@
       "syntactical_diversity": {
         "distinct_n_pos": 0.24453351708992271,
         "inverse_compression_pos": 0.17211703958691912
-      }
+      },
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "LiteLLM",
+          "creation_date": "2025-08-15T20:10:29.238815+00:00",
+          "contact": [
+            "Kaili"
+          ]
+        }
+      ]
     }
   }
 }

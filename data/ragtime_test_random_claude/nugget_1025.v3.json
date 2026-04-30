@@ -18,6 +18,17 @@
       "question_id": "26d69cf29ca8d8d5c39f996b52719b62",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Keiko Wong challenge gender stereotypes in motorsports?"
@@ -50,6 +61,17 @@
       "question_id": "165965833e870c42c828e7aef494efc5",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What training does GFL Environmental offer for new commercial drivers?"
@@ -82,6 +104,17 @@
       "question_id": "2bd1b76e6cf0b9724e2d4f6226240e69",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How successful has the Sisters in Mining program been?"
@@ -114,6 +147,17 @@
       "question_id": "5f0671e56f15d8d56bb567d1d8adf65a",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What does this document say about women crane operators?"
@@ -149,6 +193,17 @@
       "question_id": "242913204654a0064f9f30acdc702409",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What physical challenges did the female trainee overcome?"
@@ -181,6 +236,17 @@
       "question_id": "c9fdb3077892919aac6480ff00c21025",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Egypt's National Council support women's technical skills?"
@@ -198,11 +264,11 @@
         "num_answers": 1
       }
     },
-    "How did Karen Cañizares advance her construction career at Meralco?": {
-      "question": "How did Karen Cañizares advance her construction career at Meralco?",
+    "How did Karen Ca\u00f1izares advance her construction career at Meralco?": {
+      "question": "How did Karen Ca\u00f1izares advance her construction career at Meralco?",
       "answers": {
-        "Karen Cañizares progressed from trainee to Quality Inspector": {
-          "answer": "Karen Cañizares progressed from trainee to Quality Inspector",
+        "Karen Ca\u00f1izares progressed from trainee to Quality Inspector": {
+          "answer": "Karen Ca\u00f1izares progressed from trainee to Quality Inspector",
           "references": [
             {
               "doc_id": "42be5d07-d89d-4122-acf5-333f49984d59_682318363"
@@ -213,9 +279,20 @@
       "question_id": "d8c94f0f8086f4fe0d9cde9a61001181",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How did Karen Cañizares advance her construction career at Meralco?"
+          "How did Karen Ca\u00f1izares advance her construction career at Meralco?"
         ],
         "paraphrase_references": [
           [
@@ -245,6 +322,17 @@
       "question_id": "21de0c0d0d20cc33894504db4a13f1ea",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What career transition did Caitlin Gent make?"
@@ -277,6 +365,17 @@
       "question_id": "c76710f7fbf914cba55cab413319e93a",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Latifa Ahmad challenge traditional gender roles in Lebanon?"
@@ -309,6 +408,17 @@
       "question_id": "03f29401710ae45c42d65e70f70f9d18",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What inspiring case study shows women succeeding in construction-related fields?"
@@ -341,6 +451,17 @@
       "question_id": "50382b4c8f85aee6e2f34e74bcd830ef",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where are female operators breaking barriers in male-dominated industries?"
@@ -373,6 +494,17 @@
       "question_id": "95d781860b1978e2976a521775c57185",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When were Saudi women first allowed to drive cars?"
@@ -405,6 +537,17 @@
       "question_id": "5a0bb7de43ce41493bdd7164709c501a",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What proportion of Hong Kong construction workers are women?"
@@ -437,6 +580,17 @@
       "question_id": "7124db7d1007389d4c4ab2c4de50deb5",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where is electric transport experiencing revival and development currently?"
@@ -469,6 +623,17 @@
       "question_id": "52805053298d534682b67f92aee446be",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are notable female leaders in traditionally male-dominated industries?"
@@ -501,6 +666,17 @@
       "question_id": "6831ce471498d207c09db83b118431ac",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What pioneering program demonstrates women's inclusion in electrical construction work?"
@@ -533,6 +709,17 @@
       "question_id": "d4ce3e3fbc4653590cd3a190c2fd45a9",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long does it take to qualify as a harbor pilot?"
@@ -565,6 +752,17 @@
       "question_id": "137e18e6efd27d79200b33cb6fa64c5a",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long does the ATDS truck driving training program take?"
@@ -597,6 +795,17 @@
       "question_id": "47eee708eda1113b231ec51ff4f33a52",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What career paths does the Lifting Equipment Technician apprenticeship provide?"
@@ -629,6 +838,17 @@
       "question_id": "6d7181e2a027d6d7a86032efd13f95dc",
       "aggregator_type": "OR",
       "query_id": "1025",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does technology advancement benefit women in maritime careers?"
@@ -646,5 +866,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

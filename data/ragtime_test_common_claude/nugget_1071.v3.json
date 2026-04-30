@@ -58,6 +58,17 @@
       "question_id": "def24dba3cde23bb4d9038e8a6baa447",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific medications are experiencing shortages in Taiwan?",
@@ -155,6 +166,17 @@
       "question_id": "1b6b3257fbc7eb9ea7f8de1ca9dad13a",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main causes of drug shortages in Taiwan?",
@@ -235,6 +257,17 @@
       "question_id": "9a42e24dd31e57a2ce25ab3d38aa1f52",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the main reason behind these medication shortages?",
@@ -293,6 +326,17 @@
       "question_id": "a03a405015f9509d97ff58dde50554f8",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did Taiwan healthcare providers cope with medication shortages?",
@@ -339,6 +383,17 @@
       "question_id": "82b494563c0933439543d3d89dcdcd5e",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What distribution strategy did Taiwan use during medication shortages?",
@@ -385,6 +440,17 @@
       "question_id": "c75820ff8be1971891589ecce4dcdcc9",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main causes of medication shortages in America?",
@@ -431,6 +497,17 @@
       "question_id": "8ffe051c18058da6b0b3d8a87a8ab3a7",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What factors are worsening the global healthcare worker shortage?",
@@ -477,6 +554,17 @@
       "question_id": "028c73d23c72f0365c122d18eb9b4f5b",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What long-term solution does Taiwan consider for medicine shortages?",
@@ -523,6 +611,17 @@
       "question_id": "4c952f303620922293cb35de157456b4",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which specific medications were affected by shortages in the United States?",
@@ -569,6 +668,17 @@
       "question_id": "76b68e608899fcc02e97a0b9a54b6da3",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did healthcare systems cope with chemotherapy drug shortages?"
@@ -604,6 +714,17 @@
       "question_id": "d392569b91d1a3bada59d4fb1b04a9e7",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which organization documented the global antibiotic shortage?"
@@ -636,6 +757,17 @@
       "question_id": "717635dc33930aabb32d5401e81613bf",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many countries faced penicillin-type drug shortages according to WHO?"
@@ -668,6 +800,17 @@
       "question_id": "3780ad6af762a3ca15a2813fe1ce94ef",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which countries are experiencing acute amoxicillin shortages?"
@@ -700,6 +843,17 @@
       "question_id": "f5c73d0ee3cbcbb100318d1335b12e3a",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main causes of current medication shortages?"
@@ -732,6 +886,17 @@
       "question_id": "dfcfd0275c0941cb4f3163ec184f533e",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Besides antibiotics, what other medication types face shortages?"
@@ -764,6 +929,17 @@
       "question_id": "48d5e98ca2001beacf1a345b527b679c",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who reported the critical medication situation to Financial Times?"
@@ -796,6 +972,17 @@
       "question_id": "2fe1c9dbea05736d0dea3e2acab2c63b",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What mechanisms does Taiwan's health insurance system use for shortages?"
@@ -828,6 +1015,17 @@
       "question_id": "69aa29696b0668251546d5feec028f8d",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What global challenges contribute to Taiwan's medication shortage problems?"
@@ -860,6 +1058,17 @@
       "question_id": "33f6f654f70ae72fc39216d45165ce61",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is Taiwan's medium-term strategy for preventing drug shortages?"
@@ -892,6 +1101,17 @@
       "question_id": "af71933dfc3445c0a9f1d06f629c65d2",
       "aggregator_type": "OR",
       "query_id": "1071",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many drug types are covered by Taiwan's health insurance?"
@@ -909,5 +1129,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

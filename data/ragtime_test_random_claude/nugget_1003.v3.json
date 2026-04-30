@@ -18,6 +18,17 @@
       "question_id": "a997c630e1a511ca18ad9ed1a18ea88d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What virtual meeting platform did Facebook create for remote work?"
@@ -50,6 +61,17 @@
       "question_id": "7f81fdef6edb6a57480a92541b15ee6d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many workers comprise the global deskless workforce?"
@@ -82,6 +104,17 @@
       "question_id": "afd96e2570d7398546e4770d9388b0ad",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What laptop is recommended as foundation for digital nomads?"
@@ -130,6 +163,17 @@
       "question_id": "ee815904ebd493fd45eefe80d2fba518",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How many European countries provide digital nomad visas?",
@@ -174,6 +218,17 @@
       "question_id": "a22320eb65548372d978df9c4b555b8d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What essential tool do digital nomads use for work?"
@@ -206,6 +261,17 @@
       "question_id": "cbb62e167773a559e9fe9f0c81371be2",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did remote work change daily work patterns during the pandemic?"
@@ -238,6 +304,17 @@
       "question_id": "ca0e264b5dd606811adf8a9cfc56d2f6",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What competitive threat do remote workers face from globalization?"
@@ -278,6 +355,17 @@
       "question_id": "a4a9f0c47142d301ce75e41d55f862b6",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What types of workers does Japan target with its digital nomad visa?",
@@ -316,6 +404,17 @@
       "question_id": "61ca0be0e5e5b6809e7ea6c9c12843c6",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of campers take weekday camping trips?"
@@ -348,6 +447,17 @@
       "question_id": "5bec4f3b85050fde8d3e5f97ad37fa70",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What technologies enable remote access to corporate workloads through browsers?"
@@ -380,6 +490,17 @@
       "question_id": "d00e1ccb16d957d1b5959da49488e556",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much less likely are remote workers to receive promotions?"
@@ -412,6 +533,17 @@
       "question_id": "91e3193a368c1ce64cfc1890544cb0f6",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What major event transformed the Digital Nomad work model?"
@@ -444,6 +576,17 @@
       "question_id": "de7e89ab417b92f4c3a2ae4410838e62",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do DAOs help new remote employees integrate into their organizations?"
@@ -476,6 +619,17 @@
       "question_id": "75340343875ea4bd319ee7fa19ea8d2d",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which technology professionals are most sought-after for remote work?"
@@ -508,6 +662,17 @@
       "question_id": "bed939987f51f92337af29407b1f7008",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What do digital nomad workers need according to Dr. Wang Ruini?"
@@ -548,6 +713,17 @@
       "question_id": "fb6b961c769d31d2080762c64f107eb3",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are digital nomads according to the document?",
@@ -594,6 +770,17 @@
       "question_id": "6743b1310f28c0ab42663da0b62e7c73",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What professional development challenges do remote workers face?",
@@ -632,6 +819,17 @@
       "question_id": "3c0e8affb2cf6493a2e0a9fefa6ed18c",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What workplace trend is enabling the digital nomad lifestyle?"
@@ -664,6 +862,17 @@
       "question_id": "6b8afd2facf88779b8fc397fcfe8ff79",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What advantages does Portugal offer for digital nomads?"
@@ -696,6 +905,17 @@
       "question_id": "4482790e7c520463c985721a5ca66b45",
       "aggregator_type": "OR",
       "query_id": "1003",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What percentage of IT specialists compromised security for business continuity?"
@@ -713,5 +933,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

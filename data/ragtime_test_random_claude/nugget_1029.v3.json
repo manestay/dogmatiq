@@ -18,6 +18,17 @@
       "question_id": "d6e6d090a3038c190abe84429a0db0d9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When was Frank Herbert's Dune first published?"
@@ -50,6 +61,17 @@
       "question_id": "816a8449ec3268e3264e2044e8b78fce",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What themes characterize contemporary late twentieth to early twenty-first century science fiction?"
@@ -82,6 +104,17 @@
       "question_id": "6821b01e8a08a169a23554fa121b4547",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How are contemporary science fiction writers expanding the genre?"
@@ -114,6 +147,17 @@
       "question_id": "f2b30342db256bad4e838bce2bf6f9ca",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which works represent the traditional 'final frontier' science fiction narrative?"
@@ -146,6 +190,17 @@
       "question_id": "3b1cfc36c4543e7ad42f75307c9525e4",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What contemporary Arabic science fiction work is highlighted?"
@@ -178,6 +233,17 @@
       "question_id": "6969f19c9e81263dd083c2f5e0443dac",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What impact do digital technologies have on distinguishing reality?"
@@ -210,6 +276,17 @@
       "question_id": "f220c19c33209c508f6b3dccb6c6ffa9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What sales figures show The Three-Body Problem's international success?"
@@ -242,6 +319,17 @@
       "question_id": "dae548d8154afca9875ff5a96a2bd1f5",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has demographic representation changed in contemporary science fiction?"
@@ -274,6 +362,17 @@
       "question_id": "f734a313ea7fdf1489acf1a718fdf8d9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Chinese science fiction works have gained global popularity?"
@@ -306,6 +405,17 @@
       "question_id": "2ded192270e2f0b0946a145eda422bd9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What recent recognition did Chinese science fiction writer Wang Jinkang receive?"
@@ -338,6 +448,17 @@
       "question_id": "f3a16931a1925b9836d6a5c00f9134fc",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What are the main subgenres of science fiction discussed?"
@@ -370,6 +491,17 @@
       "question_id": "d90f77c13c56c1833c7a6038a81d8e01",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How has fantasy's audience demographic shifted historically?"
@@ -402,6 +534,17 @@
       "question_id": "a8a850ca7f885013bfa85a9e5be03f0e",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How did industrialization change social patterns in the 20th century?"
@@ -434,6 +577,17 @@
       "question_id": "37882953dd3b1ec24b867029d4fd818c",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Where do the genetically privileged faction live in Fadi Zuweil's novel?"
@@ -466,6 +620,17 @@
       "question_id": "e41597f903c4b2fed956317193d61b3a",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What new novel genres appeared in the 19th century?"
@@ -498,6 +663,17 @@
       "question_id": "2ab388c8ad96fbadcf3e0bb0aaed6363",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What ancient philosophical work influenced simulation themes in science fiction?"
@@ -530,6 +706,17 @@
       "question_id": "2f06c0babad1157c66c45536a8e2a41d",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What political themes did twentieth-century science fiction literature address?"
@@ -562,6 +749,17 @@
       "question_id": "79a17b5d0824f7441cda81d1122c9afc",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What formats feature genre-bending science fiction works?"
@@ -594,6 +792,17 @@
       "question_id": "fa4dc197eab3798487a2f41118123e3c",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of society does Metropolis depict?"
@@ -626,6 +835,17 @@
       "question_id": "a5dc996a99d2e8534bf431df10b982e9",
       "aggregator_type": "OR",
       "query_id": "1029",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "During which period did Chinese science fiction experience significant global growth?"
@@ -643,5 +863,16 @@
         "num_answers": 1
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

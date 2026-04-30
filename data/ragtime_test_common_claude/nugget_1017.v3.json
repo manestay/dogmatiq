@@ -51,6 +51,17 @@
       "question_id": "dbe724bf38a9421ecaf0dac93fbb6e3f",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which director is making Disney's upcoming live-action Pinocchio remake?",
@@ -135,6 +146,17 @@
       "question_id": "8339c177faf15d45ccb4a318cd445ebe",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who was cast as Ariel in The Little Mermaid remake?",
@@ -198,6 +220,17 @@
       "question_id": "5e74136368527c4d63bff51069411a74",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did the original animated Moana earn globally?",
@@ -255,6 +288,17 @@
       "question_id": "61dcbad1a74c9adcd96ae13a169fd80e",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the production budget for The Little Mermaid remake?",
@@ -315,6 +359,17 @@
       "question_id": "292262ea407c5d50ff89ae400e286110",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which Disney live-action remakes are mentioned as successful examples?",
@@ -375,6 +430,17 @@
       "question_id": "222f8cb30c3d1a15bf6c9bdfb56f599e",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which original cast member is returning for the Moana remake?",
@@ -435,6 +501,17 @@
       "question_id": "992f0973932232cd9f0c66f1fff74a52",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which actor starred as Geppetto in Disney's Pinocchio (2022)?",
@@ -490,6 +567,17 @@
       "question_id": "47043064380b82a9e7c01cd4cb22c250",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When was The Little Mermaid live-action remake scheduled for release?",
@@ -545,6 +633,17 @@
       "question_id": "2b00f880a7b87faa1589e34abb138851",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are the lead actresses in Disney's Snow White remake?",
@@ -597,6 +696,17 @@
       "question_id": "f1180210345b00ad967e77dbaca45bcb",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who directed The Little Mermaid live-action remake?",
@@ -649,6 +759,17 @@
       "question_id": "92bf7d5cb241a66bf7dda5b520ee522b",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Pinocchio (2022) incorporate nostalgia into its storytelling?",
@@ -695,6 +816,17 @@
       "question_id": "966626bedb80156c0d54b8cb8e8d18b4",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did The Little Mermaid remake earn during its opening weekend?",
@@ -741,6 +873,17 @@
       "question_id": "75e91d1bda23ea92f287cab8b6b556f2",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much did the original How to Train Your Dragon trilogy earn?",
@@ -787,6 +930,17 @@
       "question_id": "b14041a76f024271fec3217db331cf69",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What drives Disney's decision to produce live-action remakes of animated classics?",
@@ -833,6 +987,17 @@
       "question_id": "bf9fde210d6eddfbd23490030059c5a4",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What is the current status of the Moana live-action project?",
@@ -879,6 +1044,17 @@
       "question_id": "9cc7c61e1809eb3045697b444dd9e7aa",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What new Disney live-action remake was recently announced?",
@@ -925,6 +1101,17 @@
       "question_id": "1e91eb0041831300fb9ec56cb217f7a5",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What was the public reaction to Halle Bailey's casting?",
@@ -971,6 +1158,17 @@
       "question_id": "5dc40a53b9aaeba13529fa24bc73b5e9",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When will Disney's live-action Snow White remake be released?",
@@ -1017,6 +1215,17 @@
       "question_id": "e0245b1cbf006edc79c376b3ef136480",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who are the main cast members in Disney's Pinocchio remake?",
@@ -1063,6 +1272,17 @@
       "question_id": "73376fbb709888cfaddebf83f551611d",
       "aggregator_type": "OR",
       "query_id": "1017",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Who directs the Peter Pan & Wendy live-action remake?",
@@ -1086,5 +1306,16 @@
         "num_answers": 2
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }

@@ -14,8 +14,8 @@
             }
           ]
         },
-        "This document discusses La Niña, not Saharan dust storms": {
-          "answer": "This document discusses La Niña, not Saharan dust storms",
+        "This document discusses La Ni\u00f1a, not Saharan dust storms": {
+          "answer": "This document discusses La Ni\u00f1a, not Saharan dust storms",
           "references": [
             {
               "doc_id": "323fe6ad-05c7-4434-b5a1-73ae3fc47f42_302261099"
@@ -70,8 +70,8 @@
             }
           ]
         },
-        "This document discusses El Niño, not Saharan dust storms": {
-          "answer": "This document discusses El Niño, not Saharan dust storms",
+        "This document discusses El Ni\u00f1o, not Saharan dust storms": {
+          "answer": "This document discusses El Ni\u00f1o, not Saharan dust storms",
           "references": [
             {
               "doc_id": "aaa99bb1-8629-470d-b649-06910414e550_798952736"
@@ -98,6 +98,17 @@
       "question_id": "107803d18d49625d734805c4a3481011",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Does this document contain information about Saharan dust storms?"
@@ -232,6 +243,17 @@
       "question_id": "6b5318e60d9de1d6e271029dcc2577ef",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "Which areas of the Americas are currently impacted by Saharan dust?",
@@ -363,6 +385,17 @@
       "question_id": "f24fe02acdfffbe3deb33f053897e643",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health risks do Saharan dust storms pose to citizens?",
@@ -447,6 +480,17 @@
       "question_id": "4dd4231f01e5b6a79b3f6bc956ba9130",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What air quality impact will increased Saharan dust cause?",
@@ -511,6 +555,17 @@
       "question_id": "0333bb2ed360f6a3c102053e5acedf08",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Saharan dust clouds affect weather conditions?",
@@ -588,6 +643,17 @@
       "question_id": "98deacfdd84820e5b918d76b5fdc013e",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Saharan dust storms affect surface temperatures?",
@@ -662,6 +728,17 @@
       "question_id": "ca705958a1af690be1c88dabccc139c6",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What visual atmospheric effects does Saharan dust create?",
@@ -720,6 +797,17 @@
       "question_id": "e746471665eb7ade00917632bcc58c49",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What data does this document provide about Saharan dust storms?",
@@ -783,6 +871,17 @@
       "question_id": "7d76c0299be6a3c9873b303a21325374",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What positive impact do Saharan dust storms have on weather?",
@@ -835,6 +934,17 @@
       "question_id": "5fdadff16e891735e7b893428b5f43ef",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How do Saharan dust plumes affect local weather patterns?",
@@ -858,19 +968,19 @@
         "num_answers": 2
       }
     },
-    "How does El Niño affect Atlantic hurricane activity?": {
-      "question": "How does El Niño affect Atlantic hurricane activity?",
+    "How does El Ni\u00f1o affect Atlantic hurricane activity?": {
+      "question": "How does El Ni\u00f1o affect Atlantic hurricane activity?",
       "answers": {
-        "El Niño strengthens wind shear in Atlantic Ocean": {
-          "answer": "El Niño strengthens wind shear in Atlantic Ocean",
+        "El Ni\u00f1o strengthens wind shear in Atlantic Ocean": {
+          "answer": "El Ni\u00f1o strengthens wind shear in Atlantic Ocean",
           "references": [
             {
               "doc_id": "d451d51a-f4d1-43ed-88c4-6048d161429e_876852744"
             }
           ]
         },
-        "El Niño weakens Atlantic hurricane season strength": {
-          "answer": "El Niño weakens Atlantic hurricane season strength",
+        "El Ni\u00f1o weakens Atlantic hurricane season strength": {
+          "answer": "El Ni\u00f1o weakens Atlantic hurricane season strength",
           "references": [
             {
               "doc_id": "94e5f50e-b422-4dff-9bc5-e4db0ab8569d_698958849"
@@ -881,10 +991,21 @@
       "question_id": "ebcba768b6fa109d798fc0c95fbd7e1b",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
-          "How does El Niño phenomenon affect Atlantic hurricane formation?",
-          "How does El Niño affect Atlantic hurricane activity?"
+          "How does El Ni\u00f1o phenomenon affect Atlantic hurricane formation?",
+          "How does El Ni\u00f1o affect Atlantic hurricane activity?"
         ],
         "paraphrase_references": [
           [
@@ -927,6 +1048,17 @@
       "question_id": "6606dd9fe04907b2320494d6825f36ae",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How does Saharan dust affect tropical weather development?",
@@ -973,6 +1105,17 @@
       "question_id": "75496b1dc74b2c347d899f1e2d429e65",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How long do Saharan dust storm impacts typically last?",
@@ -1019,6 +1162,17 @@
       "question_id": "75028a899d382b68043ea8197956c95f",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "How much dust enters the atmosphere globally each year?",
@@ -1065,6 +1219,17 @@
       "question_id": "206181934054e56764a3110d8ec38e48",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What atmospheric conditions create Saharan dust storms?",
@@ -1111,6 +1276,17 @@
       "question_id": "b7ec7efc0e24e168cf48c87fd82480a5",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What type of atmospheric conditions does Saharan dust create?",
@@ -1157,6 +1333,17 @@
       "question_id": "bb79cf3b84a395d5d533bc0094868b56",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health precautions do officials recommend during heavy Saharan dust periods?",
@@ -1203,6 +1390,17 @@
       "question_id": "f4445b70a389b035cb7618153e909244",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What health precautions do authorities recommend during dust storms?",
@@ -1249,6 +1447,17 @@
       "question_id": "42cc8ee7f72e9d5c7a7e8dd9746063fc",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "What wind speeds typically accompany major dust storm events?",
@@ -1295,6 +1504,17 @@
       "question_id": "fbdbed8a64eab3c5241e14defac1fb38",
       "aggregator_type": "OR",
       "query_id": "1009",
+      "creator": [
+        {
+          "is_human": false,
+          "llm_model": "llama3.3-70b-instruct",
+          "llm_backend": "hltcoe_local",
+          "creation_date": "2025-08-14T14:20:04.652993",
+          "contact": [
+            "Bryan"
+          ]
+        }
+      ],
       "metadata": {
         "paraphrases": [
           "When does Saharan dust typically reach the Americas?",
@@ -1318,5 +1538,16 @@
         "num_answers": 2
       }
     }
-  }
+  },
+  "creator": [
+    {
+      "is_human": false,
+      "llm_model": "llama3.3-70b-instruct",
+      "llm_backend": "hltcoe_local",
+      "creation_date": "2025-08-14T14:20:04.652993",
+      "contact": [
+        "Bryan"
+      ]
+    }
+  ]
 }
